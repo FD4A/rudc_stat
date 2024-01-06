@@ -1,0 +1,14 @@
+location::Spb
+level::Regular
+date::2023_10_19
+organizer::Andysays
+players::generals
+Олифер Егор :: Asmoranomardicadaistinaculdacar
+Поляков Герман :: Uro, Titan of Nature's Wrath
+Богданов Сергей :: Kroxa, Titan of Death's Hunger
+Мартынов Яков :: The Reality Cheap
+Вахитов Ривкат :: Ertai Resurrected
+Лузаков Петр :: Elas il-Kor, Sadistic Pilgrim
+Цюра Максим :: Ghyrson Starn, Kelermorph
+Round
+https://aetherhub.com/Tourney/RoundTourney/24359

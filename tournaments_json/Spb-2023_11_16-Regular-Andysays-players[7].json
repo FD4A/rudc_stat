@@ -1,0 +1,135 @@
+{
+    "date": "2023_11_16",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Иванов Дмитрий",
+            "Oloro, Ageless Ascetic"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Саушкин Андрей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Егоров Павел",
+            "Kess, Dissident Mage"
+        ],
+        [
+            "Крижик Александр",
+            "Ivy, Gleeful Spellthief"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Karlov of the Ghost Council :++: Lurrus of the Dream-Den"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Иванов Дмитрий",
+                "Мартынов Яков",
+                "Oloro, Ageless Ascetic",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Ульянов Алексей",
+                "Omnath, Locus of Creation",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Крижик Александр",
+                "Kess, Dissident Mage",
+                "Ivy, Gleeful Spellthief",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Ульянов Алексей",
+                "Федоров Дмитрий",
+                "Golos, Tireless Pilgrim",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Иванов Дмитрий",
+                "Kess, Dissident Mage",
+                "Oloro, Ageless Ascetic",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Мартынов Яков",
+                "Omnath, Locus of Creation",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Ульянов Алексей",
+                "Иванов Дмитрий",
+                "Golos, Tireless Pilgrim",
+                "Oloro, Ageless Ascetic",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Егоров Павел",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Kess, Dissident Mage",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Крижик Александр",
+                "Omnath, Locus of Creation",
+                "Ivy, Gleeful Spellthief",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

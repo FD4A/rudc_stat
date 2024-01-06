@@ -1,0 +1,15 @@
+location::Spb
+level::Regular
+date::2023_09_28
+organizer::Andysays
+players::generals
+Олифер Егор :: Asmoranomardicadaistinaculdacar
+Федоров Дмитрий :: Geist of Saint Traft
+Поляков Герман :: Uro, Titan of Nature's Wrath
+Саушкин Андрей :: Aragorn, King of Gondor
+Семенов Дмитрий :: Sythis, Harvest's Hand
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Ульянов Алексей :: Oloro, Ageless Ascetic
+Мартынов Яков :: The Reality Chip
+Round
+https://aetherhub.com/Tourney/RoundTourney/23651

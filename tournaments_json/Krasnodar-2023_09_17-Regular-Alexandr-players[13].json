@@ -1,0 +1,341 @@
+{
+    "date": "2023_09_17",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Alexandr",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Гяго Георгий",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Иванов Антон",
+            "Uro, Titan of Nature's Wrath"
+        ],
+        [
+            "Ефимов Александр",
+            "Surrak Dragonclaw"
+        ],
+        [
+            "Чурсин Данила",
+            "Uro, Titan of Nature's Wrath"
+        ],
+        [
+            "Омельченко Виктор",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Васильев Игорь",
+            "Daretti, Scrap Savant"
+        ],
+        [
+            "Деды Тимур",
+            "The Reality Chip"
+        ],
+        [
+            "Кириченко Евгений",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Иванько Альберт",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Кириченко Анна",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Помогайлов Максим",
+            "Syr Faren, the Hengehammer"
+        ],
+        [
+            "Лялин Олег",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Власов Ярослав",
+            "Golos, Tireless Pilgrim"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Гяго Георгий",
+                "Кириченко Евгений",
+                "Arahbo, Roar of the World",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Антон",
+                "Васильев Игорь",
+                "Uro, Titan of Nature's Wrath",
+                "Daretti, Scrap Savant",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ефимов Александр",
+                "Лялин Олег",
+                "Surrak Dragonclaw",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Омельченко Виктор",
+                "Uro, Titan of Nature's Wrath",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Деды Тимур",
+                "Иванько Альберт",
+                "The Reality Chip",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Анна",
+                "Власов Ярослав",
+                "Asmoranomardicadaistinaculdacar",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Гяго Георгий",
+                "Ефимов Александр",
+                "Arahbo, Roar of the World",
+                "Surrak Dragonclaw",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Антон",
+                "Кириченко Анна",
+                "Uro, Titan of Nature's Wrath",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Васильев Игорь",
+                "Uro, Titan of Nature's Wrath",
+                "Daretti, Scrap Savant",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Омельченко Виктор",
+                "Кириченко Евгений",
+                "Kinnan, Bonder Prodigy",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Деды Тимур",
+                "Помогайлов Максим",
+                "The Reality Chip",
+                "Syr Faren, the Hengehammer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Лялин Олег",
+                "Slimefoot and Squee",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Помогайлов Максим",
+                "Ефимов Александр",
+                "Syr Faren, the Hengehammer",
+                "Surrak Dragonclaw",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лялин Олег",
+                "Власов Ярослав",
+                "Tivit, Seller of Secrets",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Гяго Георгий",
+                "Деды Тимур",
+                "Arahbo, Roar of the World",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Антон",
+                "Омельченко Виктор",
+                "Uro, Titan of Nature's Wrath",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ефимов Александр",
+                "Помогайлов Максим",
+                "Surrak Dragonclaw",
+                "Syr Faren, the Hengehammer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Кириченко Анна",
+                "Uro, Titan of Nature's Wrath",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Васильев Игорь",
+                "Лялин Олег",
+                "Daretti, Scrap Savant",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Власов Ярослав",
+                "Hogaak, Arisen Necropolis",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лялин Олег",
+                "Иванько Альберт",
+                "Tivit, Seller of Secrets",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Гяго Георгий",
+                "Иванов Антон",
+                "Arahbo, Roar of the World",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Ефимов Александр",
+                "Деды Тимур",
+                "Surrak Dragonclaw",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Иванько Альберт",
+                "Uro, Titan of Nature's Wrath",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Омельченко Виктор",
+                "Кириченко Анна",
+                "Kinnan, Bonder Prodigy",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Помогайлов Максим",
+                "Hogaak, Arisen Necropolis",
+                "Syr Faren, the Hengehammer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лялин Олег",
+                "Васильев Игорь",
+                "Tivit, Seller of Secrets",
+                "Daretti, Scrap Savant",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "date": "2023_11_26",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Sapher",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Олег (Yoshimaru, Ever Faithful/Jeska, Thrice Reborn)",
+            "Yoshimaru, Ever Faithful :+: Jeska, Thrice Reborn"
+        ],
+        [
+            "Вадим (Atraxa, Grand Unifier)",
+            "Atraxa, Grand Unifier"
+        ],
+        [
+            "Александ (Shorikai, Genesis Engine)",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Артём (Thalia and The Gitrog Monster)",
+            "Thalia and The Gitrog Monster"
+        ],
+        [
+            "Евгений (Leovold, Emissary of Trest)",
+            "Leovold, Emissary of Trest"
+        ],
+        [
+            "Илья (God-Eternal Kefnet)",
+            "God-Eternal Kefnet"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Артём (Thalia and The Gitrog Monster)",
+                "Александ (Shorikai, Genesis Engine)",
+                "Thalia and The Gitrog Monster",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Евгений (Leovold, Emissary of Trest)",
+                "Олег (Yoshimaru, Ever Faithful/Jeska, Thrice Reborn)",
+                "Leovold, Emissary of Trest",
+                "Yoshimaru, Ever Faithful :+: Jeska, Thrice Reborn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Илья (God-Eternal Kefnet)",
+                "Вадим (Atraxa, Grand Unifier)",
+                "God-Eternal Kefnet",
+                "Atraxa, Grand Unifier",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Олег (Yoshimaru, Ever Faithful/Jeska, Thrice Reborn)",
+                "Вадим (Atraxa, Grand Unifier)",
+                "Yoshimaru, Ever Faithful :+: Jeska, Thrice Reborn",
+                "Atraxa, Grand Unifier",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александ (Shorikai, Genesis Engine)",
+                "Евгений (Leovold, Emissary of Trest)",
+                "Shorikai, Genesis Engine",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Илья (God-Eternal Kefnet)",
+                "Артём (Thalia and The Gitrog Monster)",
+                "God-Eternal Kefnet",
+                "Thalia and The Gitrog Monster",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Олег (Yoshimaru, Ever Faithful/Jeska, Thrice Reborn)",
+                "Александ (Shorikai, Genesis Engine)",
+                "Yoshimaru, Ever Faithful :+: Jeska, Thrice Reborn",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём (Thalia and The Gitrog Monster)",
+                "Вадим (Atraxa, Grand Unifier)",
+                "Thalia and The Gitrog Monster",
+                "Atraxa, Grand Unifier",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Евгений (Leovold, Emissary of Trest)",
+                "Илья (God-Eternal Kefnet)",
+                "Leovold, Emissary of Trest",
+                "God-Eternal Kefnet",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

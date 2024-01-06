@@ -1,0 +1,287 @@
+{
+    "date": "2023_12_21",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Алева",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Мартынов Влад",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Богданов Сергей",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Байков Аркадий",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Ларионов Александр",
+            "Saffi Eriksdotter"
+        ],
+        [
+            "Грабовой Филипп",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Karlov of the Ghost Council :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Ильин Даниил",
+            "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower"
+        ],
+        [
+            "Барабаш Валентин",
+            "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Соловьев Валентин",
+            "Tasigur, the Golden Fang"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Грабовой Филипп",
+                "Байков Аркадий",
+                "Asmoranomardicadaistinaculdacar",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Богатырев Александр",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Богданов Сергей",
+                "Saffi Eriksdotter",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Алева",
+                "Федоров Дмитрий",
+                "Golos, Tireless Pilgrim",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Ильин Даниил",
+                "Ghyrson Starn, Kelermorph",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Соловьев Валентин",
+                "Aminatou, the Fateshifter",
+                "Tasigur, the Golden Fang",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Алева",
+                "Родюков Федор",
+                "Golos, Tireless Pilgrim",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Ларионов Александр",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                "Saffi Eriksdotter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Мартынов Влад",
+                "Asmoranomardicadaistinaculdacar",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Соловьев Валентин",
+                "Байков Аркадий",
+                "Tasigur, the Golden Fang",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Богданов Сергей",
+                "Indoraptor, the Perfect Hybrid",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ильин Даниил",
+                "Федоров Дмитрий",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Родюков Федор",
+                "Ларионов Александр",
+                "Ghyrson Starn, Kelermorph",
+                "Saffi Eriksdotter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Федоров Дмитрий",
+                "Asmoranomardicadaistinaculdacar",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Богданов Сергей",
+                "Asmoranomardicadaistinaculdacar",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Алева",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Богатырев Александр",
+                "Aminatou, the Fateshifter",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Родюков Федор",
+                "Грабовой Филипп",
+                "Ghyrson Starn, Kelermorph",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Алева",
+                "Ларионов Александр",
+                "Golos, Tireless Pilgrim",
+                "Saffi Eriksdotter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Федоров Дмитрий",
+                "Aminatou, the Fateshifter",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Ильин Даниил",
+                "Kroxa, Titan of Death's Hunger",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Барабаш Валентин",
+                "Asmoranomardicadaistinaculdacar",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

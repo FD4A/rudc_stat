@@ -1,0 +1,135 @@
+{
+    "date": "2023_10_19",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Олифер Егор",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Поляков Герман",
+            "Uro, Titan of Nature's Wrath"
+        ],
+        [
+            "Богданов Сергей",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Вахитов Ривкат",
+            "Ertai Resurrected"
+        ],
+        [
+            "Лузаков Петр",
+            "Elas il-Kor, Sadistic Pilgrim"
+        ],
+        [
+            "Цюра Максим",
+            "Ghyrson Starn, Kelermorph"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Цюра Максим",
+                "Вахитов Ривкат",
+                "Ghyrson Starn, Kelermorph",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Поляков Герман",
+                "The Reality Chip",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Лузаков Петр",
+                "Kroxa, Titan of Death's Hunger",
+                "Elas il-Kor, Sadistic Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Олифер Егор",
+                "Uro, Titan of Nature's Wrath",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Богданов Сергей",
+                "Ertai Resurrected",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Лузаков Петр",
+                "Ghyrson Starn, Kelermorph",
+                "Elas il-Kor, Sadistic Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Олифер Егор",
+                "Богданов Сергей",
+                "Asmoranomardicadaistinaculdacar",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Вахитов Ривкат",
+                "Uro, Titan of Nature's Wrath",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Цюра Максим",
+                "The Reality Chip",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

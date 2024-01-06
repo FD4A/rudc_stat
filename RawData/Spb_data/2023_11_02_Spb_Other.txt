@@ -1,0 +1,11 @@
+location::Spb
+level::Other
+date::2023_11_02
+organizer::FDA
+players::generals
+Фёдоров Дмитрий :: Karlov of the Ghost Council :++: Lurrus of the Dream-Den
+Александр Крижик :: Ivy, Gleeful Spellthief
+Павел Егоров :: Glissa Sunslayer
+Ильин Даниил :: Aragorn, King of Gondor
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/24709

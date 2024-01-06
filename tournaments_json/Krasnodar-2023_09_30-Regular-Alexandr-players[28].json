@@ -1,0 +1,899 @@
+{
+    "date": "2023_09_30",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Alexandr",
+    "roundsCount": 8,
+    "players": [
+        [
+            "Иванов Дмитрий",
+            "Uro, Titan of Nature's Wrath"
+        ],
+        [
+            "Чурсин Данила",
+            "Uro, Titan of Nature's Wrath"
+        ],
+        [
+            "Кириченко Евгений",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Смирнов Александр",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Васинов Николай",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Сухих Алексей",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Помогайлов Максим",
+            "Uro, Titan of Nature's Wrath"
+        ],
+        [
+            "Помогайлов Кирилл",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Власов Ярослав",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Безрученко Дмитрий",
+            "Marath, Will of the Wild"
+        ],
+        [
+            "Козлов Михаил",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Редько Павел",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Сомкин Константин",
+            "Arcades, the Strategist"
+        ],
+        [
+            "Омельченко Виктор",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Гапкалов Дмитрий",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Шумихин Николай",
+            "Anafenza, the Foremost"
+        ],
+        [
+            "Рудичева Александра",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Антипин Константин",
+            "Laelia, the Blade Reforged"
+        ],
+        [
+            "Шубенин Илья",
+            "Drana, Liberator of Malakir"
+        ],
+        [
+            "Арушунян Тигран",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Бабичев Фёдор",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Данилов Владимир",
+            "Uro, Titan of Nature's Wrath"
+        ],
+        [
+            "Зайцев Даниил",
+            "Talion, the Kindly Lord"
+        ],
+        [
+            "Лялин Олег",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Сутягин Евгений",
+            "Leovold, Emissary of Trest"
+        ],
+        [
+            "Фенрис Нина",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Еремеев Александр",
+            "Uro, Titan of Nature's Wrath"
+        ],
+        [
+            "Крейз Егор",
+            "Chatterfang, Squirrel General"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Иванов Дмитрий",
+                "Арушунян Тигран",
+                "Uro, Titan of Nature's Wrath",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Редько Павел",
+                "Uro, Titan of Nature's Wrath",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Крейз Егор",
+                "Dihada, Binder of Wills",
+                "Chatterfang, Squirrel General",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Смирнов Александр",
+                "Рудичева Александра",
+                "Kinnan, Bonder Prodigy",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Гапкалов Дмитрий",
+                "Asmoranomardicadaistinaculdacar",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Сухих Алексей",
+                "Шубенин Илья",
+                "Asmoranomardicadaistinaculdacar",
+                "Drana, Liberator of Malakir",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Помогайлов Максим",
+                "Сомкин Константин",
+                "Uro, Titan of Nature's Wrath",
+                "Arcades, the Strategist",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Помогайлов Кирилл",
+                "Сутягин Евгений",
+                "Winota, Joiner of Forces",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Власов Ярослав",
+                "Козлов Михаил",
+                "Asmoranomardicadaistinaculdacar",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Фенрис Нина",
+                "Marath, Will of the Wild",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Омельченко Виктор",
+                "Зайцев Даниил",
+                "Kinnan, Bonder Prodigy",
+                "Talion, the Kindly Lord",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шумихин Николай",
+                "Данилов Владимир",
+                "Anafenza, the Foremost",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Антипин Константин",
+                "Лялин Олег",
+                "Laelia, the Blade Reforged",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Бабичев Фёдор",
+                "Еремеев Александр",
+                "Shorikai, Genesis Engine",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Дмитрий",
+                "Безрученко Дмитрий",
+                "Uro, Titan of Nature's Wrath",
+                "Marath, Will of the Wild",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Помогайлов Максим",
+                "Uro, Titan of Nature's Wrath",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Сухих Алексей",
+                "Dihada, Binder of Wills",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Смирнов Александр",
+                "Омельченко Виктор",
+                "Kinnan, Bonder Prodigy",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Еремеев Александр",
+                "Asmoranomardicadaistinaculdacar",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Помогайлов Кирилл",
+                "Антипин Константин",
+                "Winota, Joiner of Forces",
+                "Laelia, the Blade Reforged",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Власов Ярослав",
+                "Шумихин Николай",
+                "Asmoranomardicadaistinaculdacar",
+                "Anafenza, the Foremost",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Козлов Михаил",
+                "Лялин Олег",
+                "Winota, Joiner of Forces",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Крейз Егор",
+                "Light-Paws, Emperor's Voice",
+                "Chatterfang, Squirrel General",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сомкин Константин",
+                "Шубенин Илья",
+                "Arcades, the Strategist",
+                "Drana, Liberator of Malakir",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Гапкалов Дмитрий",
+                "Бабичев Фёдор",
+                "Grist, the Hunger Tide",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Рудичева Александра",
+                "Сутягин Евгений",
+                "Winota, Joiner of Forces",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Арушунян Тигран",
+                "Фенрис Нина",
+                "Geist of Saint Traft",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Данилов Владимир",
+                "Зайцев Даниил",
+                "Uro, Titan of Nature's Wrath",
+                "Talion, the Kindly Lord",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Дмитрий",
+                "Смирнов Александр",
+                "Uro, Titan of Nature's Wrath",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Помогайлов Кирилл",
+                "Uro, Titan of Nature's Wrath",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Шумихин Николай",
+                "Dihada, Binder of Wills",
+                "Anafenza, the Foremost",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Бабичев Фёдор",
+                "Asmoranomardicadaistinaculdacar",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сухих Алексей",
+                "Антипин Константин",
+                "Asmoranomardicadaistinaculdacar",
+                "Laelia, the Blade Reforged",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Помогайлов Максим",
+                "Козлов Михаил",
+                "Uro, Titan of Nature's Wrath",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Власов Ярослав",
+                "Омельченко Виктор",
+                "Asmoranomardicadaistinaculdacar",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Арушунян Тигран",
+                "Marath, Will of the Wild",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Сомкин Константин",
+                "Light-Paws, Emperor's Voice",
+                "Arcades, the Strategist",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Гапкалов Дмитрий",
+                "Рудичева Александра",
+                "Grist, the Hunger Tide",
+                "Winota, Joiner of Forces",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Крейз Егор",
+                "Drana, Liberator of Malakir",
+                "Chatterfang, Squirrel General",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Данилов Владимир",
+                "Сутягин Евгений",
+                "Uro, Titan of Nature's Wrath",
+                "Leovold, Emissary of Trest",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Еремеев Александр",
+                "Talion, the Kindly Lord",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лялин Олег",
+                "Фенрис Нина",
+                "Tivit, Seller of Secrets",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Дмитрий",
+                "Сомкин Константин",
+                "Uro, Titan of Nature's Wrath",
+                "Arcades, the Strategist",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Кириченко Евгений",
+                "Uro, Titan of Nature's Wrath",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Смирнов Александр",
+                "Сухих Алексей",
+                "Kinnan, Bonder Prodigy",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Зайцев Даниил",
+                "Asmoranomardicadaistinaculdacar",
+                "Talion, the Kindly Lord",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Помогайлов Максим",
+                "Рудичева Александра",
+                "Uro, Titan of Nature's Wrath",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Помогайлов Кирилл",
+                "Шумихин Николай",
+                "Winota, Joiner of Forces",
+                "Anafenza, the Foremost",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Власов Ярослав",
+                "Безрученко Дмитрий",
+                "Asmoranomardicadaistinaculdacar",
+                "Marath, Will of the Wild",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Козлов Михаил",
+                "Сутягин Евгений",
+                "Winota, Joiner of Forces",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Лялин Олег",
+                "Light-Paws, Emperor's Voice",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Омельченко Виктор",
+                "Сомкин Константин",
+                "Kinnan, Bonder Prodigy",
+                "Arcades, the Strategist",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Гапкалов Дмитрий",
+                "Антипин Константин",
+                "Grist, the Hunger Tide",
+                "Laelia, the Blade Reforged",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Арушунян Тигран",
+                "Drana, Liberator of Malakir",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Бабичев Фёдор",
+                "Данилов Владимир",
+                "Shorikai, Genesis Engine",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Фенрис Нина",
+                "Крейз Егор",
+                "Light-Paws, Emperor's Voice",
+                "Chatterfang, Squirrel General",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Дмитрий",
+                "Власов Ярослав",
+                "Uro, Titan of Nature's Wrath",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Сухих Алексей",
+                "Uro, Titan of Nature's Wrath",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Смирнов Александр",
+                "Dihada, Binder of Wills",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Шумихин Николай",
+                "Asmoranomardicadaistinaculdacar",
+                "Anafenza, the Foremost",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Помогайлов Максим",
+                "Помогайлов Кирилл",
+                "Uro, Titan of Nature's Wrath",
+                "Winota, Joiner of Forces",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Рудичева Александра",
+                "Marath, Will of the Wild",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Козлов Михаил",
+                "Антипин Константин",
+                "Winota, Joiner of Forces",
+                "Laelia, the Blade Reforged",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Шубенин Илья",
+                "Light-Paws, Emperor's Voice",
+                "Drana, Liberator of Malakir",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сомкин Константин",
+                "Омельченко Виктор",
+                "Arcades, the Strategist",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Гапкалов Дмитрий",
+                "Зайцев Даниил",
+                "Grist, the Hunger Tide",
+                "Talion, the Kindly Lord",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Арушунян Тигран",
+                "Сутягин Евгений",
+                "Geist of Saint Traft",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Бабичев Фёдор",
+                "Фенрис Нина",
+                "Shorikai, Genesis Engine",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Данилов Владимир",
+                "Крейз Егор",
+                "Uro, Titan of Nature's Wrath",
+                "Chatterfang, Squirrel General",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Дмитрий",
+                "Помогайлов Кирилл",
+                "Uro, Titan of Nature's Wrath",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Помогайлов Максим",
+                "Uro, Titan of Nature's Wrath",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Сухих Алексей",
+                "Dihada, Binder of Wills",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Смирнов Александр",
+                "Васинов Николай",
+                "Kinnan, Bonder Prodigy",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Дмитрий",
+                "Смирнов Александр",
+                "Uro, Titan of Nature's Wrath",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Кириченко Евгений",
+                "Uro, Titan of Nature's Wrath",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Дмитрий",
+                "Чурсин Данила",
+                "Uro, Titan of Nature's Wrath",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,19 @@
+location::Spb
+level::Regular
+date::2023_12_21
+organizer::Andysays
+players::generals
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Алева :: Golos, Tireless Pilgrim
+Мартынов Влад :: Aminatou, the Fateshifter
+Богданов Сергей :: Kroxa, Titan of Death's Hunger
+Байков Аркадий :: Asmoranomardicadaistinaculdacar
+Ларионов Александр :: Saffi Eriksdotter
+Грабовой Филипп :: Asmoranomardicadaistinaculdacar
+Федоров Дмитрий :: Karlov of the Ghost Council :++: Lurrus of the Dream-Den
+Ильин Даниил :: Yoshimaru, Ever Faithful :+: Tana, the Bloodsower
+Барабаш Валентин :: Akiri, Line-Slinger :+: Silas Renn, Seeker Adept
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Соловьев Валентин :: Tasigur, the Golden Fang
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/25995

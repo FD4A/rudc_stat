@@ -1,0 +1,93 @@
+{
+    "date": "2023_09_29",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Alexandr",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Беланов Антон",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Гяго Георгий",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Иванько Альберт",
+            "Pippin, Guard of the Citadel"
+        ],
+        [
+            "Заиграев Даниил",
+            "Aesi, Tyrant of Gyre Strait"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Беланов Антон",
+                "Иванько Альберт",
+                "Omnath, Locus of Creation",
+                "Pippin, Guard of the Citadel",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Гяго Георгий",
+                "Заиграев Даниил",
+                "Arahbo, Roar of the World",
+                "Aesi, Tyrant of Gyre Strait",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Беланов Антон",
+                "Гяго Георгий",
+                "Omnath, Locus of Creation",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Заиграев Даниил",
+                "Pippin, Guard of the Citadel",
+                "Aesi, Tyrant of Gyre Strait",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Беланов Антон",
+                "Заиграев Даниил",
+                "Omnath, Locus of Creation",
+                "Aesi, Tyrant of Gyre Strait",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Гяго Георгий",
+                "Иванько Альберт",
+                "Arahbo, Roar of the World",
+                "Pippin, Guard of the Citadel",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

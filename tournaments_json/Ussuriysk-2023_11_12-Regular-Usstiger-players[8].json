@@ -1,0 +1,181 @@
+{
+    "date": "2023_11_12",
+    "location": "Ussuriysk",
+    "level": "Regular",
+    "organizer": "Usstiger",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Вячеслав Ш",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Матвей Кк",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Кирилл С",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Владислав М",
+            "Octavia, Living Thesis"
+        ],
+        [
+            "Алексей Ж",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Матвей Б",
+            "Atraxa, Grand Unifier"
+        ],
+        [
+            "Кирилл Кр",
+            "Frodo, Adventurous Hobbit :+: Sam, Loyal Attendant"
+        ],
+        [
+            "-Missing name-",
+            "Light-Paws, Emperor's Voice"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "",
+                "Алексей Ж",
+                "unknown",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Матвей Кк",
+                "Shorikai, Genesis Engine",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Матвей Б",
+                "Кирилл Кр",
+                "Atraxa, Grand Unifier",
+                "Frodo, Adventurous Hobbit :+: Sam, Loyal Attendant",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Владислав М",
+                "Aminatou, the Fateshifter",
+                "Octavia, Living Thesis",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Вячеслав Ш",
+                "Кирилл С",
+                "Aminatou, the Fateshifter",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Матвей Б",
+                "Grist, the Hunger Tide",
+                "Atraxa, Grand Unifier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кирилл Кр",
+                "Владислав М",
+                "Frodo, Adventurous Hobbit :+: Sam, Loyal Attendant",
+                "Octavia, Living Thesis",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Вячеслав Ш",
+                "Алексей Ж",
+                "Aminatou, the Fateshifter",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Матвей Б",
+                "Shorikai, Genesis Engine",
+                "Atraxa, Grand Unifier",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Владислав М",
+                "Матвей Кк",
+                "Octavia, Living Thesis",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей Ж",
+                "Кирилл С",
+                "Grist, the Hunger Tide",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Матвей Кк",
+                "Матвей Б",
+                "Asmoranomardicadaistinaculdacar",
+                "Atraxa, Grand Unifier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Кирилл Кр",
+                "Aminatou, the Fateshifter",
+                "Frodo, Adventurous Hobbit :+: Sam, Loyal Attendant",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

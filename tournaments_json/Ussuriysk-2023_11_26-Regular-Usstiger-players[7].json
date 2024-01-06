@@ -1,0 +1,167 @@
+{
+    "date": "2023_11_26",
+    "location": "Ussuriysk",
+    "level": "Regular",
+    "organizer": "Usstiger",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Матвей К",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Вячеслав Ш",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Кирилл С",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Алексей Ж",
+            "Leovold, Emissary of Trest"
+        ],
+        [
+            "Владислав М",
+            "Octavia, Living Thesis"
+        ],
+        [
+            "Даниил Р",
+            "Hidetsugu and Kairi"
+        ],
+        [
+            "Андрей Д",
+            "Sidar Jabari of Zhalfir"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Кирилл С",
+                "Алексей Ж",
+                "Shorikai, Genesis Engine",
+                "Leovold, Emissary of Trest",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Владислав М",
+                "Даниил Р",
+                "Octavia, Living Thesis",
+                "Hidetsugu and Kairi",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Андрей Д",
+                "Вячеслав Ш",
+                "Sidar Jabari of Zhalfir",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Матвей К",
+                "Владислав М",
+                "Asmoranomardicadaistinaculdacar",
+                "Octavia, Living Thesis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Алексей Ж",
+                "Aminatou, the Fateshifter",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Андрей Д",
+                "Кирилл С",
+                "Sidar Jabari of Zhalfir",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Вячеслав Ш",
+                "Матвей К",
+                "Aminatou, the Fateshifter",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Даниил Р",
+                "Кирилл С",
+                "Hidetsugu and Kairi",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Владислав М",
+                "Leovold, Emissary of Trest",
+                "Octavia, Living Thesis",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Вячеслав Ш",
+                "Кирилл С",
+                "Aminatou, the Fateshifter",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Матвей К",
+                "Алексей Ж",
+                "Asmoranomardicadaistinaculdacar",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Андрей Д",
+                "Даниил Р",
+                "Sidar Jabari of Zhalfir",
+                "Hidetsugu and Kairi",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

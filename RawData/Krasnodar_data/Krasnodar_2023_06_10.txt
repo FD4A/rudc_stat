@@ -1,0 +1,9 @@
+location::Krasnodar
+level::Regular
+date::2023_06_10
+organizer::Alexandr
+Round
+Власов Ярослав	10/06/23	1	Elminster	Краснодар		20	Ковалева Елена	20	Зайцев Даниил	20	Заиграев Даниил
+Заиграев Даниил	10/06/23	2	Flamewar, Brash Veteran // Flamewar, Streetwise Operative	Краснодар		2	Зайцев Даниил	11	Ковалева Елена	2	Власов Ярослав
+Ковалева Елена	10/06/23	3	Abomination of Llanowar	Краснодар		2	Власов Ярослав	11	Заиграев Даниил	12	Зайцев Даниил
+Зайцев Даниил	10/06/23	4	Aesi, Tyrant of Gyre Strait	Краснодар		20	Заиграев Даниил	2	Власов Ярослав	21	Ковалева Елена

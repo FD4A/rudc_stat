@@ -1,0 +1,93 @@
+{
+    "date": "2023_06_10",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Alexandr",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Власов Ярослав",
+            "Elminster"
+        ],
+        [
+            "Заиграев Даниил",
+            "Flamewar, Brash Veteran"
+        ],
+        [
+            "Ковалева Елена",
+            "Abomination of Llanowar"
+        ],
+        [
+            "Зайцев Даниил",
+            "Aesi, Tyrant of Gyre Strait"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Власов Ярослав",
+                "Ковалева Елена",
+                "Elminster",
+                "Abomination of Llanowar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Заиграев Даниил",
+                "Зайцев Даниил",
+                "Flamewar, Brash Veteran",
+                "Aesi, Tyrant of Gyre Strait",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Власов Ярослав",
+                "Зайцев Даниил",
+                "Elminster",
+                "Aesi, Tyrant of Gyre Strait",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Заиграев Даниил",
+                "Ковалева Елена",
+                "Flamewar, Brash Veteran",
+                "Abomination of Llanowar",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Власов Ярослав",
+                "Заиграев Даниил",
+                "Elminster",
+                "Flamewar, Brash Veteran",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ковалева Елена",
+                "Зайцев Даниил",
+                "Abomination of Llanowar",
+                "Aesi, Tyrant of Gyre Strait",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

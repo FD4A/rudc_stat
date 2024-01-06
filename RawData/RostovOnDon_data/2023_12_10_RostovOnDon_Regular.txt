@@ -1,0 +1,14 @@
+location::RostovOnDon
+level::Regular
+date::2023_12_10
+organizer::Sapher
+players::generals
+Александ (Omnath, Locus of Creation ) :: Omnath, Locus of Creation
+Илья (God-Eternal Kefnet) :: God-Eternal Kefnet
+Константин (Dragonlord Ojutai) :: Dragonlord Ojutai
+Вадим (Atraxa, Grand Unifier) :: Atraxa, Grand Unifier
+Евгений (Leovold, Emissary of Trest) :: Leovold, Emissary of Trest
+Егор (Pippin, Warden of Isengard/Merry, Warden of Isengard) :: Pippin, Warden of Isengard :+: Merry, Warden of Isengard
+Никита (Roalesk, Apex Hybrid) :: Roalesk, Apex Hybrid
+Round
+https://aetherhub.com/Tourney/RoundTourney/25740

@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2023_11_26
+organizer::Sapher
+players::generals
+Олег (Yoshimaru, Ever Faithful/Jeska, Thrice Reborn) :: Yoshimaru, Ever Faithful :+: Jeska, Thrice Reborn
+Вадим (Atraxa, Grand Unifier) :: Atraxa, Grand Unifier
+Александ (Shorikai, Genesis Engine) :: Shorikai, Genesis Engine
+Артём (Thalia and The Gitrog Monster) :: Thalia and The Gitrog Monster
+Евгений (Leovold, Emissary of Trest) :: Leovold, Emissary of Trest
+Илья (God-Eternal Kefnet) :: God-Eternal Kefnet
+Round
+https://aetherhub.com/Tourney/RoundTourney/25343

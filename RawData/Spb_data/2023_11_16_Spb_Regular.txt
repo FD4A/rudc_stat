@@ -1,0 +1,14 @@
+location::Spb
+level::Regular
+date::2023_11_16
+organizer::Andysays
+players::generals
+Иванов Дмитрий :: Oloro, Ageless Ascetic
+Мартынов Яков :: The Reality Chip
+Саушкин Андрей :: Omnath, Locus of Creation
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Егоров Павел :: Kess, Dissident Mage
+Крижик Александр :: Ivy, Gleeful Spellthief
+Федоров Дмитрий :: Karlov of the Ghost Council :++: Lurrus of the Dream-Den
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/25071

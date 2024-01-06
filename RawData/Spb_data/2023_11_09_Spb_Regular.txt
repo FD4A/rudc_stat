@@ -1,0 +1,18 @@
+location::Spb
+level::Regular
+date::2023_11_09
+organizer::Andysays
+players::generals
+Федоров Дмитрий :: Karlov of the Ghost Council :++: Lurrus of the Dream-Den
+Лузаков Петр :: Elas il-Kor, Sadistic Pilgrim
+Иванов Дмитрий :: Oloro, Ageless Ascetic
+Ильин Даниил :: Yoshimaru, Ever Faithful :+: Tana, the Bloodsower
+Мартынов Влад :: Aminatou, the Fateshifter
+Барабаш Валентин :: Shorikai, Genesis Engine
+Цюра Максим :: Niv-Mizzet, Parun
+Крижик Александр :: Ivy, Gleeful Spellthief
+Мартынов Яков :: The Reality Chip
+Яковлев Николай :: Dihada, Binder of Wills
+Егоров Павел :: Wilhelt, the Rotcleaver
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/24893

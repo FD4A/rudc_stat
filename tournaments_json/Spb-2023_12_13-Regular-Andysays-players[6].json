@@ -1,0 +1,131 @@
+{
+    "date": "2023_12_13",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Грабовой Филипп",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Барабаш Валентин",
+            "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Ильин Даниил",
+            "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Karlov of the Ghost Council :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Фукин Дмитрий",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Shorikai, Genesis Engine"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Иванов Дмитрий",
+                "Фукин Дмитрий",
+                "Shorikai, Genesis Engine",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ильин Даниил",
+                "Федоров Дмитрий",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Барабаш Валентин",
+                "Asmoranomardicadaistinaculdacar",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Фукин Дмитрий",
+                "Грабовой Филипп",
+                "Kinnan, Bonder Prodigy",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Барабаш Валентин",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Ильин Даниил",
+                "Shorikai, Genesis Engine",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Грабовой Филипп",
+                "Федоров Дмитрий",
+                "Asmoranomardicadaistinaculdacar",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Фукин Дмитрий",
+                "Ильин Даниил",
+                "Kinnan, Bonder Prodigy",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Иванов Дмитрий",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

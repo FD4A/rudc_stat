@@ -1,0 +1,19 @@
+location::Spb
+level::Regular
+date::2023_10_26
+organizer::Andysays
+players::generals
+Семенов Дмитрий :: Hogaak, Arisen Necropolis
+Олифер Егор :: Asmoranomardicadaistinaculdacar
+Барабаш Валентин :: Shorikai, Genesis Engine
+Лагерев Леонид :: Azusa, Lost but Seeking
+Поляков Герман :: Uro, Titan of Nature's Wrath
+Ильин Даниил :: Aragorn, King of Gondor
+Федоров Дмитрий :: Geist of Saint Traft
+Юферов Владимир :: Aragorn, The Uniter
+Байков Аркадий :: Golos, Tireless Pilgrim
+Мартынов Яков :: The Reality Cheap
+Цюра Максим :: Ghyrson Starn, Kelermorph
+Крижик Александр :: Tovolar, Dire Overlord
+Round
+https://aetherhub.com/Tourney/RoundTourney/24528

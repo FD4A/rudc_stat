@@ -1,0 +1,167 @@
+{
+    "date": "2023_12_10",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Sapher",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Александ (Omnath, Locus of Creation )",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Илья (God-Eternal Kefnet)",
+            "God-Eternal Kefnet"
+        ],
+        [
+            "Константин (Dragonlord Ojutai)",
+            "Dragonlord Ojutai"
+        ],
+        [
+            "Вадим (Atraxa, Grand Unifier)",
+            "Atraxa, Grand Unifier"
+        ],
+        [
+            "Евгений (Leovold, Emissary of Trest)",
+            "Leovold, Emissary of Trest"
+        ],
+        [
+            "Егор (Pippin, Warden of Isengard/Merry, Warden of Isengard)",
+            "Pippin, Warden of Isengard :+: Merry, Warden of Isengard"
+        ],
+        [
+            "Никита (Roalesk, Apex Hybrid)",
+            "Roalesk, Apex Hybrid"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Евгений (Leovold, Emissary of Trest)",
+                "Никита (Roalesk, Apex Hybrid)",
+                "Leovold, Emissary of Trest",
+                "Roalesk, Apex Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Константин (Dragonlord Ojutai)",
+                "Вадим (Atraxa, Grand Unifier)",
+                "Dragonlord Ojutai",
+                "Atraxa, Grand Unifier",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Егор (Pippin, Warden of Isengard/Merry, Warden of Isengard)",
+                "Александ (Omnath, Locus of Creation )",
+                "Pippin, Warden of Isengard :+: Merry, Warden of Isengard",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Александ (Omnath, Locus of Creation )",
+                "Евгений (Leovold, Emissary of Trest)",
+                "Omnath, Locus of Creation",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Илья (God-Eternal Kefnet)",
+                "Вадим (Atraxa, Grand Unifier)",
+                "God-Eternal Kefnet",
+                "Atraxa, Grand Unifier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Константин (Dragonlord Ojutai)",
+                "Никита (Roalesk, Apex Hybrid)",
+                "Dragonlord Ojutai",
+                "Roalesk, Apex Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Александ (Omnath, Locus of Creation )",
+                "Илья (God-Eternal Kefnet)",
+                "Omnath, Locus of Creation",
+                "God-Eternal Kefnet",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Константин (Dragonlord Ojutai)",
+                "Егор (Pippin, Warden of Isengard/Merry, Warden of Isengard)",
+                "Dragonlord Ojutai",
+                "Pippin, Warden of Isengard :+: Merry, Warden of Isengard",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Евгений (Leovold, Emissary of Trest)",
+                "Вадим (Atraxa, Grand Unifier)",
+                "Leovold, Emissary of Trest",
+                "Atraxa, Grand Unifier",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Александ (Omnath, Locus of Creation )",
+                "Константин (Dragonlord Ojutai)",
+                "Omnath, Locus of Creation",
+                "Dragonlord Ojutai",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Илья (God-Eternal Kefnet)",
+                "Егор (Pippin, Warden of Isengard/Merry, Warden of Isengard)",
+                "God-Eternal Kefnet",
+                "Pippin, Warden of Isengard :+: Merry, Warden of Isengard",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вадим (Atraxa, Grand Unifier)",
+                "Никита (Roalesk, Apex Hybrid)",
+                "Atraxa, Grand Unifier",
+                "Roalesk, Apex Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

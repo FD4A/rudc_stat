@@ -1,0 +1,267 @@
+{
+    "date": "2023_10_26",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Семенов Дмитрий",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Олифер Егор",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Барабаш Валентин",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Лагерев Леонид",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Поляков Герман",
+            "Uro, Titan of Nature's Wrath"
+        ],
+        [
+            "Ильин Даниил",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Юферов Владимир",
+            "Aragorn, the Uniter"
+        ],
+        [
+            "Байков Аркадий",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Цюра Максим",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Крижик Александр",
+            "Tovolar, Dire Overlord"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Олифер Егор",
+                "Поляков Герман",
+                "Asmoranomardicadaistinaculdacar",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Мартынов Яков",
+                "Ghyrson Starn, Kelermorph",
+                "The Reality Chip",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Крижик Александр",
+                "Azusa, Lost but Seeking",
+                "Tovolar, Dire Overlord",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ильин Даниил",
+                "Федоров Дмитрий",
+                "Aragorn, King of Gondor",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Барабаш Валентин",
+                "Golos, Tireless Pilgrim",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Юферов Владимир",
+                "Семенов Дмитрий",
+                "Aragorn, the Uniter",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Мартынов Яков",
+                "Барабаш Валентин",
+                "The Reality Chip",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Олифер Егор",
+                "Azusa, Lost but Seeking",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Семенов Дмитрий",
+                "Geist of Saint Traft",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Юферов Владимир",
+                "Поляков Герман",
+                "Aragorn, the Uniter",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ильин Даниил",
+                "Цюра Максим",
+                "Aragorn, King of Gondor",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Крижик Александр",
+                "Golos, Tireless Pilgrim",
+                "Tovolar, Dire Overlord",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Барабаш Валентин",
+                "Семенов Дмитрий",
+                "Shorikai, Genesis Engine",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Байков Аркадий",
+                "Asmoranomardicadaistinaculdacar",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Лагерев Леонид",
+                "Geist of Saint Traft",
+                "Azusa, Lost but Seeking",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Ильин Даниил",
+                "The Reality Chip",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Цюра Максим",
+                "Uro, Titan of Nature's Wrath",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Олифер Егор",
+                "Семенов Дмитрий",
+                "Asmoranomardicadaistinaculdacar",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Барабаш Валентин",
+                "Azusa, Lost but Seeking",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Ильин Даниил",
+                "Uro, Titan of Nature's Wrath",
+                "Aragorn, King of Gondor",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

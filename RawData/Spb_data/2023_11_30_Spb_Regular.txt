@@ -1,0 +1,15 @@
+location::Spb
+level::Regular
+date::2023_11_30
+organizer::Andysays
+players::generals
+Ильин Даниил :: Yoshimaru, Ever Faithful :+: Tana, the Bloodsower
+Лузаков Петр :: Elas il-Kor, Sadistic Pilgrim
+Барабаш Валентин :: Akiri, Line-Slinger :+: Silas Renn, Seeker Adept
+Саушкин Андрей :: Omnath, Locus of Creation
+Цюра Максим :: Slimefoot and Squee
+Ларионов Александр :: Aragorn, King of Gondor
+Егоров Павел :: Kess, Dissident Mage
+Хасин Антон :: Sythis, Harvest's Hand
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/25427

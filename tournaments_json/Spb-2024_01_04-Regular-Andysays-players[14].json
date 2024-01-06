@@ -1,0 +1,355 @@
+{
+    "date": "2024_01_04",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Грабовой Филипп",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Саушкин Андрей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Митрохин",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Фукин Юрий",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Балабанов Василий",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Протасов Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Пантелеев Андрей",
+            "Ertai Resurrected"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Фукин Дмитрий",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Хорьков Аркадий",
+            "Liesa, Shroud of Dusk"
+        ],
+        [
+            "Барабаш Валентин",
+            "Kinnan, Bonder Prodigy"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Семенов Дмитрий",
+                "Барабаш Валентин",
+                "Hogaak, Arisen Necropolis",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Балабанов Василий",
+                "Митрохин",
+                "Juri, Master of the Revue",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Фукин Юрий",
+                "Golos, Tireless Pilgrim",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Фукин Дмитрий",
+                "Пантелеев Андрей",
+                "Aragorn, King of Gondor",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Хорьков Аркадий",
+                "Vial Smasher the Fierce",
+                "Liesa, Shroud of Dusk",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Грабовой Филипп",
+                "Aminatou, the Fateshifter",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Мартынов Яков",
+                "Omnath, Locus of Creation",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Митрохин",
+                "Фукин Юрий",
+                "Asmoranomardicadaistinaculdacar",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Семенов Дмитрий",
+                "Vial Smasher the Fierce",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Фукин Дмитрий",
+                "Грабовой Филипп",
+                "Aragorn, King of Gondor",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Пантелеев Андрей",
+                "Omnath, Locus of Creation",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Барабаш Валентин",
+                "Aminatou, the Fateshifter",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Хорьков Аркадий",
+                "Ульянов Алексей",
+                "Liesa, Shroud of Dusk",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Балабанов Василий",
+                "The Reality Chip",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Байков Аркадий",
+                "Саушкин Андрей",
+                "Vial Smasher the Fierce",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Митрохин",
+                "Грабовой Филипп",
+                "Asmoranomardicadaistinaculdacar",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Фукин Дмитрий",
+                "Семенов Дмитрий",
+                "Aragorn, King of Gondor",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Фукин Юрий",
+                "Aminatou, the Fateshifter",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Мартынов Яков",
+                "Golos, Tireless Pilgrim",
+                "The Reality Chip",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Балабанов Василий",
+                "Хорьков Аркадий",
+                "Juri, Master of the Revue",
+                "Liesa, Shroud of Dusk",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Пантелеев Андрей",
+                "Барабаш Валентин",
+                "Ertai Resurrected",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Саушкин Андрей",
+                "Грабовой Филипп",
+                "Omnath, Locus of Creation",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Митрохин",
+                "Байков Аркадий",
+                "Asmoranomardicadaistinaculdacar",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Фукин Юрий",
+                "Hogaak, Arisen Necropolis",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Протасов Михаил",
+                "The Reality Chip",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Балабанов Василий",
+                "Фукин Дмитрий",
+                "Juri, Master of the Revue",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Пантелеев Андрей",
+                "Ульянов Алексей",
+                "Ertai Resurrected",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Хорьков Аркадий",
+                "Барабаш Валентин",
+                "Liesa, Shroud of Dusk",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

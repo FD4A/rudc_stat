@@ -1,0 +1,19 @@
+location::Spb
+level::Regular
+date::2023_12_07
+organizer::Andysays
+players::generals
+Алева :: Golos, Tireless Pilgrim
+Ильин Даниил :: Yoshimaru, Ever Faithful :+: Tana, the Bloodsower
+Родюков Федор :: Hogaak, Arisen Necropolis
+Протасов Михаил :: Aminatou, the Fateshifter
+Семенов Дмитрий :: Ertai Resurrected
+Саушкин Андрей :: Aragorn, King of Gondor
+Федоров Дмитрий :: Karlov of the Ghost Council :++: Lurrus of the Dream-Den
+Егоров Павел :: Kess, Dissident Mage
+Ларионов Александр :: Omnath, Locus of Creation
+Лузаков Петр :: Torbran, Thane of Red Fell
+Цюра Максим :: Slimefoot and Squee
+Иванов Дмитрий :: Oloro, Ageless Ascetic
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/25621

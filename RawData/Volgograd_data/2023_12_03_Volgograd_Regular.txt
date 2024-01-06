@@ -1,0 +1,13 @@
+location::Volgograd
+level::Regular
+date::2023_12_03
+organizer::Rombik34rus
+players::generals
+Артём Ангурцов :: Feldon, Ronom Excavator
+Дмитрий Орешкин :: Magda, Brazen Outlaw
+Максим Мещеряков :: Aminatou, the Fateshifter
+Вячеслав Серпутько :: Selvala, Explorer Returned
+Александр Смирнов :: Wilson, Refined Grizzly :+: Guild Artisan
+Никита Сухов :: Shorikai, Genesis Engin
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/25541

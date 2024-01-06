@@ -1,0 +1,297 @@
+{
+    "date": "2023_08_10",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Alexandr",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Иванов Антон",
+            "Uro, Titan of Nature's Wrath"
+        ],
+        [
+            "Помогайлов Максим",
+            "Uro, Titan of Nature's Wrath"
+        ],
+        [
+            "Васинов Николай",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Омельченко Виктор",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Иванько Альберт",
+            "Pippin, Guard of the Citadel"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Uro, Titan of Nature's Wrath"
+        ],
+        [
+            "Ефимов Александр",
+            "General Ferrous Rokiric"
+        ],
+        [
+            "Беляков Михаил",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Кириченко Евгений",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Черненко Дмитрий",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Олешко Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Гяго Георгий",
+            "Arahbo, Roar of the World"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Иванов Антон",
+                "Беляков Михаил",
+                "Uro, Titan of Nature's Wrath",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Помогайлов Максим",
+                "Ефимов Александр",
+                "Uro, Titan of Nature's Wrath",
+                "General Ferrous Rokiric",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Олешко Роман",
+                "Asmoranomardicadaistinaculdacar",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Омельченко Виктор",
+                "Черненко Дмитрий",
+                "Kinnan, Bonder Prodigy",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Гяго Георгий",
+                "Pippin, Guard of the Citadel",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Кириченко Евгений",
+                "Uro, Titan of Nature's Wrath",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Антон",
+                "Иванов Дмитрий",
+                "Uro, Titan of Nature's Wrath",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Помогайлов Максим",
+                "Черненко Дмитрий",
+                "Uro, Titan of Nature's Wrath",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Ефимов Александр",
+                "Asmoranomardicadaistinaculdacar",
+                "General Ferrous Rokiric",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Омельченко Виктор",
+                "Иванько Альберт",
+                "Kinnan, Bonder Prodigy",
+                "Pippin, Guard of the Citadel",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Кириченко Евгений",
+                "Kinnan, Bonder Prodigy",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Олешко Роман",
+                "Гяго Георгий",
+                "Dihada, Binder of Wills",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Антон",
+                "Васинов Николай",
+                "Uro, Titan of Nature's Wrath",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Помогайлов Максим",
+                "Иванов Дмитрий",
+                "Uro, Titan of Nature's Wrath",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Омельченко Виктор",
+                "Олешко Роман",
+                "Kinnan, Bonder Prodigy",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Ефимов Александр",
+                "Pippin, Guard of the Citadel",
+                "General Ferrous Rokiric",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Олешко Роман",
+                "Kinnan, Bonder Prodigy",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Черненко Дмитрий",
+                "Dihada, Binder of Wills",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Антон",
+                "Омельченко Виктор",
+                "Uro, Titan of Nature's Wrath",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Помогайлов Максим",
+                "Кириченко Евгений",
+                "Uro, Titan of Nature's Wrath",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Иванько Альберт",
+                "Asmoranomardicadaistinaculdacar",
+                "Pippin, Guard of the Citadel",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Ефимов Александр",
+                "Uro, Titan of Nature's Wrath",
+                "General Ferrous Rokiric",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Олешко Роман",
+                "Беляков Михаил",
+                "Dihada, Binder of Wills",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

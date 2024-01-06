@@ -1,0 +1,52 @@
+location::Spb
+level::Open
+date::2023_06_18
+organizer::Alewa
+players::generals
+Долганов Матвей :: Marath, Will of the Wild
+Гавриленко Валентин :: Arahbo, Roar of the World
+Смирнов Александр :: Asmoranomardicadaistinaculdacar
+Громов Михаил :: Asmoranomardicadaistinaculdacar
+Фукин Дмитрий :: Asmoranomardicadaistinaculdacar
+Соловьев Валенин :: Asmoranomardicadaistinaculdacar
+Олифер Егор :: Asmoranomardicadaistinaculdacar
+Милюков Даниил :: Asmoranomardicadaistinaculdacar
+Курмкаев Игорь :: Asmoranomardicadaistinaculdacar
+Семенов Павел :: Atraxa, Grand Unifier
+Чжан Цзяи :: Azusa, Lost but Seeking
+Вахитов Ривкат :: Balmor, Battlemage Captain
+Губин Андрей :: Dihada, Binder of Wills
+Муравьев Никита :: Geist of Saint Traft
+Падве Владимир :: Geist of Saint Traft
+Цюра Максим :: Ghyrson Starn, Kelermorph
+Семенов Дмитрий :: Golos, Tireless Pilgrim
+Зелянин Дмитрий :: Golos, Tireless Pilgrim
+Мальцев Руслан :: Hogaak, Arisen Necropolis
+Байков Аркадий :: Hogaak, Arisen Necropolis
+Федоров Дмитрий :: Karlov of the Ghost Council :++: Lurrus of the Dream-Den
+Манин Илья :: Kinnan, Bonder Prodigy
+Мещеряков Максим :: Kinnan, Bonder Prodigy
+Хорьков Аркадий :: Liesa, Shroud of Dusk
+Воронцов Иван :: Lord Windgrace
+Карманов Иван :: Melira, the Living Cure
+Саушкин Андрей :: Omnath, Locus of Creation
+Мартынов Влад :: Omnath, Locus of Creation
+Богатырев Александр :: Queen Marchesa
+Гаврилов Никита :: Samut, Vizier of Naktamun
+Дьяченко Андрей :: Samut, Vizier of Naktamun
+Барабаш Валентин :: Shorikai, Genesis Engine
+Елисеев Степан :: Squee, Dubious Monarch
+Панчук Тимофей :: Sythis, Harvest's Hand
+Ульянов Алексей :: Teysa, Orzhov Scion
+Ильин Даниил :: The Gitrog Monster
+Фридман Сергей :: The Reality Chip
+Костин Андрей :: The Reality Chip
+Протасов Михаил :: Tivit, Seller of Secrets
+Лузаков Петр :: Torbran, Thane of Red Fell
+Палачев Максим :: Tymaret, the Murder King
+Поляков Герман :: Uro, Titan of Nature's Wrath
+Ильин Александр :: Uro, Titan of Nature's Wrath
+Иванов Дмитрий :: Uro, Titan of Nature's Wrath
+Письминицкий Артем :: Uro, Titan of Nature's Wrath
+Round
+https://aetherhub.com/Tourney/RoundTourney/21296

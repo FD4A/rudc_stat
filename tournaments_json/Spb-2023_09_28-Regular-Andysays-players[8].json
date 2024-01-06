@@ -1,0 +1,169 @@
+{
+    "date": "2023_09_28",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Олифер Егор",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Поляков Герман",
+            "Uro, Titan of Nature's Wrath"
+        ],
+        [
+            "Саушкин Андрей",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Ульянов Алексей",
+            "Oloro, Ageless Ascetic"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Ульянов Алексей",
+                "Мартынов Яков",
+                "Oloro, Ageless Ascetic",
+                "The Reality Chip",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Родюков Федор",
+                "Asmoranomardicadaistinaculdacar",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Поляков Герман",
+                "Aragorn, King of Gondor",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Семенов Дмитрий",
+                "Geist of Saint Traft",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Олифер Егор",
+                "Uro, Titan of Nature's Wrath",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Ульянов Алексей",
+                "Geist of Saint Traft",
+                "Oloro, Ageless Ascetic",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Саушкин Андрей",
+                "The Reality Chip",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Родюков Федор",
+                "Sythis, Harvest's Hand",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Федоров Дмитрий",
+                "Олифер Егор",
+                "Geist of Saint Traft",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Семенов Дмитрий",
+                "Uro, Titan of Nature's Wrath",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Ульянов Алексей",
+                "Aragorn, King of Gondor",
+                "Oloro, Ageless Ascetic",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Родюков Федор",
+                "The Reality Chip",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

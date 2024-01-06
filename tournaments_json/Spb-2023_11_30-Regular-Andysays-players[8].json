@@ -1,0 +1,169 @@
+{
+    "date": "2023_11_30",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Ильин Даниил",
+            "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower"
+        ],
+        [
+            "Лузаков Петр",
+            "Elas il-Kor, Sadistic Pilgrim"
+        ],
+        [
+            "Барабаш Валентин",
+            "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Саушкин Андрей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Цюра Максим",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Ларионов Александр",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Егоров Павел",
+            "Kess, Dissident Mage"
+        ],
+        [
+            "Хасин Антон",
+            "Sythis, Harvest's Hand"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Цюра Максим",
+                "Лузаков Петр",
+                "Slimefoot and Squee",
+                "Elas il-Kor, Sadistic Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Егоров Павел",
+                "Omnath, Locus of Creation",
+                "Kess, Dissident Mage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Хасин Антон",
+                "Aragorn, King of Gondor",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Ильин Даниил",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Лузаков Петр",
+                "Ильин Даниил",
+                "Elas il-Kor, Sadistic Pilgrim",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Ларионов Александр",
+                "Omnath, Locus of Creation",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Цюра Максим",
+                "Kess, Dissident Mage",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Хасин Антон",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Ильин Даниил",
+                "Саушкин Андрей",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Ларионов Александр",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лузаков Петр",
+                "Егоров Павел",
+                "Elas il-Kor, Sadistic Pilgrim",
+                "Kess, Dissident Mage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Хасин Антон",
+                "Slimefoot and Squee",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

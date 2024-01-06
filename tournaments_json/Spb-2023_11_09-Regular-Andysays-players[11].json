@@ -1,0 +1,263 @@
+{
+    "date": "2023_11_09",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Федоров Дмитрий",
+            "Karlov of the Ghost Council :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Лузаков Петр",
+            "Elas il-Kor, Sadistic Pilgrim"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Oloro, Ageless Ascetic"
+        ],
+        [
+            "Ильин Даниил",
+            "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower"
+        ],
+        [
+            "Мартынов Влад",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Барабаш Валентин",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Цюра Максим",
+            "Niv-Mizzet, Parun"
+        ],
+        [
+            "Крижик Александр",
+            "Ivy, Gleeful Spellthief"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Яковлев Николай",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Егоров Павел",
+            "Wilhelt, the Rotcleaver"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Мартынов Яков",
+                "Лузаков Петр",
+                "The Reality Chip",
+                "Elas il-Kor, Sadistic Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ильин Даниил",
+                "Федоров Дмитрий",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Яковлев Николай",
+                "Wilhelt, the Rotcleaver",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Крижик Александр",
+                "Иванов Дмитрий",
+                "Ivy, Gleeful Spellthief",
+                "Oloro, Ageless Ascetic",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Мартынов Влад",
+                "Shorikai, Genesis Engine",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Яковлев Николай",
+                "Цюра Максим",
+                "Dihada, Binder of Wills",
+                "Niv-Mizzet, Parun",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Мартынов Влад",
+                "Oloro, Ageless Ascetic",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лузаков Петр",
+                "Федоров Дмитрий",
+                "Elas il-Kor, Sadistic Pilgrim",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Крижик Александр",
+                "Ильин Даниил",
+                "Ivy, Gleeful Spellthief",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Барабаш Валентин",
+                "Wilhelt, the Rotcleaver",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Цюра Максим",
+                "Федоров Дмитрий",
+                "Niv-Mizzet, Parun",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Лузаков Петр",
+                "Oloro, Ageless Ascetic",
+                "Elas il-Kor, Sadistic Pilgrim",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Яковлев Николай",
+                "Aminatou, the Fateshifter",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ильин Даниил",
+                "Мартынов Яков",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Крижик Александр",
+                "Shorikai, Genesis Engine",
+                "Ivy, Gleeful Spellthief",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Федоров Дмитрий",
+                "Иванов Дмитрий",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Oloro, Ageless Ascetic",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Лузаков Петр",
+                "Niv-Mizzet, Parun",
+                "Elas il-Kor, Sadistic Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ильин Даниил",
+                "Мартынов Влад",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Мартынов Яков",
+                "Shorikai, Genesis Engine",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Крижик Александр",
+                "Wilhelt, the Rotcleaver",
+                "Ivy, Gleeful Spellthief",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

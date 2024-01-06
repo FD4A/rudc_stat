@@ -1,0 +1,99 @@
+Akiri, Line-Slinger :: RW
+Akroma, Vision of Ixidor :: W
+Alena, Kessig Trapper :: R
+Alharu, Solemn Ritualist :: W
+Amy Pond :: R
+Anara, Wolvid Familiar :: G
+Ardenn, Intrepid Archaeologist :: W
+Armix, Filigree Thrasher :: B
+Blue, Loyal Raptor :: GU
+Brallin, Skyshark Rider :: R
+Breeches, Brazen Plunderer :: R
+Brinelin, the Moon Kraken :: U
+Bruse Tarl, Boorish Herder :: RW
+Cazur, Ruthless Stalker :: G
+Dargo, the Shipwrecker :: R
+Eligeth, Crossroads Augur :: U
+Esior, Wardwing Familiar :: U
+Falthis, Shadowcat Familiar :: B
+Fluros of Myra's Marvels :: U
+Francisco, Fowl Marauder :: B
+Frodo, Adventurous Hobbit :: BW
+Ghost of Ramirez DePietro :: U
+Gilanra, Caller of Wirewood :: G
+Glacian, Powerstone Engineer :: U
+Gorm the Great :: G
+Halana, Kessig Ranger :: G
+Haldan, Avid Arcanist :: U
+Hardy of Myra's Marvels :: G
+Ich-Tekik, Salvage Splicer :: G
+Ignacio of Myra's Marvels :: R
+Ikra Shidiqi, the Usurper :: BG
+Ishai, Ojutai Dragonspeaker :: UW
+Jenny Flint :: RU
+Jeska, Thrice Reborn :: R
+Kamahl, Heart of Krosa :: G
+Kamber, the Plunderer :: B
+Katerina of Myra's Marvels :: W
+Kediss, Emberclaw Familiar :: R
+Keleth, Sunmane Familiar :: W
+Keskit, the Flesh Sculptor :: B
+Khorvath Brightflame :: R
+Kodama of the East Tree :: G
+Krark, the Thumbless :: R
+Kraum, Ludevic's Opus :: RU
+Krav, the Unredeemed :: B
+Kydele, Chosen of Kruphix :: GU
+Laurine, the Diversion :: R
+Livio, Oathsworn Sentinel :: W
+Ludevic, Necro-Alchemist :: RU
+Madame Vastra :: GU
+Malcolm, Keen-Eyed Navigator :: U
+Merry, Warden of Isengard :: GW
+Miara, Thorn of the Glade :: B
+Nadier, Agent of the Duskenel :: B
+Nikara, Lair Scavenger :: B
+Nocturno of Myra's Marvels :: B
+Numa, Joraga Chieftain :: G
+Okaun, Eye of Chaos :: R
+Owen Grady, Raptor Trainer :: GR
+Pako, Arcane Retriever :: GR
+Pippin, Warden of Isengard :: BG
+Pir, Imaginative Rascal :: G
+Prava of the Steel Legion :: W
+Radiant, Serra Archangel :: W
+Ravos, Soultender :: BW
+Rebbec, Architect of Ascension :: W
+Regna, the Redeemer :: W
+Reyhan, Last of the Abzan :: BG
+Rhoda, Geist Avenger :: W
+Rograkh, Son of Rohgahh :: R
+Rory Williams :: UW
+Rowan Kenrith :: R
+Sakashima of a Thousand Faces :: U
+Sam, Loyal Attendant :: GW
+Sengir, the Dark Baron :: B
+Shabraz, the Skyshark :: UW
+Siani, Eye of the Storm :: U
+Sidar Kondo of Jamuraa :: GW
+Silas Renn, Seeker Adept :: BU
+Silvar, Devourer of the Free :: BR
+Slurrk, All-Ingesting :: G
+Sylvia Brightspear :: W
+Tana, the Bloodsower :: GR
+Tevesh Szat, Doom of Fools :: B
+The Prismatic Piper :: 
+Thrasios, Triton Hero :: GU
+Timin, Youthful Geist :: U
+Toggo, Goblin Weaponsmith :: R
+Toothy, Imaginary Friend :: U
+Tormod, the Desecrator :: B
+Trynn, Champion of Freedom :: W
+Tymna the Weaver :: BW
+Ukkima, Stalking Shadow :: BU
+Vial Smasher the Fierce :: BR
+Virtus the Veiled :: B
+Will Kenrith :: U
+Yannik, Scavenging Sentinel :: GW
+Yoshimaru, Ever Faithful :: W
+Zndrsplt, Eye of Wisdom :: U

@@ -1,0 +1,239 @@
+{
+    "date": "2023_09_24",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Alexandr",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Васинов Николай",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Безрученко Дмитрий",
+            "Marath, Will of the Wild"
+        ],
+        [
+            "Еремеев Александр",
+            "Uro, Titan of Nature's Wrath"
+        ],
+        [
+            "Тарасенко Никита",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Ефимов Александр",
+            "Surrak Dragonclaw"
+        ],
+        [
+            "Иванько Альберт",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Uro, Titan of Nature's Wrath"
+        ],
+        [
+            "Иванов Антон",
+            "Uro, Titan of Nature's Wrath"
+        ],
+        [
+            "Кириченко Евгений",
+            "The Reality Chip"
+        ],
+        [
+            "Беляков Михаил",
+            "Ratadrabik of Urborg"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Васинов Николай",
+                "Иванов Дмитрий",
+                "Asmoranomardicadaistinaculdacar",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Беляков Михаил",
+                "Marath, Will of the Wild",
+                "Ratadrabik of Urborg",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Иванько Альберт",
+                "Uro, Titan of Nature's Wrath",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тарасенко Никита",
+                "Кириченко Евгений",
+                "Winota, Joiner of Forces",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ефимов Александр",
+                "Иванов Антон",
+                "Surrak Dragonclaw",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Васинов Николай",
+                "Еремеев Александр",
+                "Asmoranomardicadaistinaculdacar",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Ефимов Александр",
+                "Marath, Will of the Wild",
+                "Surrak Dragonclaw",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тарасенко Никита",
+                "Иванов Антон",
+                "Winota, Joiner of Forces",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Иванов Дмитрий",
+                "Slimefoot and Squee",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Беляков Михаил",
+                "The Reality Chip",
+                "Ratadrabik of Urborg",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Васинов Николай",
+                "Иванов Антон",
+                "Asmoranomardicadaistinaculdacar",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Тарасенко Никита",
+                "Marath, Will of the Wild",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Иванов Дмитрий",
+                "Uro, Titan of Nature's Wrath",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ефимов Александр",
+                "Иванько Альберт",
+                "Surrak Dragonclaw",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Васинов Николай",
+                "Безрученко Дмитрий",
+                "Asmoranomardicadaistinaculdacar",
+                "Marath, Will of the Wild",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Тарасенко Никита",
+                "Uro, Titan of Nature's Wrath",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ефимов Александр",
+                "Иванов Дмитрий",
+                "Surrak Dragonclaw",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Иванов Антон",
+                "Slimefoot and Squee",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

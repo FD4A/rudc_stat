@@ -1,0 +1,15 @@
+location::Ussuriysk
+level::Regular
+date::2023_11_12
+organizer::Usstiger
+players::generals
+Вячеслав Ш :: Aminatou, the Fateshifter
+Матвей Кк :: Asmoranomardicadaistinaculdacar
+Кирилл С :: Shorikai, Genesis Engine
+Владислав М :: Octavia, Living Thesis
+Алексей Ж :: Grist, the Hunger Tide
+Матвей Б :: Atraxa, Grand Unifier
+Кирилл Кр :: Frodo, Adventurous Hobbit :+: Sam, Loyal Attendant
+-Missing name- :: Light-Paws, Emperor's Voice
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/24946

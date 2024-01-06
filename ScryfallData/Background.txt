@@ -1,0 +1,30 @@
+Acolyte of Bahamut :: G
+Agent of the Iron Throne :: B
+Agent of the Shadow Thieves :: B
+Candlekeep Sage :: U
+Clan Crafter :: U
+Cloakwood Hermit :: G
+Criminal Past :: B
+Cultist of the Absolute :: B
+Dragon Cultist :: R
+Dungeon Delver :: U
+Faceless One :: 
+Far Traveler :: W
+Feywild Visitor :: U
+Flaming Fist :: W
+Folk Hero :: W
+Guild Artisan :: R
+Hardy Outlander :: G
+Haunted One :: B
+Inspiring Leader :: W
+Master Chef :: G
+Noble Heritage :: W
+Passionate Archaeologist :: R
+Popular Entertainer :: R
+Raised by Giants :: G
+Scion of Halaster :: B
+Shameless Charlatan :: U
+Street Urchin :: R
+Sword Coast Sailor :: U
+Tavern Brawler :: R
+Veteran Soldier :: W

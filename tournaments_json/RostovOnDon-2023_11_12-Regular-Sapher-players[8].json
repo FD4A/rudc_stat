@@ -1,0 +1,169 @@
+{
+    "date": "2023_11_12",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Sapher",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Артём (Thalia and The Gitrog Monster)",
+            "Thalia and The Gitrog Monster"
+        ],
+        [
+            "Илья (God-Eternal Kefnet)",
+            "God-Eternal Kefnet"
+        ],
+        [
+            "Александ (Shorikai, Genesis Engine)",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Птиц (Oloro, Ageless Ascetic)",
+            "Oloro, Ageless Ascetic"
+        ],
+        [
+            "Вадим (Atraxa, Grand Unifier)",
+            "Atraxa, Grand Unifier"
+        ],
+        [
+            "Никита (Circu, Dimir Lobotomist)",
+            "Circu, Dimir Lobotomist"
+        ],
+        [
+            "Евгений (Leovold, Emissary of Trest)",
+            "Leovold, Emissary of Trest"
+        ],
+        [
+            "Егор (Light-Paws, Emperor's Voice)",
+            "Light-Paws, Emperor's Voice"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Александ (Shorikai, Genesis Engine)",
+                "Егор (Light-Paws, Emperor's Voice)",
+                "Shorikai, Genesis Engine",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Никита (Circu, Dimir Lobotomist)",
+                "Илья (God-Eternal Kefnet)",
+                "Circu, Dimir Lobotomist",
+                "God-Eternal Kefnet",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Артём (Thalia and The Gitrog Monster)",
+                "Птиц (Oloro, Ageless Ascetic)",
+                "Thalia and The Gitrog Monster",
+                "Oloro, Ageless Ascetic",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Вадим (Atraxa, Grand Unifier)",
+                "Евгений (Leovold, Emissary of Trest)",
+                "Atraxa, Grand Unifier",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Вадим (Atraxa, Grand Unifier)",
+                "Илья (God-Eternal Kefnet)",
+                "Atraxa, Grand Unifier",
+                "God-Eternal Kefnet",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александ (Shorikai, Genesis Engine)",
+                "Артём (Thalia and The Gitrog Monster)",
+                "Shorikai, Genesis Engine",
+                "Thalia and The Gitrog Monster",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Птиц (Oloro, Ageless Ascetic)",
+                "Никита (Circu, Dimir Lobotomist)",
+                "Oloro, Ageless Ascetic",
+                "Circu, Dimir Lobotomist",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Евгений (Leovold, Emissary of Trest)",
+                "Егор (Light-Paws, Emperor's Voice)",
+                "Leovold, Emissary of Trest",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Илья (God-Eternal Kefnet)",
+                "Артём (Thalia and The Gitrog Monster)",
+                "God-Eternal Kefnet",
+                "Thalia and The Gitrog Monster",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Птиц (Oloro, Ageless Ascetic)",
+                "Вадим (Atraxa, Grand Unifier)",
+                "Oloro, Ageless Ascetic",
+                "Atraxa, Grand Unifier",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Александ (Shorikai, Genesis Engine)",
+                "Евгений (Leovold, Emissary of Trest)",
+                "Shorikai, Genesis Engine",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Никита (Circu, Dimir Lobotomist)",
+                "Егор (Light-Paws, Emperor's Voice)",
+                "Circu, Dimir Lobotomist",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

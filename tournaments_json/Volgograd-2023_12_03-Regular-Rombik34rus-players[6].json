@@ -1,0 +1,131 @@
+{
+    "date": "2023_12_03",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Артём Ангурцов",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Дмитрий Орешкин",
+            "Magda, Brazen Outlaw"
+        ],
+        [
+            "Максим Мещеряков",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Вячеслав Серпутько",
+            "Selvala, Explorer Returned"
+        ],
+        [
+            "Александр Смирнов",
+            "Wilson, Refined Grizzly :+: Guild Artisan"
+        ],
+        [
+            "Никита Сухов",
+            "Shorikai, Genesis Engine"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Вячеслав Серпутько",
+                "Александр Смирнов",
+                "Selvala, Explorer Returned",
+                "Wilson, Refined Grizzly :+: Guild Artisan",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Никита Сухов",
+                "Дмитрий Орешкин",
+                "Shorikai, Genesis Engine",
+                "Magda, Brazen Outlaw",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Артём Ангурцов",
+                "Aminatou, the Fateshifter",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Орешкин",
+                "Вячеслав Серпутько",
+                "Magda, Brazen Outlaw",
+                "Selvala, Explorer Returned",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Никита Сухов",
+                "Feldon, Ronom Excavator",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Максим Мещеряков",
+                "Wilson, Refined Grizzly :+: Guild Artisan",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Артём Ангурцов",
+                "Дмитрий Орешкин",
+                "Feldon, Ronom Excavator",
+                "Magda, Brazen Outlaw",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Вячеслав Серпутько",
+                "Aminatou, the Fateshifter",
+                "Selvala, Explorer Returned",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Никита Сухов",
+                "Александр Смирнов",
+                "Shorikai, Genesis Engine",
+                "Wilson, Refined Grizzly :+: Guild Artisan",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

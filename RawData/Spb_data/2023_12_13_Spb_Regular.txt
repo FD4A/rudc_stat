@@ -1,0 +1,13 @@
+location::Spb
+level::Regular
+date::2023_12_13
+organizer::Andysays
+players::generals
+Грабовой Филипп :: Asmoranomardicadaistinaculdacar
+Барабаш Валентин :: Akiri, Line-Slinger :+: Silas Renn, Seeker Adept
+Ильин Даниил :: Yoshimaru, Ever Faithful :+: Tana, the Bloodsower
+Федоров Дмитрий :: Karlov of the Ghost Council :++: Lurrus of the Dream-Den
+Фукин Дмитрий :: Kinnan, Bonder Prodigy
+Иванов Дмитрий :: Shorikai, Genesis Engine
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/25818

@@ -1,0 +1,1413 @@
+{
+    "date": "2023_06_18",
+    "location": "Spb",
+    "level": "Open",
+    "organizer": "Alewa",
+    "roundsCount": 6,
+    "players": [
+        [
+            "Долганов Матвей",
+            "Marath, Will of the Wild"
+        ],
+        [
+            "Гавриленко Валентин",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Смирнов Александр",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Громов Михаил",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Фукин Дмитрий",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Соловьев Валенин",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Олифер Егор",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Милюков Даниил",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Курмкаев Игорь",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Семенов Павел",
+            "Atraxa, Grand Unifier"
+        ],
+        [
+            "Чжан Цзяи",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Вахитов Ривкат",
+            "Balmor, Battlemage Captain"
+        ],
+        [
+            "Губин Андрей",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Муравьев Никита",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Падве Владимир",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Цюра Максим",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Зелянин Дмитрий",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Мальцев Руслан",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Байков Аркадий",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Karlov of the Ghost Council :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Манин Илья",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Мещеряков Максим",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Хорьков Аркадий",
+            "Liesa, Shroud of Dusk"
+        ],
+        [
+            "Воронцов Иван",
+            "Lord Windgrace"
+        ],
+        [
+            "Карманов Иван",
+            "Melira, the Living Cure"
+        ],
+        [
+            "Саушкин Андрей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Мартынов Влад",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Богатырев Александр",
+            "Queen Marchesa"
+        ],
+        [
+            "Гаврилов Никита",
+            "Samut, Vizier of Naktamun"
+        ],
+        [
+            "Дьяченко Андрей",
+            "Samut, Vizier of Naktamun"
+        ],
+        [
+            "Барабаш Валентин",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Елисеев Степан",
+            "Squee, Dubious Monarch"
+        ],
+        [
+            "Панчук Тимофей",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Ульянов Алексей",
+            "Teysa, Orzhov Scion"
+        ],
+        [
+            "Ильин Даниил",
+            "The Gitrog Monster"
+        ],
+        [
+            "Фридман Сергей",
+            "The Reality Chip"
+        ],
+        [
+            "Костин Андрей",
+            "The Reality Chip"
+        ],
+        [
+            "Протасов Михаил",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Лузаков Петр",
+            "Torbran, Thane of Red Fell"
+        ],
+        [
+            "Палачев Максим",
+            "Tymaret, the Murder King"
+        ],
+        [
+            "Поляков Герман",
+            "Uro, Titan of Nature's Wrath"
+        ],
+        [
+            "Ильин Александр",
+            "Uro, Titan of Nature's Wrath"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Uro, Titan of Nature's Wrath"
+        ],
+        [
+            "Письминицкий Артем",
+            "Uro, Titan of Nature's Wrath"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Дьяченко Андрей",
+                "Долганов Матвей",
+                "Samut, Vizier of Naktamun",
+                "Marath, Will of the Wild",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Палачев Максим",
+                "Саушкин Андрей",
+                "Tymaret, the Murder King",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ильин Даниил",
+                "Соловьев Валенин",
+                "The Gitrog Monster",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мещеряков Максим",
+                "Курмкаев Игорь",
+                "Kinnan, Bonder Prodigy",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Цюра Максим",
+                "Shorikai, Genesis Engine",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Милюков Даниил",
+                "Ильин Александр",
+                "Asmoranomardicadaistinaculdacar",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Чжан Цзяи",
+                "Письминицкий Артем",
+                "Azusa, Lost but Seeking",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Семенов Павел",
+                "Костин Андрей",
+                "Atraxa, Grand Unifier",
+                "The Reality Chip",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Воронцов Иван",
+                "Tivit, Seller of Secrets",
+                "Lord Windgrace",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Фридман Сергей",
+                "Семенов Дмитрий",
+                "The Reality Chip",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Смирнов Александр",
+                "Лузаков Петр",
+                "Asmoranomardicadaistinaculdacar",
+                "Torbran, Thane of Red Fell",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Панчук Тимофей",
+                "Мальцев Руслан",
+                "Sythis, Harvest's Hand",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Елисеев Степан",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Squee, Dubious Monarch",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Зелянин Дмитрий",
+                "Муравьев Никита",
+                "Golos, Tireless Pilgrim",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Гавриленко Валентин",
+                "Падве Владимир",
+                "Arahbo, Roar of the World",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Богатырев Александр",
+                "Uro, Titan of Nature's Wrath",
+                "Queen Marchesa",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Манин Илья",
+                "Байков Аркадий",
+                "Kinnan, Bonder Prodigy",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Карманов Иван",
+                "Поляков Герман",
+                "Melira, the Living Cure",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Хорьков Аркадий",
+                "Олифер Егор",
+                "Liesa, Shroud of Dusk",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Гаврилов Никита",
+                "Ульянов Алексей",
+                "Samut, Vizier of Naktamun",
+                "Teysa, Orzhov Scion",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Губин Андрей",
+                "Вахитов Ривкат",
+                "Dihada, Binder of Wills",
+                "Balmor, Battlemage Captain",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Фукин Дмитрий",
+                "Мартынов Влад",
+                "Asmoranomardicadaistinaculdacar",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Долганов Матвей",
+                "Смирнов Александр",
+                "Marath, Will of the Wild",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Громов Михаил",
+                "Фукин Дмитрий",
+                "Asmoranomardicadaistinaculdacar",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Цюра Максим",
+                "Uro, Titan of Nature's Wrath",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Губин Андрей",
+                "Мальцев Руслан",
+                "Dihada, Binder of Wills",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Соловьев Валенин",
+                "Олифер Егор",
+                "Asmoranomardicadaistinaculdacar",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Манин Илья",
+                "Гаврилов Никита",
+                "Kinnan, Bonder Prodigy",
+                "Samut, Vizier of Naktamun",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Федоров Дмитрий",
+                "Geist of Saint Traft",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Воронцов Иван",
+                "Ильин Александр",
+                "Lord Windgrace",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Письминицкий Артем",
+                "Uro, Titan of Nature's Wrath",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Падве Владимир",
+                "Саушкин Андрей",
+                "Geist of Saint Traft",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мещеряков Максим",
+                "Семенов Дмитрий",
+                "Kinnan, Bonder Prodigy",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Семенов Павел",
+                "Фридман Сергей",
+                "Atraxa, Grand Unifier",
+                "The Reality Chip",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Костин Андрей",
+                "Зелянин Дмитрий",
+                "The Reality Chip",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Гавриленко Валентин",
+                "Omnath, Locus of Creation",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Милюков Даниил",
+                "Барабаш Валентин",
+                "Asmoranomardicadaistinaculdacar",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Хорьков Аркадий",
+                "Teysa, Orzhov Scion",
+                "Liesa, Shroud of Dusk",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Карманов Иван",
+                "Байков Аркадий",
+                "Melira, the Living Cure",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Елисеев Степан",
+                "Панчук Тимофей",
+                "Squee, Dubious Monarch",
+                "Sythis, Harvest's Hand",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Богатырев Александр",
+                "Tivit, Seller of Secrets",
+                "Queen Marchesa",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чжан Цзяи",
+                "Курмкаев Игорь",
+                "Azusa, Lost but Seeking",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дьяченко Андрей",
+                "Палачев Максим",
+                "Samut, Vizier of Naktamun",
+                "Tymaret, the Murder King",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Ильин Даниил",
+                "Balmor, Battlemage Captain",
+                "The Gitrog Monster",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Мещеряков Максим",
+                "Падве Владимир",
+                "Kinnan, Bonder Prodigy",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Манин Илья",
+                "Ильин Александр",
+                "Kinnan, Bonder Prodigy",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Громов Михаил",
+                "Ghyrson Starn, Kelermorph",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Соловьев Валенин",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мальцев Руслан",
+                "Фридман Сергей",
+                "Hogaak, Arisen Necropolis",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Губин Андрей",
+                "Uro, Titan of Nature's Wrath",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Письминицкий Артем",
+                "Костин Андрей",
+                "Uro, Titan of Nature's Wrath",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Долганов Матвей",
+                "Фукин Дмитрий",
+                "Marath, Will of the Wild",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Смирнов Александр",
+                "Хорьков Аркадий",
+                "Asmoranomardicadaistinaculdacar",
+                "Liesa, Shroud of Dusk",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Карманов Иван",
+                "Саушкин Андрей",
+                "Melira, the Living Cure",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лузаков Петр",
+                "Гаврилов Никита",
+                "Torbran, Thane of Red Fell",
+                "Samut, Vizier of Naktamun",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Барабаш Валентин",
+                "Geist of Saint Traft",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Воронцов Иван",
+                "Uro, Titan of Nature's Wrath",
+                "Lord Windgrace",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Мартынов Влад",
+                "Tivit, Seller of Secrets",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Панчук Тимофей",
+                "Asmoranomardicadaistinaculdacar",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Палачев Максим",
+                "Чжан Цзяи",
+                "Tymaret, the Murder King",
+                "Azusa, Lost but Seeking",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Семенов Дмитрий",
+                "Balmor, Battlemage Captain",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Семенов Павел",
+                "Ильин Даниил",
+                "Atraxa, Grand Unifier",
+                "The Gitrog Monster",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Ульянов Алексей",
+                "Queen Marchesa",
+                "Teysa, Orzhov Scion",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Курмкаев Игорь",
+                "Байков Аркадий",
+                "Asmoranomardicadaistinaculdacar",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Елисеев Степан",
+                "Гавриленко Валентин",
+                "Squee, Dubious Monarch",
+                "Arahbo, Roar of the World",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дьяченко Андрей",
+                "Милюков Даниил",
+                "Samut, Vizier of Naktamun",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Федоров Дмитрий",
+                "Громов Михаил",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Ильин Александр",
+                "Фридман Сергей",
+                "Uro, Titan of Nature's Wrath",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Падве Владимир",
+                "Манин Илья",
+                "Geist of Saint Traft",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Костин Андрей",
+                "Uro, Titan of Nature's Wrath",
+                "The Reality Chip",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Смирнов Александр",
+                "Мещеряков Максим",
+                "Asmoranomardicadaistinaculdacar",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Олифер Егор",
+                "Omnath, Locus of Creation",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Гаврилов Никита",
+                "Shorikai, Genesis Engine",
+                "Samut, Vizier of Naktamun",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Соловьев Валенин",
+                "Ghyrson Starn, Kelermorph",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Фукин Дмитрий",
+                "Протасов Михаил",
+                "Asmoranomardicadaistinaculdacar",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Чжан Цзяи",
+                "Губин Андрей",
+                "Azusa, Lost but Seeking",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Воронцов Иван",
+                "Семенов Дмитрий",
+                "Lord Windgrace",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Письминицкий Артем",
+                "Долганов Матвей",
+                "Uro, Titan of Nature's Wrath",
+                "Marath, Will of the Wild",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Мальцев Руслан",
+                "Uro, Titan of Nature's Wrath",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Дьяченко Андрей",
+                "Байков Аркадий",
+                "Samut, Vizier of Naktamun",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лузаков Петр",
+                "Ульянов Алексей",
+                "Torbran, Thane of Red Fell",
+                "Teysa, Orzhov Scion",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Палачев Максим",
+                "Мартынов Влад",
+                "Tymaret, the Murder King",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Панчук Тимофей",
+                "Хорьков Аркадий",
+                "Sythis, Harvest's Hand",
+                "Liesa, Shroud of Dusk",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Гавриленко Валентин",
+                "Муравьев Никита",
+                "Arahbo, Roar of the World",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Зелянин Дмитрий",
+                "Карманов Иван",
+                "Golos, Tireless Pilgrim",
+                "Melira, the Living Cure",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ильин Даниил",
+                "Милюков Даниил",
+                "The Gitrog Monster",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Богатырев Александр",
+                "Balmor, Battlemage Captain",
+                "Queen Marchesa",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Фридман Сергей",
+                "Федоров Дмитрий",
+                "The Reality Chip",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Мещеряков Максим",
+                "Громов Михаил",
+                "Kinnan, Bonder Prodigy",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Манин Илья",
+                "Фукин Дмитрий",
+                "Kinnan, Bonder Prodigy",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Гаврилов Никита",
+                "Олифер Егор",
+                "Samut, Vizier of Naktamun",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Соловьев Валенин",
+                "Иванов Дмитрий",
+                "Asmoranomardicadaistinaculdacar",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Костин Андрей",
+                "Смирнов Александр",
+                "The Reality Chip",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ильин Александр",
+                "Поляков Герман",
+                "Uro, Titan of Nature's Wrath",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Губин Андрей",
+                "Golos, Tireless Pilgrim",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дьяченко Андрей",
+                "Хорьков Аркадий",
+                "Samut, Vizier of Naktamun",
+                "Liesa, Shroud of Dusk",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чжан Цзяи",
+                "Саушкин Андрей",
+                "Azusa, Lost but Seeking",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Протасов Михаил",
+                "Ghyrson Starn, Kelermorph",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Лузаков Петр",
+                "Omnath, Locus of Creation",
+                "Torbran, Thane of Red Fell",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Зелянин Дмитрий",
+                "Барабаш Валентин",
+                "Golos, Tireless Pilgrim",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Письминицкий Артем",
+                "Воронцов Иван",
+                "Uro, Titan of Nature's Wrath",
+                "Lord Windgrace",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Долганов Матвей",
+                "Курмкаев Игорь",
+                "Marath, Will of the Wild",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Палачев Максим",
+                "Hogaak, Arisen Necropolis",
+                "Tymaret, the Murder King",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Панчук Тимофей",
+                "Богатырев Александр",
+                "Sythis, Harvest's Hand",
+                "Queen Marchesa",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Карманов Иван",
+                "Ульянов Алексей",
+                "Melira, the Living Cure",
+                "Teysa, Orzhov Scion",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Мещеряков Максим",
+                "Соловьев Валенин",
+                "Kinnan, Bonder Prodigy",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Фукин Дмитрий",
+                "Олифер Егор",
+                "Asmoranomardicadaistinaculdacar",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Костин Андрей",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Фридман Сергей",
+                "Громов Михаил",
+                "The Reality Chip",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Манин Илья",
+                "Губин Андрей",
+                "Kinnan, Bonder Prodigy",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Мартынов Влад",
+                "Uro, Titan of Nature's Wrath",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Гаврилов Никита",
+                "Tivit, Seller of Secrets",
+                "Samut, Vizier of Naktamun",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Зелянин Дмитрий",
+                "Omnath, Locus of Creation",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дьяченко Андрей",
+                "Иванов Дмитрий",
+                "Samut, Vizier of Naktamun",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Ильин Александр",
+                "Golos, Tireless Pilgrim",
+                "Uro, Titan of Nature's Wrath",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Смирнов Александр",
+                "Воронцов Иван",
+                "Asmoranomardicadaistinaculdacar",
+                "Lord Windgrace",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Карманов Иван",
+                "Ghyrson Starn, Kelermorph",
+                "Melira, the Living Cure",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Хорьков Аркадий",
+                "Курмкаев Игорь",
+                "Liesa, Shroud of Dusk",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Чжан Цзяи",
+                "Hogaak, Arisen Necropolis",
+                "Azusa, Lost but Seeking",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Панчук Тимофей",
+                "Shorikai, Genesis Engine",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Долганов Матвей",
+                "Богатырев Александр",
+                "Marath, Will of the Wild",
+                "Queen Marchesa",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

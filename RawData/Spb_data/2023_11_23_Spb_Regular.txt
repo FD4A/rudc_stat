@@ -1,0 +1,19 @@
+location::Spb
+level::Regular
+date::2023_11_23
+organizer::Andysays
+players::generals
+Грабовой Филипп :: Kinnan, Bonder Prodigy
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Алева :: Golos, Tireless Pilgrim
+Федоров Дмитрий :: Karlov of the Ghost Council :++: Lurrus of the Dream-Den
+Ларионов Александр :: Golos, Tireless Pilgrim
+Богатырев Александр :: Queen Marchesa
+Протасов Михаил :: Aminatou, the Fateshifter
+Мартынов Яков :: The Reality Chip
+Иванов Дмитрий :: Omnath, Locus of Creation
+Саушкин Андрей :: Aragorn, King of Gondor
+Крижик Александр :: Octavia, Living Thesis
+Барабаш Валентин :: Bjorna, Nightfall Alchemist :+: Wernog, Rider's Chaplain :++: Lurrus of the Dream-Den
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/25251

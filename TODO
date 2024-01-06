@@ -1,0 +1,35 @@
+TODO
+
+Tournament Filtration
+- level
+- date
+- players count
+- location
+- organizer
+
+
+General Stat Short
+- matches win/lose/draw count and in percent
+- games win/lose count and in percent
+- pick on tournament
+- top-1/.. , to hard, skip
+- cut by matches/games count ?
+
+
+General Stat Full
+- vs each other general
+
+
+HTTP view:
+- all filters from 'Tournament Filtration'
+- sort by all columns
+- show concrete tournament by name
+
+
+Other Improvements:
+- maybe new syntax for additional cards? ':+:' and ':++:' replace by '+'
+- in stat replace background to their color identity
+
+
+
+

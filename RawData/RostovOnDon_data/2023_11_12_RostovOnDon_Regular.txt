@@ -1,0 +1,15 @@
+location::RostovOnDon
+level::Regular
+date::2023_11_12
+organizer::Sapher
+players::generals
+Артём (Thalia and The Gitrog Monster) :: Thalia and The Gitrog Monster
+Илья (God-Eternal Kefnet) :: God-Eternal Kefnet
+Александ (Shorikai, Genesis Engine) :: Shorikai, Genesis Engine
+Птиц (Oloro, Ageless Ascetic) :: Oloro, Ageless Ascetic
+Вадим (Atraxa, Grand Unifier) :: Atraxa, Grand Unifier
+Никита (Circu, Dimir Lobotomist) :: Circu, Dimir Lobotomist
+Евгений (Leovold, Emissary of Trest) :: Leovold, Emissary of Trest
+Егор (Light-Paws, Emperor's Voice) :: Light-Paws, Emperor's Voice
+Round
+https://aetherhub.com/Tourney/RoundTourney/24995

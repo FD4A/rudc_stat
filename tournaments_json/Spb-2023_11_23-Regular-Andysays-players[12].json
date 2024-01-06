@@ -1,0 +1,297 @@
+{
+    "date": "2023_11_23",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Грабовой Филипп",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Алева",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Karlov of the Ghost Council :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Ларионов Александр",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Богатырев Александр",
+            "Queen Marchesa"
+        ],
+        [
+            "Протасов Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Саушкин Андрей",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Крижик Александр",
+            "Octavia, Living Thesis"
+        ],
+        [
+            "Барабаш Валентин",
+            "Bjorna, Nightfall Alchemist :+: Wernog, Rider's Chaplain :++: Lurrus of the Dream-Den"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Мартынов Яков",
+                "Федоров Дмитрий",
+                "The Reality Chip",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Алева",
+                "Богатырев Александр",
+                "Golos, Tireless Pilgrim",
+                "Queen Marchesa",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Протасов Михаил",
+                "Golos, Tireless Pilgrim",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Саушкин Андрей",
+                "Kinnan, Bonder Prodigy",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Иванов Дмитрий",
+                "Bjorna, Nightfall Alchemist :+: Wernog, Rider's Chaplain :++: Lurrus of the Dream-Den",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Крижик Александр",
+                "Родюков Федор",
+                "Octavia, Living Thesis",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Федоров Дмитрий",
+                "Грабовой Филипп",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Родюков Федор",
+                "Omnath, Locus of Creation",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Алева",
+                "Aminatou, the Fateshifter",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Ларионов Александр",
+                "Queen Marchesa",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Барабаш Валентин",
+                "The Reality Chip",
+                "Bjorna, Nightfall Alchemist :+: Wernog, Rider's Chaplain :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Крижик Александр",
+                "Саушкин Андрей",
+                "Octavia, Living Thesis",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Родюков Федор",
+                "Ларионов Александр",
+                "Ghyrson Starn, Kelermorph",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Иванов Дмитрий",
+                "Kinnan, Bonder Prodigy",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Саушкин Андрей",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Aragorn, King of Gondor",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Алева",
+                "The Reality Chip",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Богатырев Александр",
+                "Aminatou, the Fateshifter",
+                "Queen Marchesa",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Крижик Александр",
+                "Bjorna, Nightfall Alchemist :+: Wernog, Rider's Chaplain :++: Lurrus of the Dream-Den",
+                "Octavia, Living Thesis",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Родюков Федор",
+                "Грабовой Филипп",
+                "Ghyrson Starn, Kelermorph",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Алева",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Иванов Дмитрий",
+                "Golos, Tireless Pilgrim",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Мартынов Яков",
+                "Queen Marchesa",
+                "The Reality Chip",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Протасов Михаил",
+                "Bjorna, Nightfall Alchemist :+: Wernog, Rider's Chaplain :++: Lurrus of the Dream-Den",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

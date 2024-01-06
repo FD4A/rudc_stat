@@ -1,0 +1,277 @@
+{
+    "date": "2023_12_07",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Алева",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Ильин Даниил",
+            "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower"
+        ],
+        [
+            "Родюков Федор",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Протасов Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Ertai Resurrected"
+        ],
+        [
+            "Саушкин Андрей",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Karlov of the Ghost Council :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Егоров Павел",
+            "Kess, Dissident Mage"
+        ],
+        [
+            "Ларионов Александр",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Лузаков Петр",
+            "Torbran, Thane of Red Fell"
+        ],
+        [
+            "Цюра Максим",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Oloro, Ageless Ascetic"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Лузаков Петр",
+                "Егоров Павел",
+                "Torbran, Thane of Red Fell",
+                "Kess, Dissident Mage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Родюков Федор",
+                "Oloro, Ageless Ascetic",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ильин Даниил",
+                "Протасов Михаил",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Саушкин Андрей",
+                "Omnath, Locus of Creation",
+                "Aragorn, King of Gondor",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Федоров Дмитрий",
+                "Ertai Resurrected",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Алева",
+                "Slimefoot and Squee",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Ильин Даниил",
+                "Лузаков Петр",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Torbran, Thane of Red Fell",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Алева",
+                "Aragorn, King of Gondor",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Семенов Дмитрий",
+                "Hogaak, Arisen Necropolis",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Иванов Дмитрий",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Oloro, Ageless Ascetic",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Егоров Павел",
+                "Aminatou, the Fateshifter",
+                "Kess, Dissident Mage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Цюра Максим",
+                "Omnath, Locus of Creation",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Ильин Даниил",
+                "Алева",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Федоров Дмитрий",
+                "Hogaak, Arisen Necropolis",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лузаков Петр",
+                "Семенов Дмитрий",
+                "Torbran, Thane of Red Fell",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Протасов Михаил",
+                "Aragorn, King of Gondor",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Егоров Павел",
+                "Omnath, Locus of Creation",
+                "Kess, Dissident Mage",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Алева",
+                "Родюков Федор",
+                "Golos, Tireless Pilgrim",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ильин Даниил",
+                "Семенов Дмитрий",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Ларионов Александр",
+                "Aminatou, the Fateshifter",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Федоров Дмитрий",
+                "Aragorn, King of Gondor",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ]
+}
