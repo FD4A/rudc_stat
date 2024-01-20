@@ -1,0 +1,249 @@
+{
+    "date": "2024_01_18",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Грабовой Филипп",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Яковлев Николай",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Саушкин Андрей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Поляков Герман",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Смирнов Александр",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Ларионов Александр",
+            "The Reality Chip"
+        ],
+        [
+            "Цюра Максим",
+            "Ghyrson Starn, Kelermorph"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Муравьев Никита",
+                "Ларионов Александр",
+                "Juri, Master of the Revue",
+                "The Reality Chip",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Яковлев Николай",
+                "Slimefoot and Squee",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Поляков Герман",
+                "Omnath, Locus of Creation",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Цюра Максим",
+                "Vial Smasher the Fierce",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Смирнов Александр",
+                "Богатырев Александр",
+                "Light-Paws, Emperor's Voice",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Богатырев Александр",
+                "Поляков Герман",
+                "Indoraptor, the Perfect Hybrid",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Грабовой Филипп",
+                "Vial Smasher the Fierce",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Цюра Максим",
+                "The Reality Chip",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Саушкин Андрей",
+                "Asmoranomardicadaistinaculdacar",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Смирнов Александр",
+                "Juri, Master of the Revue",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Грабовой Филипп",
+                "Aragorn, King of Gondor",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Байков Аркадий",
+                "Juri, Master of the Revue",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Богатырев Александр",
+                "Ghyrson Starn, Kelermorph",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Яковлев Николай",
+                "The Reality Chip",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Смирнов Александр",
+                "Omnath, Locus of Creation",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Грабовой Филипп",
+                "Богатырев Александр",
+                "Slimefoot and Squee",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Муравьев Никита",
+                "Aragorn, King of Gondor",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Байков Аркадий",
+                "Asmoranomardicadaistinaculdacar",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Ларионов Александр",
+                "Omnath, Locus of Creation",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

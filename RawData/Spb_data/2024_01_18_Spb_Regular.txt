@@ -1,0 +1,17 @@
+location::Spb
+level::Regular
+date::2024_01_18
+organizer::Andysays
+players::generals
+Грабовой Филипп :: Slimefoot and Squee
+Муравьев Никита :: Juri, Master of the Revue
+Яковлев Николай :: Asmoranomardicadaistinaculdacar
+Саушкин Андрей :: Omnath, Locus of Creation
+Поляков Герман :: Aragorn, King of Gondor
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Байков Аркадий :: Vial Smasher the Fierce
+Смирнов Александр :: Light-Paws, Emperor's Voice
+Ларионов Александр :: The Reality Chip
+Цюра Максим :: Ghyrson Starn, Kelermorph
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/26558
