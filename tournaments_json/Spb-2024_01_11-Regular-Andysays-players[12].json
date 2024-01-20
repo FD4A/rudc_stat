@@ -1,0 +1,297 @@
+{
+    "date": "2024_01_11",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Грабовой Филипп",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Ильин Даниил",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Барабаш Валентин",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Ларионов Александр",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Протасов Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Саушкин Андрей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Авдоян Манук",
+            "Esika, God of the Tree"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Муравьев Никита",
+                "Богатырев Александр",
+                "Juri, Master of the Revue",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Родюков Федор",
+                "Aragorn, King of Gondor",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Байков Аркадий",
+                "Kinnan, Bonder Prodigy",
+                "Vial Smasher the Fierce",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Ульянов Алексей",
+                "Omnath, Locus of Creation",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Ильин Даниил",
+                "Slimefoot and Squee",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Авдоян Манук",
+                "Протасов Михаил",
+                "Esika, God of the Tree",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Протасов Михаил",
+                "Муравьев Никита",
+                "Aminatou, the Fateshifter",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Родюков Федор",
+                "Slimefoot and Squee",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Байков Аркадий",
+                "Golos, Tireless Pilgrim",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Ильин Даниил",
+                "Kinnan, Bonder Prodigy",
+                "Aragorn, King of Gondor",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Ларионов Александр",
+                "Indoraptor, the Perfect Hybrid",
+                "Aragorn, King of Gondor",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Авдоян Манук",
+                "Саушкин Андрей",
+                "Esika, God of the Tree",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Ульянов Алексей",
+                "Грабовой Филипп",
+                "Golos, Tireless Pilgrim",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Саушкин Андрей",
+                "Juri, Master of the Revue",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Ильин Даниил",
+                "Vial Smasher the Fierce",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Протасов Михаил",
+                "Ghyrson Starn, Kelermorph",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Барабаш Валентин",
+                "Indoraptor, the Perfect Hybrid",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Авдоян Манук",
+                "Aragorn, King of Gondor",
+                "Esika, God of the Tree",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Грабовой Филипп",
+                "Муравьев Никита",
+                "Slimefoot and Squee",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Ульянов Алексей",
+                "Ghyrson Starn, Kelermorph",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ильин Даниил",
+                "Ларионов Александр",
+                "Aragorn, King of Gondor",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Барабаш Валентин",
+                "Aminatou, the Fateshifter",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Богатырев Александр",
+                "Vial Smasher the Fierce",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

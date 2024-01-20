@@ -1,0 +1,19 @@
+location::Spb
+level::Regular
+date::2024_01_11
+organizer::Andysays
+players::generals
+Муравьев Никита :: Juri, Master of the Revue
+Грабовой Филипп :: Slimefoot and Squee
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Ильин Даниил :: Aragorn, King of Gondor
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Ларионов Александр :: Aragorn, King of Gondor
+Байков Аркадий :: Vial Smasher the Fierce
+Протасов Михаил :: Aminatou, the Fateshifter
+Саушкин Андрей :: Omnath, Locus of Creation
+Авдоян Манук :: Esika, God of the Tree
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/26376
