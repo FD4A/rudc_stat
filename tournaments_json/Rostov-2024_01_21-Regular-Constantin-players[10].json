@@ -1,0 +1,239 @@
+{
+    "date": "2024_01_21",
+    "location": "Rostov",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Dmitriy Ysachev",
+            "Niv-Mizzet Reborn"
+        ],
+        [
+            "Egor Lubomihenko",
+            "Ojer Axonil, Deepest Might"
+        ],
+        [
+            "Alexander Davidov",
+            "Magda, Brazen Outlaw"
+        ],
+        [
+            "Vadim Lukaynov",
+            "Atraxa, Grand Unifier"
+        ],
+        [
+            "Alexander Ptic",
+            "Oloro, Ageless Ascetic"
+        ],
+        [
+            "Vasiliy Mishin",
+            "Aesi, Tyrant of Gyre Strait"
+        ],
+        [
+            "Constantin Somkin",
+            "Dragonlord Ojutai"
+        ],
+        [
+            "Ilya Snezhkov",
+            "Jadar, Ghoulcaller of Nephalia"
+        ],
+        [
+            "Nikita Metallurg",
+            "Roalesk, Apex Hybrid"
+        ],
+        [
+            "Alexey Viselnikov",
+            "Kasla, the Broken Halo"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Vadim Lukaynov",
+                "Constantin Somkin",
+                "Atraxa, Grand Unifier",
+                "Dragonlord Ojutai",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Alexey Viselnikov",
+                "Egor Lubomihenko",
+                "Kasla, the Broken Halo",
+                "Ojer Axonil, Deepest Might",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Dmitriy Ysachev",
+                "Alexander Ptic",
+                "Niv-Mizzet Reborn",
+                "Oloro, Ageless Ascetic",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Vasiliy Mishin",
+                "Nikita Metallurg",
+                "Aesi, Tyrant of Gyre Strait",
+                "Roalesk, Apex Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ilya Snezhkov",
+                "Alexander Davidov",
+                "Jadar, Ghoulcaller of Nephalia",
+                "Magda, Brazen Outlaw",
+                [
+                    0,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Vasiliy Mishin",
+                "Dmitriy Ysachev",
+                "Aesi, Tyrant of Gyre Strait",
+                "Niv-Mizzet Reborn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Vadim Lukaynov",
+                "Egor Lubomihenko",
+                "Atraxa, Grand Unifier",
+                "Ojer Axonil, Deepest Might",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Alexander Davidov",
+                "Alexey Viselnikov",
+                "Magda, Brazen Outlaw",
+                "Kasla, the Broken Halo",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ilya Snezhkov",
+                "Alexander Ptic",
+                "Jadar, Ghoulcaller of Nephalia",
+                "Oloro, Ageless Ascetic",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Nikita Metallurg",
+                "Constantin Somkin",
+                "Roalesk, Apex Hybrid",
+                "Dragonlord Ojutai",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Dmitriy Ysachev",
+                "Egor Lubomihenko",
+                "Niv-Mizzet Reborn",
+                "Ojer Axonil, Deepest Might",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Alexander Davidov",
+                "Constantin Somkin",
+                "Magda, Brazen Outlaw",
+                "Dragonlord Ojutai",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Vasiliy Mishin",
+                "Ilya Snezhkov",
+                "Aesi, Tyrant of Gyre Strait",
+                "Jadar, Ghoulcaller of Nephalia",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Vadim Lukaynov",
+                "Alexander Ptic",
+                "Atraxa, Grand Unifier",
+                "Oloro, Ageless Ascetic",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Dmitriy Ysachev",
+                "Alexander Davidov",
+                "Niv-Mizzet Reborn",
+                "Magda, Brazen Outlaw",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Egor Lubomihenko",
+                "Vasiliy Mishin",
+                "Ojer Axonil, Deepest Might",
+                "Aesi, Tyrant of Gyre Strait",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ilya Snezhkov",
+                "Constantin Somkin",
+                "Jadar, Ghoulcaller of Nephalia",
+                "Dragonlord Ojutai",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Vadim Lukaynov",
+                "Nikita Metallurg",
+                "Atraxa, Grand Unifier",
+                "Roalesk, Apex Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

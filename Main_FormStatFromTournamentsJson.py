@@ -11,7 +11,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser('RuDcStat')
     parser.add_argument('--tournament_folder', default='tournaments_json')
     parser.add_argument('--statistic_folder', default='statistic_json')
-    parser.add_argument('--start_date', default='2023_11_08')  # 0000_00_00 2023_11_08
+    parser.add_argument('--start_date', default='0000_00_00')  # 0000_00_00 2023_11_08
     parser.add_argument('--finish_date', default='9999_99_99')
     parser.add_argument('--out_path', default='./Stat/')
     args = parser.parse_args()

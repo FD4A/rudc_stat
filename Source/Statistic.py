@@ -71,6 +71,8 @@ class GeneralStat:
         matchup = self.matchups.get(vs_general)
         self.matches_total += 1
         self.games_total += score1 + score2
+        if score1 + score2 == 0:
+            self.games_total = 1
         self.game_win += score1
         self.game_lose += score2
         if score1 > score2:

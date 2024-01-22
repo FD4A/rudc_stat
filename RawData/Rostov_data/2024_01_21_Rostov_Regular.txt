@@ -1,0 +1,17 @@
+location::Rostov
+level::Regular
+date::2024_01_21
+organizer::Constantin
+players::generals
+Dmitriy Ysachev :: Niv-Mizzet Reborn
+Egor Lubomihenko :: Ojer Axonil, Deepest Might
+Alexander Davidov :: Magda, Brazen Outlaw
+Vadim Lukaynov :: Atraxa, Grand Unifier
+Alexander Ptic :: Oloro, Ageless Ascetic
+Vasiliy Mishin :: Aesi, Tyrant of Gyre Strait
+Constantin Somkin :: Dragonlord Ojutai
+Ilya Snezhkov :: Jadar, Ghoulcaller of Nephalia
+Nikita Metallurg :: Roalesk, Apex Hybrid
+Alexey Viselnikov :: Kasla, the Broken Halo
+Round
+https://aetherhub.com/Tourney/RoundTourney/26660
