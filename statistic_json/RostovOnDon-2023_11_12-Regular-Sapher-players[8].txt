@@ -1,4 +1,4 @@
-Atraxa, Grand Unifier            matches:3    WM: 33.33%  LM: 33.33%  DM: 33.33% (wm:1   lm:1   dm:1)  games:1    WG:200.00% LG:200.00% (wg:   2 lg:   2) pick: 1   
+Atraxa, Grand Unifier            matches:3    WM: 33.33%  LM: 33.33%  DM: 33.33% (wm:1   lm:1   dm:1)  games:5    WG: 40.00% LG: 40.00% (wg:   2 lg:   2) pick: 1   
        vs Leovold, Emissary of Trest       (w:1 l:0 d:0), (2/0)
        vs God-Eternal Kefnet               (w:0 l:1 d:0), (0/2)
        vs Oloro, Ageless Ascetic           (w:0 l:0 d:1), (0/0)
@@ -23,7 +23,7 @@ Light-Paws, Emperor's Voice      matches:3    WM:  0.00%  LM:100.00%  DM:  0.00%
        vs Leovold, Emissary of Trest       (w:0 l:1 d:0), (0/2)
        vs Circu, Dimir Lobotomist          (w:0 l:1 d:0), (0/2)
 
-Oloro, Ageless Ascetic           matches:3    WM: 33.33%  LM:  0.00%  DM: 66.67% (wm:1   lm:0   dm:2)  games:1    WG:200.00% LG:100.00% (wg:   2 lg:   1) pick: 1   
+Oloro, Ageless Ascetic           matches:3    WM: 33.33%  LM:  0.00%  DM: 66.67% (wm:1   lm:0   dm:2)  games:4    WG: 50.00% LG: 25.00% (wg:   2 lg:   1) pick: 1   
        vs Thalia and The Gitrog Monster    (w:0 l:0 d:1), (1/1)
        vs Circu, Dimir Lobotomist          (w:1 l:0 d:0), (1/0)
        vs Atraxa, Grand Unifier            (w:0 l:0 d:1), (0/0)

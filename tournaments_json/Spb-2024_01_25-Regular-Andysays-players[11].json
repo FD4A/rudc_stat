@@ -1,0 +1,263 @@
+{
+    "date": "2024_01_25",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Грабовой Филипп",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Протасов Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Письменицкий Артем",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Муравьев Никита",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Барабаш Валентин",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Яковлев Николай",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Oloro, Ageless Ascetic"
+        ],
+        [
+            "Смирнов Александр",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Иванов Максим",
+            "Heliod, Sun-Crowned"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Барабаш Валентин",
+                "Муравьев Никита",
+                "Kinnan, Bonder Prodigy",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Ульянов Алексей",
+                "Heliod, Sun-Crowned",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Байков Аркадий",
+                "Dihada, Binder of Wills",
+                "Vial Smasher the Fierce",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Иванов Дмитрий",
+                "Slimefoot and Squee",
+                "Oloro, Ageless Ascetic",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Письменицкий Артем",
+                "Протасов Михаил",
+                "Omnath, Locus of Creation",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Байков Аркадий",
+                "Ульянов Алексей",
+                "Vial Smasher the Fierce",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Муравьев Никита",
+                "Slimefoot and Squee",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Смирнов Александр",
+                "Протасов Михаил",
+                "Light-Paws, Emperor's Voice",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Письменицкий Артем",
+                "Барабаш Валентин",
+                "Omnath, Locus of Creation",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Яковлев Николай",
+                "Oloro, Ageless Ascetic",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Байков Аркадий",
+                "Грабовой Филипп",
+                "Vial Smasher the Fierce",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Муравьев Никита",
+                "Aminatou, the Fateshifter",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Письменицкий Артем",
+                "Смирнов Александр",
+                "Omnath, Locus of Creation",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Яковлев Николай",
+                "Heliod, Sun-Crowned",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Иванов Дмитрий",
+                "Golos, Tireless Pilgrim",
+                "Oloro, Ageless Ascetic",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Грабовой Филипп",
+                "Письменицкий Артем",
+                "Slimefoot and Squee",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Байков Аркадий",
+                "Aminatou, the Fateshifter",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Яковлев Николай",
+                "Golos, Tireless Pilgrim",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Смирнов Александр",
+                "Муравьев Никита",
+                "Light-Paws, Emperor's Voice",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Барабаш Валентин",
+                "Heliod, Sun-Crowned",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

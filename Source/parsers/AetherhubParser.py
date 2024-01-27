@@ -140,7 +140,6 @@ class AetherhubParser:
         for i, pos in enumerate(pos_start_res):
             pos_end = page_source.find(end_, pos+len(start_result))
             res = page_source[pos + len(start_result):pos_end].strip().split(' - ')
-            print(f"!!!!!!!!!!!{res}")
             if res[0] == 'No results':
                 res_list.append(['No results', 'No results'])
             else:

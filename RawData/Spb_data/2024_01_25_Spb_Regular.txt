@@ -1,0 +1,18 @@
+location::Spb
+level::Regular
+date::2024_01_25
+organizer::Andysays
+players::generals
+Грабовой Филипп :: Slimefoot and Squee
+Протасов Михаил :: Aminatou, the Fateshifter
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Письменицкий Артем :: Omnath, Locus of Creation
+Байков Аркадий :: Vial Smasher the Fierce
+Муравьев Никита :: Dihada, Binder of Wills
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Яковлев Николай :: Dihada, Binder of Wills
+Иванов Дмитрий :: Oloro, Ageless Ascetic
+Смирнов Александр :: Light-Paws, Emperor's Voice
+Иванов Максим :: Heliod, Sun-Crowned
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/26750
