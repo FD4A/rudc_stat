@@ -28,6 +28,7 @@ Spb-2024_01_18-Regular-Andysays-players[10]
 Spb-2024_01_25-Regular-Andysays-players[11]
 Ussuriysk-2023_11_12-Regular-Usstiger-players[8]
 Ussuriysk-2023_11_26-Regular-Usstiger-players[7]
+Ussuriysk-2024_01_21-Regular-Usstiger-players[5]
 Volgograd-2023_12_03-Regular-Rombik34rus-players[6]
 
 
@@ -62,8 +63,8 @@ Akiri, Line-Slinger              matches:10   WM: 50.00%  LM: 50.00%  DM:  0.00%
        vs Saffi Eriksdotter                (w:0 l:1 d:0), (1/2)
        vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
 
-Aminatou, the Fateshifter        matches:39   WM: 56.41%  LM: 25.64%  DM: 17.95% (wm:22  lm:10  dm:7)  games:89   WG: 60.67% LG: 39.33% (wg:  54 lg:  35) pick: 10  
-       vs Octavia, Living Thesis           (w:1 l:0 d:0), (2/0)
+Aminatou, the Fateshifter        matches:43   WM: 58.14%  LM: 25.58%  DM: 16.28% (wm:25  lm:11  dm:7)  games:99   WG: 61.62% LG: 38.38% (wg:  61 lg:  38) pick: 11  
+       vs Octavia, Living Thesis           (w:1 l:1 d:0), (3/2)
        vs Shorikai, Genesis Engine         (w:2 l:1 d:0), (4/2)
        vs Grist, the Hunger Tide           (w:1 l:0 d:0), (2/1)
        vs Frodo, Adventurous Hobbit        (w:1 l:0 d:0), (2/1)
@@ -76,6 +77,9 @@ Aminatou, the Fateshifter        matches:39   WM: 56.41%  LM: 25.64%  DM: 17.95%
        vs Wilson, Refined Grizzly          (w:1 l:0 d:0), (2/0)
         + Guild Artisan                   
        vs Selvala, Explorer Returned       (w:0 l:0 d:1), (1/1)
+       vs Raffine, Scheming Seer           (w:1 l:0 d:0), (2/1)
+       vs Najeela, the Blade-Blossom       (w:1 l:0 d:0), (2/0)
+       vs Tymaret, the Murder King         (w:1 l:0 d:0), (2/0)
        vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
        vs Kinnan, Bonder Prodigy           (w:1 l:2 d:0), (3/4)
        vs The Reality Chip                 (w:1 l:0 d:0), (2/1)
@@ -809,6 +813,12 @@ Melira, the Living Cure          matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00%
        vs Teysa, Orzhov Scion              (w:1 l:0 d:0), (2/1)
        vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (0/2)
 
+Najeela, the Blade-Blossom       matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 55.56% LG: 44.44% (wg:   5 lg:   4) pick: 1   
+       vs Tymaret, the Murder King         (w:1 l:0 d:0), (2/0)
+       vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
+       vs Octavia, Living Thesis           (w:1 l:0 d:0), (2/0)
+       vs Raffine, Scheming Seer           (w:0 l:1 d:0), (1/2)
+
 Niv-Mizzet Reborn                matches:4    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:4   lm:0   dm:0)  games:9    WG: 77.78% LG: 22.22% (wg:   7 lg:   2) pick: 1   
        vs Oloro, Ageless Ascetic           (w:1 l:0 d:0), (1/0)
        vs Aesi, Tyrant of Gyre Strait      (w:1 l:0 d:0), (2/0)
@@ -830,11 +840,14 @@ Obyra, Dreaming Duelist          matches:9    WM: 22.22%  LM: 77.78%  DM:  0.00%
        vs Zimone, Quandrix Prodigy         (w:0 l:1 d:0), (0/2)
        vs Beluna Grandsquall               (w:1 l:0 d:0), (2/0)
 
-Octavia, Living Thesis           matches:9    WM: 22.22%  LM: 77.78%  DM:  0.00% (wm:2   lm:7   dm:0)  games:23   WG: 30.43% LG: 69.57% (wg:   7 lg:  16) pick: 3   
-       vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
+Octavia, Living Thesis           matches:13   WM: 30.77%  LM: 69.23%  DM:  0.00% (wm:4   lm:9   dm:0)  games:33   WG: 36.36% LG: 63.64% (wg:  12 lg:  21) pick: 4   
+       vs Aminatou, the Fateshifter        (w:1 l:1 d:0), (2/3)
        vs Frodo, Adventurous Hobbit        (w:1 l:0 d:0), (2/1)
         + Sam, Loyal Attendant            
        vs Asmoranomardicadaistinaculdacar  (w:0 l:2 d:0), (1/4)
+       vs Tymaret, the Murder King         (w:1 l:0 d:0), (2/0)
+       vs Raffine, Scheming Seer           (w:0 l:1 d:0), (1/2)
+       vs Najeela, the Blade-Blossom       (w:0 l:1 d:0), (0/2)
        vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (0/2)
        vs Aragorn, King of Gondor          (w:0 l:1 d:0), (0/2)
        vs Bjorna, Nightfall Alchemist      (w:0 l:1 d:0), (1/2)
@@ -955,7 +968,11 @@ Queen Marchesa                   matches:10   WM: 20.00%  LM: 60.00%  DM: 20.00%
        vs Sythis, Harvest's Hand           (w:0 l:1 d:0), (1/2)
        vs Marath, Will of the Wild         (w:0 l:1 d:0), (0/2)
 
-Raffine, Scheming Seer           matches:8    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:6   lm:2   dm:0)  games:23   WG: 56.52% LG: 43.48% (wg:  13 lg:  10) pick: 1   
+Raffine, Scheming Seer           matches:12   WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:9   lm:3   dm:0)  games:34   WG: 58.82% LG: 41.18% (wg:  20 lg:  14) pick: 2   
+       vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (1/2)
+       vs Octavia, Living Thesis           (w:1 l:0 d:0), (2/1)
+       vs Tymaret, the Murder King         (w:1 l:0 d:0), (2/0)
+       vs Najeela, the Blade-Blossom       (w:1 l:0 d:0), (2/1)
        vs Torens, Fist of the Angels       (w:1 l:0 d:0), (2/1)
        vs Kess, Dissident Mage             (w:1 l:0 d:0), (2/1)
        vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/1)
@@ -1231,7 +1248,11 @@ Tovolar, Dire Overlord           matches:2    WM:  0.00%  LM:100.00%  DM:  0.00%
        vs Azusa, Lost but Seeking          (w:0 l:1 d:0), (0/2)
        vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
 
-Tymaret, the Murder King         matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:1   lm:4   dm:0)  games:12   WG: 25.00% LG: 75.00% (wg:   3 lg:   9) pick: 1   
+Tymaret, the Murder King         matches:9    WM: 11.11%  LM: 88.89%  DM:  0.00% (wm:1   lm:8   dm:0)  games:20   WG: 15.00% LG: 85.00% (wg:   3 lg:  17) pick: 2   
+       vs Najeela, the Blade-Blossom       (w:0 l:1 d:0), (0/2)
+       vs Octavia, Living Thesis           (w:0 l:1 d:0), (0/2)
+       vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
+       vs Raffine, Scheming Seer           (w:0 l:1 d:0), (0/2)
        vs Omnath, Locus of Creation        (w:0 l:2 d:0), (1/4)
        vs Samut, Vizier of Naktamun        (w:1 l:0 d:0), (2/1)
        vs Azusa, Lost but Seeking          (w:0 l:1 d:0), (0/2)

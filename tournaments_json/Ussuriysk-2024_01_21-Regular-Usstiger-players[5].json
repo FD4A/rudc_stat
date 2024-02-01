@@ -1,0 +1,141 @@
+{
+    "date": "2024_01_21",
+    "location": "Ussuriysk",
+    "level": "Regular",
+    "organizer": "Usstiger",
+    "roundsCount": 5,
+    "players": [
+        [
+            "Вячеслав Ш",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Кирилл С",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Матвей Б",
+            "Najeela, the Blade-Blossom"
+        ],
+        [
+            "Владислав М",
+            "Octavia, Living Thesis"
+        ],
+        [
+            "Дмитрий С",
+            "Tymaret, the Murder King"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Кирилл С",
+                "Вячеслав Ш",
+                "Raffine, Scheming Seer",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий С",
+                "Матвей Б",
+                "Tymaret, the Murder King",
+                "Najeela, the Blade-Blossom",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Владислав М",
+                "Дмитрий С",
+                "Octavia, Living Thesis",
+                "Tymaret, the Murder King",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Матвей Б",
+                "Aminatou, the Fateshifter",
+                "Najeela, the Blade-Blossom",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Владислав М",
+                "Кирилл С",
+                "Octavia, Living Thesis",
+                "Raffine, Scheming Seer",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Дмитрий С",
+                "Aminatou, the Fateshifter",
+                "Tymaret, the Murder King",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Владислав М",
+                "Матвей Б",
+                "Octavia, Living Thesis",
+                "Najeela, the Blade-Blossom",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий С",
+                "Кирилл С",
+                "Tymaret, the Murder King",
+                "Raffine, Scheming Seer",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Вячеслав Ш",
+                "Владислав М",
+                "Aminatou, the Fateshifter",
+                "Octavia, Living Thesis",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Матвей Б",
+                "Кирилл С",
+                "Najeela, the Blade-Blossom",
+                "Raffine, Scheming Seer",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

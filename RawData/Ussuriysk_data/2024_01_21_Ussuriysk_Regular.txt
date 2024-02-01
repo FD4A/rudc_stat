@@ -1,0 +1,12 @@
+location::Ussuriysk
+level::Regular
+date::2024_01_21
+organizer::Usstiger
+players::generals
+Вячеслав Ш :: Aminatou, the Fateshifter
+Кирилл С :: Raffine, Scheming Seer
+Матвей Б :: Najeela, the Blade-Blossom
+Владислав М :: Octavia, Living Thesis
+Дмитрий С :: Tymaret, the Murder King
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/26652
