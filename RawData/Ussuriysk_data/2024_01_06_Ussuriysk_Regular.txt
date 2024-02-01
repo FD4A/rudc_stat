@@ -1,0 +1,13 @@
+location::Ussuriysk
+level::Regular
+date::2024_01_06
+organizer::Usstiger
+players::generals
+Алексей Ж :: Zimona, Quandrix Prodigy
+Вячеслав Ш :: Aminatou, the Fateshifter
+Кирилл С :: Raffine, Scheming Seer
+Владислав М :: Octavia, Living Thesis
+Матвей Б :: Leovold, Emissary of Trest
+Кирилл Кр :: Urza, Chief Artificier
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/26272

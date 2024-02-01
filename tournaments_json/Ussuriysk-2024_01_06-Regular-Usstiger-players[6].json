@@ -1,0 +1,131 @@
+{
+    "date": "2024_01_06",
+    "location": "Ussuriysk",
+    "level": "Regular",
+    "organizer": "Usstiger",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Алексей Ж",
+            "Zimone, Quandrix Prodigy"
+        ],
+        [
+            "Вячеслав Ш",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Кирилл С",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Владислав М",
+            "Octavia, Living Thesis"
+        ],
+        [
+            "Матвей Б",
+            "Leovold, Emissary of Trest"
+        ],
+        [
+            "Кирилл Кр",
+            "Urza, Chief Artificer"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Кирилл Кр",
+                "Алексей Ж",
+                "Urza, Chief Artificer",
+                "Zimone, Quandrix Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Вячеслав Ш",
+                "Raffine, Scheming Seer",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Владислав М",
+                "Матвей Б",
+                "Octavia, Living Thesis",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Владислав М",
+                "Алексей Ж",
+                "Octavia, Living Thesis",
+                "Zimone, Quandrix Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Матвей Б",
+                "Raffine, Scheming Seer",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Кирилл Кр",
+                "Aminatou, the Fateshifter",
+                "Urza, Chief Artificer",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей Ж",
+                "Кирилл С",
+                "Zimone, Quandrix Prodigy",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Владислав М",
+                "Aminatou, the Fateshifter",
+                "Octavia, Living Thesis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кирилл Кр",
+                "Матвей Б",
+                "Urza, Chief Artificer",
+                "Leovold, Emissary of Trest",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}
