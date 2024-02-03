@@ -1,0 +1,17 @@
+location::Spb
+level::Regular
+date::2024_02_01
+organizer::Andysays
+players::generals
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Протасов Михаил :: Aminatou, the Fateshifter
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Муравьев Роман :: Dihada, Binder of Wills
+Олифер Егор :: Aminatou, the Fateshifter
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Муравьев Никита :: Kytheon, Hero of Akros
+Смирнов Александр :: Light-Paws, Emperor's Voice
+Саушкин Андрей :: Omnath, Locus of Creation
+Шабалов Михаил :: The Reality Chip
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/26947

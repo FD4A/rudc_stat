@@ -1,0 +1,239 @@
+{
+    "date": "2024_02_01",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Протасов Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Олифер Егор",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Барабаш Валентин",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Муравьев Никита",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Смирнов Александр",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Саушкин Андрей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Шабалов Михаил",
+            "The Reality Chip"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Ульянов Алексей",
+                "Муравьев Никита",
+                "Golos, Tireless Pilgrim",
+                "Kytheon, Hero of Akros",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Шабалов Михаил",
+                "Олифер Егор",
+                "The Reality Chip",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Протасов Михаил",
+                "Omnath, Locus of Creation",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Родюков Федор",
+                "Kinnan, Bonder Prodigy",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Смирнов Александр",
+                "Dihada, Binder of Wills",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Муравьев Роман",
+                "Олифер Егор",
+                "Dihada, Binder of Wills",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Протасов Михаил",
+                "Ghyrson Starn, Kelermorph",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Шабалов Михаил",
+                "Golos, Tireless Pilgrim",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Барабаш Валентин",
+                "Kytheon, Hero of Akros",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Смирнов Александр",
+                "Omnath, Locus of Creation",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Олифер Егор",
+                "Ульянов Алексей",
+                "Aminatou, the Fateshifter",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Муравьев Никита",
+                "Ghyrson Starn, Kelermorph",
+                "Kytheon, Hero of Akros",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Саушкин Андрей",
+                "Dihada, Binder of Wills",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Смирнов Александр",
+                "Aminatou, the Fateshifter",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Ульянов Алексей",
+                "Родюков Федор",
+                "Golos, Tireless Pilgrim",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Олифер Егор",
+                "Aminatou, the Fateshifter",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Муравьев Никита",
+                "Dihada, Binder of Wills",
+                "Kytheon, Hero of Akros",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Барабаш Валентин",
+                "Omnath, Locus of Creation",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}
