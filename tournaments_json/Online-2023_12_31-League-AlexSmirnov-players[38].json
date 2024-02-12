@@ -1,0 +1,1341 @@
+{
+    "date": "2023_12_31",
+    "location": "Online",
+    "level": "League",
+    "organizer": "AlexSmirnov",
+    "roundsCount": 9,
+    "players": [
+        [
+            "Курмакаев, Игорь",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Барабаш, Валентин",
+            "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Лисин, Дмитрий",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Байков, Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Долганов, Матвей",
+            "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower"
+        ],
+        [
+            "Давыдов, Евгений",
+            "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower"
+        ],
+        [
+            "Трофименко, Даниил",
+            "Leovold, Emissary of Trest"
+        ],
+        [
+            "Поспелов, Александр",
+            "Gix, Yawgmoth Praetor"
+        ],
+        [
+            "Семенов, Дмитрий",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Бутримов, Виктор",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Шубенин, Илья",
+            "God-Eternal Kefnet"
+        ],
+        [
+            "Воронцов, Иван",
+            "Hakbal of the Surging Soul"
+        ],
+        [
+            "Козлов, Максим",
+            "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist"
+        ],
+        [
+            "Кузьменко, Иван",
+            "Wernog, Rider's Chaplain :+: Bjorna, Nightfall Alchemist :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Серпутько, Слава",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Орешкин, Дмитрий",
+            "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist"
+        ],
+        [
+            "Костин, Андрей",
+            "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Сухов, Никита",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Мещеряков, Максим",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Сафаргалиев, Евгений",
+            "Kellan, the Fae-Blooded"
+        ],
+        [
+            "Ламзин, Сережа",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Миронов, Стефан",
+            "Atraxa, Praetors' Voice"
+        ],
+        [
+            "Ломасов, Дмитрий",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Краснов, Илья",
+            "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower"
+        ],
+        [
+            "Стрельцов, Артем",
+            "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower"
+        ],
+        [
+            "Сайфутдинов, Тимур",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Самусенко, Александр",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Давыдов, Александр",
+            "Magda, Brazen Outlaw"
+        ],
+        [
+            "Мурыгин, Петр",
+            "Ertai Resurrected"
+        ],
+        [
+            "Яйлоян, Евгений",
+            "Atraxa, Grand Unifier"
+        ],
+        [
+            "Васинов, Николай",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Сидоров, Иван",
+            "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Пила, Иван",
+            "Elminster"
+        ],
+        [
+            "Иванов, Дмитрий II",
+            "Rona, Herald of Invasion"
+        ],
+        [
+            "Говорун, Вадим",
+            "Tergrid, God of Fright"
+        ],
+        [
+            "Александров, Дмитрий",
+            "The Beamtown Bullies"
+        ],
+        [
+            "Гордиенко, Валентин",
+            "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower"
+        ],
+        [
+            "Иванов, Антон",
+            "Erayo, Soratami Ascendant"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Сухов, Никита",
+                "Васинов, Николай",
+                "Aminatou, the Fateshifter",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мещеряков, Максим",
+                "Байков, Аркадий",
+                "Asmoranomardicadaistinaculdacar",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Краснов, Илья",
+                "Воронцов, Иван",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Hakbal of the Surging Soul",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ломасов, Дмитрий",
+                "Поспелов, Александр",
+                "Hogaak, Arisen Necropolis",
+                "Gix, Yawgmoth Praetor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Серпутько, Слава",
+                "Яйлоян, Евгений",
+                "Malcolm, Alluring Scoundrel",
+                "Atraxa, Grand Unifier",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Трофименко, Даниил",
+                "Курмакаев, Игорь",
+                "Leovold, Emissary of Trest",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Костин, Андрей",
+                "Стрельцов, Артем",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мурыгин, Петр",
+                "Семенов, Дмитрий",
+                "Ertai Resurrected",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Бутримов, Виктор",
+                "Козлов, Максим",
+                "Grist, the Hunger Tide",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сафаргалиев, Евгений",
+                "Сайфутдинов, Тимур",
+                "Kellan, the Fae-Blooded",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш, Валентин",
+                "Миронов, Стефан",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                "Atraxa, Praetors' Voice",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов, Дмитрий II",
+                "Давыдов, Евгений",
+                "Rona, Herald of Invasion",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Давыдов, Александр",
+                "Говорун, Вадим",
+                "Magda, Brazen Outlaw",
+                "Tergrid, God of Fright",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сидоров, Иван",
+                "Ламзин, Сережа",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кузьменко, Иван",
+                "Орешкин, Дмитрий",
+                "Wernog, Rider's Chaplain :+: Bjorna, Nightfall Alchemist :++: Lurrus of the Dream-Den",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Пила, Иван",
+                "Долганов, Матвей",
+                "Elminster",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лисин, Дмитрий",
+                "Шубенин, Илья",
+                "Kytheon, Hero of Akros",
+                "God-Eternal Kefnet",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Самусенко, Александр",
+                "Александров, Дмитрий",
+                "Omnath, Locus of Creation",
+                "The Beamtown Bullies",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов, Антон",
+                "Гордиенко, Валентин",
+                "Erayo, Soratami Ascendant",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Мещеряков, Максим",
+                "Мурыгин, Петр",
+                "Asmoranomardicadaistinaculdacar",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лисин, Дмитрий",
+                "Ломасов, Дмитрий",
+                "Kytheon, Hero of Akros",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Самусенко, Александр",
+                "Долганов, Матвей",
+                "Omnath, Locus of Creation",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сухов, Никита",
+                "Сайфутдинов, Тимур",
+                "Aminatou, the Fateshifter",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Бутримов, Виктор",
+                "Серпутько, Слава",
+                "Grist, the Hunger Tide",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Гордиенко, Валентин",
+                "Орешкин, Дмитрий",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Давыдов, Александр",
+                "Стрельцов, Артем",
+                "Magda, Brazen Outlaw",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов, Дмитрий II",
+                "Ламзин, Сережа",
+                "Rona, Herald of Invasion",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Краснов, Илья",
+                "Трофименко, Даниил",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш, Валентин",
+                "Курмакаев, Игорь",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Яйлоян, Евгений",
+                "Миронов, Стефан",
+                "Atraxa, Grand Unifier",
+                "Atraxa, Praetors' Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Говорун, Вадим",
+                "Пила, Иван",
+                "Tergrid, God of Fright",
+                "Elminster",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александров, Дмитрий",
+                "Поспелов, Александр",
+                "The Beamtown Bullies",
+                "Gix, Yawgmoth Praetor",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Козлов, Максим",
+                "Сидоров, Иван",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Байков, Аркадий",
+                "Шубенин, Илья",
+                "Vial Smasher the Fierce",
+                "God-Eternal Kefnet",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Костин, Андрей",
+                "Иванов, Антон",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                "Erayo, Soratami Ascendant",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васинов, Николай",
+                "Воронцов, Иван",
+                "Kinnan, Bonder Prodigy",
+                "Hakbal of the Surging Soul",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сафаргалиев, Евгений",
+                "Кузьменко, Иван",
+                "Kellan, the Fae-Blooded",
+                "Wernog, Rider's Chaplain :+: Bjorna, Nightfall Alchemist :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Семенов, Дмитрий",
+                "Давыдов, Евгений",
+                "Dihada, Binder of Wills",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Гордиенко, Валентин",
+                "Бутримов, Виктор",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Самусенко, Александр",
+                "Краснов, Илья",
+                "Omnath, Locus of Creation",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мещеряков, Максим",
+                "Ламзин, Сережа",
+                "Asmoranomardicadaistinaculdacar",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сухов, Никита",
+                "Лисин, Дмитрий",
+                "Aminatou, the Fateshifter",
+                "Kytheon, Hero of Akros",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Давыдов, Александр",
+                "Мурыгин, Петр",
+                "Magda, Brazen Outlaw",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Серпутько, Слава",
+                "Шубенин, Илья",
+                "Malcolm, Alluring Scoundrel",
+                "God-Eternal Kefnet",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Яйлоян, Евгений",
+                "Орешкин, Дмитрий",
+                "Atraxa, Grand Unifier",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васинов, Николай",
+                "Сидоров, Иван",
+                "Kinnan, Bonder Prodigy",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сафаргалиев, Евгений",
+                "Иванов, Дмитрий II",
+                "Kellan, the Fae-Blooded",
+                "Rona, Herald of Invasion",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Долганов, Матвей",
+                "Ломасов, Дмитрий",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поспелов, Александр",
+                "Трофименко, Даниил",
+                "Gix, Yawgmoth Praetor",
+                "Leovold, Emissary of Trest",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сайфутдинов, Тимур",
+                "Говорун, Вадим",
+                "Omnath, Locus of Creation",
+                "Tergrid, God of Fright",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александров, Дмитрий",
+                "Семенов, Дмитрий",
+                "The Beamtown Bullies",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Костин, Андрей",
+                "Барабаш, Валентин",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Курмакаев, Игорь",
+                "Стрельцов, Артем",
+                "Aminatou, the Fateshifter",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Байков, Аркадий",
+                "Миронов, Стефан",
+                "Vial Smasher the Fierce",
+                "Atraxa, Praetors' Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Пила, Иван",
+                "Воронцов, Иван",
+                "Elminster",
+                "Hakbal of the Surging Soul",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Давыдов, Евгений",
+                "Кузьменко, Иван",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Wernog, Rider's Chaplain :+: Bjorna, Nightfall Alchemist :++: Lurrus of the Dream-Den",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов, Антон",
+                "Козлов, Максим",
+                "Erayo, Soratami Ascendant",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов, Илья",
+                "Лисин, Дмитрий",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Kytheon, Hero of Akros",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Давыдов, Александр",
+                "Гордиенко, Валентин",
+                "Magda, Brazen Outlaw",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ламзин, Сережа",
+                "Сафаргалиев, Евгений",
+                "Slimefoot and Squee",
+                "Kellan, the Fae-Blooded",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васинов, Николай",
+                "Семенов, Дмитрий",
+                "Kinnan, Bonder Prodigy",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сухов, Никита",
+                "Самусенко, Александр",
+                "Aminatou, the Fateshifter",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Серпутько, Слава",
+                "Трофименко, Даниил",
+                "Malcolm, Alluring Scoundrel",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Бутримов, Виктор",
+                "Мещеряков, Максим",
+                "Grist, the Hunger Tide",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Костин, Андрей",
+                "Курмакаев, Игорь",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ломасов, Дмитрий",
+                "Сайфутдинов, Тимур",
+                "Hogaak, Arisen Necropolis",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Яйлоян, Евгений",
+                "Говорун, Вадим",
+                "Atraxa, Grand Unifier",
+                "Tergrid, God of Fright",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Шубенин, Илья",
+                "Кузьменко, Иван",
+                "God-Eternal Kefnet",
+                "Wernog, Rider's Chaplain :+: Bjorna, Nightfall Alchemist :++: Lurrus of the Dream-Den",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Стрельцов, Артем",
+                "Козлов, Максим",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Долганов, Матвей",
+                "Сидоров, Иван",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов, Дмитрий II",
+                "Барабаш, Валентин",
+                "Rona, Herald of Invasion",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Орешкин, Дмитрий",
+                "Байков, Аркадий",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Воронцов, Иван",
+                "Поспелов, Александр",
+                "Hakbal of the Surging Soul",
+                "Gix, Yawgmoth Praetor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов, Антон",
+                "Александров, Дмитрий",
+                "Erayo, Soratami Ascendant",
+                "The Beamtown Bullies",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Миронов, Стефан",
+                "Пила, Иван",
+                "Atraxa, Praetors' Voice",
+                "Elminster",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов, Илья",
+                "Давыдов, Александр",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Magda, Brazen Outlaw",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ламзин, Сережа",
+                "Семенов, Дмитрий",
+                "Slimefoot and Squee",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Самусенко, Александр",
+                "Курмакаев, Игорь",
+                "Omnath, Locus of Creation",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Гордиенко, Валентин",
+                "Лисин, Дмитрий",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Kytheon, Hero of Akros",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Серпутько, Слава",
+                "Сайфутдинов, Тимур",
+                "Malcolm, Alluring Scoundrel",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Бутримов, Виктор",
+                "Сафаргалиев, Евгений",
+                "Grist, the Hunger Tide",
+                "Kellan, the Fae-Blooded",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Трофименко, Даниил",
+                "Яйлоян, Евгений",
+                "Leovold, Emissary of Trest",
+                "Atraxa, Grand Unifier",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сухов, Никита",
+                "Ломасов, Дмитрий",
+                "Aminatou, the Fateshifter",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Долганов, Матвей",
+                "Костин, Андрей",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Орешкин, Дмитрий",
+                "Васинов, Николай",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кузьменко, Иван",
+                "Стрельцов, Артем",
+                "Wernog, Rider's Chaplain :+: Bjorna, Nightfall Alchemist :++: Lurrus of the Dream-Den",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Говорун, Вадим",
+                "Поспелов, Александр",
+                "Tergrid, God of Fright",
+                "Gix, Yawgmoth Praetor",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов, Дмитрий II",
+                "Мещеряков, Максим",
+                "Rona, Herald of Invasion",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Давыдов, Евгений",
+                "Сидоров, Иван",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Козлов, Максим",
+                "Шубенин, Илья",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                "God-Eternal Kefnet",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Миронов, Стефан",
+                "Александров, Дмитрий",
+                "Atraxa, Praetors' Voice",
+                "The Beamtown Bullies",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Байков, Аркадий",
+                "Барабаш, Валентин",
+                "Vial Smasher the Fierce",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов, Илья",
+                "Гордиенко, Валентин",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Самусенко, Александр",
+                "Давыдов, Александр",
+                "Omnath, Locus of Creation",
+                "Magda, Brazen Outlaw",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Бутримов, Виктор",
+                "Ламзин, Сережа",
+                "Grist, the Hunger Tide",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сайфутдинов, Тимур",
+                "Семенов, Дмитрий",
+                "Omnath, Locus of Creation",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лисин, Дмитрий",
+                "Серпутько, Слава",
+                "Kytheon, Hero of Akros",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Орешкин, Дмитрий",
+                "Мещеряков, Максим",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Курмакаев, Игорь",
+                "Яйлоян, Евгений",
+                "Aminatou, the Fateshifter",
+                "Atraxa, Grand Unifier",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Долганов, Матвей",
+                "Кузьменко, Иван",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Wernog, Rider's Chaplain :+: Bjorna, Nightfall Alchemist :++: Lurrus of the Dream-Den",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поспелов, Александр",
+                "Сухов, Никита",
+                "Gix, Yawgmoth Praetor",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ломасов, Дмитрий",
+                "Трофименко, Даниил",
+                "Hogaak, Arisen Necropolis",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сафаргалиев, Евгений",
+                "Говорун, Вадим",
+                "Kellan, the Fae-Blooded",
+                "Tergrid, God of Fright",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александров, Дмитрий",
+                "Стрельцов, Артем",
+                "The Beamtown Bullies",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Давыдов, Евгений",
+                "Васинов, Николай",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов, Дмитрий II",
+                "Костин, Андрей",
+                "Rona, Herald of Invasion",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Козлов, Максим",
+                "Барабаш, Валентин",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Байков, Аркадий",
+                "Сидоров, Иван",
+                "Vial Smasher the Fierce",
+                "Akiri, Line-Slinger :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Миронов, Стефан",
+                "Шубенин, Илья",
+                "Atraxa, Praetors' Voice",
+                "God-Eternal Kefnet",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов, Илья",
+                "Бутримов, Виктор",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Гордиенко, Валентин",
+                "Сайфутдинов, Тимур",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ламзин, Сережа",
+                "Самусенко, Александр",
+                "Slimefoot and Squee",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лисин, Дмитрий",
+                "Давыдов, Александр",
+                "Kytheon, Hero of Akros",
+                "Magda, Brazen Outlaw",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов, Илья",
+                "Сайфутдинов, Тимур",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ламзин, Сережа",
+                "Давыдов, Александр",
+                "Slimefoot and Squee",
+                "Magda, Brazen Outlaw",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов, Илья",
+                "Давыдов, Александр",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Magda, Brazen Outlaw",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}
