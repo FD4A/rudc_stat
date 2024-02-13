@@ -1,0 +1,16 @@
+location::Ussuriysk
+level::Regular
+date::2024_02_11
+organizer::Usstiger
+players::generals
+Роман Р :: Arahbo, Roar of the World
+Матвей Б :: Atraxa, Grand Unifier
+Алексей Ж :: Slogurk, the Overslime
+Матвей К :: Asmoranomardicadaistinaculdacar
+Владислав М :: Octavia, Living Thesis
+Кирилл С :: Saskia the Unyielding
+Вячеслав Ш :: Xavier Sal, Infested Captain
+Андрей Е :: Queen Marchesa
+Вова Н :: Krenko, Mob Boss
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/27213

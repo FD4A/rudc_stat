@@ -1,0 +1,215 @@
+{
+    "date": "2024_02_11",
+    "location": "Ussuriysk",
+    "level": "Regular",
+    "organizer": "Usstiger",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Роман Р",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Матвей Б",
+            "Atraxa, Grand Unifier"
+        ],
+        [
+            "Алексей Ж",
+            "Slogurk, the Overslime"
+        ],
+        [
+            "Матвей К",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Владислав М",
+            "Octavia, Living Thesis"
+        ],
+        [
+            "Кирилл С",
+            "Saskia the Unyielding"
+        ],
+        [
+            "Вячеслав Ш",
+            "Xavier Sal, Infested Captain"
+        ],
+        [
+            "Андрей Е",
+            "Queen Marchesa"
+        ],
+        [
+            "Вова Н",
+            "Krenko, Mob Boss"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Роман Р",
+                "Матвей Б",
+                "Arahbo, Roar of the World",
+                "Atraxa, Grand Unifier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вова Н",
+                "Алексей Ж",
+                "Krenko, Mob Boss",
+                "Slogurk, the Overslime",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Андрей Е",
+                "Вячеслав Ш",
+                "Queen Marchesa",
+                "Xavier Sal, Infested Captain",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Матвей К",
+                "Saskia the Unyielding",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей Ж",
+                "Роман Р",
+                "Slogurk, the Overslime",
+                "Arahbo, Roar of the World",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Владислав М",
+                "Матвей К",
+                "Octavia, Living Thesis",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Вова Н",
+                "Xavier Sal, Infested Captain",
+                "Krenko, Mob Boss",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Андрей Е",
+                "Матвей Б",
+                "Queen Marchesa",
+                "Atraxa, Grand Unifier",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Роман Р",
+                "Матвей К",
+                "Arahbo, Roar of the World",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Матвей Б",
+                "Xavier Sal, Infested Captain",
+                "Atraxa, Grand Unifier",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Владислав М",
+                "Вова Н",
+                "Octavia, Living Thesis",
+                "Krenko, Mob Boss",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Алексей Ж",
+                "Saskia the Unyielding",
+                "Slogurk, the Overslime",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Роман Р",
+                "Владислав М",
+                "Arahbo, Roar of the World",
+                "Octavia, Living Thesis",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Матвей К",
+                "Матвей Б",
+                "Asmoranomardicadaistinaculdacar",
+                "Atraxa, Grand Unifier",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Андрей Е",
+                "Slogurk, the Overslime",
+                "Queen Marchesa",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Вова Н",
+                "Saskia the Unyielding",
+                "Krenko, Mob Boss",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

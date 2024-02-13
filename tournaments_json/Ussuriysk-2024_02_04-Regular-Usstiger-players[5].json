@@ -1,0 +1,141 @@
+{
+    "date": "2024_02_04",
+    "location": "Ussuriysk",
+    "level": "Regular",
+    "organizer": "Usstiger",
+    "roundsCount": 5,
+    "players": [
+        [
+            "Матвей К",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Вячеслав Ш",
+            "Queen Marchesa"
+        ],
+        [
+            "Матвей Б",
+            "Atraxa, Grand Unifier"
+        ],
+        [
+            "Дмитрий С",
+            "Tymaret, the Murder King"
+        ],
+        [
+            "Кирилл С",
+            "Don Andres, the Renegade"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Кирилл С",
+                "Матвей К",
+                "Don Andres, the Renegade",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Матвей Б",
+                "Дмитрий С",
+                "Atraxa, Grand Unifier",
+                "Tymaret, the Murder King",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Вячеслав Ш",
+                "Матвей К",
+                "Queen Marchesa",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий С",
+                "Кирилл С",
+                "Tymaret, the Murder King",
+                "Don Andres, the Renegade",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Вячеслав Ш",
+                "Матвей Б",
+                "Queen Marchesa",
+                "Atraxa, Grand Unifier",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дмитрий С",
+                "Матвей К",
+                "Tymaret, the Murder King",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Кирилл С",
+                "Матвей Б",
+                "Don Andres, the Renegade",
+                "Atraxa, Grand Unifier",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Дмитрий С",
+                "Queen Marchesa",
+                "Tymaret, the Murder King",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Матвей К",
+                "Матвей Б",
+                "Asmoranomardicadaistinaculdacar",
+                "Atraxa, Grand Unifier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Кирилл С",
+                "Queen Marchesa",
+                "Don Andres, the Renegade",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

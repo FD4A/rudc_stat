@@ -1,0 +1,12 @@
+location::Ussuriysk
+level::Regular
+date::2024_02_04
+organizer::Usstiger
+players::generals
+Матвей К :: Asmoranomardicadaistinaculdacar
+Вячеслав Ш :: Queen Marchesa
+Матвей Б :: Atraxa, Grand Unifier
+Дмитрий С :: Tymaret, the Murder King
+Кирилл С :: Don Andres, the Renegade
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/27023
