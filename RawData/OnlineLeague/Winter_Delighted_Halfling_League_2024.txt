@@ -3,7 +3,7 @@ level::League
 date::2024_02_07
 organizer::AlexSmirnov
 players::generals
-Давыдов, Евгений :: Gut, True Soul Zealot :+: Acolyte of Bahamut
+Давыдов, Евгений :: Selvala, Explorer Returned
 Мещеряков, Максим :: Wernog, Rider's Chaplain :+: Bjorna, Nightfall Alchemist :++: Lurrus of the Dream-Den
 Лисин, Дмитрий :: Kytheon, Hero of Akros
 Яйлоян, Евгений :: Atraxa, Grand Unifier

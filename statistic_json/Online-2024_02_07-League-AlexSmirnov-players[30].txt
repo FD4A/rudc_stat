@@ -7,8 +7,7 @@ Atraxa, Grand Unifier            matches:5    WM:  0.00%  LM:100.00%  DM:  0.00%
        vs Kytheon, Hero of Akros           (w:0 l:1 d:0), (1/2)
        vs Raffine, Scheming Seer           (w:0 l:1 d:0), (1/2)
        vs Gix, Yawgmoth Praetor            (w:0 l:1 d:0), (1/2)
-       vs Gut, True Soul Zealot            (w:0 l:1 d:0), (0/2)
-        + Acolyte of Bahamut              
+       vs Selvala, Explorer Returned       (w:0 l:1 d:0), (0/2)
        vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (0/2)
 
 Dihada, Binder of Wills          matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:16   WG: 62.50% LG: 37.50% (wg:  10 lg:   6) pick: 1   
@@ -35,17 +34,6 @@ Gix, Yawgmoth Praetor            matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00%
        vs Ertai Resurrected                (w:0 l:1 d:0), (1/2)
        vs Raffine, Scheming Seer           (w:0 l:1 d:0), (0/2)
 
-Gut, True Soul Zealot            matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:1   lm:4   dm:0)  games:12   WG: 33.33% LG: 66.67% (wg:   4 lg:   8) pick: 1   
-  + Acolyte of Bahamut          
-       vs Wernog, Rider's Chaplain         (w:0 l:1 d:0), (0/2)
-        + Bjorna, Nightfall Alchemist     
-        + Lurrus of the Dream-Den         
-       vs Leovold, Emissary of Trest       (w:0 l:1 d:0), (0/2)
-       vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (1/2)
-       vs Atraxa, Grand Unifier            (w:1 l:0 d:0), (2/0)
-       vs Gut, True Soul Zealot            (w:0 l:1 d:0), (1/2)
-        + Agent of the Iron Throne        
-
 Gut, True Soul Zealot            matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:12   WG: 41.67% LG: 58.33% (wg:   5 lg:   7) pick: 1   
   + Agent of the Iron Throne    
        vs Kinnan, Bonder Prodigy           (w:1 l:0 d:0), (2/0)
@@ -54,8 +42,7 @@ Gut, True Soul Zealot            matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00%
        vs Indoraptor, the Perfect Hybrid   (w:0 l:1 d:0), (1/2)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
         + Tana, the Bloodsower            
-       vs Gut, True Soul Zealot            (w:1 l:0 d:0), (2/1)
-        + Acolyte of Bahamut              
+       vs Selvala, Explorer Returned       (w:1 l:0 d:0), (2/1)
 
 Gut, True Soul Zealot            matches:8    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:6   lm:2   dm:0)  games:20   WG: 65.00% LG: 35.00% (wg:  13 lg:   7) pick: 1   
   + Flaming Fist                
@@ -92,8 +79,7 @@ Kinnan, Bonder Prodigy           matches:8    WM: 50.00%  LM: 50.00%  DM:  0.00%
         + Tana, the Bloodsower            
        vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
        vs Gix, Yawgmoth Praetor            (w:0 l:1 d:0), (1/2)
-       vs Gut, True Soul Zealot            (w:1 l:0 d:0), (2/1)
-        + Acolyte of Bahamut              
+       vs Selvala, Explorer Returned       (w:1 l:0 d:0), (2/1)
        vs Karlov of the Ghost Council      (w:1 l:0 d:0), (2/0)
         + Lurrus of the Dream-Den         
        vs Narset, Enlightened Master       (w:1 l:0 d:0), (2/0)
@@ -114,8 +100,7 @@ Kytheon, Hero of Akros           matches:7    WM: 85.71%  LM: 14.29%  DM:  0.00%
 
 Leovold, Emissary of Trest       matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:12   WG: 50.00% LG: 50.00% (wg:   6 lg:   6) pick: 1   
        vs Indoraptor, the Perfect Hybrid   (w:0 l:1 d:0), (1/2)
-       vs Gut, True Soul Zealot            (w:1 l:0 d:0), (2/0)
-        + Acolyte of Bahamut              
+       vs Selvala, Explorer Returned       (w:1 l:0 d:0), (2/0)
        vs Malcolm, Alluring Scoundrel      (w:0 l:1 d:0), (0/2)
        vs Tasigur, the Golden Fang         (w:1 l:0 d:0), (2/0)
        vs Oskar, Rubbish Reclaimer         (w:0 l:1 d:0), (1/2)
@@ -173,6 +158,16 @@ Rona, Herald of Invasion         matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00%
        vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/0)
        vs Dihada, Binder of Wills          (w:0 l:1 d:0), (1/2)
 
+Selvala, Explorer Returned       matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:1   lm:4   dm:0)  games:12   WG: 33.33% LG: 66.67% (wg:   4 lg:   8) pick: 1   
+       vs Wernog, Rider's Chaplain         (w:0 l:1 d:0), (0/2)
+        + Bjorna, Nightfall Alchemist     
+        + Lurrus of the Dream-Den         
+       vs Leovold, Emissary of Trest       (w:0 l:1 d:0), (0/2)
+       vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (1/2)
+       vs Atraxa, Grand Unifier            (w:1 l:0 d:0), (2/0)
+       vs Gut, True Soul Zealot            (w:0 l:1 d:0), (1/2)
+        + Agent of the Iron Throne        
+
 Slimefoot and Squee              matches:11   WM: 54.55%  LM: 45.45%  DM:  0.00% (wm:6   lm:5   dm:0)  games:28   WG: 53.57% LG: 46.43% (wg:  15 lg:  13) pick: 2   
        vs The Reality Chip                 (w:0 l:2 d:0), (1/4)
        vs Oskar, Rubbish Reclaimer         (w:2 l:0 d:0), (4/2)
@@ -218,8 +213,7 @@ Vial Smasher the Fierce          matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00%
 Wernog, Rider's Chaplain         matches:8    WM: 37.50%  LM: 62.50%  DM:  0.00% (wm:3   lm:5   dm:0)  games:17   WG: 41.18% LG: 58.82% (wg:   7 lg:  10) pick: 2   
   + Bjorna, Nightfall Alchemist 
   + Lurrus of the Dream-Den     
-       vs Gut, True Soul Zealot            (w:1 l:0 d:0), (2/0)
-        + Acolyte of Bahamut              
+       vs Selvala, Explorer Returned       (w:1 l:0 d:0), (2/0)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
         + Tana, the Bloodsower            
        vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/0)
