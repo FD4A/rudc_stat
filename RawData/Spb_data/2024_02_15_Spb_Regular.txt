@@ -1,0 +1,21 @@
+location::Spb
+level::Regular
+date::2024_02_15
+organizer::Andysays
+players::generals
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Вахитов Ривкат :: Kari Zev, Skyship Raider
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Байков Аркадий :: Vial Smasher the Fierce
+Протасов Михаил :: Aminatou, the Fateshifter
+Муравьев Никита :: Kytheon, Hero of Akros
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Цюра Максим :: Slimefoot and Squee
+Федоров Дмитрий :: Karlov of the Ghost Council :++: Lurrus of the Dream-Den
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Смирнов Александр :: Light-Paws, Emperor's Voice
+Яковлев Николай :: Dihada, Binder of Wills
+Иванов Максим :: Errant and Giada
+Черебедов Влад :: Aesi, Tyrant of Gyre Strait
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/27304

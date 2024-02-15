@@ -1,0 +1,345 @@
+{
+    "date": "2024_02_15",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Вахитов Ривкат",
+            "Kari Zev, Skyship Raider"
+        ],
+        [
+            "Барабаш Валентин",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Протасов Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Муравьев Никита",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Цюра Максим",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Karlov of the Ghost Council :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Смирнов Александр",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Яковлев Николай",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Иванов Максим",
+            "Errant and Giada"
+        ],
+        [
+            "Черебедов Влад",
+            "Aesi, Tyrant of Gyre Strait"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Вахитов Ривкат",
+                "Богатырев Александр",
+                "Kari Zev, Skyship Raider",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Протасов Михаил",
+                "Ghyrson Starn, Kelermorph",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Ульянов Алексей",
+                "Kinnan, Bonder Prodigy",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Байков Аркадий",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Vial Smasher the Fierce",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Черебедов Влад",
+                "Муравьев Никита",
+                "Aesi, Tyrant of Gyre Strait",
+                "Kytheon, Hero of Akros",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Цюра Максим",
+                "Dihada, Binder of Wills",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Смирнов Александр",
+                "Иванов Максим",
+                "Light-Paws, Emperor's Voice",
+                "Errant and Giada",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Байков Аркадий",
+                "Муравьев Никита",
+                "Vial Smasher the Fierce",
+                "Kytheon, Hero of Akros",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Смирнов Александр",
+                "Ghyrson Starn, Kelermorph",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Вахитов Ривкат",
+                "Slimefoot and Squee",
+                "Kari Zev, Skyship Raider",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Иванов Максим",
+                "Kinnan, Bonder Prodigy",
+                "Errant and Giada",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Черебедов Влад",
+                "Ульянов Алексей",
+                "Aesi, Tyrant of Gyre Strait",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Протасов Михаил",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Яковлев Николай",
+                "Indoraptor, the Perfect Hybrid",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Барабаш Валентин",
+                "Вахитов Ривкат",
+                "Kinnan, Bonder Prodigy",
+                "Kari Zev, Skyship Raider",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Родюков Федор",
+                "Kytheon, Hero of Akros",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Смирнов Александр",
+                "Байков Аркадий",
+                "Light-Paws, Emperor's Voice",
+                "Vial Smasher the Fierce",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Ульянов Алексей",
+                "Slimefoot and Squee",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Протасов Михаил",
+                "Dihada, Binder of Wills",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Черебедов Влад",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Aesi, Tyrant of Gyre Strait",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Иванов Максим",
+                "Indoraptor, the Perfect Hybrid",
+                "Errant and Giada",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Родюков Федор",
+                "Вахитов Ривкат",
+                "Ghyrson Starn, Kelermorph",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Муравьев Никита",
+                "Kinnan, Bonder Prodigy",
+                "Kytheon, Hero of Akros",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Ульянов Алексей",
+                "Vial Smasher the Fierce",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Смирнов Александр",
+                "Aminatou, the Fateshifter",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Цюра Максим",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Черебедов Влад",
+                "Indoraptor, the Perfect Hybrid",
+                "Aesi, Tyrant of Gyre Strait",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ]
+}
