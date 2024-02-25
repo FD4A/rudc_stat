@@ -1,0 +1,15 @@
+location::Spb
+level::Regular
+date::2024_02_22
+organizer::Andysays
+players::generals
+Грабовой Филипп :: Slimefoot and Squee
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Поляков Герман :: Omnath, Locus of Creation
+Иванов Максим :: Geist of Saint Traft
+Цюра Максим :: Slimefoot and Squee
+Семенов Дмитрий :: Kytheon, Hero of Akros
+Смирнов Александр :: Light-Paws, Emperor's Voice
+Яковлев Николай :: Dihada, Binder of Wills
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/27487

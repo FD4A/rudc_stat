@@ -1,0 +1,169 @@
+{
+    "date": "2024_02_22",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Грабовой Филипп",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Поляков Герман",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Цюра Максим",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Смирнов Александр",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Яковлев Николай",
+            "Dihada, Binder of Wills"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Цюра Максим",
+                "Смирнов Александр",
+                "Slimefoot and Squee",
+                "Light-Paws, Emperor's Voice",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Родюков Федор",
+                "Geist of Saint Traft",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Поляков Герман",
+                "Slimefoot and Squee",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Яковлев Николай",
+                "Kytheon, Hero of Akros",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Семенов Дмитрий",
+                "Грабовой Филипп",
+                "Kytheon, Hero of Akros",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Смирнов Александр",
+                "Ghyrson Starn, Kelermorph",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Иванов Максим",
+                "Slimefoot and Squee",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Яковлев Николай",
+                "Omnath, Locus of Creation",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Грабовой Филипп",
+                "Родюков Федор",
+                "Slimefoot and Squee",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Иванов Максим",
+                "Kytheon, Hero of Akros",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Смирнов Александр",
+                "Omnath, Locus of Creation",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Яковлев Николай",
+                "Slimefoot and Squee",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}
