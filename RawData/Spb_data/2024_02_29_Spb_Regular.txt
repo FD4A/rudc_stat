@@ -1,0 +1,13 @@
+location::Spb
+level::Regular
+date::2024_02_29
+organizer::Andysays
+players::generals
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Семенов Дмитрий :: Juri, Master of the Revue
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Яковлев Николай :: Dihada, Binder of Wills
+Цюра Максим :: Slimefoot and Squee
+Поляков Герман :: Omnath, Locus of Creation
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/27694

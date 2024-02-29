@@ -1,0 +1,131 @@
+{
+    "date": "2024_02_29",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Барабаш Валентин",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Яковлев Николай",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Цюра Максим",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Поляков Герман",
+            "Omnath, Locus of Creation"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Поляков Герман",
+                "Яковлев Николай",
+                "Omnath, Locus of Creation",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Богатырев Александр",
+                "Juri, Master of the Revue",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Барабаш Валентин",
+                "Slimefoot and Squee",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Барабаш Валентин",
+                "Яковлев Николай",
+                "Kinnan, Bonder Prodigy",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Цюра Максим",
+                "Indoraptor, the Perfect Hybrid",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Поляков Герман",
+                "Juri, Master of the Revue",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Барабаш Валентин",
+                "Богатырев Александр",
+                "Kinnan, Bonder Prodigy",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Семенов Дмитрий",
+                "Dihada, Binder of Wills",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Поляков Герман",
+                "Slimefoot and Squee",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

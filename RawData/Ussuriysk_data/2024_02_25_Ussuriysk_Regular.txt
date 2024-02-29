@@ -1,0 +1,13 @@
+location::Ussuriysk
+level::Regular
+date::2024_02_25
+organizer::Usstiger
+players::generals
+Матвей Б :: Atraxa, Grand Unifier
+Владислав М :: Octavia, Living Thesis
+Кирилл С :: Raffine, Scheming Seer
+Вячеслав Ш :: Kess, Dissident Mage
+Алексей Ж :: Zimone, Quandrix Prodigy
+Андрей Е :: Sen Triplets
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/27590

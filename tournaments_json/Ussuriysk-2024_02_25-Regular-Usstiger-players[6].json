@@ -1,0 +1,131 @@
+{
+    "date": "2024_02_25",
+    "location": "Ussuriysk",
+    "level": "Regular",
+    "organizer": "Usstiger",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Матвей Б",
+            "Atraxa, Grand Unifier"
+        ],
+        [
+            "Владислав М",
+            "Octavia, Living Thesis"
+        ],
+        [
+            "Кирилл С",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Вячеслав Ш",
+            "Kess, Dissident Mage"
+        ],
+        [
+            "Алексей Ж",
+            "Zimone, Quandrix Prodigy"
+        ],
+        [
+            "Андрей Е",
+            "Sen Triplets"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Кирилл С",
+                "Владислав М",
+                "Raffine, Scheming Seer",
+                "Octavia, Living Thesis",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Андрей Е",
+                "Алексей Ж",
+                "Sen Triplets",
+                "Zimone, Quandrix Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Матвей Б",
+                "Вячеслав Ш",
+                "Atraxa, Grand Unifier",
+                "Kess, Dissident Mage",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей Ж",
+                "Владислав М",
+                "Zimone, Quandrix Prodigy",
+                "Octavia, Living Thesis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Кирилл С",
+                "Kess, Dissident Mage",
+                "Raffine, Scheming Seer",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Матвей Б",
+                "Андрей Е",
+                "Atraxa, Grand Unifier",
+                "Sen Triplets",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Владислав М",
+                "Матвей Б",
+                "Octavia, Living Thesis",
+                "Atraxa, Grand Unifier",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Алексей Ж",
+                "Raffine, Scheming Seer",
+                "Zimone, Quandrix Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Андрей Е",
+                "Kess, Dissident Mage",
+                "Sen Triplets",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}
