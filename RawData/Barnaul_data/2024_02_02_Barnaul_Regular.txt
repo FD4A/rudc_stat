@@ -1,0 +1,15 @@
+location::Barnaul
+level::Regular
+date::2024_02_02
+organizer::
+players::generals
+Дмитрий Лисин :: Kytheon, Hero of Akros
+Илья Гесин :: Shorikai, Genesis Engine
+Влад Гладышев :: Tasigur, the Golden Fang
+Филипп Скляров :: Oloro, Ageless Ascetic
+Иван Послухов :: Balmor, Battlemage Captain
+Достияр Амержаев :: Baral and Kari Zev
+Александр Пинигин :: Ghyrson Starn, Kelermorph
+Александр Акимочкин :: Kytheon, Hero of Akros
+Round
+https://aetherhub.com/Tourney/RoundTourney/26964

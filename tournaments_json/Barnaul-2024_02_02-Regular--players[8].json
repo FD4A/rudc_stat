@@ -1,0 +1,159 @@
+{
+    "date": "2024_02_02",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Дмитрий Лисин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Илья Гесин",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Влад Гладышев",
+            "Tasigur, the Golden Fang"
+        ],
+        [
+            "Филипп Скляров",
+            "Oloro, Ageless Ascetic"
+        ],
+        [
+            "Иван Послухов",
+            "Balmor, Battlemage Captain"
+        ],
+        [
+            "Достияр Амержаев",
+            "Baral and Kari Zev"
+        ],
+        [
+            "Александр Пинигин",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Александр Акимочкин",
+            "Kytheon, Hero of Akros"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Иван Послухов",
+                "Дмитрий Лисин",
+                "Balmor, Battlemage Captain",
+                "Kytheon, Hero of Akros",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Александр Пинигин",
+                "Tasigur, the Golden Fang",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Филипп Скляров",
+                "Александр Акимочкин",
+                "Oloro, Ageless Ascetic",
+                "Kytheon, Hero of Akros",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Достияр Амержаев",
+                "Илья Гесин",
+                "Baral and Kari Zev",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Лисин",
+                "Влад Гладышев",
+                "Kytheon, Hero of Akros",
+                "Tasigur, the Golden Fang",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Филипп Скляров",
+                "Илья Гесин",
+                "Oloro, Ageless Ascetic",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Александр Акимочкин",
+                "Достияр Амержаев",
+                "Kytheon, Hero of Akros",
+                "Baral and Kari Zev",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иван Послухов",
+                "Александр Пинигин",
+                "Balmor, Battlemage Captain",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Лисин",
+                "Илья Гесин",
+                "Kytheon, Hero of Akros",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Иван Послухов",
+                "Влад Гладышев",
+                "Balmor, Battlemage Captain",
+                "Tasigur, the Golden Fang",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Филипп Скляров",
+                "Достияр Амержаев",
+                "Oloro, Ageless Ascetic",
+                "Baral and Kari Zev",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

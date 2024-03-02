@@ -1,0 +1,297 @@
+{
+    "date": "2024_01_19",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Алексей Петрыкин",
+            "Balmor, Battlemage Captain"
+        ],
+        [
+            "Андрей Студеникин (384155255)",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Александр Самусенко",
+            "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower"
+        ],
+        [
+            "Андрей Тагильцев",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Влад Гладышев",
+            "Tasigur, the Golden Fang"
+        ],
+        [
+            "Достияр Амержаев",
+            "Baral and Kari Zev"
+        ],
+        [
+            "Дмитрий Лисин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Иван Послухов",
+            "Balmor, Battlemage Captain"
+        ],
+        [
+            "Илья Гесин",
+            "Old Stickfingers"
+        ],
+        [
+            "Михаил Старостенков",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Леонид Носов",
+            "Admiral Brass, Unsinkable"
+        ],
+        [
+            "Александр Пинигин",
+            "Anhelo, the Painter"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Михаил Старостенков",
+                "Александр Пинигин",
+                "Feldon, Ronom Excavator",
+                "Anhelo, the Painter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Алексей Петрыкин",
+                "Достияр Амержаев",
+                "Balmor, Battlemage Captain",
+                "Baral and Kari Zev",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Андрей Тагильцев",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Влад Гладышев",
+                "Old Stickfingers",
+                "Tasigur, the Golden Fang",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Леонид Носов",
+                "Андрей Студеникин (384155255)",
+                "Admiral Brass, Unsinkable",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иван Послухов",
+                "Дмитрий Лисин",
+                "Balmor, Battlemage Captain",
+                "Kytheon, Hero of Akros",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Михаил Старостенков",
+                "Андрей Студеникин (384155255)",
+                "Feldon, Ronom Excavator",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Алексей Петрыкин",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Balmor, Battlemage Captain",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Дмитрий Лисин",
+                "Tasigur, the Golden Fang",
+                "Kytheon, Hero of Akros",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Достияр Амержаев",
+                "Александр Пинигин",
+                "Baral and Kari Zev",
+                "Anhelo, the Painter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иван Послухов",
+                "Илья Гесин",
+                "Balmor, Battlemage Captain",
+                "Old Stickfingers",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Леонид Носов",
+                "Андрей Тагильцев",
+                "Admiral Brass, Unsinkable",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Андрей Студеникин (384155255)",
+                "Влад Гладышев",
+                "Shorikai, Genesis Engine",
+                "Tasigur, the Golden Fang",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Алексей Петрыкин",
+                "Илья Гесин",
+                "Balmor, Battlemage Captain",
+                "Old Stickfingers",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Достияр Амержаев",
+                "Александр Самусенко",
+                "Baral and Kari Zev",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Михаил Старостенков",
+                "Дмитрий Лисин",
+                "Feldon, Ronom Excavator",
+                "Kytheon, Hero of Akros",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Андрей Тагильцев",
+                "Александр Пинигин",
+                "Ghyrson Starn, Kelermorph",
+                "Anhelo, the Painter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Леонид Носов",
+                "Иван Послухов",
+                "Admiral Brass, Unsinkable",
+                "Balmor, Battlemage Captain",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Андрей Студеникин (384155255)",
+                "Алексей Петрыкин",
+                "Shorikai, Genesis Engine",
+                "Balmor, Battlemage Captain",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Влад Гладышев",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Tasigur, the Golden Fang",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Андрей Тагильцев",
+                "Дмитрий Лисин",
+                "Ghyrson Starn, Kelermorph",
+                "Kytheon, Hero of Akros",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Достияр Амержаев",
+                "Old Stickfingers",
+                "Baral and Kari Zev",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иван Послухов",
+                "Александр Пинигин",
+                "Balmor, Battlemage Captain",
+                "Anhelo, the Painter",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

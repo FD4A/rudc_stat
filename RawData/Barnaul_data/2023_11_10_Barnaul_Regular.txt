@@ -1,0 +1,15 @@
+location::Barnaul
+level::Regular
+date::2023_11_10
+organizer::
+players::generals
+Дмитрий Лисин
+Влад Гладышев
+Александр Самусенко
+Андрей Студеникин
+Илья Гесин
+Егор Костенко
+Елена Бармина
+Александр Акимочкин
+Round
+https://aetherhub.com/Tourney/RoundTourney/24912

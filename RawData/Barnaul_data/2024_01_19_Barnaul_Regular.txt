@@ -1,0 +1,19 @@
+location::Barnaul
+level::Regular
+date::2024_01_19
+organizer::
+players::generals
+Алексей Петрыкин :: Balmor, Battlemage Captain
+Андрей Студеникин (384155255) :: Shorikai, Genesis Engine
+Александр Самусенко :: Yoshimaru, Ever Faithful :+: Tana, the Bloodsower
+Андрей Тагильцев :: Ghyrson Starn, Kelermorph
+Влад Гладышев :: Tasigur, the Golden Fang
+Достияр Амержаев :: Baral and Kari Zev
+Дмитрий Лисин :: Kytheon, Hero of Akros
+Иван Послухов :: Balmor, Battlemage Captain
+Илья Гесин :: Old Stickfingers
+Михаил Старостенков :: Feldon, Ronom Excavator
+Леонид Носов :: Admiral Brass, Unsinkable
+Александр Пинигин :: Anhelo, the Painter
+Round
+https://aetherhub.com/Tourney/RoundTourney/26573

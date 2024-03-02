@@ -1,0 +1,13 @@
+location::Barnaul
+level::Regular
+date::2024_03_01
+organizer::
+players::generals
+Влад Гладышев
+Илья Гесин
+Андрей Студеникин
+Андрей Тагильцев
+Александр Самусенко
+Дмитрий Лисин
+Round
+https://aetherhub.com/Tourney/RoundTourney/27720
