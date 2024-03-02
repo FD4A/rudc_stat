@@ -1,0 +1,131 @@
+{
+    "date": "2024_03_01",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Влад Гладышев",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Илья Гесин",
+            "Old Stickfingers"
+        ],
+        [
+            "Андрей Студеникин (384155255)",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Андрей Тагильцев",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Александр Самусенко",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Дмитрий Лисин",
+            "Kytheon, Hero of Akros"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Влад Гладышев",
+                "Александр Самусенко",
+                "Hogaak, Arisen Necropolis",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Андрей Студеникин (384155255)",
+                "Old Stickfingers",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дмитрий Лисин",
+                "Андрей Тагильцев",
+                "Kytheon, Hero of Akros",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Влад Гладышев",
+                "Андрей Тагильцев",
+                "Hogaak, Arisen Necropolis",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Александр Самусенко",
+                "Old Stickfingers",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Андрей Студеникин (384155255)",
+                "Дмитрий Лисин",
+                "Shorikai, Genesis Engine",
+                "Kytheon, Hero of Akros",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Влад Гладышев",
+                "Илья Гесин",
+                "Hogaak, Arisen Necropolis",
+                "Old Stickfingers",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Андрей Студеникин (384155255)",
+                "Андрей Тагильцев",
+                "Shorikai, Genesis Engine",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Дмитрий Лисин",
+                "Omnath, Locus of Creation",
+                "Kytheon, Hero of Akros",
+                [
+                    0,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

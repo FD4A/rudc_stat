@@ -1,0 +1,307 @@
+{
+    "date": "2024_01_12",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Алексей Петрыкин",
+            "Balmor, Battlemage Captain"
+        ],
+        [
+            "Андрей Студеникин (384155255)",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Дмитрий Лисин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Филипп Скляров",
+            "Oloro, Ageless Ascetic"
+        ],
+        [
+            "Влад Гладышев",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Андрей Тагильцев",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Егор Костенко",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Михаил Старостенков",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Иван Послухов",
+            "Balmor, Battlemage Captain"
+        ],
+        [
+            "Илья Гесин",
+            "Old Stickfingers"
+        ],
+        [
+            "Александр Самусенко",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Александр Пинигин",
+            "Anhelo, the Painter"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Александр Самусенко",
+                "Алексей Петрыкин",
+                "Omnath, Locus of Creation",
+                "Balmor, Battlemage Captain",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Андрей Студеникин (384155255)",
+                "Дмитрий Лисин",
+                "Shorikai, Genesis Engine",
+                "Kytheon, Hero of Akros",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Иван Послухов",
+                "Hogaak, Arisen Necropolis",
+                "Balmor, Battlemage Captain",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Андрей Тагильцев",
+                "Михаил Старостенков",
+                "Ghyrson Starn, Kelermorph",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Пинигин",
+                "Егор Костенко",
+                "Anhelo, the Painter",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Филипп Скляров",
+                "Old Stickfingers",
+                "Oloro, Ageless Ascetic",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей Петрыкин",
+                "Влад Гладышев",
+                "Balmor, Battlemage Captain",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Михаил Старостенков",
+                "Андрей Студеникин (384155255)",
+                "Feldon, Ronom Excavator",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Егор Костенко",
+                "Филипп Скляров",
+                "Asmoranomardicadaistinaculdacar",
+                "Oloro, Ageless Ascetic",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Александр Самусенко",
+                "Old Stickfingers",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Андрей Тагильцев",
+                "Иван Послухов",
+                "Ghyrson Starn, Kelermorph",
+                "Balmor, Battlemage Captain",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Пинигин",
+                "Дмитрий Лисин",
+                "Anhelo, the Painter",
+                "Kytheon, Hero of Akros",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Андрей Студеникин (384155255)",
+                "Филипп Скляров",
+                "Shorikai, Genesis Engine",
+                "Oloro, Ageless Ascetic",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Алексей Петрыкин",
+                "Андрей Тагильцев",
+                "Balmor, Battlemage Captain",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Дмитрий Лисин",
+                "Old Stickfingers",
+                "Kytheon, Hero of Akros",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Михаил Старостенков",
+                "Егор Костенко",
+                "Feldon, Ronom Excavator",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Александр Пинигин",
+                "Hogaak, Arisen Necropolis",
+                "Anhelo, the Painter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иван Послухов",
+                "Александр Самусенко",
+                "Balmor, Battlemage Captain",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей Петрыкин",
+                "Филипп Скляров",
+                "Balmor, Battlemage Captain",
+                "Oloro, Ageless Ascetic",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Андрей Студеникин (384155255)",
+                "Влад Гладышев",
+                "Shorikai, Genesis Engine",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Егор Костенко",
+                "Дмитрий Лисин",
+                "Asmoranomardicadaistinaculdacar",
+                "Kytheon, Hero of Akros",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Михаил Старостенков",
+                "Old Stickfingers",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Пинигин",
+                "Иван Послухов",
+                "Anhelo, the Painter",
+                "Balmor, Battlemage Captain",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Андрей Тагильцев",
+                "Александр Самусенко",
+                "Ghyrson Starn, Kelermorph",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

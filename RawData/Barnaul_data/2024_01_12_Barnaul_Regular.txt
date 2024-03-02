@@ -3,17 +3,17 @@ level::Regular
 date::2024_01_12
 organizer::
 players::generals
-Алексей Петрыкин
-Андрей Студеникин
-Дмитрий Лисин
-Филипп Скляров
-Влад Гладышев
-Андрей Тагильцев
-Егор Костенко
-Михаил Старостенков
-Иван Послухов
-Илья Гесин
-Александр Самусенко
-Александр Пинигин
+Алексей Петрыкин :: Balmor, Battlemage Captain
+Андрей Студеникин (384155255) :: Shorikai, Genesis Engine
+Дмитрий Лисин :: Kytheon, Hero of Akros
+Филипп Скляров :: Oloro, Ageless Ascetic
+Влад Гладышев :: Hogaak, Arisen Necropolis
+Андрей Тагильцев :: Ghyrson Starn, Kelermorph
+Егор Костенко :: Asmoranomardicadaistinaculdacar
+Михаил Старостенков :: Feldon, Ronom Excavator
+Иван Послухов :: Balmor, Battlemage Captain
+Илья Гесин :: Old Stickfingers
+Александр Самусенко :: Omnath, Locus of Creation
+Александр Пинигин :: Anhelo, the Painter
 Round
 https://aetherhub.com/Tourney/RoundTourney/26400
