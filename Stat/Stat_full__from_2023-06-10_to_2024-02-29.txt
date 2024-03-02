@@ -10,10 +10,10 @@ Krasnodar-2023_10_01-Regular-Alexandr-players[20]
 Online-2023_10_24-League-AlexSmirnov-players[50]
 Online-2023_12_31-League-AlexSmirnov-players[38]
 Online-2024_02_07-League-AlexSmirnov-players[30]
-Rostov-2024_01_21-Regular-Constantin-players[10]
 RostovOnDon-2023_11_12-Regular-Sapher-players[8]
 RostovOnDon-2023_11_26-Regular-Sapher-players[6]
 RostovOnDon-2023_12_10-Regular-Sapher-players[7]
+RostovOnDon-2024_01_21-Regular-Constantin-players[10]
 Spb-2023_06_18-Open-Alewa-players[45]
 Spb-2023_09_28-Regular-Andysays-players[8]
 Spb-2023_10_19-Regular-Andysays-players[7]
@@ -289,6 +289,10 @@ Atraxa, Grand Unifier            matches:43   WM: 41.86%  LM: 39.53%  DM: 18.60%
        vs Grist, the Hunger Tide           (w:0 l:1 d:0), (0/2)
        vs Shorikai, Genesis Engine         (w:0 l:0 d:1), (1/1)
        vs Asmoranomardicadaistinaculdacar  (w:1 l:2 d:0), (2/4)
+       vs Dragonlord Ojutai                (w:1 l:0 d:1), (3/1)
+       vs Ojer Axonil, Deepest Might       (w:0 l:1 d:0), (0/2)
+       vs Oloro, Ageless Ascetic           (w:0 l:0 d:2), (1/1)
+       vs Roalesk, Apex Hybrid             (w:2 l:0 d:0), (4/0)
        vs Kess, Dissident Mage             (w:0 l:0 d:1), (1/1)
        vs Sen Triplets                     (w:1 l:0 d:0), (2/0)
        vs Octavia, Living Thesis           (w:1 l:0 d:0), (2/0)
@@ -299,10 +303,6 @@ Atraxa, Grand Unifier            matches:43   WM: 41.86%  LM: 39.53%  DM: 18.60%
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
         + Jeska, Thrice Reborn            
        vs Thalia and The Gitrog Monster    (w:1 l:0 d:0), (2/1)
-       vs Dragonlord Ojutai                (w:1 l:0 d:1), (3/1)
-       vs Ojer Axonil, Deepest Might       (w:0 l:1 d:0), (0/2)
-       vs Oloro, Ageless Ascetic           (w:0 l:0 d:2), (1/1)
-       vs Roalesk, Apex Hybrid             (w:2 l:0 d:0), (4/0)
        vs The Reality Chip                 (w:0 l:1 d:1), (2/3)
        vs The Gitrog Monster               (w:0 l:0 d:1), (1/1)
        vs Leovold, Emissary of Trest       (w:3 l:0 d:0), (6/0)
@@ -1101,13 +1101,13 @@ Lord Windgrace                   matches:6    WM: 33.33%  LM: 50.00%  DM: 16.67%
        vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
 
 Magda, Brazen Outlaw             matches:16   WM: 68.75%  LM: 25.00%  DM:  6.25% (wm:11  lm:4   dm:1)  games:38   WG: 63.16% LG: 34.21% (wg:  24 lg:  13) pick: 3   
-       vs Shorikai, Genesis Engine         (w:1 l:0 d:0), (2/1)
-       vs Selvala, Explorer Returned       (w:1 l:0 d:0), (2/1)
-       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (1/2)
        vs Jadar, Ghoulcaller of Nephalia   (w:0 l:0 d:1), (0/0)
        vs Kasla, the Broken Halo           (w:1 l:0 d:0), (2/0)
        vs Dragonlord Ojutai                (w:1 l:0 d:0), (2/0)
        vs Niv-Mizzet Reborn                (w:0 l:1 d:0), (1/2)
+       vs Shorikai, Genesis Engine         (w:1 l:0 d:0), (2/1)
+       vs Selvala, Explorer Returned       (w:1 l:0 d:0), (2/1)
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (1/2)
        vs Tergrid, God of Fright           (w:1 l:0 d:0), (2/1)
        vs Yoshimaru, Ever Faithful         (w:2 l:2 d:0), (4/4)
         + Tana, the Bloodsower            
@@ -1225,6 +1225,9 @@ Old Stickfingers                 matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00%
        vs Baral and Kari Zev               (w:0 l:1 d:0), (0/2)
 
 Oloro, Ageless Ascetic           matches:36   WM: 36.11%  LM: 44.44%  DM: 19.44% (wm:13  lm:16  dm:7)  games:73   WG: 47.95% LG: 50.68% (wg:  35 lg:  37) pick: 10  
+       vs Niv-Mizzet Reborn                (w:0 l:1 d:0), (0/1)
+       vs Jadar, Ghoulcaller of Nephalia   (w:0 l:0 d:1), (1/1)
+       vs Atraxa, Grand Unifier            (w:0 l:0 d:2), (1/1)
        vs Kytheon, Hero of Akros           (w:1 l:0 d:0), (2/1)
        vs Shorikai, Genesis Engine         (w:0 l:1 d:0), (1/2)
        vs Baral and Kari Zev               (w:1 l:0 d:0), (2/0)
@@ -1234,9 +1237,6 @@ Oloro, Ageless Ascetic           matches:36   WM: 36.11%  LM: 44.44%  DM: 19.44%
        vs Karlov of the Ghost Council      (w:0 l:1 d:1), (1/3)
         + Lurrus of the Dream-Den         
        vs Hogaak, Arisen Necropolis        (w:0 l:2 d:0), (0/4)
-       vs Niv-Mizzet Reborn                (w:0 l:1 d:0), (0/1)
-       vs Jadar, Ghoulcaller of Nephalia   (w:0 l:0 d:1), (1/1)
-       vs Atraxa, Grand Unifier            (w:0 l:0 d:2), (1/1)
        vs Asmoranomardicadaistinaculdacar  (w:2 l:1 d:0), (4/2)
        vs Uro, Titan of Nature's Wrath     (w:0 l:1 d:0), (0/2)
        vs Dihada, Binder of Wills          (w:1 l:1 d:0), (2/2)
