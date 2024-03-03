@@ -1,0 +1,17 @@
+location::RostovOnDon
+level::Regular
+date::2024_03_03
+organizer::Constantin
+players::generals
+Артём Посидайло :: Omnath, Locus of Creation
+Александр Давыдов :: Magda, Brazen Outlaw
+Вадим Лукьянов :: Karlov of the Ghost Council
+Сергей Зинковский :: Geist of Saint Traft
+Дмитрий Усачев :: Niv-Mizzet Reborn
+Никита Любомищенко :: Syr Faren, the Hengehammer
+Илья Шубенин :: Malcolm, Alluring Scoundrel
+Константин Сомки :: Elas il-Kor, Sadistic Pilgrim + Lurrus of the Dream-Den
+Евгений Сутягин :: Leovold, Emissary of Trest
+Егор Любомищенко :: Ojer Axonil, Deepest Might
+Round
+https://aetherhub.com/Tourney/RoundTourney/27790

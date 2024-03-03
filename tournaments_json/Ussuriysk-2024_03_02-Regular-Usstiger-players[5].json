@@ -1,0 +1,141 @@
+{
+    "date": "2024_03_02",
+    "location": "Ussuriysk",
+    "level": "Regular",
+    "organizer": "Usstiger",
+    "roundsCount": 5,
+    "players": [
+        [
+            "Вячеслав Ш",
+            "Kess, Dissident Mage"
+        ],
+        [
+            "Кирилл С",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Матвей Б",
+            "Atraxa, Grand Unifier"
+        ],
+        [
+            "Алексей К",
+            "Marchesa, the Black Rose"
+        ],
+        [
+            "Алексей Ж",
+            "Kroxa, Titan of Death's Hunger"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Вячеслав Ш",
+                "Матвей Б",
+                "Kess, Dissident Mage",
+                "Atraxa, Grand Unifier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Алексей Ж",
+                "Raffine, Scheming Seer",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей К",
+                "Вячеслав Ш",
+                "Marchesa, the Black Rose",
+                "Kess, Dissident Mage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Матвей Б",
+                "Kroxa, Titan of Death's Hunger",
+                "Atraxa, Grand Unifier",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей К",
+                "Кирилл С",
+                "Marchesa, the Black Rose",
+                "Raffine, Scheming Seer",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Вячеслав Ш",
+                "Kroxa, Titan of Death's Hunger",
+                "Kess, Dissident Mage",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей К",
+                "Матвей Б",
+                "Marchesa, the Black Rose",
+                "Atraxa, Grand Unifier",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Кирилл С",
+                "Kess, Dissident Mage",
+                "Raffine, Scheming Seer",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Кирилл С",
+                "Матвей Б",
+                "Raffine, Scheming Seer",
+                "Atraxa, Grand Unifier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Алексей К",
+                "Kroxa, Titan of Death's Hunger",
+                "Marchesa, the Black Rose",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

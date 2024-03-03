@@ -1,0 +1,259 @@
+{
+    "date": "2024_03_03",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Артём Посидайло",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Александр Давыдов",
+            "Magda, Brazen Outlaw"
+        ],
+        [
+            "Вадим Лукьянов",
+            "Karlov of the Ghost Council"
+        ],
+        [
+            "Сергей Зинковский",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Дмитрий Усачев",
+            "Niv-Mizzet Reborn"
+        ],
+        [
+            "Никита Любомищенко",
+            "Syr Faren, the Hengehammer"
+        ],
+        [
+            "Илья Шубенин",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Константин Сомки",
+            "Elas il-Kor, Sadistic Pilgrim"
+        ],
+        [
+            "Евгений Сутягин",
+            "Leovold, Emissary of Trest"
+        ],
+        [
+            "Егор Любомищенко",
+            "Ojer Axonil, Deepest Might"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Александр Давыдов",
+                "Никита Любомищенко",
+                "Magda, Brazen Outlaw",
+                "Syr Faren, the Hengehammer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Константин Сомки",
+                "Сергей Зинковский",
+                "Elas il-Kor, Sadistic Pilgrim",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Вадим Лукьянов",
+                "Артём Посидайло",
+                "Karlov of the Ghost Council",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Евгений Сутягин",
+                "Илья Шубенин",
+                "Leovold, Emissary of Trest",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Егор Любомищенко",
+                "Дмитрий Усачев",
+                "Ojer Axonil, Deepest Might",
+                "Niv-Mizzet Reborn",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Давыдов",
+                "Дмитрий Усачев",
+                "Magda, Brazen Outlaw",
+                "Niv-Mizzet Reborn",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сергей Зинковский",
+                "Артём Посидайло",
+                "Geist of Saint Traft",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Илья Шубенин",
+                "Константин Сомки",
+                "Malcolm, Alluring Scoundrel",
+                "Elas il-Kor, Sadistic Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вадим Лукьянов",
+                "Никита Любомищенко",
+                "Karlov of the Ghost Council",
+                "Syr Faren, the Hengehammer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Егор Любомищенко",
+                "Евгений Сутягин",
+                "Ojer Axonil, Deepest Might",
+                "Leovold, Emissary of Trest",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Давыдов",
+                "Артём Посидайло",
+                "Magda, Brazen Outlaw",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Константин Сомки",
+                "Дмитрий Усачев",
+                "Elas il-Kor, Sadistic Pilgrim",
+                "Niv-Mizzet Reborn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Евгений Сутягин",
+                "Сергей Зинковский",
+                "Leovold, Emissary of Trest",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Илья Шубенин",
+                "Вадим Лукьянов",
+                "Malcolm, Alluring Scoundrel",
+                "Karlov of the Ghost Council",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Егор Любомищенко",
+                "Никита Любомищенко",
+                "Ojer Axonil, Deepest Might",
+                "Syr Faren, the Hengehammer",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Артём Посидайло",
+                "Дмитрий Усачев",
+                "Omnath, Locus of Creation",
+                "Niv-Mizzet Reborn",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Давыдов",
+                "Сергей Зинковский",
+                "Magda, Brazen Outlaw",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вадим Лукьянов",
+                "Константин Сомки",
+                "Karlov of the Ghost Council",
+                "Elas il-Kor, Sadistic Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Никита Любомищенко",
+                "Евгений Сутягин",
+                "Syr Faren, the Hengehammer",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Илья Шубенин",
+                "Егор Любомищенко",
+                "Malcolm, Alluring Scoundrel",
+                "Ojer Axonil, Deepest Might",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

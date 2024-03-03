@@ -1,0 +1,12 @@
+location::Ussuriysk
+level::Regular
+date::2024_03_02
+organizer::Usstiger
+players::generals
+Вячеслав Ш :: Kess, Dissident Mage
+Кирилл С :: Raffine, Scheming Seer
+Матвей Б :: Atraxa, Grand Unifier
+Алексей К :: Marchesa, the Black Rose
+Алексей Ж :: Kroxa, Titan of Death's Hunter
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/27747
