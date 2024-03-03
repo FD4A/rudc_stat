@@ -1,0 +1,169 @@
+{
+    "date": "2024_02_09",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Александр Акимочкин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Илья Гесин",
+            "Old Stickfingers"
+        ],
+        [
+            "Александр Самусенко",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Филипп Скляров",
+            "Oloro, Ageless Ascetic"
+        ],
+        [
+            "Андрей Студеникин (384155255)",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Егор Костенко",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Влад Гладышев",
+            "Tasigur, the Golden Fang"
+        ],
+        [
+            "Елена Бармина",
+            "Ghyrson Starn, Kelermorph"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Александр Самусенко",
+                "Егор Костенко",
+                "Omnath, Locus of Creation",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Филипп Скляров",
+                "Tasigur, the Golden Fang",
+                "Oloro, Ageless Ascetic",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Андрей Студеникин (384155255)",
+                "Илья Гесин",
+                "Shorikai, Genesis Engine",
+                "Old Stickfingers",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Акимочкин",
+                "Елена Бармина",
+                "Kytheon, Hero of Akros",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Егор Костенко",
+                "Александр Акимочкин",
+                "Asmoranomardicadaistinaculdacar",
+                "Kytheon, Hero of Akros",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Филипп Скляров",
+                "Old Stickfingers",
+                "Oloro, Ageless Ascetic",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Андрей Студеникин (384155255)",
+                "Tasigur, the Golden Fang",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Елена Бармина",
+                "Omnath, Locus of Creation",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Акимочкин",
+                "Филипп Скляров",
+                "Kytheon, Hero of Akros",
+                "Oloro, Ageless Ascetic",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Егор Костенко",
+                "Илья Гесин",
+                "Asmoranomardicadaistinaculdacar",
+                "Old Stickfingers",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Влад Гладышев",
+                "Omnath, Locus of Creation",
+                "Tasigur, the Golden Fang",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Андрей Студеникин (384155255)",
+                "Елена Бармина",
+                "Shorikai, Genesis Engine",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

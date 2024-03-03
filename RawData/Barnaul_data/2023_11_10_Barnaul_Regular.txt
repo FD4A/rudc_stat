@@ -1,0 +1,15 @@
+location::Barnaul
+level::Regular
+date::2023_11_10
+organizer::
+players::generals
+Дмитрий Лисин :: Omnath, Locus of Creation
+Влад Гладышев :: Old Stickfingers
+Александр Самусенко :: Hogaak, Arisen Necropolis
+Андрей Студеникин (384155255) :: Kytheon, Hero of Akros
+Илья Гесин :: Kytheon, Hero of Akros
+Егор Костенко :: Krenko, Mob Boss
+Елена Бармина :: Asmoranomardicadaistinaculdacar
+Александр Акимочкин :: Shorikai, Genesis Engine
+Round
+https://aetherhub.com/Tourney/RoundTourney/24912

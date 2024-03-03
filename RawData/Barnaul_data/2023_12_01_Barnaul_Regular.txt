@@ -1,0 +1,18 @@
+location::Barnaul
+level::Regular
+date::2023_12_01
+organizer::
+players::generals
+Алексей Петрыкин :: Balmor, Battlemage Captain
+Дмитрий Лисин :: Kytheon, Hero of Akros
+Александр Самусенко :: Omnath, Locus of Creation
+Влад Гладышев :: Hogaak, Arisen Necropolis
+Илья Гесин :: Old Stickfingers
+Тимофей Криволапов :: Light-Paws, Emperor's Voice
+Андрей Тагильцев :: Feldon, Ronom Excavator
+Андрей Студеникин (384155255) :: Shorikai, Genesis Engine
+Егор Костенко :: Asmoranomardicadaistinaculdacar
+Иван Послухов :: Baral and Kari Zev
+Григорий Малыхин :: Krenko, Mob Boss
+Round
+https://aetherhub.com/Tourney/RoundTourney/25450

@@ -1,0 +1,15 @@
+location::Barnaul
+level::Regular
+date::2024_02_09
+organizer::
+players::generals
+Александр Акимочкин :: Kytheon, Hero of Akros
+Илья Гесин :: Old Stickfingers
+Александр Самусенко :: Omnath, Locus of Creation
+Филипп Скляров :: Oloro, Ageless Ascetic
+Андрей Студеникин (384155255) :: Shorikai, Genesis Engine
+Егор Костенко :: Asmoranomardicadaistinaculdacar
+Влад Гладышев :: Tasigur, the Golden Fang
+Елена Бармина :: Ghyrson Starn, Kelermorph
+Round
+https://aetherhub.com/Tourney/RoundTourney/27138

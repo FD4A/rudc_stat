@@ -1,0 +1,169 @@
+{
+    "date": "2023_11_10",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Дмитрий Лисин",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Влад Гладышев",
+            "Old Stickfingers"
+        ],
+        [
+            "Александр Самусенко",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Андрей Студеникин (384155255)",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Илья Гесин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Егор Костенко",
+            "Krenko, Mob Boss"
+        ],
+        [
+            "Елена Бармина",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Александр Акимочкин",
+            "Shorikai, Genesis Engine"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Александр Акимочкин",
+                "Елена Бармина",
+                "Shorikai, Genesis Engine",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Влад Гладышев",
+                "Kytheon, Hero of Akros",
+                "Old Stickfingers",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Андрей Студеникин (384155255)",
+                "Дмитрий Лисин",
+                "Kytheon, Hero of Akros",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Егор Костенко",
+                "Hogaak, Arisen Necropolis",
+                "Krenko, Mob Boss",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Самусенко",
+                "Дмитрий Лисин",
+                "Hogaak, Arisen Necropolis",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Елена Бармина",
+                "Old Stickfingers",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Акимочкин",
+                "Илья Гесин",
+                "Shorikai, Genesis Engine",
+                "Kytheon, Hero of Akros",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Егор Костенко",
+                "Андрей Студеникин (384155255)",
+                "Krenko, Mob Boss",
+                "Kytheon, Hero of Akros",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Лисин",
+                "Влад Гладышев",
+                "Omnath, Locus of Creation",
+                "Old Stickfingers",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Александр Самусенко",
+                "Kytheon, Hero of Akros",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Андрей Студеникин (384155255)",
+                "Елена Бармина",
+                "Kytheon, Hero of Akros",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Акимочкин",
+                "Егор Костенко",
+                "Shorikai, Genesis Engine",
+                "Krenko, Mob Boss",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "date": "2023_12_01",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Алексей Петрыкин",
+            "Balmor, Battlemage Captain"
+        ],
+        [
+            "Дмитрий Лисин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Александр Самусенко",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Влад Гладышев",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Илья Гесин",
+            "Old Stickfingers"
+        ],
+        [
+            "Тимофей Криволапов",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Андрей Тагильцев",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Андрей Студеникин (384155255)",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Егор Костенко",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Иван Послухов",
+            "Baral and Kari Zev"
+        ],
+        [
+            "Григорий Малыхин",
+            "Krenko, Mob Boss"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Илья Гесин",
+                "Влад Гладышев",
+                "Old Stickfingers",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Тимофей Криволапов",
+                "Алексей Петрыкин",
+                "Light-Paws, Emperor's Voice",
+                "Balmor, Battlemage Captain",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Иван Послухов",
+                "Omnath, Locus of Creation",
+                "Baral and Kari Zev",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Андрей Тагильцев",
+                "Дмитрий Лисин",
+                "Feldon, Ronom Excavator",
+                "Kytheon, Hero of Akros",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Егор Костенко",
+                "Андрей Студеникин (384155255)",
+                "Asmoranomardicadaistinaculdacar",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей Петрыкин",
+                "Александр Самусенко",
+                "Balmor, Battlemage Captain",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дмитрий Лисин",
+                "Григорий Малыхин",
+                "Kytheon, Hero of Akros",
+                "Krenko, Mob Boss",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Андрей Студеникин (384155255)",
+                "Hogaak, Arisen Necropolis",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тимофей Криволапов",
+                "Егор Костенко",
+                "Light-Paws, Emperor's Voice",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Андрей Тагильцев",
+                "Иван Послухов",
+                "Feldon, Ronom Excavator",
+                "Baral and Kari Zev",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Лисин",
+                "Влад Гладышев",
+                "Kytheon, Hero of Akros",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Алексей Петрыкин",
+                "Егор Костенко",
+                "Balmor, Battlemage Captain",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Александр Самусенко",
+                "Old Stickfingers",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Андрей Тагильцев",
+                "Григорий Малыхин",
+                "Feldon, Ronom Excavator",
+                "Krenko, Mob Boss",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Андрей Студеникин (384155255)",
+                "Иван Послухов",
+                "Shorikai, Genesis Engine",
+                "Baral and Kari Zev",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Лисин",
+                "Алексей Петрыкин",
+                "Kytheon, Hero of Akros",
+                "Balmor, Battlemage Captain",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Андрей Тагильцев",
+                "Hogaak, Arisen Necropolis",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Андрей Студеникин (384155255)",
+                "Omnath, Locus of Creation",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Григорий Малыхин",
+                "Тимофей Криволапов",
+                "Krenko, Mob Boss",
+                "Light-Paws, Emperor's Voice",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Егор Костенко",
+                "Илья Гесин",
+                "Asmoranomardicadaistinaculdacar",
+                "Old Stickfingers",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}
