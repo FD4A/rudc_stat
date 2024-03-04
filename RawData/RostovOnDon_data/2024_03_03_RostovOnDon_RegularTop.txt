@@ -1,0 +1,11 @@
+location::RostovOnDon
+level::Regular
+date::2024_03_03
+organizer::Sapher
+players::generals
+Артём Посидайло :: Omnath, Locus of Creation
+Александр Давыдов :: Magda, Brazen Outlaw
+Вадим Лукьянов :: Karlov of the Ghost Council
+Сергей Зинковский :: Geist of Saint Traft
+Round
+https://aetherhub.com/Tourney/RoundTourney/27817

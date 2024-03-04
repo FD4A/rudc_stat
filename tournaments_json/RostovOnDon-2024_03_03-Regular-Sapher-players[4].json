@@ -1,0 +1,61 @@
+{
+    "date": "2024_03_03",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Sapher",
+    "roundsCount": 2,
+    "players": [
+        [
+            "Артём Посидайло",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Александр Давыдов",
+            "Magda, Brazen Outlaw"
+        ],
+        [
+            "Вадим Лукьянов",
+            "Karlov of the Ghost Council"
+        ],
+        [
+            "Сергей Зинковский",
+            "Geist of Saint Traft"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Александр Давыдов",
+                "Вадим Лукьянов",
+                "Magda, Brazen Outlaw",
+                "Karlov of the Ghost Council",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Посидайло",
+                "Сергей Зинковский",
+                "Omnath, Locus of Creation",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Давыдов",
+                "Артём Посидайло",
+                "Magda, Brazen Outlaw",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

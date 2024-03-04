@@ -1,7 +1,7 @@
 location::RostovOnDon
 level::Regular
 date::2024_03_03
-organizer::Constantin
+organizer::Sapher
 players::generals
 Артём Посидайло :: Omnath, Locus of Creation
 Александр Давыдов :: Magda, Brazen Outlaw

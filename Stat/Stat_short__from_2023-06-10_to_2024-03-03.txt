@@ -19,7 +19,8 @@ RostovOnDon-2023_11_12-Regular-Sapher-players[8]
 RostovOnDon-2023_11_26-Regular-Sapher-players[6]
 RostovOnDon-2023_12_10-Regular-Sapher-players[7]
 RostovOnDon-2024_01_21-Regular-Constantin-players[10]
-RostovOnDon-2024_03_03-Regular-Constantin-players[10]
+RostovOnDon-2024_03_03-Regular-Sapher-players[10]
+RostovOnDon-2024_03_03-Regular-Sapher-players[4]
 Spb-2023_06_18-Open-Alewa-players[45]
 Spb-2023_09_28-Regular-Andysays-players[8]
 Spb-2023_10_19-Regular-Andysays-players[7]
@@ -92,7 +93,7 @@ Feldon, Ronom Excavator          matches:14   WM: 57.14%  LM: 42.86%  DM:  0.00%
 Flamewar, Brash Veteran          matches:3    WM:  0.00%  LM: 66.67%  DM: 33.33% (wm:0   lm:2   dm:1)  games:6    WG: 16.67% LG: 83.33% (wg:   1 lg:   5) pick: 1   
 Frodo, Adventurous Hobbit        matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:9    WG: 33.33% LG: 66.67% (wg:   3 lg:   6) pick: 1   
   + Sam, Loyal Attendant        
-Geist of Saint Traft             matches:31   WM: 54.84%  LM: 38.71%  DM:  6.45% (wm:17  lm:12  dm:2)  games:75   WG: 54.67% LG: 45.33% (wg:  41 lg:  34) pick: 8   
+Geist of Saint Traft             matches:32   WM: 53.12%  LM: 40.62%  DM:  6.25% (wm:17  lm:13  dm:2)  games:77   WG: 53.25% LG: 46.75% (wg:  41 lg:  36) pick: 9   
 General Ferrous Rokiric          matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 44.44% LG: 55.56% (wg:   4 lg:   5) pick: 1   
 Ghyrson Starn, Kelermorph        matches:73   WM: 53.42%  LM: 43.84%  DM:  2.74% (wm:39  lm:32  dm:2)  games:176  WG: 52.84% LG: 46.59% (wg:  93 lg:  82) pick: 19  
 Gix, Yawgmoth Praetor            matches:11   WM: 54.55%  LM: 45.45%  DM:  0.00% (wm:6   lm:5   dm:0)  games:28   WG: 50.00% LG: 50.00% (wg:  14 lg:  14) pick: 2   
@@ -114,7 +115,7 @@ Ivy, Gleeful Spellthief          matches:9    WM: 22.22%  LM: 66.67%  DM: 11.11%
 Jadar, Ghoulcaller of Nephalia   matches:4    WM:  0.00%  LM:  0.00%  DM:100.00% (wm:0   lm:0   dm:4)  games:7    WG: 42.86% LG: 42.86% (wg:   3 lg:   3) pick: 1   
 Juri, Master of the Revue        matches:15   WM: 73.33%  LM: 20.00%  DM:  6.67% (wm:11  lm:3   dm:1)  games:35   WG: 68.57% LG: 31.43% (wg:  24 lg:  11) pick: 4   
 Kari Zev, Skyship Raider         matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:11   WG: 63.64% LG: 36.36% (wg:   7 lg:   4) pick: 1   
-Karlov of the Ghost Council      matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:10   WG: 60.00% LG: 40.00% (wg:   6 lg:   4) pick: 1   
+Karlov of the Ghost Council      matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00% (wm:3   lm:2   dm:0)  games:12   WG: 50.00% LG: 50.00% (wg:   6 lg:   6) pick: 2   
 Karlov of the Ghost Council      matches:38   WM: 39.47%  LM: 39.47%  DM: 21.05% (wm:15  lm:15  dm:8)  games:81   WG: 48.15% LG: 51.85% (wg:  39 lg:  42) pick: 10  
   + Lurrus of the Dream-Den     
 Kasla, the Broken Halo           matches:2    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:2   dm:0)  games:5    WG: 20.00% LG: 80.00% (wg:   1 lg:   4) pick: 1   
@@ -129,7 +130,7 @@ Leovold, Emissary of Trest       matches:36   WM: 30.56%  LM: 66.67%  DM:  2.78%
 Liesa, Shroud of Dusk            matches:10   WM: 30.00%  LM: 70.00%  DM:  0.00% (wm:3   lm:7   dm:0)  games:22   WG: 27.27% LG: 72.73% (wg:   6 lg:  16) pick: 2   
 Light-Paws, Emperor's Voice      matches:42   WM: 26.19%  LM: 71.43%  DM:  2.38% (wm:11  lm:30  dm:1)  games:95   WG: 30.53% LG: 69.47% (wg:  29 lg:  66) pick: 12  
 Lord Windgrace                   matches:6    WM: 33.33%  LM: 50.00%  DM: 16.67% (wm:2   lm:3   dm:1)  games:14   WG: 35.71% LG: 64.29% (wg:   5 lg:   9) pick: 1   
-Magda, Brazen Outlaw             matches:20   WM: 70.00%  LM: 25.00%  DM:  5.00% (wm:14  lm:5   dm:1)  games:47   WG: 65.96% LG: 31.91% (wg:  31 lg:  15) pick: 4   
+Magda, Brazen Outlaw             matches:22   WM: 72.73%  LM: 22.73%  DM:  4.55% (wm:16  lm:5   dm:1)  games:51   WG: 68.63% LG: 29.41% (wg:  35 lg:  15) pick: 5   
 Malcolm, Alluring Scoundrel      matches:17   WM: 58.82%  LM: 41.18%  DM:  0.00% (wm:10  lm:7   dm:0)  games:44   WG: 59.09% LG: 40.91% (wg:  26 lg:  18) pick: 3   
 Marath, Will of the Wild         matches:15   WM: 53.33%  LM: 26.67%  DM: 20.00% (wm:8   lm:4   dm:3)  games:34   WG: 64.71% LG: 35.29% (wg:  22 lg:  12) pick: 3   
 Marchesa, the Black Rose         matches:9    WM: 22.22%  LM: 77.78%  DM:  0.00% (wm:2   lm:7   dm:0)  games:23   WG: 34.78% LG: 65.22% (wg:   8 lg:  15) pick: 2   
@@ -143,7 +144,7 @@ Octavia, Living Thesis           matches:22   WM: 36.36%  LM: 63.64%  DM:  0.00%
 Ojer Axonil, Deepest Might       matches:8    WM: 37.50%  LM: 62.50%  DM:  0.00% (wm:3   lm:5   dm:0)  games:20   WG: 40.00% LG: 60.00% (wg:   8 lg:  12) pick: 2   
 Old Stickfingers                 matches:20   WM: 45.00%  LM: 45.00%  DM: 10.00% (wm:9   lm:9   dm:2)  games:52   WG: 48.08% LG: 48.08% (wg:  25 lg:  25) pick: 6   
 Oloro, Ageless Ascetic           matches:43   WM: 37.21%  LM: 41.86%  DM: 20.93% (wm:16  lm:18  dm:9)  games:91   WG: 48.35% LG: 50.55% (wg:  44 lg:  46) pick: 12  
-Omnath, Locus of Creation        matches:116  WM: 53.45%  LM: 39.66%  DM:  6.90% (wm:62  lm:46  dm:8)  games:268  WG: 54.10% LG: 45.15% (wg: 145 lg: 121) pick: 27  
+Omnath, Locus of Creation        matches:118  WM: 53.39%  LM: 39.83%  DM:  6.78% (wm:63  lm:47  dm:8)  games:272  WG: 54.04% LG: 45.22% (wg: 147 lg: 123) pick: 28  
 Oskar, Rubbish Reclaimer         matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00% (wm:3   lm:2   dm:0)  games:13   WG: 61.54% LG: 38.46% (wg:   8 lg:   5) pick: 1   
 Pippin, Guard of the Citadel     matches:7    WM: 42.86%  LM: 42.86%  DM: 14.29% (wm:3   lm:3   dm:1)  games:17   WG: 47.06% LG: 52.94% (wg:   8 lg:   9) pick: 2   
 Pippin, Warden of Isengard       matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:6    WG:  0.00% LG:100.00% (wg:   0 lg:   6) pick: 1   

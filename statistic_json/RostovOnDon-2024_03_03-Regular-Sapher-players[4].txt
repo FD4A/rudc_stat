@@ -1,0 +1,14 @@
+Geist of Saint Traft             matches:1    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:1   dm:0)  games:2    WG:  0.00% LG:100.00% (wg:   0 lg:   2) pick: 1   
+       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
+
+Karlov of the Ghost Council      matches:1    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:1   dm:0)  games:2    WG:  0.00% LG:100.00% (wg:   0 lg:   2) pick: 1   
+       vs Magda, Brazen Outlaw             (w:0 l:1 d:0), (0/2)
+
+Magda, Brazen Outlaw             matches:2    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:2   lm:0   dm:0)  games:4    WG:100.00% LG:  0.00% (wg:   4 lg:   0) pick: 1   
+       vs Karlov of the Ghost Council      (w:1 l:0 d:0), (2/0)
+       vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/0)
+
+Omnath, Locus of Creation        matches:2    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:1   lm:1   dm:0)  games:4    WG: 50.00% LG: 50.00% (wg:   2 lg:   2) pick: 1   
+       vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
+       vs Magda, Brazen Outlaw             (w:0 l:1 d:0), (0/2)
+

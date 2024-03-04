@@ -11,7 +11,8 @@ RostovOnDon-2023_11_12-Regular-Sapher-players[8]
 RostovOnDon-2023_11_26-Regular-Sapher-players[6]
 RostovOnDon-2023_12_10-Regular-Sapher-players[7]
 RostovOnDon-2024_01_21-Regular-Constantin-players[10]
-RostovOnDon-2024_03_03-Regular-Constantin-players[10]
+RostovOnDon-2024_03_03-Regular-Sapher-players[10]
+RostovOnDon-2024_03_03-Regular-Sapher-players[4]
 Spb-2023_11_09-Regular-Andysays-players[11]
 Spb-2023_11_16-Regular-Andysays-players[7]
 Spb-2023_11_23-Regular-Andysays-players[12]
@@ -327,10 +328,6 @@ Dragonlord Ojutai                matches:8    WM: 37.50%  LM: 37.50%  DM: 25.00%
        vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
 
 Elas il-Kor, Sadistic Pilgrim    matches:11   WM: 54.55%  LM: 45.45%  DM:  0.00% (wm:6   lm:5   dm:0)  games:28   WG: 50.00% LG: 50.00% (wg:  14 lg:  14) pick: 3   
-       vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
-       vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/1)
-       vs Niv-Mizzet Reborn                (w:0 l:1 d:0), (0/2)
-       vs Karlov of the Ghost Council      (w:0 l:1 d:0), (1/2)
        vs The Reality Chip                 (w:1 l:0 d:0), (2/1)
        vs Karlov of the Ghost Council      (w:0 l:1 d:0), (1/2)
         + Lurrus of the Dream-Den         
@@ -340,6 +337,10 @@ Elas il-Kor, Sadistic Pilgrim    matches:11   WM: 54.55%  LM: 45.45%  DM:  0.00%
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
         + Tana, the Bloodsower            
        vs Kess, Dissident Mage             (w:1 l:0 d:0), (2/0)
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
+       vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/1)
+       vs Niv-Mizzet Reborn                (w:0 l:1 d:0), (0/2)
+       vs Karlov of the Ghost Council      (w:0 l:1 d:0), (1/2)
 
 Elminster                        matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:10   WG: 20.00% LG: 80.00% (wg:   2 lg:   8) pick: 1   
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
@@ -405,14 +406,14 @@ Frodo, Adventurous Hobbit        matches:3    WM:  0.00%  LM:100.00%  DM:  0.00%
        vs Octavia, Living Thesis           (w:0 l:1 d:0), (1/2)
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (1/2)
 
-Geist of Saint Traft             matches:7    WM: 57.14%  LM: 42.86%  DM:  0.00% (wm:4   lm:3   dm:0)  games:17   WG: 52.94% LG: 47.06% (wg:   9 lg:   8) pick: 2   
-       vs Elas il-Kor, Sadistic Pilgrim    (w:1 l:0 d:0), (2/0)
-       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (1/2)
-       vs Leovold, Emissary of Trest       (w:1 l:0 d:0), (2/0)
-       vs Magda, Brazen Outlaw             (w:0 l:1 d:0), (0/2)
+Geist of Saint Traft             matches:8    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:4   lm:4   dm:0)  games:19   WG: 47.37% LG: 52.63% (wg:   9 lg:  10) pick: 3   
        vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (0/2)
        vs Slimefoot and Squee              (w:1 l:0 d:0), (2/1)
        vs Kytheon, Hero of Akros           (w:1 l:0 d:0), (2/1)
+       vs Omnath, Locus of Creation        (w:0 l:2 d:0), (1/4)
+       vs Elas il-Kor, Sadistic Pilgrim    (w:1 l:0 d:0), (2/0)
+       vs Leovold, Emissary of Trest       (w:1 l:0 d:0), (2/0)
+       vs Magda, Brazen Outlaw             (w:0 l:1 d:0), (0/2)
 
 Ghyrson Starn, Kelermorph        matches:42   WM: 61.90%  LM: 33.33%  DM:  4.76% (wm:26  lm:14  dm:2)  games:100  WG: 59.00% LG: 40.00% (wg:  59 lg:  40) pick: 12  
        vs Kinnan, Bonder Prodigy           (w:1 l:1 d:0), (3/2)
@@ -631,7 +632,8 @@ Kari Zev, Skyship Raider         matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00%
        vs Kinnan, Bonder Prodigy           (w:1 l:0 d:0), (2/1)
        vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (1/2)
 
-Karlov of the Ghost Council      matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:10   WG: 60.00% LG: 40.00% (wg:   6 lg:   4) pick: 1   
+Karlov of the Ghost Council      matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00% (wm:3   lm:2   dm:0)  games:12   WG: 50.00% LG: 50.00% (wg:   6 lg:   6) pick: 2   
+       vs Magda, Brazen Outlaw             (w:0 l:1 d:0), (0/2)
        vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
        vs Syr Faren, the Hengehammer       (w:1 l:0 d:0), (2/0)
        vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/1)
@@ -784,10 +786,6 @@ Kytheon, Hero of Akros           matches:54   WM: 55.56%  LM: 40.74%  DM:  3.70%
         + Flaming Fist                    
 
 Leovold, Emissary of Trest       matches:31   WM: 32.26%  LM: 64.52%  DM:  3.23% (wm:10  lm:20  dm:1)  games:73   WG: 39.73% LG: 60.27% (wg:  29 lg:  44) pick: 8   
-       vs Malcolm, Alluring Scoundrel      (w:0 l:3 d:0), (2/6)
-       vs Ojer Axonil, Deepest Might       (w:1 l:0 d:0), (2/0)
-       vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
-       vs Syr Faren, the Hengehammer       (w:0 l:1 d:0), (1/2)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
         + Jeska, Thrice Reborn            
        vs Shorikai, Genesis Engine         (w:1 l:2 d:0), (3/4)
@@ -801,6 +799,10 @@ Leovold, Emissary of Trest       matches:31   WM: 32.26%  LM: 64.52%  DM:  3.23%
        vs Raffine, Scheming Seer           (w:0 l:1 d:0), (0/2)
        vs Urza, Chief Artificer            (w:1 l:0 d:0), (2/0)
        vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/0)
+       vs Malcolm, Alluring Scoundrel      (w:0 l:3 d:0), (2/6)
+       vs Ojer Axonil, Deepest Might       (w:1 l:0 d:0), (2/0)
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
+       vs Syr Faren, the Hengehammer       (w:0 l:1 d:0), (1/2)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
         + Tana, the Bloodsower            
        vs Gix, Yawgmoth Praetor            (w:1 l:0 d:0), (2/0)
@@ -833,17 +835,18 @@ Light-Paws, Emperor's Voice      matches:22   WM:  9.09%  LM: 86.36%  DM:  4.55%
        vs Leovold, Emissary of Trest       (w:0 l:1 d:0), (0/2)
        vs Circu, Dimir Lobotomist          (w:0 l:1 d:0), (0/2)
 
-Magda, Brazen Outlaw             matches:20   WM: 70.00%  LM: 25.00%  DM:  5.00% (wm:14  lm:5   dm:1)  games:47   WG: 65.96% LG: 31.91% (wg:  31 lg:  15) pick: 4   
-       vs Syr Faren, the Hengehammer       (w:1 l:0 d:0), (2/0)
-       vs Niv-Mizzet Reborn                (w:1 l:1 d:0), (3/2)
-       vs Omnath, Locus of Creation        (w:1 l:1 d:0), (3/3)
-       vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
+Magda, Brazen Outlaw             matches:22   WM: 72.73%  LM: 22.73%  DM:  4.55% (wm:16  lm:5   dm:1)  games:51   WG: 68.63% LG: 29.41% (wg:  35 lg:  15) pick: 5   
        vs Jadar, Ghoulcaller of Nephalia   (w:0 l:0 d:1), (0/0)
        vs Kasla, the Broken Halo           (w:1 l:0 d:0), (2/0)
        vs Dragonlord Ojutai                (w:1 l:0 d:0), (2/0)
+       vs Niv-Mizzet Reborn                (w:1 l:1 d:0), (3/2)
        vs Shorikai, Genesis Engine         (w:1 l:0 d:0), (2/1)
        vs Selvala, Explorer Returned       (w:1 l:0 d:0), (2/1)
        vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (1/2)
+       vs Karlov of the Ghost Council      (w:1 l:0 d:0), (2/0)
+       vs Omnath, Locus of Creation        (w:2 l:1 d:0), (5/3)
+       vs Syr Faren, the Hengehammer       (w:1 l:0 d:0), (2/0)
+       vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
        vs Tergrid, God of Fright           (w:1 l:0 d:0), (2/1)
        vs Yoshimaru, Ever Faithful         (w:2 l:2 d:0), (4/4)
         + Tana, the Bloodsower            
@@ -892,12 +895,12 @@ Narset, Enlightened Master       matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00%
        vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (0/2)
 
 Niv-Mizzet Reborn                matches:8    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:6   lm:2   dm:0)  games:17   WG: 64.71% LG: 35.29% (wg:  11 lg:   6) pick: 2   
+       vs Oloro, Ageless Ascetic           (w:1 l:0 d:0), (1/0)
+       vs Aesi, Tyrant of Gyre Strait      (w:1 l:0 d:0), (2/0)
        vs Ojer Axonil, Deepest Might       (w:2 l:0 d:0), (4/1)
        vs Magda, Brazen Outlaw             (w:1 l:1 d:0), (2/3)
        vs Elas il-Kor, Sadistic Pilgrim    (w:1 l:0 d:0), (2/0)
        vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
-       vs Oloro, Ageless Ascetic           (w:1 l:0 d:0), (1/0)
-       vs Aesi, Tyrant of Gyre Strait      (w:1 l:0 d:0), (2/0)
 
 Niv-Mizzet, Parun                matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:8    WG: 50.00% LG: 50.00% (wg:   4 lg:   4) pick: 1   
        vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/0)
@@ -926,13 +929,13 @@ Octavia, Living Thesis           matches:22   WM: 36.36%  LM: 63.64%  DM:  0.00%
        vs Leovold, Emissary of Trest       (w:1 l:1 d:0), (3/2)
 
 Ojer Axonil, Deepest Might       matches:8    WM: 37.50%  LM: 62.50%  DM:  0.00% (wm:3   lm:5   dm:0)  games:20   WG: 40.00% LG: 60.00% (wg:   8 lg:  12) pick: 2   
+       vs Kasla, the Broken Halo           (w:1 l:0 d:0), (2/1)
+       vs Atraxa, Grand Unifier            (w:1 l:0 d:0), (2/0)
        vs Niv-Mizzet Reborn                (w:0 l:2 d:0), (1/4)
+       vs Aesi, Tyrant of Gyre Strait      (w:1 l:0 d:0), (2/1)
        vs Leovold, Emissary of Trest       (w:0 l:1 d:0), (0/2)
        vs Syr Faren, the Hengehammer       (w:0 l:1 d:0), (1/2)
        vs Malcolm, Alluring Scoundrel      (w:0 l:1 d:0), (0/2)
-       vs Kasla, the Broken Halo           (w:1 l:0 d:0), (2/1)
-       vs Atraxa, Grand Unifier            (w:1 l:0 d:0), (2/0)
-       vs Aesi, Tyrant of Gyre Strait      (w:1 l:0 d:0), (2/1)
 
 Old Stickfingers                 matches:20   WM: 45.00%  LM: 45.00%  DM: 10.00% (wm:9   lm:9   dm:2)  games:52   WG: 48.08% LG: 48.08% (wg:  25 lg:  25) pick: 6   
        vs Oloro, Ageless Ascetic           (w:0 l:2 d:0), (2/4)
@@ -971,11 +974,7 @@ Oloro, Ageless Ascetic           matches:28   WM: 35.71%  LM: 35.71%  DM: 28.57%
        vs The Reality Chip                 (w:1 l:0 d:0), (2/0)
        vs Kess, Dissident Mage             (w:1 l:0 d:0), (1/0)
 
-Omnath, Locus of Creation        matches:84   WM: 53.57%  LM: 38.10%  DM:  8.33% (wm:45  lm:32  dm:7)  games:194  WG: 54.64% LG: 44.33% (wg: 106 lg:  86) pick: 21  
-       vs Karlov of the Ghost Council      (w:1 l:0 d:0), (2/0)
-       vs Geist of Saint Traft             (w:1 l:0 d:0), (2/1)
-       vs Magda, Brazen Outlaw             (w:1 l:1 d:0), (3/3)
-       vs Niv-Mizzet Reborn                (w:1 l:0 d:0), (2/0)
+Omnath, Locus of Creation        matches:86   WM: 53.49%  LM: 38.37%  DM:  8.14% (wm:46  lm:33  dm:7)  games:198  WG: 54.55% LG: 44.44% (wg: 108 lg:  88) pick: 22  
        vs Aminatou, the Fateshifter        (w:2 l:3 d:1), (7/6)
        vs Light-Paws, Emperor's Voice      (w:4 l:0 d:0), (8/1)
        vs Dihada, Binder of Wills          (w:2 l:2 d:0), (4/6)
@@ -995,6 +994,8 @@ Omnath, Locus of Creation        matches:84   WM: 53.57%  LM: 38.10%  DM:  8.33%
        vs Aragorn, King of Gondor          (w:1 l:2 d:0), (3/4)
        vs Yoshimaru, Ever Faithful         (w:2 l:4 d:0), (5/10)
         + Tana, the Bloodsower            
+       vs Geist of Saint Traft             (w:2 l:0 d:0), (4/1)
+       vs Magda, Brazen Outlaw             (w:1 l:2 d:0), (3/5)
        vs Golos, Tireless Pilgrim          (w:0 l:3 d:0), (1/6)
        vs Esika, God of the Tree           (w:1 l:0 d:0), (2/0)
        vs Juri, Master of the Revue        (w:0 l:2 d:0), (1/4)
@@ -1008,6 +1009,8 @@ Omnath, Locus of Creation        matches:84   WM: 53.57%  LM: 38.10%  DM:  8.33%
        vs Leovold, Emissary of Trest       (w:1 l:0 d:0), (2/0)
        vs God-Eternal Kefnet               (w:1 l:0 d:0), (1/0)
        vs Dragonlord Ojutai                (w:1 l:0 d:0), (2/0)
+       vs Karlov of the Ghost Council      (w:1 l:0 d:0), (2/0)
+       vs Niv-Mizzet Reborn                (w:1 l:0 d:0), (2/0)
        vs Kellan, the Fae-Blooded          (w:1 l:0 d:0), (2/0)
        vs The Beamtown Bullies             (w:1 l:0 d:0), (2/1)
        vs Tergrid, God of Fright           (w:1 l:0 d:0), (2/0)
