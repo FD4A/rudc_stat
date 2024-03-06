@@ -1,0 +1,135 @@
+{
+    "date": "2024_02_16",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Хорьков Никита",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Жандосов Карим",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Иванько Альберт",
+            "Esika, God of the Tree"
+        ],
+        [
+            "Заиграев Даниил",
+            "Heliod, Sun-Crowned"
+        ],
+        [
+            "Пузиков Никита",
+            "Najeela, the Blade-Blossom"
+        ],
+        [
+            "Бурдуков Никита",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Кириченко Евгений",
+            "Lord Windgrace"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Хорьков Никита",
+                "Пузиков Никита",
+                "Winota, Joiner of Forces",
+                "Najeela, the Blade-Blossom",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Заиграев Даниил",
+                "Esika, God of the Tree",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Бурдуков Никита",
+                "Кириченко Евгений",
+                "Asmoranomardicadaistinaculdacar",
+                "Lord Windgrace",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Хорьков Никита",
+                "Бурдуков Никита",
+                "Winota, Joiner of Forces",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Жандосов Карим",
+                "Иванько Альберт",
+                "Feldon, Ronom Excavator",
+                "Esika, God of the Tree",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Пузиков Никита",
+                "Кириченко Евгений",
+                "Najeela, the Blade-Blossom",
+                "Lord Windgrace",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Хорьков Никита",
+                "Жандосов Карим",
+                "Winota, Joiner of Forces",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Бурдуков Никита",
+                "Esika, God of the Tree",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Заиграев Даниил",
+                "Кириченко Евгений",
+                "Heliod, Sun-Crowned",
+                "Lord Windgrace",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

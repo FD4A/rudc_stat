@@ -1,0 +1,93 @@
+{
+    "date": "2023_12_27",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Евгеньев Александр",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Коваль Светослав",
+            "Yoshimaru, Ever Faithful"
+        ],
+        [
+            "Иванько Альберт",
+            "Vadrik, Astral Archmage"
+        ],
+        [
+            "Овчаренко Даниил",
+            "Sythis, Harvest's Hand"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Евгеньев Александр",
+                "Коваль Светослав",
+                "Aminatou, the Fateshifter",
+                "Yoshimaru, Ever Faithful",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Овчаренко Даниил",
+                "Vadrik, Astral Archmage",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Евгеньев Александр",
+                "Иванько Альберт",
+                "Aminatou, the Fateshifter",
+                "Vadrik, Astral Archmage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Овчаренко Даниил",
+                "Yoshimaru, Ever Faithful",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Евгеньев Александр",
+                "Овчаренко Даниил",
+                "Aminatou, the Fateshifter",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Иванько Альберт",
+                "Yoshimaru, Ever Faithful",
+                "Vadrik, Astral Archmage",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

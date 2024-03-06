@@ -1,0 +1,259 @@
+{
+    "date": "2024_02_04",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Евгеньев Александр",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Еремеев Александр",
+            "Laelia, the Blade Reforged"
+        ],
+        [
+            "Кириченко Евгений",
+            "The Reality Chip"
+        ],
+        [
+            "Редько Павел",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Романчугов Евгений",
+            "Rocco, Cabaretti Caterer"
+        ],
+        [
+            "Хорьков Никита",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Ерофеев Александр",
+            "Heliod, Sun-Crowned"
+        ],
+        [
+            "Иванько Альберт",
+            "Ognis, the Dragon's Lash"
+        ],
+        [
+            "Беляков Михаил",
+            "Galazeth Prismari"
+        ],
+        [
+            "Петрухин Иван",
+            "Rashmi, Eternities Crafter"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Евгеньев Александр",
+                "Ерофеев Александр",
+                "Aminatou, the Fateshifter",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Романчугов Евгений",
+                "Laelia, the Blade Reforged",
+                "Rocco, Cabaretti Caterer",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Петрухин Иван",
+                "The Reality Chip",
+                "Rashmi, Eternities Crafter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Иванько Альберт",
+                "Light-Paws, Emperor's Voice",
+                "Ognis, the Dragon's Lash",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Беляков Михаил",
+                "Winota, Joiner of Forces",
+                "Galazeth Prismari",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Евгеньев Александр",
+                "Редько Павел",
+                "Aminatou, the Fateshifter",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Беляков Михаил",
+                "Laelia, the Blade Reforged",
+                "Galazeth Prismari",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Хорьков Никита",
+                "The Reality Chip",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Романчугов Евгений",
+                "Иванько Альберт",
+                "Rocco, Cabaretti Caterer",
+                "Ognis, the Dragon's Lash",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ерофеев Александр",
+                "Петрухин Иван",
+                "Heliod, Sun-Crowned",
+                "Rashmi, Eternities Crafter",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Евгеньев Александр",
+                "Кириченко Евгений",
+                "Aminatou, the Fateshifter",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Ерофеев Александр",
+                "Laelia, the Blade Reforged",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Петрухин Иван",
+                "Light-Paws, Emperor's Voice",
+                "Rashmi, Eternities Crafter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Романчугов Евгений",
+                "Хорьков Никита",
+                "Rocco, Cabaretti Caterer",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Беляков Михаил",
+                "Ognis, the Dragon's Lash",
+                "Galazeth Prismari",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Евгеньев Александр",
+                "Еремеев Александр",
+                "Aminatou, the Fateshifter",
+                "Laelia, the Blade Reforged",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Романчугов Евгений",
+                "The Reality Chip",
+                "Rocco, Cabaretti Caterer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Ерофеев Александр",
+                "Light-Paws, Emperor's Voice",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Иванько Альберт",
+                "Winota, Joiner of Forces",
+                "Ognis, the Dragon's Lash",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Петрухин Иван",
+                "Galazeth Prismari",
+                "Rashmi, Eternities Crafter",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

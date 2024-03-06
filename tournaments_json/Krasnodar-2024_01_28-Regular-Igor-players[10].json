@@ -1,0 +1,259 @@
+{
+    "date": "2024_01_28",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Черненко Дмитрий",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Редько Павел",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Болотский Дмитрий",
+            "Karlov of the Ghost Council"
+        ],
+        [
+            "Берзегов Рамазан",
+            "Trelasarra, Moon Dancer"
+        ],
+        [
+            "Еремеев Александр",
+            "Laelia, the Blade Reforged"
+        ],
+        [
+            "Омельченко Виктор",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Беляков Михаил",
+            "Galazeth Prismari"
+        ],
+        [
+            "Зайцев Даниил",
+            "Flamewar, Brash Veteran"
+        ],
+        [
+            "Ерофеев Александр",
+            "Abomination of Llanowar"
+        ],
+        [
+            "Лях Владимир",
+            "Sythis, Harvest's Hand"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Черненко Дмитрий",
+                "Ерофеев Александр",
+                "Hogaak, Arisen Necropolis",
+                "Abomination of Llanowar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Болотский Дмитрий",
+                "Light-Paws, Emperor's Voice",
+                "Karlov of the Ghost Council",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Берзегов Рамазан",
+                "Лях Владимир",
+                "Trelasarra, Moon Dancer",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Зайцев Даниил",
+                "Laelia, the Blade Reforged",
+                "Flamewar, Brash Veteran",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Омельченко Виктор",
+                "Беляков Михаил",
+                "Kinnan, Bonder Prodigy",
+                "Galazeth Prismari",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Черненко Дмитрий",
+                "Еремеев Александр",
+                "Hogaak, Arisen Necropolis",
+                "Laelia, the Blade Reforged",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Берзегов Рамазан",
+                "Light-Paws, Emperor's Voice",
+                "Trelasarra, Moon Dancer",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Болотский Дмитрий",
+                "Лях Владимир",
+                "Karlov of the Ghost Council",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Омельченко Виктор",
+                "Ерофеев Александр",
+                "Kinnan, Bonder Prodigy",
+                "Abomination of Llanowar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Зайцев Даниил",
+                "Galazeth Prismari",
+                "Flamewar, Brash Veteran",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Черненко Дмитрий",
+                "Берзегов Рамазан",
+                "Hogaak, Arisen Necropolis",
+                "Trelasarra, Moon Dancer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Беляков Михаил",
+                "Light-Paws, Emperor's Voice",
+                "Galazeth Prismari",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Болотский Дмитрий",
+                "Ерофеев Александр",
+                "Karlov of the Ghost Council",
+                "Abomination of Llanowar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Омельченко Виктор",
+                "Laelia, the Blade Reforged",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Лях Владимир",
+                "Flamewar, Brash Veteran",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Черненко Дмитрий",
+                "Омельченко Виктор",
+                "Hogaak, Arisen Necropolis",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Еремеев Александр",
+                "Light-Paws, Emperor's Voice",
+                "Laelia, the Blade Reforged",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Болотский Дмитрий",
+                "Берзегов Рамазан",
+                "Karlov of the Ghost Council",
+                "Trelasarra, Moon Dancer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Лях Владимир",
+                "Galazeth Prismari",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Ерофеев Александр",
+                "Flamewar, Brash Veteran",
+                "Abomination of Llanowar",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

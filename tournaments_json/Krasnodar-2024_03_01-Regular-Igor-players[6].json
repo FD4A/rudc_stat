@@ -1,0 +1,131 @@
+{
+    "date": "2024_03_01",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Коваль Светослав",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Гяго Георгий",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Пузиков Никита",
+            "Saskia the Unyielding"
+        ],
+        [
+            "Иванько Альберт",
+            "Jodah, the Unifier"
+        ],
+        [
+            "Бурдуков Никита",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Заиграев Даниил",
+            "Kess, Dissident Mage"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Коваль Светослав",
+                "Бурдуков Никита",
+                "Raffine, Scheming Seer",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Гяго Георгий",
+                "Иванько Альберт",
+                "Arahbo, Roar of the World",
+                "Jodah, the Unifier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Пузиков Никита",
+                "Заиграев Даниил",
+                "Saskia the Unyielding",
+                "Kess, Dissident Mage",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Коваль Светослав",
+                "Заиграев Даниил",
+                "Raffine, Scheming Seer",
+                "Kess, Dissident Mage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Гяго Георгий",
+                "Пузиков Никита",
+                "Arahbo, Roar of the World",
+                "Saskia the Unyielding",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Бурдуков Никита",
+                "Jodah, the Unifier",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Коваль Светослав",
+                "Гяго Георгий",
+                "Raffine, Scheming Seer",
+                "Arahbo, Roar of the World",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Пузиков Никита",
+                "Иванько Альберт",
+                "Saskia the Unyielding",
+                "Jodah, the Unifier",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Бурдуков Никита",
+                "Заиграев Даниил",
+                "Asmoranomardicadaistinaculdacar",
+                "Kess, Dissident Mage",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

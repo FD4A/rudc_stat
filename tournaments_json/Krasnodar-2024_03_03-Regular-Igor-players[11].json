@@ -1,0 +1,263 @@
+{
+    "date": "2024_03_03",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Помогайлов Максим",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Рудичева Александра",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Васинов Николай",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Иванов Антон",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Помогайлов Кирилл",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Омельченко Виктор",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Ерофеев Александр",
+            "Kari Zev, Skyship Raider"
+        ],
+        [
+            "Олешко Роман",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Беляков Михаил",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Сажин Юрий",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Коваль Светослав",
+            "Raffine, Scheming Seer"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Рудичева Александра",
+                "Омельченко Виктор",
+                "Winota, Joiner of Forces",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Помогайлов Кирилл",
+                "Omnath, Locus of Creation",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Антон",
+                "Коваль Светослав",
+                "Tivit, Seller of Secrets",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ерофеев Александр",
+                "Беляков Михаил",
+                "Kari Zev, Skyship Raider",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Олешко Роман",
+                "Сажин Юрий",
+                "Asmoranomardicadaistinaculdacar",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Помогайлов Максим",
+                "Сажин Юрий",
+                "Feldon, Ronom Excavator",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Рудичева Александра",
+                "Беляков Михаил",
+                "Winota, Joiner of Forces",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Иванов Антон",
+                "Omnath, Locus of Creation",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Помогайлов Кирилл",
+                "Коваль Светослав",
+                "Winota, Joiner of Forces",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Омельченко Виктор",
+                "Олешко Роман",
+                "Kinnan, Bonder Prodigy",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Помогайлов Максим",
+                "Беляков Михаил",
+                "Feldon, Ronom Excavator",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Рудичева Александра",
+                "Васинов Николай",
+                "Winota, Joiner of Forces",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Антон",
+                "Олешко Роман",
+                "Tivit, Seller of Secrets",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Помогайлов Кирилл",
+                "Сажин Юрий",
+                "Winota, Joiner of Forces",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ерофеев Александр",
+                "Коваль Светослав",
+                "Kari Zev, Skyship Raider",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Помогайлов Максим",
+                "Рудичева Александра",
+                "Feldon, Ronom Excavator",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Ерофеев Александр",
+                "Omnath, Locus of Creation",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Антон",
+                "Помогайлов Кирилл",
+                "Tivit, Seller of Secrets",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Омельченко Виктор",
+                "Беляков Михаил",
+                "Kinnan, Bonder Prodigy",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Олешко Роман",
+                "Коваль Светослав",
+                "Asmoranomardicadaistinaculdacar",
+                "Raffine, Scheming Seer",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

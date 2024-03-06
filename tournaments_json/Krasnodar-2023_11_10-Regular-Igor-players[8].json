@@ -1,0 +1,169 @@
+{
+    "date": "2023_11_10",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Арушунян Тигран",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Терновский Михаил",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Мищенко Евгений",
+            "Heliod, Sun-Crowned"
+        ],
+        [
+            "Бурдуков Никита",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Бабичев Фёдор",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Коваль Светослав",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Гяго Георгий",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Заиграев Даниил",
+            "Omnath, Locus of Creation"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Арушунян Тигран",
+                "Бабичев Фёдор",
+                "Geist of Saint Traft",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Терновский Михаил",
+                "Заиграев Даниил",
+                "Feldon, Ronom Excavator",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мищенко Евгений",
+                "Гяго Георгий",
+                "Heliod, Sun-Crowned",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Бурдуков Никита",
+                "Коваль Светослав",
+                "Asmoranomardicadaistinaculdacar",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Арушунян Тигран",
+                "Мищенко Евгений",
+                "Geist of Saint Traft",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Терновский Михаил",
+                "Бурдуков Никита",
+                "Feldon, Ronom Excavator",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Бабичев Фёдор",
+                "Гяго Георгий",
+                "Shorikai, Genesis Engine",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Заиграев Даниил",
+                "Aminatou, the Fateshifter",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Арушунян Тигран",
+                "Терновский Михаил",
+                "Geist of Saint Traft",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мищенко Евгений",
+                "Коваль Светослав",
+                "Heliod, Sun-Crowned",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Бурдуков Никита",
+                "Бабичев Фёдор",
+                "Asmoranomardicadaistinaculdacar",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Гяго Георгий",
+                "Заиграев Даниил",
+                "Arahbo, Roar of the World",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

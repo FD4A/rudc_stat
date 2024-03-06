@@ -1,0 +1,97 @@
+{
+    "date": "2024_01_12",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Коваль Светослав",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Бурдуков Никита",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Овчаренко Даниил",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Хорьков Никита",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Бушеленков Глеб",
+            "Juri, Master of the Revue"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Коваль Светослав",
+                "Хорьков Никита",
+                "Aminatou, the Fateshifter",
+                "Winota, Joiner of Forces",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Овчаренко Даниил",
+                "Бушеленков Глеб",
+                "Light-Paws, Emperor's Voice",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Бурдуков Никита",
+                "Овчаренко Даниил",
+                "Asmoranomardicadaistinaculdacar",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Бушеленков Глеб",
+                "Winota, Joiner of Forces",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Коваль Светослав",
+                "Бурдуков Никита",
+                "Aminatou, the Fateshifter",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Овчаренко Даниил",
+                "Хорьков Никита",
+                "Light-Paws, Emperor's Voice",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

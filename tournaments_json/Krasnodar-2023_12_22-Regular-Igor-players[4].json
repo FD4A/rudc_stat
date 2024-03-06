@@ -1,0 +1,93 @@
+{
+    "date": "2023_12_22",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Помогайлов Кирилл",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Коваль Светослав",
+            "Yoshimaru, Ever Faithful"
+        ],
+        [
+            "Жандосов Карим",
+            "Animar, Soul of Elements"
+        ],
+        [
+            "Заиграев Даниил",
+            "Heliod, Sun-Crowned"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Помогайлов Кирилл",
+                "Заиграев Даниил",
+                "Winota, Joiner of Forces",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Жандосов Карим",
+                "Yoshimaru, Ever Faithful",
+                "Animar, Soul of Elements",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Помогайлов Кирилл",
+                "Жандосов Карим",
+                "Winota, Joiner of Forces",
+                "Animar, Soul of Elements",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Заиграев Даниил",
+                "Yoshimaru, Ever Faithful",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Помогайлов Кирилл",
+                "Коваль Светослав",
+                "Winota, Joiner of Forces",
+                "Yoshimaru, Ever Faithful",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Жандосов Карим",
+                "Заиграев Даниил",
+                "Animar, Soul of Elements",
+                "Heliod, Sun-Crowned",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,10 @@
+location::Krasnodar
+level::Regular
+date::2024_01_12
+organizer::Igor
+Round
+Коваль Светослав	12/01/24	1	Aminatou, the Fateshifter	Краснодар		11	Хорьков Никита	bye	bye	20	Бурдуков Никита
+Бурдуков Никита	12/01/24	2	Asmoranomardicadaistinaculdacar	Краснодар		bye	bye	21	Овчаренко Даниил	2	Коваль Светослав
+Овчаренко Даниил	12/01/24	3	Light-Paws, Emperor's Voice	Краснодар		20	Бушеленков Глеб	12	Бурдуков Никита	20	Хорьков Никита
+Хорьков Никита	12/01/24	4	Winota, Joiner of Forces	Краснодар		11	Коваль Светослав	21	Бушеленков Глеб	2	Овчаренко Даниил
+Бушеленков Глеб	12/01/24	5	Juri, Master of the Revue	Краснодар		2	Овчаренко Даниил	12	Хорьков Никита	bye	bye

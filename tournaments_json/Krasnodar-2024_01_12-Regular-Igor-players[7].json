@@ -1,0 +1,167 @@
+{
+    "date": "2024_01_12",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Еремеев Александр",
+            "Laelia, the Blade Reforged"
+        ],
+        [
+            "Васинов Николай",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Безрученко Дмитрий",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Коваль Светослав",
+            "Samwise Gamgee"
+        ],
+        [
+            "Ерофеев Александр",
+            "Heliod, Sun-Crowned"
+        ],
+        [
+            "Хорьков Никита",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Овчаренко Даниил",
+            "Light-Paws, Emperor's Voice"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Еремеев Александр",
+                "Хорьков Никита",
+                "Laelia, the Blade Reforged",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Коваль Светослав",
+                "Asmoranomardicadaistinaculdacar",
+                "Samwise Gamgee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Овчаренко Даниил",
+                "Indoraptor, the Perfect Hybrid",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Еремеев Александр",
+                "Ерофеев Александр",
+                "Laelia, the Blade Reforged",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Безрученко Дмитрий",
+                "Asmoranomardicadaistinaculdacar",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Овчаренко Даниил",
+                "Samwise Gamgee",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Еремеев Александр",
+                "Васинов Николай",
+                "Laelia, the Blade Reforged",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Ерофеев Александр",
+                "Indoraptor, the Perfect Hybrid",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Хорьков Никита",
+                "Samwise Gamgee",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Еремеев Александр",
+                "Коваль Светослав",
+                "Laelia, the Blade Reforged",
+                "Samwise Gamgee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Ерофеев Александр",
+                "Asmoranomardicadaistinaculdacar",
+                "Heliod, Sun-Crowned",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Хорьков Никита",
+                "Indoraptor, the Perfect Hybrid",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

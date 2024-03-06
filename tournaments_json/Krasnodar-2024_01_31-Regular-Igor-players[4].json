@@ -1,0 +1,93 @@
+{
+    "date": "2024_01_31",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Заиграев Даниил",
+            "Heliod, Sun-Crowned"
+        ],
+        [
+            "Евгеньев Александр",
+            "Codie, Vociferous Codex"
+        ],
+        [
+            "Хорьков Никита",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Овчаренко Даниил",
+            "Light-Paws, Emperor's Voice"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Заиграев Даниил",
+                "Овчаренко Даниил",
+                "Heliod, Sun-Crowned",
+                "Light-Paws, Emperor's Voice",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Евгеньев Александр",
+                "Хорьков Никита",
+                "Codie, Vociferous Codex",
+                "Winota, Joiner of Forces",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Заиграев Даниил",
+                "Евгеньев Александр",
+                "Heliod, Sun-Crowned",
+                "Codie, Vociferous Codex",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Овчаренко Даниил",
+                "Winota, Joiner of Forces",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Заиграев Даниил",
+                "Хорьков Никита",
+                "Heliod, Sun-Crowned",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Евгеньев Александр",
+                "Овчаренко Даниил",
+                "Codie, Vociferous Codex",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,259 @@
+{
+    "date": "2023_11_12",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Арушунян Тигран",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Помогайлов Кирилл",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Омельченко Виктор",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Чурсин Данила",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Кириченко Евгений",
+            "The Reality Chip"
+        ],
+        [
+            "Коваль Светослав",
+            "Yoshimaru, Ever Faithful"
+        ],
+        [
+            "Помогайлов Максим",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Беляков Михаил",
+            "Ludevic, Necro-Alchemist"
+        ],
+        [
+            "Деды Тимур",
+            "The Reality Chip"
+        ],
+        [
+            "Бурцев Олег",
+            "Heliod, Sun-Crowned"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Арушунян Тигран",
+                "Коваль Светослав",
+                "Geist of Saint Traft",
+                "Yoshimaru, Ever Faithful",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Помогайлов Кирилл",
+                "Деды Тимур",
+                "Winota, Joiner of Forces",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Омельченко Виктор",
+                "Бурцев Олег",
+                "Kinnan, Bonder Prodigy",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Беляков Михаил",
+                "Dihada, Binder of Wills",
+                "Ludevic, Necro-Alchemist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Помогайлов Максим",
+                "The Reality Chip",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Арушунян Тигран",
+                "Омельченко Виктор",
+                "Geist of Saint Traft",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Помогайлов Кирилл",
+                "Помогайлов Максим",
+                "Winota, Joiner of Forces",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Кириченко Евгений",
+                "Dihada, Binder of Wills",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Бурцев Олег",
+                "Yoshimaru, Ever Faithful",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Деды Тимур",
+                "Ludevic, Necro-Alchemist",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Арушунян Тигран",
+                "Помогайлов Кирилл",
+                "Geist of Saint Traft",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Омельченко Виктор",
+                "Чурсин Данила",
+                "Kinnan, Bonder Prodigy",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Коваль Светослав",
+                "The Reality Chip",
+                "Yoshimaru, Ever Faithful",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Помогайлов Максим",
+                "Беляков Михаил",
+                "Feldon, Ronom Excavator",
+                "Ludevic, Necro-Alchemist",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Деды Тимур",
+                "Бурцев Олег",
+                "The Reality Chip",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Арушунян Тигран",
+                "Чурсин Данила",
+                "Geist of Saint Traft",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Помогайлов Кирилл",
+                "Кириченко Евгений",
+                "Winota, Joiner of Forces",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Омельченко Виктор",
+                "Беляков Михаил",
+                "Kinnan, Bonder Prodigy",
+                "Ludevic, Necro-Alchemist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Деды Тимур",
+                "Yoshimaru, Ever Faithful",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Помогайлов Максим",
+                "Бурцев Олег",
+                "Feldon, Ronom Excavator",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

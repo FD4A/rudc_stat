@@ -1,0 +1,54 @@
+Asmoranomardicadaistinaculdacar  matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 55.56% LG: 44.44% (wg:   5 lg:   4) pick: 1   
+       vs Jan Jansen, Chaos Crafter        (w:1 l:0 d:0), (2/0)
+       vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/0)
+       vs Winota, Joiner of Forces         (w:0 l:1 d:0), (1/2)
+       vs Laelia, the Blade Reforged       (w:0 l:1 d:0), (0/2)
+
+Grist, the Hunger Tide           matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 50.00% LG: 50.00% (wg:   5 lg:   5) pick: 1   
+       vs Winota, Joiner of Forces         (w:0 l:1 d:0), (1/2)
+       vs Trelasarra, Moon Dancer          (w:1 l:0 d:0), (2/0)
+       vs Laelia, the Blade Reforged       (w:0 l:1 d:0), (0/2)
+       vs Jan Jansen, Chaos Crafter        (w:1 l:0 d:0), (2/1)
+
+Heliod, Sun-Crowned              matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:9    WG: 22.22% LG: 77.78% (wg:   2 lg:   7) pick: 1   
+       vs Trelasarra, Moon Dancer          (w:1 l:0 d:0), (2/1)
+       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
+       vs Winota, Joiner of Forces         (w:0 l:1 d:0), (0/2)
+       vs Malik, Grim Manipulator          (w:0 l:1 d:0), (0/2)
+
+Jan Jansen, Chaos Crafter        matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:10   WG: 20.00% LG: 80.00% (wg:   2 lg:   8) pick: 1   
+       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
+       vs Malik, Grim Manipulator          (w:0 l:1 d:0), (0/2)
+       vs Trelasarra, Moon Dancer          (w:0 l:1 d:0), (1/2)
+       vs Grist, the Hunger Tide           (w:0 l:1 d:0), (1/2)
+
+Laelia, the Blade Reforged       matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:9    WG: 77.78% LG: 22.22% (wg:   7 lg:   2) pick: 1   
+       vs Malik, Grim Manipulator          (w:1 l:0 d:0), (2/0)
+       vs Winota, Joiner of Forces         (w:0 l:1 d:0), (1/2)
+       vs Grist, the Hunger Tide           (w:1 l:0 d:0), (2/0)
+       vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/0)
+
+Malik, Grim Manipulator          matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:8    WG: 50.00% LG: 50.00% (wg:   4 lg:   4) pick: 1   
+       vs Laelia, the Blade Reforged       (w:0 l:1 d:0), (0/2)
+       vs Jan Jansen, Chaos Crafter        (w:1 l:0 d:0), (2/0)
+       vs The Reality Chip                 (w:0 l:1 d:0), (0/2)
+       vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/0)
+
+The Reality Chip                 matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:8    WG: 25.00% LG: 75.00% (wg:   2 lg:   6) pick: 1   
+       vs Winota, Joiner of Forces         (w:0 l:2 d:0), (0/4)
+       vs Malik, Grim Manipulator          (w:1 l:0 d:0), (2/0)
+       vs Trelasarra, Moon Dancer          (w:0 l:1 d:0), (0/2)
+
+Trelasarra, Moon Dancer          matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 50.00% LG: 50.00% (wg:   5 lg:   5) pick: 1   
+       vs Heliod, Sun-Crowned              (w:0 l:1 d:0), (1/2)
+       vs Grist, the Hunger Tide           (w:0 l:1 d:0), (0/2)
+       vs Jan Jansen, Chaos Crafter        (w:1 l:0 d:0), (2/1)
+       vs The Reality Chip                 (w:1 l:0 d:0), (2/0)
+
+Winota, Joiner of Forces         matches:6    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:6   lm:0   dm:0)  games:15   WG: 80.00% LG: 20.00% (wg:  12 lg:   3) pick: 2   
+       vs The Reality Chip                 (w:2 l:0 d:0), (4/0)
+       vs Grist, the Hunger Tide           (w:1 l:0 d:0), (2/1)
+       vs Laelia, the Blade Reforged       (w:1 l:0 d:0), (2/1)
+       vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/1)
+       vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/0)
+

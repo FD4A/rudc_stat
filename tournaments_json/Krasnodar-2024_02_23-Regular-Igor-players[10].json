@@ -1,0 +1,249 @@
+{
+    "date": "2024_02_23",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Пузиков Никита",
+            "Saskia the Unyielding"
+        ],
+        [
+            "Хорьков Никита",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Коваль Светослав",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Мищенко Евгений",
+            "Lord Windgrace"
+        ],
+        [
+            "Зайцев Даниил",
+            "Flamewar, Brash Veteran"
+        ],
+        [
+            "Ерофеев Александр",
+            "Kari Zev, Skyship Raider"
+        ],
+        [
+            "Сажин Юрий",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Заиграев Даниил",
+            "Kess, Dissident Mage"
+        ],
+        [
+            "Овчаренко Даниил",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Деды Тимур",
+            "Asmoranomardicadaistinaculdacar"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Пузиков Никита",
+                "Хорьков Никита",
+                "Saskia the Unyielding",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Мищенко Евгений",
+                "Slimefoot and Squee",
+                "Lord Windgrace",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Ерофеев Александр",
+                "Flamewar, Brash Veteran",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сажин Юрий",
+                "Овчаренко Даниил",
+                "Grist, the Hunger Tide",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Заиграев Даниил",
+                "Деды Тимур",
+                "Kess, Dissident Mage",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Пузиков Никита",
+                "Зайцев Даниил",
+                "Saskia the Unyielding",
+                "Flamewar, Brash Veteran",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Ерофеев Александр",
+                "Winota, Joiner of Forces",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Овчаренко Даниил",
+                "Slimefoot and Squee",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мищенко Евгений",
+                "Деды Тимур",
+                "Lord Windgrace",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сажин Юрий",
+                "Заиграев Даниил",
+                "Grist, the Hunger Tide",
+                "Kess, Dissident Mage",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Пузиков Никита",
+                "Мищенко Евгений",
+                "Saskia the Unyielding",
+                "Lord Windgrace",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Деды Тимур",
+                "Winota, Joiner of Forces",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Сажин Юрий",
+                "Slimefoot and Squee",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Заиграев Даниил",
+                "Flamewar, Brash Veteran",
+                "Kess, Dissident Mage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ерофеев Александр",
+                "Овчаренко Даниил",
+                "Kari Zev, Skyship Raider",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Пузиков Никита",
+                "Коваль Светослав",
+                "Saskia the Unyielding",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Зайцев Даниил",
+                "Winota, Joiner of Forces",
+                "Flamewar, Brash Veteran",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мищенко Евгений",
+                "Ерофеев Александр",
+                "Lord Windgrace",
+                "Kari Zev, Skyship Raider",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Овчаренко Даниил",
+                "Деды Тимур",
+                "Light-Paws, Emperor's Voice",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

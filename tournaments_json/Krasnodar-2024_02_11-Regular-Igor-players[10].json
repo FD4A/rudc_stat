@@ -1,0 +1,239 @@
+{
+    "date": "2024_02_11",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Омельченко Виктор",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Беланов Антон",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Еремеев Александр",
+            "Laelia, the Blade Reforged"
+        ],
+        [
+            "Кириченко Евгений",
+            "The Reality Chip"
+        ],
+        [
+            "Неговелов Игорь",
+            "Lord Windgrace"
+        ],
+        [
+            "Усков Антон",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Хорьков Никита",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Безрученко Дмитрий",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Сажин Юрий",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Ерофеев Александр",
+            "Kari Zev, Skyship Raider"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Омельченко Виктор",
+                "Кириченко Евгений",
+                "Kinnan, Bonder Prodigy",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Беланов Антон",
+                "Неговелов Игорь",
+                "Omnath, Locus of Creation",
+                "Lord Windgrace",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Сажин Юрий",
+                "Laelia, the Blade Reforged",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Усков Антон",
+                "Ерофеев Александр",
+                "Ghyrson Starn, Kelermorph",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Безрученко Дмитрий",
+                "Winota, Joiner of Forces",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Омельченко Виктор",
+                "Беланов Антон",
+                "Kinnan, Bonder Prodigy",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Хорьков Никита",
+                "Laelia, the Blade Reforged",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Сажин Юрий",
+                "The Reality Chip",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Неговелов Игорь",
+                "Усков Антон",
+                "Lord Windgrace",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Ерофеев Александр",
+                "Indoraptor, the Perfect Hybrid",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Омельченко Виктор",
+                "Еремеев Александр",
+                "Kinnan, Bonder Prodigy",
+                "Laelia, the Blade Reforged",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Беланов Антон",
+                "Усков Антон",
+                "Omnath, Locus of Creation",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Хорьков Никита",
+                "The Reality Chip",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Неговелов Игорь",
+                "Безрученко Дмитрий",
+                "Lord Windgrace",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Омельченко Виктор",
+                "Неговелов Игорь",
+                "Kinnan, Bonder Prodigy",
+                "Lord Windgrace",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Беланов Антон",
+                "Еремеев Александр",
+                "Omnath, Locus of Creation",
+                "Laelia, the Blade Reforged",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Безрученко Дмитрий",
+                "The Reality Chip",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Усков Антон",
+                "Хорьков Никита",
+                "Ghyrson Starn, Kelermorph",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

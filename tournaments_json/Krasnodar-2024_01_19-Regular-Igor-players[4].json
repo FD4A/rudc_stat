@@ -1,0 +1,93 @@
+{
+    "date": "2024_01_19",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Хорьков Никита",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Бурдуков Никита",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Овчаренко Даниил",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Петрухин Иван",
+            "Aesi, Tyrant of Gyre Strait"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Хорьков Никита",
+                "Бурдуков Никита",
+                "Winota, Joiner of Forces",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Овчаренко Даниил",
+                "Петрухин Иван",
+                "Light-Paws, Emperor's Voice",
+                "Aesi, Tyrant of Gyre Strait",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Хорьков Никита",
+                "Овчаренко Даниил",
+                "Winota, Joiner of Forces",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Бурдуков Никита",
+                "Петрухин Иван",
+                "Asmoranomardicadaistinaculdacar",
+                "Aesi, Tyrant of Gyre Strait",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Хорьков Никита",
+                "Петрухин Иван",
+                "Winota, Joiner of Forces",
+                "Aesi, Tyrant of Gyre Strait",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Бурдуков Никита",
+                "Овчаренко Даниил",
+                "Asmoranomardicadaistinaculdacar",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

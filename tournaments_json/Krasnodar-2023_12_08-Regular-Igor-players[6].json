@@ -1,0 +1,121 @@
+{
+    "date": "2023_12_08",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Бурдуков Никита",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Бушеленков Глеб",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Петрухин Иван",
+            "Aesi, Tyrant of Gyre Strait"
+        ],
+        [
+            "Заиграев Даниил",
+            "Anje Falkenrath"
+        ],
+        [
+            "Жандосов Карим",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Бурменская София",
+            "Brago, King Eternal"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Бурдуков Никита",
+                "Заиграев Даниил",
+                "Asmoranomardicadaistinaculdacar",
+                "Anje Falkenrath",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Бушеленков Глеб",
+                "Жандосов Карим",
+                "Light-Paws, Emperor's Voice",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Бурдуков Никита",
+                "Бушеленков Глеб",
+                "Asmoranomardicadaistinaculdacar",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Петрухин Иван",
+                "Бурменская София",
+                "Aesi, Tyrant of Gyre Strait",
+                "Brago, King Eternal",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Заиграев Даниил",
+                "Жандосов Карим",
+                "Anje Falkenrath",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Бурдуков Никита",
+                "Петрухин Иван",
+                "Asmoranomardicadaistinaculdacar",
+                "Aesi, Tyrant of Gyre Strait",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Бушеленков Глеб",
+                "Заиграев Даниил",
+                "Light-Paws, Emperor's Voice",
+                "Anje Falkenrath",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Жандосов Карим",
+                "Бурменская София",
+                "Asmoranomardicadaistinaculdacar",
+                "Brago, King Eternal",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

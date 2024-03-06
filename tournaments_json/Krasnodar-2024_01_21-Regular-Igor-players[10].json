@@ -1,0 +1,259 @@
+{
+    "date": "2024_01_21",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Помогайлов Кирилл",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Еремеев Александр",
+            "Laelia, the Blade Reforged"
+        ],
+        [
+            "Хорьков Никита",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Беляков Михаил",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Васинов Николай",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Емтыль Адам",
+            "Malik, Grim Manipulator"
+        ],
+        [
+            "Берзегов Рамазан",
+            "Trelasarra, Moon Dancer"
+        ],
+        [
+            "Деды Тимур",
+            "The Reality Chip"
+        ],
+        [
+            "Ерофеев Александр",
+            "Heliod, Sun-Crowned"
+        ],
+        [
+            "Иванько Альберт",
+            "Jan Jansen, Chaos Crafter"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Помогайлов Кирилл",
+                "Деды Тимур",
+                "Winota, Joiner of Forces",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Емтыль Адам",
+                "Laelia, the Blade Reforged",
+                "Malik, Grim Manipulator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Беляков Михаил",
+                "Winota, Joiner of Forces",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Иванько Альберт",
+                "Asmoranomardicadaistinaculdacar",
+                "Jan Jansen, Chaos Crafter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Берзегов Рамазан",
+                "Ерофеев Александр",
+                "Trelasarra, Moon Dancer",
+                "Heliod, Sun-Crowned",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Помогайлов Кирилл",
+                "Еремеев Александр",
+                "Winota, Joiner of Forces",
+                "Laelia, the Blade Reforged",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Деды Тимур",
+                "Winota, Joiner of Forces",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Берзегов Рамазан",
+                "Grist, the Hunger Tide",
+                "Trelasarra, Moon Dancer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Ерофеев Александр",
+                "Asmoranomardicadaistinaculdacar",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Емтыль Адам",
+                "Иванько Альберт",
+                "Malik, Grim Manipulator",
+                "Jan Jansen, Chaos Crafter",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Еремеев Александр",
+                "Беляков Михаил",
+                "Laelia, the Blade Reforged",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Васинов Николай",
+                "Winota, Joiner of Forces",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Емтыль Адам",
+                "Деды Тимур",
+                "Malik, Grim Manipulator",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Берзегов Рамазан",
+                "Иванько Альберт",
+                "Trelasarra, Moon Dancer",
+                "Jan Jansen, Chaos Crafter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ерофеев Александр",
+                "Помогайлов Кирилл",
+                "Heliod, Sun-Crowned",
+                "Winota, Joiner of Forces",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Еремеев Александр",
+                "Васинов Николай",
+                "Laelia, the Blade Reforged",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Помогайлов Кирилл",
+                "Winota, Joiner of Forces",
+                "Winota, Joiner of Forces",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Иванько Альберт",
+                "Grist, the Hunger Tide",
+                "Jan Jansen, Chaos Crafter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Емтыль Адам",
+                "Ерофеев Александр",
+                "Malik, Grim Manipulator",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Берзегов Рамазан",
+                "Деды Тимур",
+                "Trelasarra, Moon Dancer",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

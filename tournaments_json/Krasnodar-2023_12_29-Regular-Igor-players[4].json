@@ -1,0 +1,93 @@
+{
+    "date": "2023_12_29",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Омельченко Виктор",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Гяго Георгий",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Коваль Светослав",
+            "Yoshimaru, Ever Faithful"
+        ],
+        [
+            "Евгеньев Александр",
+            "Aminatou, the Fateshifter"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Омельченко Виктор",
+                "Евгеньев Александр",
+                "Kinnan, Bonder Prodigy",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Гяго Георгий",
+                "Коваль Светослав",
+                "Arahbo, Roar of the World",
+                "Yoshimaru, Ever Faithful",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Омельченко Виктор",
+                "Коваль Светослав",
+                "Kinnan, Bonder Prodigy",
+                "Yoshimaru, Ever Faithful",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Гяго Георгий",
+                "Евгеньев Александр",
+                "Arahbo, Roar of the World",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Омельченко Виктор",
+                "Гяго Георгий",
+                "Kinnan, Bonder Prodigy",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Евгеньев Александр",
+                "Yoshimaru, Ever Faithful",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

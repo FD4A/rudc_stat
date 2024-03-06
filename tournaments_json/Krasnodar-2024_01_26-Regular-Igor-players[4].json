@@ -1,0 +1,93 @@
+{
+    "date": "2024_01_26",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Бушеленков Глеб",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Беляков Михаил",
+            "Galazeth Prismari"
+        ],
+        [
+            "Бурдуков Никита",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Шатохин Роман",
+            "Sefris of the Hidden Ways"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Бушеленков Глеб",
+                "Бурдуков Никита",
+                "Light-Paws, Emperor's Voice",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Шатохин Роман",
+                "Galazeth Prismari",
+                "Sefris of the Hidden Ways",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Бушеленков Глеб",
+                "Беляков Михаил",
+                "Light-Paws, Emperor's Voice",
+                "Galazeth Prismari",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Бурдуков Никита",
+                "Шатохин Роман",
+                "Asmoranomardicadaistinaculdacar",
+                "Sefris of the Hidden Ways",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Бушеленков Глеб",
+                "Шатохин Роман",
+                "Light-Paws, Emperor's Voice",
+                "Sefris of the Hidden Ways",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Бурдуков Никита",
+                "Galazeth Prismari",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

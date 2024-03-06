@@ -1,0 +1,93 @@
+{
+    "date": "2023_12_30",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Беляков Михаил",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Редько Павел",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Бурдуков Никита",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Джалилов Максим",
+            "Sidisi, Undead Vizier"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Беляков Михаил",
+                "Джалилов Максим",
+                "Grist, the Hunger Tide",
+                "Sidisi, Undead Vizier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Бурдуков Никита",
+                "Light-Paws, Emperor's Voice",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Беляков Михаил",
+                "Редько Павел",
+                "Grist, the Hunger Tide",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Бурдуков Никита",
+                "Джалилов Максим",
+                "Asmoranomardicadaistinaculdacar",
+                "Sidisi, Undead Vizier",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Беляков Михаил",
+                "Бурдуков Никита",
+                "Grist, the Hunger Tide",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Джалилов Максим",
+                "Light-Paws, Emperor's Voice",
+                "Sidisi, Undead Vizier",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}
