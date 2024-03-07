@@ -1,0 +1,287 @@
+{
+    "date": "2024_03_07",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Грабовой Филипп",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Барабаш Валентин",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Яковлев Николай",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Вахитов Ривкат",
+            "Ertai Resurrected"
+        ],
+        [
+            "Ульянов Алексей",
+            "Talrand, Sky Summoner"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Inalla, Archmage Ritualist"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Karlov of the Ghost Council :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Лузаков Петр",
+            "Elas il-Kor, Sadistic Pilgrim"
+        ],
+        [
+            "Смирнов Александр",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Саушкин Андрей",
+            "Omnath, Locus of Creation"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Федоров Дмитрий",
+                "Филл Грибовой",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "unknown",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Смирнов Александр",
+                "Мартынов Яков",
+                "Light-Paws, Emperor's Voice",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лузаков Петр",
+                "Вахитов Ривкат",
+                "Elas il-Kor, Sadistic Pilgrim",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Саушкин Андрей",
+                "Dihada, Binder of Wills",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Барабаш Валентин",
+                "Inalla, Archmage Ritualist",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Ульянов Алексей",
+                "Ghyrson Starn, Kelermorph",
+                "Talrand, Sky Summoner",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Мартынов Яков",
+                "Вахитов Ривкат",
+                "The Reality Chip",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Барабаш Валентин",
+                "Ghyrson Starn, Kelermorph",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Федоров Дмитрий",
+                "Dihada, Binder of Wills",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Филл Грибовой",
+                "Саушкин Андрей",
+                "unknown",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Лузаков Петр",
+                "Inalla, Archmage Ritualist",
+                "Elas il-Kor, Sadistic Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Смирнов Александр",
+                "Talrand, Sky Summoner",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Родюков Федор",
+                "Яковлев Николай",
+                "Ghyrson Starn, Kelermorph",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Филл Грибовой",
+                "Ertai Resurrected",
+                "unknown",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Ульянов Алексей",
+                "Kinnan, Bonder Prodigy",
+                "Talrand, Sky Summoner",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Мартынов Яков",
+                "Inalla, Archmage Ritualist",
+                "The Reality Chip",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Смирнов Александр",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Яковлев Николай",
+                "Филл Грибовой",
+                "Dihada, Binder of Wills",
+                "unknown",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Вахитов Ривкат",
+                "Ghyrson Starn, Kelermorph",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Мартынов Яков",
+                "Kinnan, Bonder Prodigy",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Иванов Дмитрий",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Inalla, Archmage Ritualist",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Лузаков Петр",
+                "Talrand, Sky Summoner",
+                "Elas il-Kor, Sadistic Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

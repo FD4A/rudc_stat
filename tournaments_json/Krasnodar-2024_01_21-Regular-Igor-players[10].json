@@ -153,6 +153,16 @@
         ],
         [
             [
+                "Помогайлов Кирилл",
+                "Ерофеев Александр",
+                "Winota, Joiner of Forces",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
                 "Еремеев Александр",
                 "Беляков Михаил",
                 "Laelia, the Blade Reforged",
@@ -191,19 +201,19 @@
                     2,
                     1
                 ]
-            ],
-            [
-                "Ерофеев Александр",
-                "Помогайлов Кирилл",
-                "Heliod, Sun-Crowned",
-                "Winota, Joiner of Forces",
-                [
-                    0,
-                    2
-                ]
             ]
         ],
         [
+            [
+                "Помогайлов Кирилл",
+                "Хорьков Никита",
+                "Winota, Joiner of Forces",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
             [
                 "Еремеев Александр",
                 "Васинов Николай",
@@ -212,16 +222,6 @@
                 [
                     2,
                     0
-                ]
-            ],
-            [
-                "Хорьков Никита",
-                "Помогайлов Кирилл",
-                "Winota, Joiner of Forces",
-                "Winota, Joiner of Forces",
-                [
-                    1,
-                    2
                 ]
             ],
             [

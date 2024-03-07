@@ -1,0 +1,19 @@
+location::Spb
+level::Regular
+date::2024_03_07
+organizer::Andysays
+players::generals
+Грабовой Филипп :: Slimefoot and Squee
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Яковлев Николай :: Dihada, Binder of Wills
+Вахитов Ривкат :: Ertai Resurrected
+Ульянов Алексей :: Talrand, Sky Summoner
+Мартынов Яков :: The Reality Cheap
+Иванов Дмитрий :: Inalla, Archmage Ritualist
+Федоров Дмитрий :: Karlov of the Ghost Council :++: Lurrus of the Dream-Den
+Лузаков Петр :: Elas il-Kor, Sadistic Pilgrim
+Смирнов Александр :: Light-Paws, Emperor's Voice
+Саушкин Андрей :: Omnath, Locus of Creation
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/27895

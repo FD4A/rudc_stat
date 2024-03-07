@@ -1,0 +1,169 @@
+{
+    "date": "2024_03_07",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Помогайлов Кирилл",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Хорьков Никита",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Коваль Светослав",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Пузиков Никита",
+            "Saskia the Unyielding"
+        ],
+        [
+            "Беляков Михаил",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Заиграев Даниил",
+            "Kess, Dissident Mage"
+        ],
+        [
+            "Гяго Георгий",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Бурдуков Никита",
+            "Light-Paws, Emperor's Voice"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Помогайлов Кирилл",
+                "Беляков Михаил",
+                "Winota, Joiner of Forces",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Гяго Георгий",
+                "Winota, Joiner of Forces",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Пузиков Никита",
+                "Slimefoot and Squee",
+                "Saskia the Unyielding",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Заиграев Даниил",
+                "Бурдуков Никита",
+                "Kess, Dissident Mage",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Помогайлов Кирилл",
+                "Заиграев Даниил",
+                "Winota, Joiner of Forces",
+                "Kess, Dissident Mage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Коваль Светослав",
+                "Winota, Joiner of Forces",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Пузиков Никита",
+                "Гяго Георгий",
+                "Saskia the Unyielding",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Бурдуков Никита",
+                "Omnath, Locus of Creation",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Помогайлов Кирилл",
+                "Хорьков Никита",
+                "Winota, Joiner of Forces",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Беляков Михаил",
+                "Slimefoot and Squee",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Пузиков Никита",
+                "Заиграев Даниил",
+                "Saskia the Unyielding",
+                "Kess, Dissident Mage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Гяго Георгий",
+                "Бурдуков Никита",
+                "Arahbo, Roar of the World",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

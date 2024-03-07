@@ -1,0 +1,345 @@
+{
+    "date": "2024_02_18",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Арушанян Тигран",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Кириченко Евгений",
+            "The Reality Chip"
+        ],
+        [
+            "Хорьков Никита",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Редько Павел",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Васинов Николай",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Безрученко Дмитрий",
+            "Elminster"
+        ],
+        [
+            "Чурсин Данила",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Ерофеев Александр",
+            "Kari Zev, Skyship Raider"
+        ],
+        [
+            "Кириченко Ксения",
+            "Heliod, Sun-Crowned"
+        ],
+        [
+            "Васинов Никита",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Зайцев Даниил",
+            "Flamewar, Brash Veteran"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Сажин Юрий",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Усков Антон",
+            "Ghyrson Starn, Kelermorph"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Арушанян Тигран",
+                "Ерофеев Александр",
+                "Geist of Saint Traft",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Чурсин Данила",
+                "The Reality Chip",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Усков Антон",
+                "Winota, Joiner of Forces",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Зайцев Даниил",
+                "Light-Paws, Emperor's Voice",
+                "Flamewar, Brash Veteran",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Безрученко Дмитрий",
+                "Asmoranomardicadaistinaculdacar",
+                "Elminster",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Ксения",
+                "Иванов Дмитрий",
+                "Heliod, Sun-Crowned",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васинов Никита",
+                "Сажин Юрий",
+                "Feldon, Ronom Excavator",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Арушанян Тигран",
+                "Хорьков Никита",
+                "Geist of Saint Traft",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Кириченко Ксения",
+                "The Reality Chip",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Васинов Никита",
+                "Light-Paws, Emperor's Voice",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Усков Антон",
+                "Asmoranomardicadaistinaculdacar",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Чурсин Данила",
+                "Elminster",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ерофеев Александр",
+                "Зайцев Даниил",
+                "Kari Zev, Skyship Raider",
+                "Flamewar, Brash Veteran",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Сажин Юрий",
+                "Omnath, Locus of Creation",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Арушанян Тигран",
+                "Редько Павел",
+                "Geist of Saint Traft",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Васинов Николай",
+                "The Reality Chip",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Чурсин Данила",
+                "Winota, Joiner of Forces",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Усков Антон",
+                "Elminster",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ерофеев Александр",
+                "Сажин Юрий",
+                "Kari Zev, Skyship Raider",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Ксения",
+                "Васинов Никита",
+                "Heliod, Sun-Crowned",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Иванов Дмитрий",
+                "Flamewar, Brash Veteran",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Арушанян Тигран",
+                "Кириченко Евгений",
+                "Geist of Saint Traft",
+                "The Reality Chip",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Ерофеев Александр",
+                "Winota, Joiner of Forces",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Кириченко Ксения",
+                "Light-Paws, Emperor's Voice",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Иванов Дмитрий",
+                "Asmoranomardicadaistinaculdacar",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Васинов Никита",
+                "Elminster",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Усков Антон",
+                "Indoraptor, the Perfect Hybrid",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

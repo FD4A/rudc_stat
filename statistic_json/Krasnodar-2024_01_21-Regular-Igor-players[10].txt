@@ -49,6 +49,6 @@ Winota, Joiner of Forces         matches:6    WM:100.00%  LM:  0.00%  DM:  0.00%
        vs The Reality Chip                 (w:2 l:0 d:0), (4/0)
        vs Grist, the Hunger Tide           (w:1 l:0 d:0), (2/1)
        vs Laelia, the Blade Reforged       (w:1 l:0 d:0), (2/1)
-       vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/1)
        vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/0)
+       vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/1)
 
