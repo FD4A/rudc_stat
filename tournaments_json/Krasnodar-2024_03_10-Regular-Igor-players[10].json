@@ -1,0 +1,259 @@
+{
+    "date": "2024_03_10",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Болотский Дмитрий",
+            "Karlov of the Ghost Council :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Редько Павел",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Сажин Юрий",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Арушанян Тигран",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Пузиков Никита",
+            "Saskia the Unyielding"
+        ],
+        [
+            "Коваль Светослав",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Кириченко Ксения",
+            "Rocco, Cabaretti Caterer"
+        ],
+        [
+            "Ерофеев Александр",
+            "Kari Zev, Skyship Raider"
+        ],
+        [
+            "Хорьков Никита",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Кириченко Евгений",
+            "The Reality Chip"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Болотский Дмитрий",
+                "Хорьков Никита",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Кириченко Евгений",
+                "Light-Paws, Emperor's Voice",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сажин Юрий",
+                "Коваль Светослав",
+                "Slimefoot and Squee",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Кириченко Ксения",
+                "Geist of Saint Traft",
+                "Rocco, Cabaretti Caterer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Пузиков Никита",
+                "Ерофеев Александр",
+                "Saskia the Unyielding",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Болотский Дмитрий",
+                "Кириченко Евгений",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Арушанян Тигран",
+                "Light-Paws, Emperor's Voice",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сажин Юрий",
+                "Пузиков Никита",
+                "Slimefoot and Squee",
+                "Saskia the Unyielding",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Хорьков Никита",
+                "Light-Paws, Emperor's Voice",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Ксения",
+                "Ерофеев Александр",
+                "Rocco, Cabaretti Caterer",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Болотский Дмитрий",
+                "Редько Павел",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сажин Юрий",
+                "Кириченко Ксения",
+                "Slimefoot and Squee",
+                "Rocco, Cabaretti Caterer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Хорьков Никита",
+                "Geist of Saint Traft",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Пузиков Никита",
+                "Коваль Светослав",
+                "Saskia the Unyielding",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ерофеев Александр",
+                "Кириченко Евгений",
+                "Kari Zev, Skyship Raider",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Болотский Дмитрий",
+                "Сажин Юрий",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Пузиков Никита",
+                "Light-Paws, Emperor's Voice",
+                "Saskia the Unyielding",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Ерофеев Александр",
+                "Geist of Saint Traft",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Кириченко Ксения",
+                "Light-Paws, Emperor's Voice",
+                "Rocco, Cabaretti Caterer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Кириченко Евгений",
+                "Winota, Joiner of Forces",
+                "The Reality Chip",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

@@ -11,18 +11,22 @@
 
 from Source.Tournament import Tournament
 from Source.LegendaryBase import LegendaryBase
+from Source.PlayerGeneralObject import PlayerGeneralObject
 
 
 class KrasnodarFileLine:
     def __init__(self, line: str):
         fields = line.split('\t')
+        # print(fields)
         self.name = fields[0]
         tmp = fields[1].replace('/','_')
         tmp = tmp.split('_')
         tmp.reverse()
+        # print(tmp)
         tmp[0] = str(int(tmp[0])+2000)
         self.date = f"{tmp[0]}_{tmp[1]}_{tmp[2]}"
         self.general = fields[3]
+        print(self.general)
         self.rounds = []
         rounds_count = (len(fields) - 6) // 2
         for i in range(0, rounds_count, 1):
@@ -48,7 +52,8 @@ class KrasnodarParser:
 
         tr = Tournament()
         for item in kr_data:
-            item.general = self.lb.check_general_name_and_return_fixed(item.general)
+            com_zone = PlayerGeneralObject(item.name + ' :: ' + item.general, self.lb)
+            item.general = com_zone.command_zone
             tr.players.append([item.name, item.general])
             tr.roundsCount = max(tr.roundsCount, len(item.rounds))
 

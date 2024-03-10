@@ -2,6 +2,7 @@ Abomination of Llanowar          matches:4    WM:  0.00%  LM:100.00%  DM:  0.00%
        vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (0/2)
        vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (1/2)
        vs Karlov of the Ghost Council      (w:0 l:1 d:0), (0/2)
+        + Lurrus of the Dream-Den         
        vs Flamewar, Brash Veteran          (w:0 l:1 d:0), (0/2)
 
 Flamewar, Brash Veteran          matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 50.00% LG: 50.00% (wg:   5 lg:   5) pick: 1   
@@ -23,6 +24,7 @@ Hogaak, Arisen Necropolis        matches:4    WM:100.00%  LM:  0.00%  DM:  0.00%
        vs Kinnan, Bonder Prodigy           (w:1 l:0 d:0), (2/0)
 
 Karlov of the Ghost Council      matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:9    WG: 77.78% LG: 22.22% (wg:   7 lg:   2) pick: 1   
+  + Lurrus of the Dream-Den     
        vs Light-Paws, Emperor's Voice      (w:0 l:1 d:0), (1/2)
        vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (2/0)
        vs Abomination of Llanowar          (w:1 l:0 d:0), (2/0)
@@ -42,6 +44,7 @@ Laelia, the Blade Reforged       matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00%
 
 Light-Paws, Emperor's Voice      matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:11   WG: 63.64% LG: 36.36% (wg:   7 lg:   4) pick: 1   
        vs Karlov of the Ghost Council      (w:1 l:0 d:0), (2/1)
+        + Lurrus of the Dream-Den         
        vs Trelasarra, Moon Dancer          (w:0 l:1 d:0), (1/2)
        vs Galazeth Prismari                (w:1 l:0 d:0), (2/1)
        vs Laelia, the Blade Reforged       (w:1 l:0 d:0), (2/0)
@@ -49,6 +52,7 @@ Light-Paws, Emperor's Voice      matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00%
 Sythis, Harvest's Hand           matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:10   WG: 20.00% LG: 80.00% (wg:   2 lg:   8) pick: 1   
        vs Trelasarra, Moon Dancer          (w:0 l:1 d:0), (0/2)
        vs Karlov of the Ghost Council      (w:0 l:1 d:0), (0/2)
+        + Lurrus of the Dream-Den         
        vs Flamewar, Brash Veteran          (w:0 l:1 d:0), (1/2)
        vs Galazeth Prismari                (w:0 l:1 d:0), (1/2)
 
@@ -57,4 +61,5 @@ Trelasarra, Moon Dancer          matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00%
        vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/1)
        vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (1/2)
        vs Karlov of the Ghost Council      (w:0 l:1 d:0), (0/2)
+        + Lurrus of the Dream-Den         
 

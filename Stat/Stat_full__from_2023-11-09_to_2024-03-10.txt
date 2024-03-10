@@ -31,6 +31,7 @@ Krasnodar-2024_02_25-Regular-Igor-players[11]
 Krasnodar-2024_03_01-Regular-Igor-players[6]
 Krasnodar-2024_03_03-Regular-Igor-players[11]
 Krasnodar-2024_03_07-Regular-Igor-players[8]
+Krasnodar-2024_03_10-Regular-Igor-players[10]
 Online-2023_12_31-League-AlexSmirnov-players[38]
 Online-2024_02_07-League-AlexSmirnov-players[30]
 RostovOnDon-2023_11_12-Regular-Sapher-players[8]
@@ -70,6 +71,7 @@ Abomination of Llanowar          matches:4    WM:  0.00%  LM:100.00%  DM:  0.00%
        vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (0/2)
        vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (1/2)
        vs Karlov of the Ghost Council      (w:0 l:1 d:0), (0/2)
+        + Lurrus of the Dream-Den         
        vs Flamewar, Brash Veteran          (w:0 l:1 d:0), (0/2)
 
 Admiral Brass, Unsinkable        matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:7    WG: 14.29% LG: 85.71% (wg:   1 lg:   6) pick: 1   
@@ -551,7 +553,7 @@ Galazeth Prismari                matches:11   WM: 45.45%  LM: 54.55%  DM:  0.00%
        vs Flamewar, Brash Veteran          (w:1 l:0 d:0), (2/1)
        vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (2/1)
 
-Geist of Saint Traft             matches:19   WM: 68.42%  LM: 21.05%  DM: 10.53% (wm:13  lm:4   dm:2)  games:46   WG: 63.04% LG: 36.96% (wg:  29 lg:  17) pick: 6   
+Geist of Saint Traft             matches:23   WM: 69.57%  LM: 21.74%  DM:  8.70% (wm:16  lm:5   dm:2)  games:55   WG: 63.64% LG: 36.36% (wg:  35 lg:  20) pick: 7   
        vs Shorikai, Genesis Engine         (w:1 l:0 d:0), (2/1)
        vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/1)
        vs Feldon, Ronom Excavator          (w:1 l:0 d:0), (2/0)
@@ -561,13 +563,14 @@ Geist of Saint Traft             matches:19   WM: 68.42%  LM: 21.05%  DM: 10.53%
        vs Omnath, Locus of Creation        (w:0 l:2 d:0), (1/4)
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
        vs Kinnan, Bonder Prodigy           (w:1 l:0 d:0), (2/1)
-       vs Winota, Joiner of Forces         (w:2 l:0 d:0), (4/1)
+       vs Winota, Joiner of Forces         (w:3 l:0 d:0), (6/1)
        vs Dihada, Binder of Wills          (w:0 l:0 d:1), (1/1)
+       vs Rocco, Cabaretti Caterer         (w:1 l:0 d:0), (2/1)
+       vs Light-Paws, Emperor's Voice      (w:1 l:1 d:0), (2/2)
+       vs Kari Zev, Skyship Raider         (w:2 l:0 d:0), (4/0)
        vs Elas il-Kor, Sadistic Pilgrim    (w:1 l:0 d:0), (2/0)
        vs Leovold, Emissary of Trest       (w:1 l:0 d:0), (2/0)
        vs Magda, Brazen Outlaw             (w:0 l:1 d:0), (0/2)
-       vs Kari Zev, Skyship Raider         (w:1 l:0 d:0), (2/0)
-       vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/0)
        vs The Reality Chip                 (w:0 l:0 d:1), (1/1)
 
 Ghyrson Starn, Kelermorph        matches:54   WM: 57.41%  LM: 38.89%  DM:  3.70% (wm:31  lm:21  dm:2)  games:129  WG: 55.81% LG: 43.41% (wg:  72 lg:  56) pick: 15  
@@ -858,7 +861,7 @@ Juri, Master of the Revue        matches:17   WM: 64.71%  LM: 29.41%  DM:  5.88%
        vs Winota, Joiner of Forces         (w:0 l:1 d:0), (1/2)
        vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/0)
 
-Kari Zev, Skyship Raider         matches:20   WM: 45.00%  LM: 55.00%  DM:  0.00% (wm:9   lm:11  dm:0)  games:49   WG: 42.86% LG: 57.14% (wg:  21 lg:  28) pick: 6   
+Kari Zev, Skyship Raider         matches:24   WM: 41.67%  LM: 58.33%  DM:  0.00% (wm:10  lm:14  dm:0)  games:58   WG: 39.66% LG: 60.34% (wg:  23 lg:  35) pick: 7   
        vs Flamewar, Brash Veteran          (w:1 l:1 d:0), (2/2)
        vs Winota, Joiner of Forces         (w:0 l:2 d:0), (1/4)
        vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/1)
@@ -870,24 +873,23 @@ Kari Zev, Skyship Raider         matches:20   WM: 45.00%  LM: 55.00%  DM:  0.00%
        vs Omnath, Locus of Creation        (w:0 l:2 d:0), (0/4)
        vs Slimefoot and Squee              (w:1 l:0 d:0), (2/0)
        vs Kinnan, Bonder Prodigy           (w:1 l:0 d:0), (2/1)
-       vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
+       vs Saskia the Unyielding            (w:0 l:1 d:0), (0/2)
+       vs Rocco, Cabaretti Caterer         (w:0 l:1 d:0), (0/2)
+       vs The Reality Chip                 (w:1 l:0 d:0), (2/1)
+       vs Geist of Saint Traft             (w:0 l:2 d:0), (0/4)
        vs Grist, the Hunger Tide           (w:1 l:0 d:0), (2/0)
 
-Karlov of the Ghost Council      matches:9    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:6   lm:3   dm:0)  games:21   WG: 61.90% LG: 38.10% (wg:  13 lg:   8) pick: 3   
+Karlov of the Ghost Council      matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00% (wm:3   lm:2   dm:0)  games:12   WG: 50.00% LG: 50.00% (wg:   6 lg:   6) pick: 2   
        vs Magda, Brazen Outlaw             (w:0 l:1 d:0), (0/2)
-       vs Light-Paws, Emperor's Voice      (w:0 l:1 d:0), (1/2)
-       vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (2/0)
-       vs Abomination of Llanowar          (w:1 l:0 d:0), (2/0)
-       vs Trelasarra, Moon Dancer          (w:1 l:0 d:0), (2/0)
        vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
        vs Syr Faren, the Hengehammer       (w:1 l:0 d:0), (2/0)
        vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/1)
        vs Elas il-Kor, Sadistic Pilgrim    (w:1 l:0 d:0), (2/1)
 
-Karlov of the Ghost Council      matches:32   WM: 31.25%  LM: 50.00%  DM: 18.75% (wm:10  lm:16  dm:6)  games:69   WG: 40.58% LG: 59.42% (wg:  28 lg:  41) pick: 9   
+Karlov of the Ghost Council      matches:40   WM: 42.50%  LM: 42.50%  DM: 15.00% (wm:17  lm:17  dm:6)  games:87   WG: 49.43% LG: 50.57% (wg:  43 lg:  44) pick: 11  
   + Lurrus of the Dream-Den     
        vs Dihada, Binder of Wills          (w:0 l:2 d:0), (0/4)
-       vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/0)
+       vs Light-Paws, Emperor's Voice      (w:2 l:1 d:0), (5/2)
        vs Inalla, Archmage Ritualist       (w:0 l:1 d:0), (0/2)
        vs Yoshimaru, Ever Faithful         (w:3 l:1 d:0), (6/4)
         + Tana, the Bloodsower            
@@ -902,11 +904,15 @@ Karlov of the Ghost Council      matches:32   WM: 31.25%  LM: 50.00%  DM: 18.75%
        vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:1), (1/3)
        vs Golos, Tireless Pilgrim          (w:0 l:3 d:0), (0/6)
        vs Aminatou, the Fateshifter        (w:0 l:1 d:1), (1/3)
-       vs The Reality Chip                 (w:1 l:0 d:0), (2/0)
+       vs The Reality Chip                 (w:2 l:0 d:0), (4/0)
        vs Kinnan, Bonder Prodigy           (w:0 l:1 d:1), (1/3)
+       vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (2/0)
+       vs Abomination of Llanowar          (w:1 l:0 d:0), (2/0)
+       vs Trelasarra, Moon Dancer          (w:1 l:0 d:0), (2/0)
        vs Vial Smasher the Fierce          (w:0 l:1 d:0), (1/2)
        vs Aesi, Tyrant of Gyre Strait      (w:1 l:0 d:0), (2/0)
-       vs Slimefoot and Squee              (w:0 l:1 d:0), (1/2)
+       vs Slimefoot and Squee              (w:1 l:1 d:0), (3/2)
+       vs Winota, Joiner of Forces         (w:1 l:0 d:0), (2/1)
        vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
        vs Kess, Dissident Mage             (w:0 l:0 d:1), (1/1)
 
@@ -1099,22 +1105,22 @@ Liesa, Shroud of Dusk            matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00%
        vs Juri, Master of the Revue        (w:0 l:1 d:0), (0/2)
        vs Kinnan, Bonder Prodigy           (w:1 l:0 d:0), (2/1)
 
-Light-Paws, Emperor's Voice      matches:71   WM: 35.21%  LM: 63.38%  DM:  1.41% (wm:25  lm:45  dm:1)  games:158  WG: 39.87% LG: 60.13% (wg:  63 lg:  95) pick: 25  
+Light-Paws, Emperor's Voice      matches:79   WM: 37.97%  LM: 60.76%  DM:  1.27% (wm:30  lm:48  dm:1)  games:176  WG: 41.48% LG: 58.52% (wg:  73 lg: 103) pick: 27  
        vs Asmoranomardicadaistinaculdacar  (w:4 l:4 d:0), (10/9)
        vs Anje Falkenrath                  (w:1 l:0 d:0), (2/0)
        vs Dihada, Binder of Wills          (w:0 l:2 d:0), (1/4)
        vs Omnath, Locus of Creation        (w:0 l:5 d:0), (1/10)
        vs Aminatou, the Fateshifter        (w:0 l:4 d:0), (1/8)
-       vs The Reality Chip                 (w:0 l:1 d:0), (0/2)
+       vs The Reality Chip                 (w:1 l:1 d:0), (2/3)
        vs Talrand, Sky Summoner            (w:0 l:1 d:0), (0/2)
-       vs Karlov of the Ghost Council      (w:0 l:1 d:0), (0/2)
+       vs Karlov of the Ghost Council      (w:1 l:2 d:0), (2/5)
         + Lurrus of the Dream-Den         
        vs Heliod, Sun-Crowned              (w:3 l:1 d:0), (6/2)
-       vs Winota, Joiner of Forces         (w:1 l:2 d:0), (2/4)
+       vs Winota, Joiner of Forces         (w:2 l:2 d:0), (4/4)
        vs Codie, Vociferous Codex          (w:0 l:1 d:0), (0/2)
        vs Grist, the Hunger Tide           (w:0 l:2 d:0), (1/4)
        vs Sidisi, Undead Vizier            (w:1 l:0 d:0), (2/0)
-       vs Slimefoot and Squee              (w:0 l:1 d:1), (1/3)
+       vs Slimefoot and Squee              (w:0 l:2 d:1), (1/5)
        vs Ghyrson Starn, Kelermorph        (w:0 l:2 d:0), (0/4)
        vs Balmor, Battlemage Captain       (w:0 l:1 d:0), (0/2)
        vs Krenko, Mob Boss                 (w:1 l:0 d:0), (2/0)
@@ -1128,18 +1134,19 @@ Light-Paws, Emperor's Voice      matches:71   WM: 35.21%  LM: 63.38%  DM:  1.41%
        vs Ognis, the Dragon's Lash         (w:1 l:0 d:0), (2/0)
        vs Rashmi, Eternities Crafter       (w:1 l:0 d:0), (2/0)
        vs Juri, Master of the Revue        (w:1 l:1 d:0), (2/2)
-       vs Karlov of the Ghost Council      (w:1 l:0 d:0), (2/1)
        vs Trelasarra, Moon Dancer          (w:0 l:1 d:0), (1/2)
        vs Laelia, the Blade Reforged       (w:1 l:0 d:0), (2/0)
        vs Errant and Giada                 (w:1 l:0 d:0), (2/0)
        vs Vial Smasher the Fierce          (w:0 l:1 d:0), (1/2)
        vs Aesi, Tyrant of Gyre Strait      (w:1 l:0 d:0), (2/0)
+       vs Geist of Saint Traft             (w:1 l:1 d:0), (2/2)
+       vs Saskia the Unyielding            (w:1 l:1 d:0), (2/2)
+       vs Rocco, Cabaretti Caterer         (w:1 l:0 d:0), (2/1)
        vs Shorikai, Genesis Engine         (w:0 l:1 d:0), (0/2)
        vs Leovold, Emissary of Trest       (w:0 l:1 d:0), (0/2)
        vs Circu, Dimir Lobotomist          (w:0 l:1 d:0), (0/2)
        vs Flamewar, Brash Veteran          (w:1 l:0 d:0), (2/0)
        vs Feldon, Ronom Excavator          (w:1 l:0 d:0), (2/0)
-       vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
        vs Inalla, Archmage Ritualist       (w:1 l:1 d:0), (2/2)
        vs Brago, King Eternal              (w:0 l:1 d:0), (0/2)
 
@@ -1432,11 +1439,15 @@ Roalesk, Apex Hybrid             matches:6    WM:  0.00%  LM:100.00%  DM:  0.00%
        vs Atraxa, Grand Unifier            (w:0 l:2 d:0), (0/4)
        vs Leovold, Emissary of Trest       (w:0 l:1 d:0), (1/2)
 
-Rocco, Cabaretti Caterer         matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:11   WG: 54.55% LG: 45.45% (wg:   6 lg:   5) pick: 1   
+Rocco, Cabaretti Caterer         matches:8    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:4   lm:4   dm:0)  games:22   WG: 50.00% LG: 50.00% (wg:  11 lg:  11) pick: 2   
        vs Laelia, the Blade Reforged       (w:1 l:0 d:0), (2/1)
        vs Ognis, the Dragon's Lash         (w:1 l:0 d:0), (2/1)
        vs Winota, Joiner of Forces         (w:1 l:0 d:0), (2/1)
        vs The Reality Chip                 (w:0 l:1 d:0), (0/2)
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (1/2)
+       vs Kari Zev, Skyship Raider         (w:1 l:0 d:0), (2/0)
+       vs Slimefoot and Squee              (w:0 l:1 d:0), (1/2)
+       vs Light-Paws, Emperor's Voice      (w:0 l:1 d:0), (1/2)
 
 Rona, Herald of Invasion         matches:11   WM: 45.45%  LM: 54.55%  DM:  0.00% (wm:5   lm:6   dm:0)  games:26   WG: 50.00% LG: 50.00% (wg:  13 lg:  13) pick: 2   
        vs Yoshimaru, Ever Faithful         (w:2 l:0 d:0), (4/1)
@@ -1464,17 +1475,19 @@ Samwise Gamgee                   matches:8    WM: 50.00%  LM: 50.00%  DM:  0.00%
        vs Winota, Joiner of Forces         (w:2 l:0 d:0), (4/0)
        vs Laelia, the Blade Reforged       (w:0 l:2 d:0), (2/4)
 
-Saskia the Unyielding            matches:13   WM: 61.54%  LM: 38.46%  DM:  0.00% (wm:8   lm:5   dm:0)  games:32   WG: 62.50% LG: 37.50% (wg:  20 lg:  12) pick: 4   
+Saskia the Unyielding            matches:17   WM: 58.82%  LM: 41.18%  DM:  0.00% (wm:10  lm:7   dm:0)  games:41   WG: 60.98% LG: 39.02% (wg:  25 lg:  16) pick: 5   
        vs Kess, Dissident Mage             (w:2 l:0 d:0), (4/1)
        vs Arahbo, Roar of the World        (w:1 l:1 d:0), (2/2)
        vs Jodah, the Unifier               (w:1 l:0 d:0), (2/1)
        vs Winota, Joiner of Forces         (w:1 l:0 d:0), (2/0)
        vs Flamewar, Brash Veteran          (w:1 l:0 d:0), (2/0)
        vs Lord Windgrace                   (w:1 l:0 d:0), (2/0)
-       vs Slimefoot and Squee              (w:0 l:2 d:0), (2/4)
+       vs Slimefoot and Squee              (w:0 l:3 d:0), (3/6)
        vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (1/2)
        vs Slogurk, the Overslime           (w:0 l:1 d:0), (1/2)
        vs Krenko, Mob Boss                 (w:1 l:0 d:0), (2/0)
+       vs Kari Zev, Skyship Raider         (w:1 l:0 d:0), (2/0)
+       vs Light-Paws, Emperor's Voice      (w:1 l:1 d:0), (2/2)
 
 Sefris of the Hidden Ways        matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:7    WG: 14.29% LG: 85.71% (wg:   1 lg:   6) pick: 1   
        vs Galazeth Prismari                (w:0 l:1 d:0), (0/2)
@@ -1548,8 +1561,8 @@ Sidisi, Undead Vizier            matches:3    WM:  0.00%  LM:100.00%  DM:  0.00%
        vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
        vs Light-Paws, Emperor's Voice      (w:0 l:1 d:0), (0/2)
 
-Slimefoot and Squee              matches:60   WM: 63.33%  LM: 30.00%  DM:  6.67% (wm:38  lm:18  dm:4)  games:147  WG: 61.22% LG: 38.78% (wg:  90 lg:  57) pick: 16  
-       vs Light-Paws, Emperor's Voice      (w:1 l:0 d:1), (3/1)
+Slimefoot and Squee              matches:64   WM: 64.06%  LM: 29.69%  DM:  6.25% (wm:41  lm:19  dm:4)  games:157  WG: 61.15% LG: 38.85% (wg:  96 lg:  61) pick: 17  
+       vs Light-Paws, Emperor's Voice      (w:2 l:0 d:1), (5/1)
        vs Omnath, Locus of Creation        (w:3 l:2 d:2), (9/7)
        vs Kytheon, Hero of Akros           (w:1 l:0 d:0), (2/0)
        vs Geist of Saint Traft             (w:0 l:1 d:0), (1/2)
@@ -1564,15 +1577,16 @@ Slimefoot and Squee              matches:60   WM: 63.33%  LM: 30.00%  DM:  6.67%
        vs Golos, Tireless Pilgrim          (w:1 l:2 d:0), (2/5)
        vs Lord Windgrace                   (w:0 l:1 d:0), (1/2)
        vs Grist, the Hunger Tide           (w:2 l:0 d:0), (4/0)
-       vs Saskia the Unyielding            (w:2 l:0 d:0), (4/2)
+       vs Saskia the Unyielding            (w:3 l:0 d:0), (6/3)
        vs Juri, Master of the Revue        (w:0 l:1 d:0), (1/2)
        vs Winota, Joiner of Forces         (w:0 l:1 d:0), (0/2)
        vs Vial Smasher the Fierce          (w:2 l:0 d:0), (4/1)
        vs Indoraptor, the Perfect Hybrid   (w:2 l:0 d:0), (4/0)
        vs Oloro, Ageless Ascetic           (w:1 l:0 d:0), (2/0)
        vs Kari Zev, Skyship Raider         (w:0 l:1 d:0), (0/2)
-       vs Karlov of the Ghost Council      (w:1 l:0 d:0), (2/1)
+       vs Karlov of the Ghost Council      (w:1 l:1 d:0), (2/3)
         + Lurrus of the Dream-Den         
+       vs Rocco, Cabaretti Caterer         (w:1 l:0 d:0), (2/1)
        vs Akiri, Line-Slinger              (w:1 l:0 d:0), (2/1)
         + Silas Renn, Seeker Adept        
        vs Rona, Herald of Invasion         (w:1 l:0 d:0), (2/0)
@@ -1609,6 +1623,7 @@ Sythis, Harvest's Hand           matches:10   WM:  0.00%  LM:100.00%  DM:  0.00%
        vs Slimefoot and Squee              (w:0 l:1 d:0), (1/2)
        vs Trelasarra, Moon Dancer          (w:0 l:1 d:0), (0/2)
        vs Karlov of the Ghost Council      (w:0 l:1 d:0), (0/2)
+        + Lurrus of the Dream-Den         
        vs Flamewar, Brash Veteran          (w:0 l:1 d:0), (1/2)
        vs Galazeth Prismari                (w:0 l:1 d:0), (1/2)
        vs Vadrik, Astral Archmage          (w:0 l:1 d:0), (0/2)
@@ -1661,10 +1676,10 @@ The Beamtown Bullies             matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00%
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
         + Tana, the Bloodsower            
 
-The Reality Chip                 matches:57   WM: 45.61%  LM: 49.12%  DM:  5.26% (wm:26  lm:28  dm:3)  games:135  WG: 47.41% LG: 52.59% (wg:  64 lg:  71) pick: 15  
+The Reality Chip                 matches:61   WM: 42.62%  LM: 50.82%  DM:  6.56% (wm:26  lm:31  dm:4)  games:145  WG: 46.21% LG: 53.79% (wg:  67 lg:  78) pick: 16  
        vs Aminatou, the Fateshifter        (w:0 l:3 d:0), (3/6)
        vs Golos, Tireless Pilgrim          (w:1 l:2 d:0), (3/5)
-       vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/0)
+       vs Light-Paws, Emperor's Voice      (w:1 l:1 d:0), (3/2)
        vs Ertai Resurrected                (w:1 l:1 d:0), (2/3)
        vs Inalla, Archmage Ritualist       (w:1 l:0 d:0), (2/1)
        vs Kinnan, Bonder Prodigy           (w:0 l:2 d:0), (0/4)
@@ -1675,9 +1690,9 @@ The Reality Chip                 matches:57   WM: 45.61%  LM: 49.12%  DM:  5.26%
        vs Omnath, Locus of Creation        (w:0 l:3 d:0), (0/6)
        vs Juri, Master of the Revue        (w:1 l:0 d:1), (2/1)
        vs Grist, the Hunger Tide           (w:1 l:0 d:0), (2/0)
-       vs Winota, Joiner of Forces         (w:2 l:4 d:0), (6/9)
+       vs Winota, Joiner of Forces         (w:2 l:4 d:1), (7/10)
        vs Indoraptor, the Perfect Hybrid   (w:2 l:0 d:0), (4/2)
-       vs Karlov of the Ghost Council      (w:0 l:1 d:0), (0/2)
+       vs Karlov of the Ghost Council      (w:0 l:2 d:0), (0/4)
         + Lurrus of the Dream-Den         
        vs Bjorna, Nightfall Alchemist      (w:1 l:0 d:0), (2/1)
         + Wernog, Rider's Chaplain        
@@ -1694,6 +1709,7 @@ The Reality Chip                 matches:57   WM: 45.61%  LM: 49.12%  DM:  5.26%
        vs Ludevic, Necro-Alchemist         (w:0 l:1 d:0), (0/2)
        vs Yoshimaru, Ever Faithful         (w:1 l:1 d:0), (3/3)
        vs Heliod, Sun-Crowned              (w:2 l:0 d:0), (4/0)
+       vs Kari Zev, Skyship Raider         (w:0 l:1 d:0), (1/2)
        vs Geist of Saint Traft             (w:0 l:0 d:1), (1/1)
        vs Slimefoot and Squee              (w:2 l:0 d:0), (4/1)
        vs Gut, True Soul Zealot            (w:2 l:0 d:0), (4/1)
@@ -1727,6 +1743,7 @@ Trelasarra, Moon Dancer          matches:8    WM: 50.00%  LM: 50.00%  DM:  0.00%
        vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/1)
        vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (1/2)
        vs Karlov of the Ghost Council      (w:0 l:1 d:0), (0/2)
+        + Lurrus of the Dream-Den         
 
 Tymaret, the Murder King         matches:8    WM:  0.00%  LM: 87.50%  DM: 12.50% (wm:0   lm:7   dm:1)  games:16   WG:  6.25% LG: 93.75% (wg:   1 lg:  15) pick: 2   
        vs Najeela, the Blade-Blossom       (w:0 l:1 d:0), (0/2)
@@ -1805,9 +1822,9 @@ Wilson, Refined Grizzly          matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00%
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
        vs Shorikai, Genesis Engine         (w:1 l:0 d:0), (2/1)
 
-Winota, Joiner of Forces         matches:67   WM: 62.69%  LM: 34.33%  DM:  2.99% (wm:42  lm:23  dm:2)  games:165  WG: 56.97% LG: 43.03% (wg:  94 lg:  71) pick: 20  
+Winota, Joiner of Forces         matches:71   WM: 59.15%  LM: 36.62%  DM:  4.23% (wm:42  lm:26  dm:3)  games:174  WG: 55.17% LG: 44.83% (wg:  96 lg:  78) pick: 21  
        vs Codie, Vociferous Codex          (w:0 l:0 d:1), (1/1)
-       vs Light-Paws, Emperor's Voice      (w:2 l:1 d:0), (4/2)
+       vs Light-Paws, Emperor's Voice      (w:2 l:2 d:0), (4/4)
        vs Heliod, Sun-Crowned              (w:2 l:1 d:0), (5/2)
        vs Saskia the Unyielding            (w:0 l:1 d:0), (0/2)
        vs Kari Zev, Skyship Raider         (w:2 l:0 d:0), (4/1)
@@ -1815,7 +1832,7 @@ Winota, Joiner of Forces         matches:67   WM: 62.69%  LM: 34.33%  DM:  2.99%
        vs Flamewar, Brash Veteran          (w:1 l:0 d:0), (2/0)
        vs Indoraptor, the Perfect Hybrid   (w:2 l:2 d:0), (6/5)
        vs Laelia, the Blade Reforged       (w:1 l:3 d:0), (2/7)
-       vs The Reality Chip                 (w:4 l:2 d:0), (9/6)
+       vs The Reality Chip                 (w:4 l:2 d:1), (10/7)
        vs Ghyrson Starn, Kelermorph        (w:1 l:1 d:0), (2/2)
        vs Samwise Gamgee                   (w:0 l:2 d:0), (0/4)
        vs Kinnan, Bonder Prodigy           (w:2 l:0 d:0), (4/2)
@@ -1833,8 +1850,10 @@ Winota, Joiner of Forces         matches:67   WM: 62.69%  LM: 34.33%  DM:  2.99%
        vs Galazeth Prismari                (w:1 l:0 d:0), (2/0)
        vs Rocco, Cabaretti Caterer         (w:0 l:1 d:0), (1/2)
        vs Ognis, the Dragon's Lash         (w:1 l:0 d:0), (2/1)
-       vs Geist of Saint Traft             (w:0 l:2 d:0), (1/4)
+       vs Geist of Saint Traft             (w:0 l:3 d:0), (1/6)
        vs Aesi, Tyrant of Gyre Strait      (w:1 l:0 d:0), (2/0)
+       vs Karlov of the Ghost Council      (w:0 l:1 d:0), (1/2)
+        + Lurrus of the Dream-Den         
        vs Aminatou, the Fateshifter        (w:0 l:0 d:1), (1/1)
        vs Juri, Master of the Revue        (w:1 l:0 d:0), (2/1)
        vs Najeela, the Blade-Blossom       (w:1 l:0 d:0), (2/0)
