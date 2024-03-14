@@ -56,6 +56,7 @@ Spb-2024_02_15-Regular-Andysays-players[14]
 Spb-2024_02_22-Regular-Andysays-players[8]
 Spb-2024_02_29-Regular-Andysays-players[6]
 Spb-2024_03_07-Regular-Andysays-players[12]
+Spb-2024_03_14-Regular-Andysays-players[12]
 Ussuriysk-2023_11_12-Regular-Usstiger-players[8]
 Ussuriysk-2023_11_26-Regular-Usstiger-players[7]
 Ussuriysk-2024_01_06-Regular-Usstiger-players[6]
@@ -72,7 +73,7 @@ Admiral Brass, Unsinkable        matches:3    WM:  0.00%  LM:100.00%  DM:  0.00%
 Aesi, Tyrant of Gyre Strait      matches:13   WM: 15.38%  LM: 69.23%  DM: 15.38% (wm:2   lm:9   dm:2)  games:29   WG: 27.59% LG: 72.41% (wg:   8 lg:  21) pick: 4   
 Akiri, Line-Slinger              matches:26   WM: 42.31%  LM: 57.69%  DM:  0.00% (wm:11  lm:15  dm:0)  games:61   WG: 45.90% LG: 54.10% (wg:  28 lg:  33) pick: 6   
   + Silas Renn, Seeker Adept    
-Aminatou, the Fateshifter        matches:86   WM: 54.65%  LM: 30.23%  DM: 15.12% (wm:47  lm:26  dm:13) games:196  WG: 59.69% LG: 40.31% (wg: 117 lg:  79) pick: 23  
+Aminatou, the Fateshifter        matches:94   WM: 53.19%  LM: 30.85%  DM: 15.96% (wm:50  lm:29  dm:15) games:211  WG: 58.77% LG: 41.23% (wg: 124 lg:  87) pick: 25  
 Anhelo, the Painter              matches:8    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:8   dm:0)  games:17   WG:  5.88% LG: 94.12% (wg:   1 lg:  16) pick: 2   
 Animar, Soul of Elements         matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:8    WG: 25.00% LG: 75.00% (wg:   2 lg:   6) pick: 1   
 Anje Falkenrath                  matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:7    WG: 42.86% LG: 57.14% (wg:   3 lg:   4) pick: 1   
@@ -83,7 +84,7 @@ Atraxa, Grand Unifier            matches:44   WM: 45.45%  LM: 40.91%  DM: 13.64%
 Atraxa, Praetors' Voice          matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:14   WG: 42.86% LG: 57.14% (wg:   6 lg:   8) pick: 1   
 Balmor, Battlemage Captain       matches:23   WM: 69.57%  LM: 26.09%  DM:  4.35% (wm:16  lm:6   dm:1)  games:56   WG: 64.29% LG: 33.93% (wg:  36 lg:  19) pick: 6   
 Baral and Kari Zev               matches:10   WM: 30.00%  LM: 70.00%  DM:  0.00% (wm:3   lm:7   dm:0)  games:23   WG: 34.78% LG: 65.22% (wg:   8 lg:  15) pick: 3   
-Bjorna, Nightfall Alchemist      matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:12   WG: 41.67% LG: 58.33% (wg:   5 lg:   7) pick: 1   
+Bjorna, Nightfall Alchemist      matches:8    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:2   lm:6   dm:0)  games:20   WG: 35.00% LG: 65.00% (wg:   7 lg:  13) pick: 2   
   + Wernog, Rider's Chaplain    
   + Lurrus of the Dream-Den     
 Brago, King Eternal              matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:1   lm:4   dm:0)  games:10   WG: 20.00% LG: 80.00% (wg:   2 lg:   8) pick: 2   
@@ -103,11 +104,11 @@ Flamewar, Brash Veteran          matches:11   WM: 36.36%  LM: 63.64%  DM:  0.00%
 Frodo, Adventurous Hobbit        matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:9    WG: 33.33% LG: 66.67% (wg:   3 lg:   6) pick: 1   
   + Sam, Loyal Attendant        
 Galazeth Prismari                matches:11   WM: 45.45%  LM: 54.55%  DM:  0.00% (wm:5   lm:6   dm:0)  games:27   WG: 48.15% LG: 51.85% (wg:  13 lg:  14) pick: 3   
-Geist of Saint Traft             matches:23   WM: 69.57%  LM: 21.74%  DM:  8.70% (wm:16  lm:5   dm:2)  games:55   WG: 63.64% LG: 36.36% (wg:  35 lg:  20) pick: 7   
-Ghyrson Starn, Kelermorph        matches:54   WM: 57.41%  LM: 38.89%  DM:  3.70% (wm:31  lm:21  dm:2)  games:129  WG: 55.81% LG: 43.41% (wg:  72 lg:  56) pick: 15  
+Geist of Saint Traft             matches:27   WM: 62.96%  LM: 22.22%  DM: 14.81% (wm:17  lm:6   dm:4)  games:63   WG: 61.90% LG: 38.10% (wg:  39 lg:  24) pick: 8   
+Ghyrson Starn, Kelermorph        matches:58   WM: 58.62%  LM: 37.93%  DM:  3.45% (wm:34  lm:22  dm:2)  games:139  WG: 56.12% LG: 43.17% (wg:  78 lg:  60) pick: 16  
 Gix, Yawgmoth Praetor            matches:11   WM: 54.55%  LM: 45.45%  DM:  0.00% (wm:6   lm:5   dm:0)  games:28   WG: 50.00% LG: 50.00% (wg:  14 lg:  14) pick: 2   
 God-Eternal Kefnet               matches:15   WM: 33.33%  LM: 60.00%  DM:  6.67% (wm:5   lm:9   dm:1)  games:30   WG: 40.00% LG: 60.00% (wg:  12 lg:  18) pick: 4   
-Golos, Tireless Pilgrim          matches:47   WM: 55.32%  LM: 36.17%  DM:  8.51% (wm:26  lm:17  dm:4)  games:108  WG: 60.19% LG: 39.81% (wg:  65 lg:  43) pick: 12  
+Golos, Tireless Pilgrim          matches:51   WM: 56.86%  LM: 35.29%  DM:  7.84% (wm:29  lm:18  dm:4)  games:117  WG: 61.54% LG: 38.46% (wg:  72 lg:  45) pick: 13  
 Grist, the Hunger Tide           matches:31   WM: 45.16%  LM: 51.61%  DM:  3.23% (wm:14  lm:16  dm:1)  games:77   WG: 48.05% LG: 51.95% (wg:  37 lg:  40) pick: 9   
 Gut, True Soul Zealot            matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:12   WG: 41.67% LG: 58.33% (wg:   5 lg:   7) pick: 1   
   + Agent of the Iron Throne    
@@ -126,19 +127,20 @@ Jodah, the Unifier               matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00%
 Juri, Master of the Revue        matches:17   WM: 64.71%  LM: 29.41%  DM:  5.88% (wm:11  lm:5   dm:1)  games:40   WG: 62.50% LG: 37.50% (wg:  25 lg:  15) pick: 5   
 Kari Zev, Skyship Raider         matches:24   WM: 41.67%  LM: 58.33%  DM:  0.00% (wm:10  lm:14  dm:0)  games:58   WG: 39.66% LG: 60.34% (wg:  23 lg:  35) pick: 7   
 Karlov of the Ghost Council      matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00% (wm:3   lm:2   dm:0)  games:12   WG: 50.00% LG: 50.00% (wg:   6 lg:   6) pick: 2   
-Karlov of the Ghost Council      matches:40   WM: 42.50%  LM: 42.50%  DM: 15.00% (wm:17  lm:17  dm:6)  games:87   WG: 49.43% LG: 50.57% (wg:  43 lg:  44) pick: 11  
+Karlov of the Ghost Council      matches:44   WM: 40.91%  LM: 40.91%  DM: 18.18% (wm:18  lm:18  dm:8)  games:95   WG: 49.47% LG: 50.53% (wg:  47 lg:  48) pick: 12  
   + Lurrus of the Dream-Den     
 Kasla, the Broken Halo           matches:2    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:2   dm:0)  games:5    WG: 20.00% LG: 80.00% (wg:   1 lg:   4) pick: 1   
 Kellan, the Fae-Blooded          matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:13   WG: 46.15% LG: 53.85% (wg:   6 lg:   7) pick: 1   
+Keranos, God of Storms           matches:4    WM:  0.00%  LM: 75.00%  DM: 25.00% (wm:0   lm:3   dm:1)  games:10   WG: 30.00% LG: 70.00% (wg:   3 lg:   7) pick: 1   
 Kess, Dissident Mage             matches:25   WM: 24.00%  LM: 56.00%  DM: 20.00% (wm:6   lm:14  dm:5)  games:56   WG: 39.29% LG: 60.71% (wg:  22 lg:  34) pick: 8   
-Kinnan, Bonder Prodigy           matches:71   WM: 54.93%  LM: 42.25%  DM:  2.82% (wm:39  lm:30  dm:2)  games:171  WG: 57.31% LG: 42.69% (wg:  98 lg:  73) pick: 19  
+Kinnan, Bonder Prodigy           matches:75   WM: 56.00%  LM: 41.33%  DM:  2.67% (wm:42  lm:31  dm:2)  games:179  WG: 58.10% LG: 41.90% (wg: 104 lg:  75) pick: 20  
 Krenko, Mob Boss                 matches:10   WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:2   lm:8   dm:0)  games:24   WG: 25.00% LG: 75.00% (wg:   6 lg:  18) pick: 3   
 Kroxa, Titan of Death's Hunger   matches:8    WM: 37.50%  LM: 50.00%  DM: 12.50% (wm:3   lm:4   dm:1)  games:21   WG: 47.62% LG: 52.38% (wg:  10 lg:  11) pick: 2   
 Kytheon, Hero of Akros           matches:54   WM: 55.56%  LM: 40.74%  DM:  3.70% (wm:30  lm:22  dm:2)  games:137  WG: 54.74% LG: 43.80% (wg:  75 lg:  60) pick: 14  
 Laelia, the Blade Reforged       matches:24   WM: 75.00%  LM: 20.83%  DM:  4.17% (wm:18  lm:5   dm:1)  games:59   WG: 67.80% LG: 32.20% (wg:  40 lg:  19) pick: 6   
 Leovold, Emissary of Trest       matches:31   WM: 32.26%  LM: 64.52%  DM:  3.23% (wm:10  lm:20  dm:1)  games:73   WG: 39.73% LG: 60.27% (wg:  29 lg:  44) pick: 8   
 Liesa, Shroud of Dusk            matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:9    WG: 22.22% LG: 77.78% (wg:   2 lg:   7) pick: 1   
-Light-Paws, Emperor's Voice      matches:79   WM: 37.97%  LM: 60.76%  DM:  1.27% (wm:30  lm:48  dm:1)  games:176  WG: 41.48% LG: 58.52% (wg:  73 lg: 103) pick: 27  
+Light-Paws, Emperor's Voice      matches:83   WM: 36.14%  LM: 61.45%  DM:  2.41% (wm:30  lm:51  dm:2)  games:184  WG: 40.22% LG: 59.78% (wg:  74 lg: 110) pick: 28  
 Lord Windgrace                   matches:11   WM: 36.36%  LM: 54.55%  DM:  9.09% (wm:4   lm:6   dm:1)  games:27   WG: 40.74% LG: 59.26% (wg:  11 lg:  16) pick: 3   
 Ludevic, Necro-Alchemist         matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:9    WG: 33.33% LG: 66.67% (wg:   3 lg:   6) pick: 1   
 Magda, Brazen Outlaw             matches:22   WM: 72.73%  LM: 22.73%  DM:  4.55% (wm:16  lm:5   dm:1)  games:51   WG: 68.63% LG: 29.41% (wg:  35 lg:  15) pick: 5   
@@ -174,7 +176,7 @@ Sen Triplets                     matches:3    WM:  0.00%  LM:100.00%  DM:  0.00%
 Shorikai, Genesis Engine         matches:51   WM: 47.06%  LM: 37.25%  DM: 15.69% (wm:24  lm:19  dm:8)  games:120  WG: 51.67% LG: 45.83% (wg:  62 lg:  55) pick: 15  
 Sidar Jabari of Zhalfir          matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:6    WG:  0.00% LG:100.00% (wg:   0 lg:   6) pick: 1   
 Sidisi, Undead Vizier            matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:6    WG:  0.00% LG:100.00% (wg:   0 lg:   6) pick: 1   
-Slimefoot and Squee              matches:64   WM: 64.06%  LM: 29.69%  DM:  6.25% (wm:41  lm:19  dm:4)  games:157  WG: 61.15% LG: 38.85% (wg:  96 lg:  61) pick: 17  
+Slimefoot and Squee              matches:68   WM: 64.71%  LM: 27.94%  DM:  7.35% (wm:44  lm:19  dm:5)  games:164  WG: 62.20% LG: 37.80% (wg: 102 lg:  62) pick: 18  
 Slogurk, the Overslime           matches:4    WM: 50.00%  LM: 25.00%  DM: 25.00% (wm:2   lm:1   dm:1)  games:11   WG: 54.55% LG: 45.45% (wg:   6 lg:   5) pick: 1   
 Syr Faren, the Hengehammer       matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 40.00% LG: 60.00% (wg:   4 lg:   6) pick: 1   
 Sythis, Harvest's Hand           matches:10   WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:10  dm:0)  games:23   WG: 13.04% LG: 86.96% (wg:   3 lg:  20) pick: 3   
@@ -183,7 +185,7 @@ Tasigur, the Golden Fang         matches:16   WM: 31.25%  LM: 50.00%  DM: 18.75%
 Tergrid, God of Fright           matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:16   WG: 37.50% LG: 62.50% (wg:   6 lg:  10) pick: 1   
 Thalia and The Gitrog Monster    matches:6    WM: 50.00%  LM: 33.33%  DM: 16.67% (wm:3   lm:2   dm:1)  games:16   WG: 56.25% LG: 43.75% (wg:   9 lg:   7) pick: 2   
 The Beamtown Bullies             matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:18   WG: 50.00% LG: 50.00% (wg:   9 lg:   9) pick: 1   
-The Reality Chip                 matches:61   WM: 42.62%  LM: 50.82%  DM:  6.56% (wm:26  lm:31  dm:4)  games:145  WG: 46.21% LG: 53.79% (wg:  67 lg:  78) pick: 16  
+The Reality Chip                 matches:65   WM: 41.54%  LM: 50.77%  DM:  7.69% (wm:27  lm:33  dm:5)  games:154  WG: 46.10% LG: 53.90% (wg:  71 lg:  83) pick: 17  
 Tivit, Seller of Secrets         matches:8    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:6   lm:2   dm:0)  games:22   WG: 63.64% LG: 36.36% (wg:  14 lg:   8) pick: 2   
 Torbran, Thane of Red Fell       matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:8    WG: 37.50% LG: 62.50% (wg:   3 lg:   5) pick: 1   
 Trelasarra, Moon Dancer          matches:8    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:4   lm:4   dm:0)  games:20   WG: 50.00% LG: 50.00% (wg:  10 lg:  10) pick: 2   

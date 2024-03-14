@@ -15,14 +15,15 @@ out_folder = './tournaments_json/'
 #     tournament.dump_to_json(out_folder)
 
 # # Krasnodar data
-# filenames = glob('./RawData/Krasnodar_data/*.txt')
+# filenames = glob('./RawData/Krasnodar_data/Krasnodar_2024_01_28.txt')
 # for filename in filenames:
 #     parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_Krasnodar, legendary_base)
 #     tournament = parser.get_tournament_from_txt(filename)
+#     print(tournament)
 #     tournament.dump_to_json(out_folder)
-#
+
 # Spb data
-filenames = glob('RawData/Spb_data/2024_02_22*.txt')
+filenames = glob('RawData/Spb_data/2024_03_14*.txt')
 for filename in filenames:
     parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_aetherhub, legendary_base)
     tournament = parser.get_tournament_from_txt(filename)
@@ -30,7 +31,7 @@ for filename in filenames:
     tournament.dump_to_json(out_folder)
 
 # # Ussuriysk_data data
-# filenames = glob('RawData/Ussuriysk_data/2024_02_*.txt')
+# filenames = glob('RawData/Ussuriysk_data/2024_03_02_Ussuriysk_Regular.txt')
 # for filename in filenames:
 #     parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_aetherhub, legendary_base)
 #     tournament = parser.get_tournament_from_txt(filename)
@@ -45,16 +46,17 @@ for filename in filenames:
 #     print(tournament)
 #     tournament.dump_to_json(out_folder)
 #
+
 # # RostovOnDon_data data
-# filenames = glob('RawData/RostovOnDon_data/*.txt')
+# filenames = glob('RawData/RostovOnDon_data/2024_03_03*.txt')
 # for filename in filenames:
 #     parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_aetherhub, legendary_base)
 #     tournament = parser.get_tournament_from_txt(filename)
 #     print(tournament)
 #     tournament.dump_to_json(out_folder)
-#
-# # RostovOnDon_data data
-# filenames = glob('RawData/Rostov_data/*.txt')
+
+# # Barnaul_data data
+# filenames = glob('RawData/Barnaul_data/2024_02_09_Barnaul_Regular.txt')
 # for filename in filenames:
 #     parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_aetherhub, legendary_base)
 #     tournament = parser.get_tournament_from_txt(filename)

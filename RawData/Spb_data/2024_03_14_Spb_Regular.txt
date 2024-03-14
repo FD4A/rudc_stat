@@ -1,0 +1,19 @@
+location::Spb
+level::Regular
+date::2024_03_14
+organizer::Andysays
+players::generals
+Муравьев Никита :: Slimefoot and Squee
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Мартынов Влад :: Aminatou, the Fateshifter
+Федоров Дмитрий :: Karlov of the Ghost Council :++: Lurrus of the Dream-Den
+Иванов Максим :: Geist of Saint Traft
+Саушкин Андрей :: Aminatou, the Fateshifter
+Мартынов Яков :: The Reality Cheap
+Грабовой Филипп :: Bjorna, Nightfall Alchemist :+: Wernog, Rider's Chaplain :++: Lurrus of the Dream-Den
+Тяпайкин Максим :: Keranos, God of Storms
+Смирнов Александр :: Light-Paws, Emperor's Voice
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/28070

@@ -1,0 +1,307 @@
+{
+    "date": "2024_03_14",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Муравьев Никита",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Барабаш Валентин",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Мартынов Влад",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Karlov of the Ghost Council :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Саушкин Андрей",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Грабовой Филипп",
+            "Bjorna, Nightfall Alchemist :+: Wernog, Rider's Chaplain :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Keranos, God of Storms"
+        ],
+        [
+            "Смирнов Александр",
+            "Light-Paws, Emperor's Voice"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Саушкин Андрей",
+                "Барабаш Валентин",
+                "Aminatou, the Fateshifter",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Родюков Федор",
+                "Bjorna, Nightfall Alchemist :+: Wernog, Rider's Chaplain :++: Lurrus of the Dream-Den",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Федоров Дмитрий",
+                "Slimefoot and Squee",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Смирнов Александр",
+                "Keranos, God of Storms",
+                "Light-Paws, Emperor's Voice",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Ульянов Алексей",
+                "The Reality Chip",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Мартынов Влад",
+                "Geist of Saint Traft",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Барабаш Валентин",
+                "Ульянов Алексей",
+                "Kinnan, Bonder Prodigy",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Тяпайкин Максим",
+                "Ghyrson Starn, Kelermorph",
+                "Keranos, God of Storms",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Смирнов Александр",
+                "Мартынов Влад",
+                "Light-Paws, Emperor's Voice",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Иванов Максим",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Саушкин Андрей",
+                "Slimefoot and Squee",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Грабовой Филипп",
+                "The Reality Chip",
+                "Bjorna, Nightfall Alchemist :+: Wernog, Rider's Chaplain :++: Lurrus of the Dream-Den",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Родюков Федор",
+                "Ульянов Алексей",
+                "Ghyrson Starn, Kelermorph",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Мартынов Влад",
+                "Slimefoot and Squee",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Грабовой Филипп",
+                "Kinnan, Bonder Prodigy",
+                "Bjorna, Nightfall Alchemist :+: Wernog, Rider's Chaplain :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Смирнов Александр",
+                "Geist of Saint Traft",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Тяпайкин Максим",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Keranos, God of Storms",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Саушкин Андрей",
+                "The Reality Chip",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Родюков Федор",
+                "Муравьев Никита",
+                "Ghyrson Starn, Kelermorph",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Федоров Дмитрий",
+                "Golos, Tireless Pilgrim",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Иванов Максим",
+                "Kinnan, Bonder Prodigy",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Грабовой Филипп",
+                "Aminatou, the Fateshifter",
+                "Bjorna, Nightfall Alchemist :+: Wernog, Rider's Chaplain :++: Lurrus of the Dream-Den",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Саушкин Андрей",
+                "Keranos, God of Storms",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Смирнов Александр",
+                "The Reality Chip",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}
