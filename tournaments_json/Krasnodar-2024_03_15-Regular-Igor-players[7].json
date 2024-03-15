@@ -1,0 +1,135 @@
+{
+    "date": "2024_03_15",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Пузиков Никита",
+            "Saskia the Unyielding"
+        ],
+        [
+            "Зайцев Даниил",
+            "Prosper, Tome-Bound"
+        ],
+        [
+            "Коваль Светослав",
+            "Yoshimaru, Ever Faithful"
+        ],
+        [
+            "Лях Владимир",
+            "Edric, Spymaster of Trest"
+        ],
+        [
+            "Хорьков Никита",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Жандосов Карим",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Заиграев Даниил",
+            "Kess, Dissident Mage"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Пузиков Никита",
+                "Коваль Светослав",
+                "Saskia the Unyielding",
+                "Yoshimaru, Ever Faithful",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Хорьков Никита",
+                "Prosper, Tome-Bound",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лях Владимир",
+                "Заиграев Даниил",
+                "Edric, Spymaster of Trest",
+                "Kess, Dissident Mage",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Пузиков Никита",
+                "Лях Владимир",
+                "Saskia the Unyielding",
+                "Edric, Spymaster of Trest",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Жандосов Карим",
+                "Prosper, Tome-Bound",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Заиграев Даниил",
+                "Yoshimaru, Ever Faithful",
+                "Kess, Dissident Mage",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Пузиков Никита",
+                "Зайцев Даниил",
+                "Saskia the Unyielding",
+                "Prosper, Tome-Bound",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Жандосов Карим",
+                "Yoshimaru, Ever Faithful",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лях Владимир",
+                "Хорьков Никита",
+                "Edric, Spymaster of Trest",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

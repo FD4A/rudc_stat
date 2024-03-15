@@ -3,7 +3,7 @@ level::Regular
 date::2024_03_07
 organizer::Andysays
 players::generals
-Грабовой Филипп :: Slimefoot and Squee
+Филл Грибовой :: Slimefoot and Squee
 Родюков Федор :: Ghyrson Starn, Kelermorph
 Барабаш Валентин :: Kinnan, Bonder Prodigy
 Яковлев Николай :: Dihada, Binder of Wills
