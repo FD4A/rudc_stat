@@ -1,0 +1,135 @@
+{
+    "date": "2024_03_15",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Дмитрий Лисин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Илья Гесин",
+            "Old Stickfingers"
+        ],
+        [
+            "Влад Гладышев",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Достияр Амержаев",
+            "Baral and Kari Zev"
+        ],
+        [
+            "Андрей Студеникин (384155255)",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Иван Послухов",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Дмитрий Разумовский",
+            "Kinnan, Bonder Prodigy"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Дмитрий Лисин",
+                "Иван Послухов",
+                "Kytheon, Hero of Akros",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Достияр Амержаев",
+                "Андрей Студеникин (384155255)",
+                "Baral and Kari Zev",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Разумовский",
+                "Влад Гладышев",
+                "Kinnan, Bonder Prodigy",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Илья Гесин",
+                "Влад Гладышев",
+                "Old Stickfingers",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Андрей Студеникин (384155255)",
+                "Дмитрий Лисин",
+                "Shorikai, Genesis Engine",
+                "Kytheon, Hero of Akros",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иван Послухов",
+                "Дмитрий Разумовский",
+                "Ghyrson Starn, Kelermorph",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Лисин",
+                "Илья Гесин",
+                "Kytheon, Hero of Akros",
+                "Old Stickfingers",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Андрей Студеникин (384155255)",
+                "Влад Гладышев",
+                "Shorikai, Genesis Engine",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иван Послухов",
+                "Достияр Амержаев",
+                "Ghyrson Starn, Kelermorph",
+                "Baral and Kari Zev",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,35 @@
+location::Barnaul
+level::Regular
+date::2024_03_07
+organizer::
+players::generals
+Алексей Петрыкин :: Ghyrson Starn, Kelermorph
+Дмитрий Лисин :: Kytheon, Hero of Akros
+Александр Самусенко :: Omnath, Locus of Creation
+Влад Гладышев :: Hogaak, Arisen Necropolis
+Михаил Старостенков :: Ghyrson Starn, Kelermorph
+Андрей Тагильцев :: Shorikai, Genesis Engine
+Дмитрий Разумовский :: Kinnan, Bonder Prodigy
+Варвара Разумовская ::
+Иван Послухов :: Balmor, Battlemage Captain
+-Missing name- ::
+
+Петрыкин Алексей	ALEXX1983@yandex.ru
+Лисин Дмитрий	Elodinach@gmail.com
+Самусенко Александр	alexandersamusenko68554@gmail.com
+Гладышев Влад	vladishew@icloud.com
+Старостенков Михаил	staromega53@gmail.com
+Тагильцев Андрей 	andrey20291@gmail.com
+Разумовский Дмитрий
+Разумовская Варвара
+Послухов Иван	zozor228@gmail.com
+
+
+Влад Гладышев :: Hogaak, Arisen Necropolis
+Илья Гесин :: Old Stickfingers
+Андрей Студеникин (384155255) :: Shorikai, Genesis Engine
+Андрей Тагильцев :: Ghyrson Starn, Kelermorph
+Александр Самусенко :: Omnath, Locus of Creation
+Дмитрий Лисин :: Kytheon, Hero of Akros
+Round
+https://aetherhub.com/Tourney/RoundTourney/27890
