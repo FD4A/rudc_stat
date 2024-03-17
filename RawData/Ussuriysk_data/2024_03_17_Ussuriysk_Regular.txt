@@ -1,0 +1,12 @@
+location::Ussuriysk
+level::Regular
+date::2024_03_17
+organizer::Usstiger
+players::generals
+Кирилл С :: Raffine, Scheming Seer
+Вячеслав Ш :: Atraxa, Grand Unifier
+Алексей Ж :: Karador, Ghost Chieftain
+Дмитрий С :: Goro-Goro and Satoru
+Матвей Б :: Tymaret, the Murder King
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/28180

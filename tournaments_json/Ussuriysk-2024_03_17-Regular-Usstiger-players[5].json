@@ -1,0 +1,141 @@
+{
+    "date": "2024_03_17",
+    "location": "Ussuriysk",
+    "level": "Regular",
+    "organizer": "Usstiger",
+    "roundsCount": 5,
+    "players": [
+        [
+            "Кирилл С",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Вячеслав Ш",
+            "Atraxa, Grand Unifier"
+        ],
+        [
+            "Алексей Ж",
+            "Karador, Ghost Chieftain"
+        ],
+        [
+            "Дмитрий С",
+            "Goro-Goro and Satoru"
+        ],
+        [
+            "Матвей Б",
+            "Tymaret, the Murder King"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Кирилл С",
+                "Матвей Б",
+                "Raffine, Scheming Seer",
+                "Tymaret, the Murder King",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Дмитрий С",
+                "Atraxa, Grand Unifier",
+                "Goro-Goro and Satoru",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей Ж",
+                "Кирилл С",
+                "Karador, Ghost Chieftain",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дмитрий С",
+                "Матвей Б",
+                "Goro-Goro and Satoru",
+                "Tymaret, the Murder King",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий С",
+                "Кирилл С",
+                "Goro-Goro and Satoru",
+                "Raffine, Scheming Seer",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Вячеслав Ш",
+                "Karador, Ghost Chieftain",
+                "Atraxa, Grand Unifier",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей Ж",
+                "Матвей Б",
+                "Karador, Ghost Chieftain",
+                "Tymaret, the Murder King",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Кирилл С",
+                "Atraxa, Grand Unifier",
+                "Raffine, Scheming Seer",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Матвей Б",
+                "Вячеслав Ш",
+                "Tymaret, the Murder King",
+                "Atraxa, Grand Unifier",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Дмитрий С",
+                "Karador, Ghost Chieftain",
+                "Goro-Goro and Satoru",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

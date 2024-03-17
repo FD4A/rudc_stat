@@ -1,0 +1,259 @@
+{
+    "date": "2024_03_17",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Арушанян Тигран",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Кириченко Евгений",
+            "The Reality Chip"
+        ],
+        [
+            "Безрученко Дмитрий",
+            "Elminster"
+        ],
+        [
+            "Сажин Юрий",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Коваль Светослав",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Иванов Антон",
+            "Lord Windgrace"
+        ],
+        [
+            "Ерофеев Александр",
+            "Kari Zev, Skyship Raider"
+        ],
+        [
+            "Васинов Николай",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Кириченко Анна",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Пузиков Никита",
+            "Saskia the Unyielding"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Арушанян Тигран",
+                "Васинов Николай",
+                "Geist of Saint Traft",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Сажин Юрий",
+                "The Reality Chip",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Коваль Светослав",
+                "Elminster",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Антон",
+                "Ерофеев Александр",
+                "Lord Windgrace",
+                "Kari Zev, Skyship Raider",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кириченко Анна",
+                "Пузиков Никита",
+                "Indoraptor, the Perfect Hybrid",
+                "Saskia the Unyielding",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Арушанян Тигран",
+                "Ерофеев Александр",
+                "Geist of Saint Traft",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Кириченко Анна",
+                "The Reality Chip",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Пузиков Никита",
+                "Elminster",
+                "Saskia the Unyielding",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сажин Юрий",
+                "Васинов Николай",
+                "Slimefoot and Squee",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Иванов Антон",
+                "Shorikai, Genesis Engine",
+                "Lord Windgrace",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Арушанян Тигран",
+                "Кириченко Евгений",
+                "Geist of Saint Traft",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Ерофеев Александр",
+                "Elminster",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сажин Юрий",
+                "Коваль Светослав",
+                "Slimefoot and Squee",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Антон",
+                "Пузиков Никита",
+                "Lord Windgrace",
+                "Saskia the Unyielding",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Кириченко Анна",
+                "Golos, Tireless Pilgrim",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Арушанян Тигран",
+                "Безрученко Дмитрий",
+                "Geist of Saint Traft",
+                "Elminster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Васинов Николай",
+                "The Reality Chip",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сажин Юрий",
+                "Ерофеев Александр",
+                "Slimefoot and Squee",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Пузиков Никита",
+                "Shorikai, Genesis Engine",
+                "Saskia the Unyielding",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Антон",
+                "Кириченко Анна",
+                "Lord Windgrace",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}
