@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2024_03_17
+organizer::Constantin
+players::generals
+Dmitriy Ysachev :: Sheoldred, the Apocalypse
+Serg_Maliy :: Geist of Saint Traft
+Alexander Isaev :: Omnath, Locus of Creation
+Constantin Somkin :: Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den
+Vadim :: Atraxa, Grand Unifier
+Александр Ковалёв :: Éowyn, Shieldmaiden
+Round
+https://aetherhub.com/Tourney/RoundTourney/28195

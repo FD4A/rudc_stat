@@ -1,0 +1,225 @@
+{
+    "date": "2024_03_07",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Алексей Петрыкин",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Дмитрий Лисин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Александр Самусенко",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Влад Гладышев",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Михаил Старостенков",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Андрей Тагильцев",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Дмитрий Разумовский",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Варвара Разумовская",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Иван Послухов",
+            "Balmor, Battlemage Captain"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "",
+                "Влад Гладышев",
+                "unknown",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Андрей Тагильцев",
+                "Дмитрий Лисин",
+                "Shorikai, Genesis Engine",
+                "Kytheon, Hero of Akros",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Разумовский",
+                "Михаил Старостенков",
+                "Kinnan, Bonder Prodigy",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Варвара Разумовская",
+                "Алексей Петрыкин",
+                "Asmoranomardicadaistinaculdacar",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Иван Послухов",
+                "Omnath, Locus of Creation",
+                "Balmor, Battlemage Captain",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Михаил Старостенков",
+                "Дмитрий Лисин",
+                "Ghyrson Starn, Kelermorph",
+                "Kytheon, Hero of Akros",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Александр Самусенко",
+                "Hogaak, Arisen Necropolis",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Алексей Петрыкин",
+                "Дмитрий Разумовский",
+                "Ghyrson Starn, Kelermorph",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иван Послухов",
+                "Варвара Разумовская",
+                "Balmor, Battlemage Captain",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Самусенко",
+                "Алексей Петрыкин",
+                "Omnath, Locus of Creation",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Лисин",
+                "Иван Послухов",
+                "Kytheon, Hero of Akros",
+                "Balmor, Battlemage Captain",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Михаил Старостенков",
+                "Влад Гладышев",
+                "Ghyrson Starn, Kelermorph",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Андрей Тагильцев",
+                "Дмитрий Разумовский",
+                "Shorikai, Genesis Engine",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей Петрыкин",
+                "Дмитрий Лисин",
+                "Ghyrson Starn, Kelermorph",
+                "Kytheon, Hero of Akros",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Андрей Тагильцев",
+                "Omnath, Locus of Creation",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Варвара Разумовская",
+                "Hogaak, Arisen Necropolis",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иван Послухов",
+                "Михаил Старостенков",
+                "Balmor, Battlemage Captain",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

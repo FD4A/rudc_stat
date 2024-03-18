@@ -1,0 +1,131 @@
+{
+    "date": "2024_03_17",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Dmitriy Ysachev",
+            "Sheoldred, the Apocalypse"
+        ],
+        [
+            "Serg_Maliy",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Alexander Isaev",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Constantin Somkin",
+            "Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Vadim",
+            "Atraxa, Grand Unifier"
+        ],
+        [
+            "Александр Ковалёв",
+            "Éowyn, Shieldmaiden"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Alexander Isaev",
+                "Vadim",
+                "Omnath, Locus of Creation",
+                "Atraxa, Grand Unifier",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Serg_Maliy",
+                "Александр Ковалёв",
+                "Geist of Saint Traft",
+                "Éowyn, Shieldmaiden",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Constantin Somkin",
+                "Dmitriy Ysachev",
+                "Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den",
+                "Sheoldred, the Apocalypse",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Alexander Isaev",
+                "Serg_Maliy",
+                "Omnath, Locus of Creation",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Dmitriy Ysachev",
+                "Vadim",
+                "Sheoldred, the Apocalypse",
+                "Atraxa, Grand Unifier",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Constantin Somkin",
+                "Александр Ковалёв",
+                "Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den",
+                "Éowyn, Shieldmaiden",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Serg_Maliy",
+                "Dmitriy Ysachev",
+                "Geist of Saint Traft",
+                "Sheoldred, the Apocalypse",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Alexander Isaev",
+                "Александр Ковалёв",
+                "Omnath, Locus of Creation",
+                "Éowyn, Shieldmaiden",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Constantin Somkin",
+                "Vadim",
+                "Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den",
+                "Atraxa, Grand Unifier",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ]
+}
