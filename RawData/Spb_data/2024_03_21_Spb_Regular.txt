@@ -1,0 +1,23 @@
+location::Spb
+level::Regular
+date::2024_03_21
+organizer::Andysays
+players::generals
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Лузаков Петр :: Torbran, Thane of Red Fell
+Поляков Герман :: Omnath, Locus of Creation
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Трофименко Даниил :: Ertai Resurrected
+Протасов Михаил :: Aminatou, the Fateshifter
+Федоров Дмитрий :: Karlov of the Ghost Council :++: Lurrus of the Dream-Den
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Иванов Максим :: Geist of Saint Traft
+Цюра Максим :: Slimefoot and Squee
+Богданов Сергей :: Geist of Saint Traft
+Тяпайкин Максим :: Thrasios, Triton Hero
+Мартынов Яков :: The Reality Cheap
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Яковлев Николай :: Dihada, Binder of Wills
+Иванов Дмитрий :: Inalla, Archmage Ritualist
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/28287

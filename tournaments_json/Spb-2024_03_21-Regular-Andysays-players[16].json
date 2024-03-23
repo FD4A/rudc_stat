@@ -1,0 +1,393 @@
+{
+    "date": "2024_03_21",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Барабаш Валентин",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Лузаков Петр",
+            "Torbran, Thane of Red Fell"
+        ],
+        [
+            "Поляков Герман",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Трофименко Даниил",
+            "Ertai Resurrected"
+        ],
+        [
+            "Протасов Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Karlov of the Ghost Council :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Цюра Максим",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Богданов Сергей",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Thrasios, Triton Hero"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Яковлев Николай",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Inalla, Archmage Ritualist"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Богатырев Александр",
+                "Лузаков Петр",
+                "Indoraptor, the Perfect Hybrid",
+                "Torbran, Thane of Red Fell",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Барабаш Валентин",
+                "The Reality Chip",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Тяпайкин Максим",
+                "Inalla, Archmage Ritualist",
+                "Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Иванов Максим",
+                "Ghyrson Starn, Kelermorph",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Федоров Дмитрий",
+                "Golos, Tireless Pilgrim",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Поляков Герман",
+                "Dihada, Binder of Wills",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Трофименко Даниил",
+                "Цюра Максим",
+                "Ertai Resurrected",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Протасов Михаил",
+                "Geist of Saint Traft",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Барабаш Валентин",
+                "Федоров Дмитрий",
+                "Kinnan, Bonder Prodigy",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лузаков Петр",
+                "Тяпайкин Максим",
+                "Torbran, Thane of Red Fell",
+                "Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Протасов Михаил",
+                "Ghyrson Starn, Kelermorph",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Поляков Герман",
+                "Geist of Saint Traft",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Трофименко Даниил",
+                "Dihada, Binder of Wills",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Мартынов Яков",
+                "Slimefoot and Squee",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Ульянов Алексей",
+                "Inalla, Archmage Ritualist",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Богатырев Александр",
+                "Geist of Saint Traft",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Барабаш Валентин",
+                "Родюков Федор",
+                "Kinnan, Bonder Prodigy",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лузаков Петр",
+                "Трофименко Даниил",
+                "Torbran, Thane of Red Fell",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Поляков Герман",
+                "Slimefoot and Squee",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Иванов Максим",
+                "Golos, Tireless Pilgrim",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Тяпайкин Максим",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Thrasios, Triton Hero",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Богданов Сергей",
+                "Dihada, Binder of Wills",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Богатырев Александр",
+                "Aminatou, the Fateshifter",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Мартынов Яков",
+                "Inalla, Archmage Ritualist",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Барабаш Валентин",
+                "Лузаков Петр",
+                "Kinnan, Bonder Prodigy",
+                "Torbran, Thane of Red Fell",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Федоров Дмитрий",
+                "Omnath, Locus of Creation",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Ульянов Алексей",
+                "Ghyrson Starn, Kelermorph",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Трофименко Даниил",
+                "Богданов Сергей",
+                "Ertai Resurrected",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Протасов Михаил",
+                "Slimefoot and Squee",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Мартынов Яков",
+                "Thrasios, Triton Hero",
+                "The Reality Chip",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Яковлев Николай",
+                "Geist of Saint Traft",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

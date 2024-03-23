@@ -1,0 +1,93 @@
+{
+    "date": "2024_03_18",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Зайцев Даниил",
+            "Prosper, Tome-Bound"
+        ],
+        [
+            "Беляков Михаил",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Жандосов Карим",
+            "Animar, Soul of Elements"
+        ],
+        [
+            "Овчаренко Даниил",
+            "Sythis, Harvest's Hand"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Зайцев Даниил",
+                "Беляков Михаил",
+                "Prosper, Tome-Bound",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Жандосов Карим",
+                "Овчаренко Даниил",
+                "Animar, Soul of Elements",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Зайцев Даниил",
+                "Жандосов Карим",
+                "Prosper, Tome-Bound",
+                "Animar, Soul of Elements",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Овчаренко Даниил",
+                "Omnath, Locus of Creation",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Зайцев Даниил",
+                "Овчаренко Даниил",
+                "Prosper, Tome-Bound",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Жандосов Карим",
+                "Omnath, Locus of Creation",
+                "Animar, Soul of Elements",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

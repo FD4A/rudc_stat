@@ -1,0 +1,169 @@
+{
+    "date": "2024_03_22",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Хорьков Никита",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Иванько Альберт",
+            "Esika, God of the Tree"
+        ],
+        [
+            "Зайцев Даниил",
+            "Prosper, Tome-Bound"
+        ],
+        [
+            "Беляков Михаил",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Гяго Георгий",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Жуковский Андрей",
+            "Oloro, Ageless Ascetic"
+        ],
+        [
+            "Коваль Светослав",
+            "The Reality Chip"
+        ],
+        [
+            "Бушеленков Глеб",
+            "Heliod, Sun-Crowned"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Хорьков Никита",
+                "Бушеленков Глеб",
+                "Winota, Joiner of Forces",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Жуковский Андрей",
+                "Esika, God of the Tree",
+                "Oloro, Ageless Ascetic",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Гяго Георгий",
+                "Prosper, Tome-Bound",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Коваль Светослав",
+                "Omnath, Locus of Creation",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Хорьков Никита",
+                "Зайцев Даниил",
+                "Winota, Joiner of Forces",
+                "Prosper, Tome-Bound",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Беляков Михаил",
+                "Esika, God of the Tree",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Гяго Георгий",
+                "Бушеленков Глеб",
+                "Arahbo, Roar of the World",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Жуковский Андрей",
+                "Коваль Светослав",
+                "Oloro, Ageless Ascetic",
+                "The Reality Chip",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Хорьков Никита",
+                "Иванько Альберт",
+                "Winota, Joiner of Forces",
+                "Esika, God of the Tree",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Жуковский Андрей",
+                "Prosper, Tome-Bound",
+                "Oloro, Ageless Ascetic",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Гяго Георгий",
+                "Omnath, Locus of Creation",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Бушеленков Глеб",
+                "The Reality Chip",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}
