@@ -1,0 +1,16 @@
+location::Volgograd
+level::Regular
+date::2024_03_23
+organizer::Rombik34rus
+players::generals
+Максим Мещеряков :: Geist of Saint Traft
+Никита Сухов :: The Reality Cheap
+Дмитрий Орешкин :: Gix Yawgmoth's Praetor
+Вячеслав Серпутько :: Selvala Explorer Returned
+Александр Токарев :: Hogaak Arisen Necropolis
+Михаил Козлов :: Raffine the Scheaming Seer
+Александр Смирнов :: Malkolm Alluring Scoundrel
+Артём Ангурцов :: Feldon Ronom Excavator,
+Тимур Сайфутдинов :: Syr Faren, the Hengehammer
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/28343

@@ -1,0 +1,215 @@
+{
+    "date": "2024_03_23",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Максим Мещеряков",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Никита Сухов",
+            "The Reality Chip"
+        ],
+        [
+            "Дмитрий Орешкин",
+            "Gix, Yawgmoth Praetor"
+        ],
+        [
+            "Вячеслав Серпутько",
+            "Selvala, Explorer Returned"
+        ],
+        [
+            "Александр Токарев",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Михаил Козлов",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Александр Смирнов",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Артём Ангурцов",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Тимур Сайфутдинов",
+            "Syr Faren, the Hengehammer"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Артём Ангурцов",
+                "Никита Сухов",
+                "Feldon, Ronom Excavator",
+                "The Reality Chip",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Вячеслав Серпутько",
+                "Syr Faren, the Hengehammer",
+                "Selvala, Explorer Returned",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Дмитрий Орешкин",
+                "Malcolm, Alluring Scoundrel",
+                "Gix, Yawgmoth Praetor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Михаил Козлов",
+                "Максим Мещеряков",
+                "Raffine, Scheming Seer",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Токарев",
+                "Максим Мещеряков",
+                "Hogaak, Arisen Necropolis",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Никита Сухов",
+                "Дмитрий Орешкин",
+                "The Reality Chip",
+                "Gix, Yawgmoth Praetor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Артём Ангурцов",
+                "Selvala, Explorer Returned",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Михаил Козлов",
+                "Тимур Сайфутдинов",
+                "Raffine, Scheming Seer",
+                "Syr Faren, the Hengehammer",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Никита Сухов",
+                "Максим Мещеряков",
+                "The Reality Chip",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Михаил Козлов",
+                "Selvala, Explorer Returned",
+                "Raffine, Scheming Seer",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Александр Токарев",
+                "Malcolm, Alluring Scoundrel",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Дмитрий Орешкин",
+                "Feldon, Ronom Excavator",
+                "Gix, Yawgmoth Praetor",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Максим Мещеряков",
+                "Вячеслав Серпутько",
+                "Geist of Saint Traft",
+                "Selvala, Explorer Returned",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Никита Сухов",
+                "Hogaak, Arisen Necropolis",
+                "The Reality Chip",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Михаил Козлов",
+                "Gix, Yawgmoth Praetor",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Артём Ангурцов",
+                "Syr Faren, the Hengehammer",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}
