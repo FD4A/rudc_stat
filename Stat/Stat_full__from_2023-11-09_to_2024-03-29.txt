@@ -7,13 +7,6 @@ Barnaul-2024_02_09-Regular--players[8]
 Barnaul-2024_03_01-Regular--players[6]
 Barnaul-2024_03_07-Regular--players[9]
 Barnaul-2024_03_15-Regular--players[7]
-Krasnodar-2023_06_10-Regular-Alexandr-players[4]
-Krasnodar-2023_08_10-Regular-Alexandr-players[12]
-Krasnodar-2023_09_17-Regular-Alexandr-players[13]
-Krasnodar-2023_09_24-Regular-Alexandr-players[10]
-Krasnodar-2023_09_29-Regular-Alexandr-players[4]
-Krasnodar-2023_09_30-Regular-Alexandr-players[28]
-Krasnodar-2023_10_01-Regular-Alexandr-players[20]
 Krasnodar-2023_11_10-Regular-Igor-players[8]
 Krasnodar-2023_11_12-Regular-Igor-players[10]
 Krasnodar-2023_12_08-Regular-Igor-players[6]
@@ -46,7 +39,8 @@ Krasnodar-2024_03_17-Regular-Igor-players[10]
 Krasnodar-2024_03_18-Regular-Igor-players[4]
 Krasnodar-2024_03_22-Regular-Igor-players[0]
 Krasnodar-2024_03_22-Regular-Igor-players[8]
-Online-2023_10_24-League-AlexSmirnov-players[50]
+Krasnodar-2024_03_29-Regular-Igor-players[10]
+Moscow-2024_03_24-Open-GALL-players[8]
 Online-2023_12_31-League-AlexSmirnov-players[38]
 Online-2024_02_07-League-AlexSmirnov-players[30]
 RostovOnDon-2023_11_12-Regular-Sapher-players[8]
@@ -56,10 +50,6 @@ RostovOnDon-2024_01_21-Regular-Constantin-players[10]
 RostovOnDon-2024_03_03-Regular-Sapher-players[10]
 RostovOnDon-2024_03_03-Regular-Sapher-players[4]
 RostovOnDon-2024_03_17-Regular-Constantin-players[6]
-Spb-2023_06_18-Open-Alewa-players[45]
-Spb-2023_09_28-Regular-Andysays-players[8]
-Spb-2023_10_19-Regular-Andysays-players[7]
-Spb-2023_10_26-Regular-Andysays-players[12]
 Spb-2023_11_09-Regular-Andysays-players[11]
 Spb-2023_11_16-Regular-Andysays-players[7]
 Spb-2023_11_23-Regular-Andysays-players[12]
@@ -78,6 +68,7 @@ Spb-2024_02_29-Regular-Andysays-players[6]
 Spb-2024_03_07-Regular-Andysays-players[12]
 Spb-2024_03_14-Regular-Andysays-players[12]
 Spb-2024_03_21-Regular-Andysays-players[16]
+Spb-2024_03_28-Regular-Andysays-players[16]
 Ussuriysk-2023_11_12-Regular-Usstiger-players[8]
 Ussuriysk-2023_11_26-Regular-Usstiger-players[7]
 Ussuriysk-2024_01_06-Regular-Usstiger-players[6]
@@ -91,21 +82,19 @@ Volgograd-2023_12_03-Regular-Rombik34rus-players[6]
 Volgograd-2024_03_23-Regular-Rombik34rus-players[9]
 
 
-Abomination of Llanowar          matches:7    WM:  0.00%  LM: 85.71%  DM: 14.29% (wm:0   lm:6   dm:1)  games:16   WG: 18.75% LG: 81.25% (wg:   3 lg:  13) pick: 2   
+Abomination of Llanowar          matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:9    WG: 11.11% LG: 88.89% (wg:   1 lg:   8) pick: 1   
        vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (0/2)
        vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (1/2)
        vs Karlov of the Ghost Council      (w:0 l:1 d:0), (0/2)
         + Lurrus of the Dream-Den         
-       vs Flamewar, Brash Veteran          (w:0 l:1 d:1), (1/3)
-       vs Elminster                        (w:0 l:1 d:0), (0/2)
-       vs Aesi, Tyrant of Gyre Strait      (w:0 l:1 d:0), (1/2)
+       vs Flamewar, Brash Veteran          (w:0 l:1 d:0), (0/2)
 
 Admiral Brass, Unsinkable        matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:7    WG: 14.29% LG: 85.71% (wg:   1 lg:   6) pick: 1   
        vs Shorikai, Genesis Engine         (w:0 l:1 d:0), (0/2)
        vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (0/2)
        vs Balmor, Battlemage Captain       (w:0 l:1 d:0), (1/2)
 
-Aesi, Tyrant of Gyre Strait      matches:18   WM: 22.22%  LM: 72.22%  DM:  5.56% (wm:4   lm:13  dm:1)  games:40   WG: 27.50% LG: 72.50% (wg:  11 lg:  29) pick: 6   
+Aesi, Tyrant of Gyre Strait      matches:12   WM: 16.67%  LM: 75.00%  DM:  8.33% (wm:2   lm:9   dm:1)  games:27   WG: 25.93% LG: 74.07% (wg:   7 lg:  20) pick: 4   
        vs Brago, King Eternal              (w:1 l:0 d:0), (2/0)
        vs Asmoranomardicadaistinaculdacar  (w:0 l:2 d:0), (1/4)
        vs Roalesk, Apex Hybrid             (w:1 l:0 d:0), (2/1)
@@ -116,14 +105,8 @@ Aesi, Tyrant of Gyre Strait      matches:18   WM: 22.22%  LM: 72.22%  DM:  5.56%
        vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
        vs Karlov of the Ghost Council      (w:0 l:1 d:0), (0/2)
         + Lurrus of the Dream-Den         
-       vs Flamewar, Brash Veteran          (w:1 l:0 d:0), (2/0)
-       vs Elminster                        (w:0 l:1 d:0), (0/2)
-       vs Abomination of Llanowar          (w:1 l:0 d:0), (2/1)
        vs Light-Paws, Emperor's Voice      (w:0 l:1 d:0), (0/2)
        vs Winota, Joiner of Forces         (w:0 l:1 d:0), (0/2)
-       vs Arahbo, Roar of the World        (w:0 l:1 d:0), (0/2)
-       vs Pippin, Guard of the Citadel     (w:0 l:1 d:0), (0/2)
-       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
 
 Akiri, Line-Slinger              matches:25   WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:10  lm:15  dm:0)  games:58   WG: 44.83% LG: 55.17% (wg:  26 lg:  32) pick: 6   
   + Silas Renn, Seeker Adept    
@@ -147,23 +130,25 @@ Akiri, Line-Slinger              matches:25   WM: 40.00%  LM: 60.00%  DM:  0.00%
        vs Rona, Herald of Invasion         (w:1 l:1 d:0), (2/2)
        vs Vial Smasher the Fierce          (w:1 l:1 d:0), (2/2)
 
-Aminatou, the Fateshifter        matches:96   WM: 53.12%  LM: 30.21%  DM: 16.67% (wm:51  lm:29  dm:16) games:217  WG: 58.53% LG: 41.47% (wg: 127 lg:  90) pick: 26  
+Aminatou, the Fateshifter        matches:103  WM: 52.43%  LM: 30.10%  DM: 17.48% (wm:54  lm:31  dm:18) games:233  WG: 57.94% LG: 42.06% (wg: 135 lg:  98) pick: 28  
        vs The Reality Chip                 (w:3 l:0 d:1), (7/4)
-       vs Omnath, Locus of Creation        (w:4 l:2 d:1), (8/7)
+       vs Omnath, Locus of Creation        (w:5 l:2 d:1), (10/8)
        vs Dihada, Binder of Wills          (w:4 l:0 d:0), (8/0)
        vs Ghyrson Starn, Kelermorph        (w:0 l:3 d:1), (3/7)
-       vs Golos, Tireless Pilgrim          (w:0 l:1 d:2), (2/4)
+       vs Golos, Tireless Pilgrim          (w:0 l:2 d:3), (3/7)
        vs Light-Paws, Emperor's Voice      (w:5 l:0 d:0), (10/1)
-       vs Asmoranomardicadaistinaculdacar  (w:2 l:1 d:1), (6/4)
+       vs Asmoranomardicadaistinaculdacar  (w:2 l:2 d:1), (6/6)
        vs Heliod, Sun-Crowned              (w:2 l:0 d:0), (3/0)
        vs Octavia, Living Thesis           (w:2 l:1 d:0), (5/3)
        vs Shorikai, Genesis Engine         (w:2 l:1 d:0), (4/2)
        vs Grist, the Hunger Tide           (w:1 l:0 d:0), (2/1)
        vs Frodo, Adventurous Hobbit        (w:1 l:0 d:0), (2/1)
         + Sam, Loyal Attendant            
-       vs Kinnan, Bonder Prodigy           (w:2 l:3 d:1), (6/7)
+       vs Kinnan, Bonder Prodigy           (w:3 l:3 d:1), (8/8)
        vs Arahbo, Roar of the World        (w:0 l:1 d:0), (1/2)
        vs Yoshimaru, Ever Faithful         (w:1 l:1 d:0), (3/2)
+       vs Indoraptor, the Perfect Hybrid   (w:2 l:0 d:0), (4/1)
+       vs Geist of Saint Traft             (w:0 l:0 d:3), (3/3)
        vs Oloro, Ageless Ascetic           (w:0 l:1 d:0), (0/2)
        vs Yoshimaru, Ever Faithful         (w:1 l:1 d:1), (3/4)
         + Tana, the Bloodsower            
@@ -180,8 +165,6 @@ Aminatou, the Fateshifter        matches:96   WM: 53.12%  LM: 30.21%  DM: 16.67%
        vs Tasigur, the Golden Fang         (w:0 l:1 d:1), (2/3)
        vs Karlov of the Ghost Council      (w:1 l:0 d:1), (3/1)
         + Lurrus of the Dream-Den         
-       vs Geist of Saint Traft             (w:0 l:0 d:2), (2/2)
-       vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/1)
        vs Esika, God of the Tree           (w:1 l:0 d:0), (2/0)
        vs Juri, Master of the Revue        (w:0 l:1 d:0), (1/2)
        vs Bjorna, Nightfall Alchemist      (w:2 l:0 d:0), (3/1)
@@ -204,12 +187,6 @@ Aminatou, the Fateshifter        matches:96   WM: 53.12%  LM: 30.21%  DM: 16.67%
        vs Gix, Yawgmoth Praetor            (w:0 l:1 d:0), (0/2)
        vs Oskar, Rubbish Reclaimer         (w:0 l:1 d:0), (0/2)
 
-Anafenza, the Foremost           matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:14   WG: 50.00% LG: 50.00% (wg:   7 lg:   7) pick: 1   
-       vs Uro, Titan of Nature's Wrath     (w:1 l:0 d:0), (2/1)
-       vs Asmoranomardicadaistinaculdacar  (w:1 l:1 d:0), (3/2)
-       vs Dihada, Binder of Wills          (w:0 l:1 d:0), (1/2)
-       vs Winota, Joiner of Forces         (w:0 l:1 d:0), (1/2)
-
 Anhelo, the Painter              matches:8    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:8   dm:0)  games:17   WG:  5.88% LG: 94.12% (wg:   1 lg:  16) pick: 2   
        vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
        vs Kytheon, Hero of Akros           (w:0 l:1 d:0), (0/2)
@@ -231,150 +208,95 @@ Anje Falkenrath                  matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00%
        vs Asmoranomardicadaistinaculdacar  (w:1 l:1 d:0), (3/2)
        vs Light-Paws, Emperor's Voice      (w:0 l:1 d:0), (0/2)
 
-Aragorn, King of Gondor          matches:54   WM: 48.15%  LM: 48.15%  DM:  3.70% (wm:26  lm:26  dm:2)  games:120  WG: 50.83% LG: 49.17% (wg:  61 lg:  59) pick: 13  
+Aragorn, King of Gondor          matches:22   WM: 36.36%  LM: 59.09%  DM:  4.55% (wm:8   lm:13  dm:1)  games:47   WG: 38.30% LG: 61.70% (wg:  18 lg:  29) pick: 7   
        vs Ertai Resurrected                (w:1 l:0 d:0), (2/1)
        vs Slimefoot and Squee              (w:0 l:3 d:0), (1/6)
-       vs Hogaak, Arisen Necropolis        (w:1 l:1 d:0), (2/3)
+       vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (0/2)
        vs Juri, Master of the Revue        (w:0 l:2 d:0), (0/4)
-       vs Geist of Saint Traft             (w:0 l:1 d:0), (1/2)
-       vs Ghyrson Starn, Kelermorph        (w:1 l:3 d:0), (4/6)
-       vs The Reality Chip                 (w:2 l:0 d:0), (4/0)
-       vs Uro, Titan of Nature's Wrath     (w:0 l:3 d:1), (1/7)
        vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (2/0)
        vs Omnath, Locus of Creation        (w:2 l:1 d:0), (4/3)
        vs Akiri, Line-Slinger              (w:0 l:1 d:0), (0/2)
         + Silas Renn, Seeker Adept        
-       vs Golos, Tireless Pilgrim          (w:0 l:3 d:0), (0/6)
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
        vs Karlov of the Ghost Council      (w:0 l:1 d:1), (1/2)
         + Lurrus of the Dream-Den         
-       vs Kinnan, Bonder Prodigy           (w:3 l:1 d:0), (6/3)
+       vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (0/2)
+       vs Kinnan, Bonder Prodigy           (w:1 l:1 d:0), (2/3)
        vs Vial Smasher the Fierce          (w:1 l:0 d:0), (2/0)
        vs Esika, God of the Tree           (w:1 l:0 d:0), (2/0)
        vs Octavia, Living Thesis           (w:1 l:0 d:0), (2/0)
-       vs Ratadrabik of Urborg             (w:1 l:0 d:0), (2/0)
-       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
-       vs Shorikai, Genesis Engine         (w:2 l:0 d:0), (4/0)
-       vs Zimone, Quandrix Prodigy         (w:1 l:0 d:0), (2/0)
-       vs Oloro, Ageless Ascetic           (w:1 l:1 d:0), (2/3)
-       vs Dihada, Binder of Wills          (w:2 l:0 d:0), (4/0)
-       vs Beluna Grandsquall               (w:1 l:0 d:0), (2/0)
-       vs Inalla, Archmage Ritualist       (w:3 l:0 d:0), (6/1)
-       vs Kess, Dissident Mage             (w:0 l:1 d:0), (1/2)
-       vs Ruby, Daring Tracker             (w:0 l:1 d:0), (1/2)
-       vs Thalia and The Gitrog Monster    (w:1 l:0 d:0), (2/0)
-       vs Raffine, Scheming Seer           (w:0 l:1 d:0), (1/2)
 
-Aragorn, the Uniter              matches:2    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:2   dm:0)  games:6    WG: 33.33% LG: 66.67% (wg:   2 lg:   4) pick: 1   
-       vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (1/2)
-       vs Uro, Titan of Nature's Wrath     (w:0 l:1 d:0), (1/2)
-
-Arahbo, Roar of the World        matches:37   WM: 54.05%  LM: 40.54%  DM:  5.41% (wm:20  lm:15  dm:2)  games:96   WG: 56.25% LG: 43.75% (wg:  54 lg:  42) pick: 11  
+Arahbo, Roar of the World        matches:22   WM: 63.64%  LM: 31.82%  DM:  4.55% (wm:14  lm:7   dm:1)  games:54   WG: 62.96% LG: 37.04% (wg:  34 lg:  20) pick: 7   
        vs Jodah, the Unifier               (w:1 l:0 d:0), (2/0)
        vs Saskia the Unyielding            (w:1 l:1 d:0), (2/2)
        vs Raffine, Scheming Seer           (w:0 l:0 d:1), (1/1)
        vs Heliod, Sun-Crowned              (w:1 l:1 d:0), (3/2)
        vs Shorikai, Genesis Engine         (w:0 l:1 d:0), (1/2)
-       vs Omnath, Locus of Creation        (w:1 l:3 d:0), (5/6)
+       vs Omnath, Locus of Creation        (w:1 l:1 d:0), (3/2)
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
        vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/1)
        vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (0/2)
        vs Atraxa, Grand Unifier            (w:1 l:0 d:0), (2/0)
        vs Slogurk, the Overslime           (w:1 l:0 d:0), (2/1)
-       vs Asmoranomardicadaistinaculdacar  (w:1 l:1 d:0), (2/2)
+       vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/0)
        vs Octavia, Living Thesis           (w:1 l:0 d:0), (2/0)
-       vs Winota, Joiner of Forces         (w:1 l:1 d:0), (3/3)
-       vs Light-Paws, Emperor's Voice      (w:1 l:1 d:0), (3/2)
-       vs Geist of Saint Traft             (w:1 l:1 d:0), (3/3)
-       vs Squee, Dubious Monarch           (w:1 l:0 d:0), (2/0)
-       vs Laelia, the Blade Reforged       (w:0 l:1 d:0), (1/2)
-       vs Uro, Titan of Nature's Wrath     (w:1 l:0 d:1), (3/2)
-       vs Pippin, Guard of the Citadel     (w:1 l:1 d:0), (3/3)
-       vs Dihada, Binder of Wills          (w:0 l:1 d:0), (1/2)
-       vs Prosper, Tome-Bound              (w:0 l:1 d:0), (1/2)
-       vs Aesi, Tyrant of Gyre Strait      (w:1 l:0 d:0), (2/0)
-       vs Hogaak, Arisen Necropolis        (w:1 l:0 d:0), (2/1)
-       vs Surrak Dragonclaw                (w:1 l:0 d:0), (2/1)
-       vs The Reality Chip                 (w:1 l:0 d:0), (2/1)
-
-Arcades, the Strategist          matches:11   WM: 36.36%  LM: 45.45%  DM: 18.18% (wm:4   lm:5   dm:2)  games:25   WG: 48.00% LG: 52.00% (wg:  12 lg:  13) pick: 2   
-       vs Uro, Titan of Nature's Wrath     (w:1 l:4 d:0), (3/7)
-       vs Drana, Liberator of Malakir      (w:1 l:0 d:0), (2/1)
+       vs Winota, Joiner of Forces         (w:0 l:1 d:0), (1/2)
        vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/0)
-       vs Kinnan, Bonder Prodigy           (w:0 l:0 d:2), (2/2)
-       vs Ruby, Daring Tracker             (w:0 l:1 d:0), (1/2)
-       vs Winota, Joiner of Forces         (w:1 l:0 d:0), (2/1)
+       vs Kess, Dissident Mage             (w:1 l:0 d:0), (2/1)
+       vs Karlov of the Ghost Council      (w:1 l:0 d:0), (2/0)
+        + Lurrus of the Dream-Den         
+       vs Slimefoot and Squee              (w:1 l:0 d:0), (2/1)
+       vs Prosper, Tome-Bound              (w:0 l:1 d:0), (1/2)
 
-Asmoranomardicadaistinaculdacar  matches:204  WM: 50.00%  LM: 41.18%  DM:  8.82% (wm:102 lm:84  dm:18) games:486  WG: 53.29% LG: 46.50% (wg: 259 lg: 226) pick: 52  
+Asmoranomardicadaistinaculdacar  matches:111  WM: 46.85%  LM: 45.95%  DM:  7.21% (wm:52  lm:51  dm:8)  games:273  WG: 51.65% LG: 48.35% (wg: 141 lg: 132) pick: 32  
        vs Raffine, Scheming Seer           (w:0 l:1 d:2), (2/4)
        vs Jodah, the Unifier               (w:0 l:1 d:0), (0/2)
-       vs Kess, Dissident Mage             (w:2 l:1 d:0), (4/2)
+       vs Kess, Dissident Mage             (w:2 l:0 d:0), (4/0)
        vs Anje Falkenrath                  (w:1 l:1 d:0), (2/3)
        vs Light-Paws, Emperor's Voice      (w:4 l:4 d:0), (9/10)
        vs Aesi, Tyrant of Gyre Strait      (w:2 l:0 d:0), (4/1)
        vs Brago, King Eternal              (w:1 l:0 d:0), (2/0)
-       vs Aminatou, the Fateshifter        (w:1 l:2 d:1), (4/6)
+       vs Aminatou, the Fateshifter        (w:2 l:2 d:1), (6/6)
        vs Feldon, Ronom Excavator          (w:1 l:1 d:0), (2/2)
-       vs Shorikai, Genesis Engine         (w:2 l:4 d:1), (6/10)
+       vs Shorikai, Genesis Engine         (w:1 l:2 d:1), (4/6)
        vs Octavia, Living Thesis           (w:3 l:0 d:0), (6/2)
        vs Atraxa, Grand Unifier            (w:2 l:1 d:0), (4/2)
-       vs Grist, the Hunger Tide           (w:0 l:4 d:1), (4/9)
-       vs Drana, Liberator of Malakir      (w:1 l:0 d:0), (2/0)
-       vs Winota, Joiner of Forces         (w:1 l:4 d:0), (6/8)
-       vs Dihada, Binder of Wills          (w:1 l:4 d:0), (4/8)
-       vs Uro, Titan of Nature's Wrath     (w:8 l:6 d:3), (21/18)
-       vs Anafenza, the Foremost           (w:1 l:1 d:0), (2/3)
-       vs Laelia, the Blade Reforged       (w:1 l:3 d:0), (4/7)
-       vs Kinnan, Bonder Prodigy           (w:9 l:6 d:1), (21/20)
-       vs Talion, the Kindly Lord          (w:1 l:0 d:0), (2/1)
-       vs Marath, Will of the Wild         (w:3 l:0 d:2), (8/4)
        vs Anhelo, the Painter              (w:1 l:0 d:0), (2/0)
-       vs Oloro, Ageless Ascetic           (w:1 l:3 d:0), (3/6)
+       vs Oloro, Ageless Ascetic           (w:0 l:1 d:0), (1/2)
        vs Kytheon, Hero of Akros           (w:0 l:3 d:0), (2/6)
        vs Sidisi, Undead Vizier            (w:1 l:0 d:0), (2/0)
-       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:1), (3/1)
+       vs Grist, the Hunger Tide           (w:0 l:4 d:0), (3/8)
+       vs The Reality Chip                 (w:1 l:2 d:0), (2/4)
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
        vs Balmor, Battlemage Captain       (w:0 l:2 d:0), (2/4)
        vs Old Stickfingers                 (w:0 l:3 d:0), (3/6)
        vs Juri, Master of the Revue        (w:1 l:0 d:0), (2/1)
+       vs Kinnan, Bonder Prodigy           (w:4 l:0 d:0), (8/4)
        vs Slimefoot and Squee              (w:0 l:3 d:0), (2/6)
        vs Vial Smasher the Fierce          (w:3 l:0 d:0), (6/1)
-       vs Azusa, Lost but Seeking          (w:1 l:2 d:0), (3/5)
-       vs Golos, Tireless Pilgrim          (w:2 l:0 d:0), (4/1)
-       vs Hogaak, Arisen Necropolis        (w:0 l:3 d:0), (0/6)
-       vs Ghyrson Starn, Kelermorph        (w:4 l:3 d:0), (9/8)
+       vs Ghyrson Starn, Kelermorph        (w:1 l:2 d:0), (3/4)
+       vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (0/2)
        vs Sefris of the Hidden Ways        (w:1 l:0 d:0), (2/1)
        vs Galazeth Prismari                (w:0 l:1 d:0), (0/2)
        vs Akiri, Line-Slinger              (w:2 l:0 d:0), (4/2)
         + Silas Renn, Seeker Adept        
-       vs Karlov of the Ghost Council      (w:1 l:1 d:2), (4/4)
+       vs Karlov of the Ghost Council      (w:1 l:0 d:1), (3/1)
         + Lurrus of the Dream-Den         
-       vs Lord Windgrace                   (w:2 l:1 d:0), (5/3)
+       vs Lord Windgrace                   (w:1 l:1 d:0), (3/3)
+       vs Winota, Joiner of Forces         (w:0 l:4 d:0), (4/8)
        vs Saskia the Unyielding            (w:1 l:0 d:0), (2/1)
-       vs Arahbo, Roar of the World        (w:1 l:1 d:0), (2/2)
+       vs Arahbo, Roar of the World        (w:0 l:1 d:0), (0/2)
        vs Samwise Gamgee                   (w:2 l:0 d:0), (4/0)
        vs Indoraptor, the Perfect Hybrid   (w:2 l:0 d:0), (4/0)
+       vs Laelia, the Blade Reforged       (w:0 l:3 d:0), (2/6)
        vs Heliod, Sun-Crowned              (w:1 l:2 d:0), (4/4)
        vs Tasigur, the Golden Fang         (w:1 l:0 d:0), (2/0)
-       vs Tivit, Seller of Secrets         (w:1 l:2 d:0), (4/5)
-       vs Omnath, Locus of Creation        (w:4 l:0 d:1), (9/2)
-       vs The Reality Chip                 (w:1 l:3 d:0), (2/6)
-       vs Aragorn, King of Gondor          (w:1 l:0 d:0), (2/0)
-       vs Titania, Protector of Argoth     (w:1 l:0 d:0), (2/0)
-       vs Obyra, Dreaming Duelist          (w:2 l:0 d:0), (4/0)
-       vs Ratadrabik of Urborg             (w:1 l:0 d:0), (2/0)
-       vs Prossh, Skyraider of Kher        (w:0 l:1 d:0), (0/2)
-       vs Torens, Fist of the Angels       (w:1 l:1 d:0), (2/2)
+       vs Kroxa, Titan of Death's Hunger   (w:0 l:0 d:1), (1/1)
+       vs Tivit, Seller of Secrets         (w:0 l:2 d:0), (2/4)
+       vs Omnath, Locus of Creation        (w:2 l:0 d:1), (5/2)
        vs Jan Jansen, Chaos Crafter        (w:1 l:0 d:0), (2/0)
        vs Leovold, Emissary of Trest       (w:1 l:0 d:0), (2/1)
-       vs The Gitrog Monster               (w:1 l:1 d:0), (2/3)
-       vs Torbran, Thane of Red Fell       (w:1 l:0 d:0), (2/0)
-       vs Liesa, Shroud of Dusk            (w:3 l:0 d:0), (6/0)
-       vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (2/0)
-       vs Samut, Vizier of Naktamun        (w:1 l:1 d:0), (3/2)
-       vs Geist of Saint Traft             (w:0 l:1 d:1), (1/3)
-       vs Ruby, Daring Tracker             (w:1 l:0 d:0), (2/1)
-       vs General Ferrous Rokiric          (w:1 l:0 d:0), (2/0)
-       vs Pippin, Guard of the Citadel     (w:0 l:0 d:1), (1/1)
        vs Don Andres, the Renegade         (w:1 l:0 d:0), (2/0)
        vs Queen Marchesa                   (w:1 l:0 d:0), (2/1)
        vs Tymaret, the Murder King         (w:1 l:0 d:0), (2/0)
@@ -385,7 +307,7 @@ Asmoranomardicadaistinaculdacar  matches:204  WM: 50.00%  LM: 41.18%  DM:  8.82%
         + Ludevic, Necro-Alchemist        
        vs Esika, God of the Tree           (w:0 l:1 d:0), (0/2)
 
-Atraxa, Grand Unifier            matches:54   WM: 40.74%  LM: 42.59%  DM: 16.67% (wm:22  lm:23  dm:9)  games:121  WG: 50.41% LG: 48.76% (wg:  61 lg:  59) pick: 14  
+Atraxa, Grand Unifier            matches:51   WM: 43.14%  LM: 43.14%  DM: 13.73% (wm:22  lm:22  dm:7)  games:114  WG: 50.88% LG: 48.25% (wg:  58 lg:  55) pick: 13  
        vs Goro-Goro and Satoru             (w:1 l:0 d:0), (2/1)
        vs Karador, Ghost Chieftain         (w:1 l:0 d:0), (2/1)
        vs Raffine, Scheming Seer           (w:0 l:3 d:0), (2/6)
@@ -411,8 +333,6 @@ Atraxa, Grand Unifier            matches:54   WM: 40.74%  LM: 42.59%  DM: 16.67%
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
         + Jeska, Thrice Reborn            
        vs Thalia and The Gitrog Monster    (w:1 l:0 d:0), (2/1)
-       vs The Reality Chip                 (w:0 l:1 d:1), (2/3)
-       vs The Gitrog Monster               (w:0 l:0 d:1), (1/1)
        vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/1)
        vs Sheoldred, the Apocalypse        (w:0 l:1 d:0), (0/1)
        vs Elas il-Kor, Sadistic Pilgrim    (w:0 l:0 d:1), (1/1)
@@ -439,20 +359,7 @@ Atraxa, Praetors' Voice          matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00%
        vs The Beamtown Bullies             (w:0 l:1 d:0), (1/2)
        vs God-Eternal Kefnet               (w:1 l:0 d:0), (2/0)
 
-Azusa, Lost but Seeking          matches:16   WM: 50.00%  LM: 43.75%  DM:  6.25% (wm:8   lm:7   dm:1)  games:39   WG: 51.28% LG: 48.72% (wg:  20 lg:  19) pick: 3   
-       vs Tovolar, Dire Overlord           (w:1 l:0 d:0), (2/0)
-       vs Asmoranomardicadaistinaculdacar  (w:2 l:1 d:0), (5/3)
-       vs Geist of Saint Traft             (w:1 l:0 d:0), (2/1)
-       vs Shorikai, Genesis Engine         (w:0 l:0 d:1), (1/1)
-       vs Thalia and The Gitrog Monster    (w:1 l:0 d:0), (2/1)
-       vs Kellan, the Fae-Blooded          (w:1 l:0 d:0), (2/0)
-       vs Uro, Titan of Nature's Wrath     (w:0 l:3 d:0), (1/6)
-       vs Hogaak, Arisen Necropolis        (w:1 l:1 d:0), (2/3)
-       vs Tymaret, the Murder King         (w:1 l:0 d:0), (2/0)
-       vs Dihada, Binder of Wills          (w:0 l:1 d:0), (0/2)
-       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (1/2)
-
-Balmor, Battlemage Captain       matches:31   WM: 54.84%  LM: 38.71%  DM:  6.45% (wm:17  lm:12  dm:2)  games:76   WG: 55.26% LG: 43.42% (wg:  42 lg:  33) pick: 8   
+Balmor, Battlemage Captain       matches:27   WM: 62.96%  LM: 33.33%  DM:  3.70% (wm:17  lm:9   dm:1)  games:67   WG: 59.70% LG: 38.81% (wg:  40 lg:  26) pick: 7   
        vs Omnath, Locus of Creation        (w:3 l:1 d:0), (6/3)
        vs Hogaak, Arisen Necropolis        (w:1 l:1 d:0), (3/2)
        vs Ghyrson Starn, Kelermorph        (w:2 l:2 d:0), (5/5)
@@ -468,10 +375,6 @@ Balmor, Battlemage Captain       matches:31   WM: 54.84%  LM: 38.71%  DM:  6.45%
        vs Old Stickfingers                 (w:1 l:1 d:0), (3/3)
        vs Admiral Brass, Unsinkable        (w:1 l:0 d:0), (2/1)
        vs Shorikai, Genesis Engine         (w:0 l:0 d:1), (0/0)
-       vs Dihada, Binder of Wills          (w:0 l:1 d:0), (1/2)
-       vs The Gitrog Monster               (w:0 l:0 d:1), (1/1)
-       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
-       vs Queen Marchesa                   (w:0 l:1 d:0), (0/2)
 
 Baral and Kari Zev               matches:12   WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:4   lm:8   dm:0)  games:28   WG: 39.29% LG: 60.71% (wg:  11 lg:  17) pick: 4   
        vs Omnath, Locus of Creation        (w:0 l:1 d:0), (1/2)
@@ -485,14 +388,6 @@ Baral and Kari Zev               matches:12   WM: 33.33%  LM: 66.67%  DM:  0.00%
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
         + Tana, the Bloodsower            
        vs Old Stickfingers                 (w:1 l:0 d:0), (2/0)
-
-Beluna Grandsquall               matches:5    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:5   dm:0)  games:11   WG:  9.09% LG: 90.91% (wg:   1 lg:  10) pick: 1   
-       vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (0/2)
-       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (1/2)
-       vs Aragorn, King of Gondor          (w:0 l:1 d:0), (0/2)
-       vs Elas il-Kor, Sadistic Pilgrim    (w:0 l:1 d:0), (0/2)
-        + Lurrus of the Dream-Den         
-       vs Obyra, Dreaming Duelist          (w:0 l:1 d:0), (0/2)
 
 Bjorna, Nightfall Alchemist      matches:8    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:2   lm:6   dm:0)  games:20   WG: 35.00% LG: 65.00% (wg:   7 lg:  13) pick: 2   
   + Wernog, Rider's Chaplain    
@@ -511,12 +406,6 @@ Brago, King Eternal              matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00%
        vs Inalla, Archmage Ritualist       (w:0 l:1 d:0), (0/2)
        vs Indoraptor, the Perfect Hybrid   (w:0 l:1 d:0), (0/2)
 
-Chatterfang, Squirrel General    matches:5    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:5   dm:0)  games:12   WG: 16.67% LG: 83.33% (wg:   2 lg:  10) pick: 1   
-       vs Dihada, Binder of Wills          (w:0 l:1 d:0), (0/2)
-       vs Light-Paws, Emperor's Voice      (w:0 l:2 d:0), (0/4)
-       vs Drana, Liberator of Malakir      (w:0 l:1 d:0), (1/2)
-       vs Uro, Titan of Nature's Wrath     (w:0 l:1 d:0), (1/2)
-
 Circu, Dimir Lobotomist          matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:6    WG: 50.00% LG: 50.00% (wg:   3 lg:   3) pick: 1   
        vs God-Eternal Kefnet               (w:0 l:1 d:0), (1/2)
        vs Oloro, Ageless Ascetic           (w:0 l:1 d:0), (0/1)
@@ -527,42 +416,28 @@ Codie, Vociferous Codex          matches:3    WM: 33.33%  LM: 33.33%  DM: 33.33%
        vs Heliod, Sun-Crowned              (w:0 l:1 d:0), (0/2)
        vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/0)
 
-Daretti, Scrap Savant            matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 40.00% LG: 60.00% (wg:   4 lg:   6) pick: 1   
-       vs Uro, Titan of Nature's Wrath     (w:0 l:2 d:0), (0/4)
-       vs Tivit, Seller of Secrets         (w:2 l:0 d:0), (4/2)
-
-Dihada, Binder of Wills          matches:82   WM: 45.12%  LM: 47.56%  DM:  7.32% (wm:37  lm:39  dm:6)  games:192  WG: 47.40% LG: 52.60% (wg:  91 lg: 101) pick: 19  
-       vs Light-Paws, Emperor's Voice      (w:3 l:0 d:0), (6/1)
+Dihada, Binder of Wills          matches:53   WM: 47.17%  LM: 47.17%  DM:  5.66% (wm:25  lm:25  dm:3)  games:125  WG: 48.00% LG: 52.00% (wg:  60 lg:  65) pick: 14  
+       vs Light-Paws, Emperor's Voice      (w:2 l:0 d:0), (4/1)
        vs Aminatou, the Fateshifter        (w:0 l:4 d:0), (0/8)
-       vs Omnath, Locus of Creation        (w:3 l:4 d:1), (9/9)
-       vs Kytheon, Hero of Akros           (w:2 l:1 d:0), (4/4)
-       vs Chatterfang, Squirrel General    (w:1 l:0 d:0), (2/0)
-       vs Asmoranomardicadaistinaculdacar  (w:4 l:1 d:0), (8/4)
-       vs Anafenza, the Foremost           (w:1 l:0 d:0), (2/1)
-       vs Uro, Titan of Nature's Wrath     (w:0 l:4 d:1), (3/9)
-       vs Kinnan, Bonder Prodigy           (w:3 l:7 d:1), (9/17)
+       vs Omnath, Locus of Creation        (w:3 l:2 d:1), (9/5)
+       vs Kytheon, Hero of Akros           (w:1 l:1 d:0), (2/3)
        vs Karlov of the Ghost Council      (w:2 l:0 d:0), (4/0)
         + Lurrus of the Dream-Den         
        vs Ghyrson Starn, Kelermorph        (w:1 l:0 d:0), (2/1)
-       vs Slimefoot and Squee              (w:2 l:4 d:0), (6/10)
+       vs Slimefoot and Squee              (w:3 l:5 d:0), (8/13)
+       vs The Reality Chip                 (w:2 l:1 d:0), (5/3)
+       vs Kinnan, Bonder Prodigy           (w:3 l:2 d:0), (7/6)
        vs Wilhelt, the Rotcleaver          (w:1 l:0 d:0), (2/0)
        vs Niv-Mizzet, Parun                (w:0 l:1 d:0), (0/2)
        vs Prosper, Tome-Bound              (w:0 l:1 d:0), (0/2)
        vs Edric, Spymaster of Trest        (w:0 l:0 d:1), (1/1)
        vs Ertai Resurrected                (w:0 l:2 d:0), (0/4)
        vs Geist of Saint Traft             (w:0 l:2 d:1), (2/5)
-       vs Oloro, Ageless Ascetic           (w:1 l:1 d:0), (2/2)
-       vs Aragorn, King of Gondor          (w:0 l:2 d:0), (0/4)
-       vs Balmor, Battlemage Captain       (w:1 l:0 d:0), (2/1)
-       vs Hogaak, Arisen Necropolis        (w:1 l:0 d:1), (3/2)
-       vs Azusa, Lost but Seeking          (w:1 l:0 d:0), (2/0)
-       vs Golos, Tireless Pilgrim          (w:1 l:1 d:0), (2/2)
        vs Ludevic, Necro-Alchemist         (w:1 l:0 d:0), (2/0)
-       vs The Reality Chip                 (w:1 l:1 d:0), (3/2)
-       vs Ruby, Daring Tracker             (w:1 l:0 d:0), (2/0)
-       vs Arahbo, Roar of the World        (w:1 l:0 d:0), (2/1)
        vs Vial Smasher the Fierce          (w:0 l:1 d:0), (0/2)
+       vs Oloro, Ageless Ascetic           (w:1 l:0 d:0), (1/0)
        vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/1)
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
        vs Yoshimaru, Ever Faithful         (w:2 l:0 d:0), (4/0)
         + Tana, the Bloodsower            
        vs The Beamtown Bullies             (w:1 l:0 d:0), (2/1)
@@ -585,24 +460,15 @@ Dragonlord Ojutai                matches:8    WM: 37.50%  LM: 37.50%  DM: 25.00%
         + Merry, Warden of Isengard       
        vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
 
-Drana, Liberator of Malakir      matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:13   WG: 46.15% LG: 53.85% (wg:   6 lg:   7) pick: 1   
-       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
-       vs Arcades, the Strategist          (w:0 l:1 d:0), (1/2)
-       vs Chatterfang, Squirrel General    (w:1 l:0 d:0), (2/1)
-       vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
-       vs Light-Paws, Emperor's Voice      (w:0 l:1 d:0), (1/2)
-
 Edric, Spymaster of Trest        matches:3    WM: 33.33%  LM: 33.33%  DM: 33.33% (wm:1   lm:1   dm:1)  games:7    WG: 42.86% LG: 57.14% (wg:   3 lg:   4) pick: 1   
        vs Kess, Dissident Mage             (w:1 l:0 d:0), (2/1)
        vs Saskia the Unyielding            (w:0 l:1 d:0), (0/2)
        vs Dihada, Binder of Wills          (w:0 l:0 d:1), (1/1)
 
-Elas il-Kor, Sadistic Pilgrim    matches:16   WM: 37.50%  LM: 62.50%  DM:  0.00% (wm:6   lm:10  dm:0)  games:39   WG: 38.46% LG: 61.54% (wg:  15 lg:  24) pick: 5   
+Elas il-Kor, Sadistic Pilgrim    matches:14   WM: 42.86%  LM: 57.14%  DM:  0.00% (wm:6   lm:8   dm:0)  games:35   WG: 42.86% LG: 57.14% (wg:  15 lg:  20) pick: 4   
        vs Ertai Resurrected                (w:0 l:1 d:0), (0/2)
        vs Inalla, Archmage Ritualist       (w:0 l:1 d:0), (0/2)
        vs Talrand, Sky Summoner            (w:0 l:1 d:0), (1/2)
-       vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (0/2)
-       vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (0/2)
        vs The Reality Chip                 (w:1 l:0 d:0), (2/1)
        vs Karlov of the Ghost Council      (w:0 l:1 d:0), (1/2)
         + Lurrus of the Dream-Den         
@@ -617,27 +483,16 @@ Elas il-Kor, Sadistic Pilgrim    matches:16   WM: 37.50%  LM: 62.50%  DM:  0.00%
        vs Niv-Mizzet Reborn                (w:0 l:1 d:0), (0/2)
        vs Karlov of the Ghost Council      (w:0 l:1 d:0), (1/2)
 
-Elas il-Kor, Sadistic Pilgrim    matches:9    WM: 33.33%  LM: 44.44%  DM: 22.22% (wm:3   lm:4   dm:2)  games:20   WG: 45.00% LG: 55.00% (wg:   9 lg:  11) pick: 2   
+Elas il-Kor, Sadistic Pilgrim    matches:3    WM:  0.00%  LM: 33.33%  DM: 66.67% (wm:0   lm:1   dm:2)  games:6    WG: 33.33% LG: 66.67% (wg:   2 lg:   4) pick: 1   
   + Lurrus of the Dream-Den     
-       vs Hogaak, Arisen Necropolis        (w:1 l:1 d:0), (2/3)
-       vs Uro, Titan of Nature's Wrath     (w:1 l:1 d:0), (2/2)
-       vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (1/2)
-       vs Beluna Grandsquall               (w:1 l:0 d:0), (2/0)
        vs Sheoldred, the Apocalypse        (w:0 l:1 d:0), (0/2)
        vs Éowyn, Shieldmaiden              (w:0 l:0 d:1), (1/1)
        vs Atraxa, Grand Unifier            (w:0 l:0 d:1), (1/1)
 
-Elminster                        matches:20   WM: 60.00%  LM: 35.00%  DM:  5.00% (wm:12  lm:7   dm:1)  games:46   WG: 60.87% LG: 39.13% (wg:  28 lg:  18) pick: 5   
-       vs Ghyrson Starn, Kelermorph        (w:2 l:0 d:0), (4/2)
-       vs Uro, Titan of Nature's Wrath     (w:1 l:0 d:0), (2/0)
-       vs The Reality Chip                 (w:1 l:0 d:0), (2/0)
-       vs Geist of Saint Traft             (w:0 l:2 d:0), (0/4)
-       vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/0)
-       vs Abomination of Llanowar          (w:1 l:0 d:0), (2/0)
-       vs Aesi, Tyrant of Gyre Strait      (w:1 l:0 d:0), (2/0)
-       vs Flamewar, Brash Veteran          (w:1 l:0 d:0), (2/0)
+Elminster                        matches:12   WM: 41.67%  LM: 50.00%  DM:  8.33% (wm:5   lm:6   dm:1)  games:29   WG: 48.28% LG: 51.72% (wg:  14 lg:  15) pick: 3   
        vs Asmoranomardicadaistinaculdacar  (w:0 l:0 d:1), (1/1)
        vs Indoraptor, the Perfect Hybrid   (w:0 l:1 d:0), (1/2)
+       vs Ghyrson Starn, Kelermorph        (w:1 l:0 d:0), (2/1)
        vs Feldon, Ronom Excavator          (w:1 l:0 d:0), (2/0)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
         + Tana, the Bloodsower            
@@ -647,6 +502,7 @@ Elminster                        matches:20   WM: 60.00%  LM: 35.00%  DM:  5.00%
        vs Shorikai, Genesis Engine         (w:1 l:0 d:0), (2/0)
        vs Saskia the Unyielding            (w:1 l:0 d:0), (2/1)
        vs Kari Zev, Skyship Raider         (w:1 l:0 d:0), (2/0)
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
 
 Erayo, Soratami Ascendant        matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:11   WG: 27.27% LG: 72.73% (wg:   3 lg:   8) pick: 1   
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
@@ -657,17 +513,22 @@ Erayo, Soratami Ascendant        matches:4    WM:  0.00%  LM:100.00%  DM:  0.00%
         + Ludevic, Necro-Alchemist        
        vs The Beamtown Bullies             (w:0 l:1 d:0), (1/2)
 
+Eriette of the Charmed Apple     matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:9    WG: 33.33% LG: 66.67% (wg:   3 lg:   6) pick: 1   
+       vs Vial Smasher the Fierce          (w:0 l:1 d:0), (1/2)
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
+       vs Sisay, Weatherlight Captain      (w:0 l:1 d:0), (0/2)
+        + Jegantha, the Wellspring        
+       vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/0)
+
 Errant and Giada                 matches:2    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:2   dm:0)  games:4    WG:  0.00% LG:100.00% (wg:   0 lg:   4) pick: 1   
        vs Light-Paws, Emperor's Voice      (w:0 l:1 d:0), (0/2)
        vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (0/2)
 
-Ertai Resurrected                matches:27   WM: 48.15%  LM: 48.15%  DM:  3.70% (wm:13  lm:13  dm:1)  games:63   WG: 52.38% LG: 47.62% (wg:  33 lg:  30) pick: 7   
+Ertai Resurrected                matches:24   WM: 50.00%  LM: 45.83%  DM:  4.17% (wm:12  lm:11  dm:1)  games:56   WG: 55.36% LG: 44.64% (wg:  31 lg:  25) pick: 6   
        vs Elas il-Kor, Sadistic Pilgrim    (w:1 l:0 d:0), (2/0)
        vs The Reality Chip                 (w:1 l:1 d:0), (3/2)
        vs Slimefoot and Squee              (w:1 l:1 d:1), (4/3)
-       vs Ghyrson Starn, Kelermorph        (w:1 l:1 d:0), (2/3)
-       vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (0/2)
-       vs Uro, Titan of Nature's Wrath     (w:0 l:1 d:0), (0/2)
+       vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (0/2)
        vs Aragorn, King of Gondor          (w:0 l:1 d:0), (1/2)
        vs Omnath, Locus of Creation        (w:0 l:2 d:0), (0/4)
        vs Kinnan, Bonder Prodigy           (w:1 l:0 d:0), (2/0)
@@ -685,13 +546,15 @@ Ertai Resurrected                matches:27   WM: 48.15%  LM: 48.15%  DM:  3.70%
        vs Narset, Enlightened Master       (w:1 l:0 d:0), (2/0)
        vs Gix, Yawgmoth Praetor            (w:1 l:0 d:0), (2/1)
 
-Esika, God of the Tree           matches:9    WM: 44.44%  LM: 55.56%  DM:  0.00% (wm:4   lm:5   dm:0)  games:18   WG: 38.89% LG: 61.11% (wg:   7 lg:  11) pick: 3   
+Esika, God of the Tree           matches:12   WM: 58.33%  LM: 41.67%  DM:  0.00% (wm:7   lm:5   dm:0)  games:24   WG: 54.17% LG: 45.83% (wg:  13 lg:  11) pick: 4   
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
        vs Omnath, Locus of Creation        (w:1 l:1 d:0), (2/2)
        vs Aragorn, King of Gondor          (w:0 l:1 d:0), (0/2)
+       vs Rin and Seri, Inseparable        (w:1 l:0 d:0), (2/0)
+       vs Heliod, Sun-Crowned              (w:2 l:0 d:0), (4/1)
+       vs Kess, Dissident Mage             (w:1 l:0 d:0), (2/0)
        vs Oloro, Ageless Ascetic           (w:1 l:0 d:0), (1/0)
        vs Winota, Joiner of Forces         (w:0 l:1 d:0), (0/2)
-       vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/1)
        vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (0/2)
        vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/0)
 
@@ -724,7 +587,7 @@ Feldon, Ronom Excavator          matches:39   WM: 53.85%  LM: 46.15%  DM:  0.00%
        vs Elminster                        (w:0 l:1 d:0), (0/2)
        vs Esika, God of the Tree           (w:1 l:0 d:0), (2/0)
 
-Flamewar, Brash Veteran          matches:14   WM: 28.57%  LM: 64.29%  DM:  7.14% (wm:4   lm:9   dm:1)  games:32   WG: 34.38% LG: 65.62% (wg:  11 lg:  21) pick: 4   
+Flamewar, Brash Veteran          matches:11   WM: 36.36%  LM: 63.64%  DM:  0.00% (wm:4   lm:7   dm:0)  games:26   WG: 38.46% LG: 61.54% (wg:  10 lg:  16) pick: 3   
        vs Kari Zev, Skyship Raider         (w:1 l:1 d:0), (2/2)
        vs Saskia the Unyielding            (w:0 l:1 d:0), (0/2)
        vs Kess, Dissident Mage             (w:1 l:0 d:0), (2/1)
@@ -732,9 +595,7 @@ Flamewar, Brash Veteran          matches:14   WM: 28.57%  LM: 64.29%  DM:  7.14%
        vs Laelia, the Blade Reforged       (w:0 l:1 d:0), (0/2)
        vs Galazeth Prismari                (w:0 l:1 d:0), (1/2)
        vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (2/1)
-       vs Abomination of Llanowar          (w:1 l:0 d:1), (3/1)
-       vs Aesi, Tyrant of Gyre Strait      (w:0 l:1 d:0), (0/2)
-       vs Elminster                        (w:0 l:1 d:0), (0/2)
+       vs Abomination of Llanowar          (w:1 l:0 d:0), (2/0)
        vs Light-Paws, Emperor's Voice      (w:0 l:1 d:0), (0/2)
        vs Omnath, Locus of Creation        (w:0 l:1 d:0), (1/2)
 
@@ -756,74 +617,56 @@ Galazeth Prismari                matches:11   WM: 45.45%  LM: 54.55%  DM:  0.00%
        vs Flamewar, Brash Veteran          (w:1 l:0 d:0), (2/1)
        vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (2/1)
 
-Geist of Saint Traft             matches:70   WM: 61.43%  LM: 28.57%  DM: 10.00% (wm:43  lm:20  dm:7)  games:169  WG: 59.17% LG: 40.83% (wg: 100 lg:  69) pick: 19  
-       vs Shorikai, Genesis Engine         (w:1 l:1 d:0), (3/3)
+Geist of Saint Traft             matches:50   WM: 62.00%  LM: 26.00%  DM: 12.00% (wm:31  lm:13  dm:6)  games:119  WG: 59.66% LG: 40.34% (wg:  71 lg:  48) pick: 14  
+       vs Shorikai, Genesis Engine         (w:1 l:0 d:0), (2/1)
        vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/1)
        vs Feldon, Ronom Excavator          (w:1 l:0 d:0), (2/0)
-       vs Uro, Titan of Nature's Wrath     (w:0 l:1 d:0), (0/2)
-       vs Light-Paws, Emperor's Voice      (w:5 l:1 d:0), (10/4)
-       vs Marath, Will of the Wild         (w:0 l:1 d:0), (0/2)
-       vs Drana, Liberator of Malakir      (w:0 l:1 d:0), (0/2)
-       vs Leovold, Emissary of Trest       (w:2 l:0 d:0), (4/0)
        vs Ghyrson Starn, Kelermorph        (w:0 l:2 d:0), (0/4)
-       vs Slimefoot and Squee              (w:1 l:0 d:0), (2/1)
+       vs Slimefoot and Squee              (w:1 l:1 d:0), (2/3)
        vs Kytheon, Hero of Akros           (w:1 l:0 d:0), (2/1)
-       vs Aragorn, King of Gondor          (w:1 l:0 d:0), (2/1)
-       vs Hogaak, Arisen Necropolis        (w:1 l:1 d:0), (2/3)
-       vs Azusa, Lost but Seeking          (w:0 l:1 d:0), (1/2)
-       vs Aminatou, the Fateshifter        (w:0 l:0 d:2), (2/2)
-       vs Omnath, Locus of Creation        (w:2 l:3 d:0), (5/8)
+       vs Golos, Tireless Pilgrim          (w:2 l:2 d:0), (5/4)
+       vs Aminatou, the Fateshifter        (w:0 l:0 d:3), (3/3)
+       vs Omnath, Locus of Creation        (w:1 l:3 d:0), (3/7)
        vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/1)
-       vs Golos, Tireless Pilgrim          (w:2 l:1 d:0), (5/2)
        vs Dihada, Binder of Wills          (w:2 l:0 d:1), (5/2)
        vs Ertai Resurrected                (w:0 l:1 d:0), (1/2)
-       vs Arahbo, Roar of the World        (w:1 l:1 d:0), (3/3)
-       vs Karlov of the Ghost Council      (w:0 l:1 d:1), (1/2)
-        + Lurrus of the Dream-Den         
-       vs Kinnan, Bonder Prodigy           (w:2 l:2 d:1), (6/6)
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
+       vs Kinnan, Bonder Prodigy           (w:1 l:1 d:0), (2/3)
        vs Winota, Joiner of Forces         (w:3 l:0 d:0), (6/1)
        vs Raffine, Scheming Seer           (w:1 l:0 d:0), (2/0)
+       vs Hogaak, Arisen Necropolis        (w:1 l:0 d:0), (2/1)
        vs The Reality Chip                 (w:2 l:0 d:1), (5/2)
        vs Selvala, Explorer Returned       (w:1 l:0 d:0), (2/1)
-       vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:1), (3/1)
-       vs Elminster                        (w:2 l:0 d:0), (4/0)
        vs Éowyn, Shieldmaiden              (w:1 l:0 d:0), (2/1)
        vs Sheoldred, the Apocalypse        (w:0 l:1 d:0), (0/2)
-       vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (2/1)
-       vs Oloro, Ageless Ascetic           (w:1 l:0 d:0), (2/1)
+       vs Karlov of the Ghost Council      (w:0 l:0 d:1), (1/1)
+        + Lurrus of the Dream-Den         
+       vs Light-Paws, Emperor's Voice      (w:2 l:1 d:0), (4/2)
        vs Rocco, Cabaretti Caterer         (w:1 l:0 d:0), (2/1)
        vs Kari Zev, Skyship Raider         (w:3 l:0 d:0), (6/1)
        vs Elas il-Kor, Sadistic Pilgrim    (w:1 l:0 d:0), (2/0)
+       vs Leovold, Emissary of Trest       (w:1 l:0 d:0), (2/0)
        vs Magda, Brazen Outlaw             (w:0 l:1 d:0), (0/2)
+       vs Elminster                        (w:1 l:0 d:0), (2/0)
 
-General Ferrous Rokiric          matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 44.44% LG: 55.56% (wg:   4 lg:   5) pick: 1   
-       vs Uro, Titan of Nature's Wrath     (w:1 l:1 d:0), (2/3)
-       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
-       vs Pippin, Guard of the Citadel     (w:1 l:0 d:0), (2/0)
-
-Ghyrson Starn, Kelermorph        matches:103  WM: 53.40%  LM: 43.69%  DM:  2.91% (wm:55  lm:45  dm:3)  games:247  WG: 52.63% LG: 46.96% (wg: 130 lg: 116) pick: 27  
+Ghyrson Starn, Kelermorph        matches:72   WM: 58.33%  LM: 37.50%  DM:  4.17% (wm:42  lm:27  dm:3)  games:171  WG: 56.14% LG: 43.27% (wg:  96 lg:  74) pick: 20  
        vs Kinnan, Bonder Prodigy           (w:5 l:2 d:0), (12/6)
        vs Aminatou, the Fateshifter        (w:3 l:0 d:1), (7/3)
        vs Kytheon, Hero of Akros           (w:4 l:3 d:1), (9/10)
        vs Golos, Tireless Pilgrim          (w:5 l:1 d:0), (10/3)
        vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (0/2)
        vs Balmor, Battlemage Captain       (w:2 l:2 d:0), (5/5)
-       vs Omnath, Locus of Creation        (w:3 l:3 d:0), (7/9)
+       vs Omnath, Locus of Creation        (w:3 l:2 d:0), (7/7)
        vs Talrand, Sky Summoner            (w:1 l:0 d:0), (2/0)
        vs Dihada, Binder of Wills          (w:0 l:1 d:0), (1/2)
-       vs Ertai Resurrected                (w:1 l:1 d:0), (3/2)
-       vs Elas il-Kor, Sadistic Pilgrim    (w:1 l:0 d:0), (2/0)
-       vs The Reality Chip                 (w:2 l:2 d:0), (5/6)
+       vs Ertai Resurrected                (w:1 l:0 d:0), (2/0)
        vs Geist of Saint Traft             (w:2 l:0 d:0), (4/0)
        vs Light-Paws, Emperor's Voice      (w:2 l:0 d:0), (4/0)
        vs Slimefoot and Squee              (w:0 l:3 d:0), (1/6)
        vs Tasigur, the Golden Fang         (w:0 l:1 d:0), (0/2)
-       vs Aragorn, King of Gondor          (w:3 l:1 d:0), (6/4)
-       vs Uro, Titan of Nature's Wrath     (w:2 l:4 d:0), (5/10)
-       vs Asmoranomardicadaistinaculdacar  (w:3 l:4 d:0), (8/9)
+       vs Asmoranomardicadaistinaculdacar  (w:2 l:1 d:0), (4/3)
        vs Hogaak, Arisen Necropolis        (w:0 l:2 d:0), (1/4)
-       vs Shorikai, Genesis Engine         (w:1 l:1 d:1), (2/3)
+       vs Shorikai, Genesis Engine         (w:0 l:1 d:1), (0/2)
        vs Kari Zev, Skyship Raider         (w:2 l:0 d:0), (4/2)
        vs Lord Windgrace                   (w:0 l:1 d:0), (1/2)
        vs Winota, Joiner of Forces         (w:1 l:1 d:0), (2/2)
@@ -831,24 +674,17 @@ Ghyrson Starn, Kelermorph        matches:103  WM: 53.40%  LM: 43.69%  DM:  2.91%
        vs Yoshimaru, Ever Faithful         (w:1 l:1 d:0), (3/2)
         + Tana, the Bloodsower            
        vs Saffi Eriksdotter                (w:1 l:0 d:0), (2/1)
+       vs Aragorn, King of Gondor          (w:1 l:0 d:0), (2/0)
        vs Octavia, Living Thesis           (w:1 l:0 d:0), (2/0)
        vs Vial Smasher the Fierce          (w:0 l:1 d:0), (0/2)
-       vs Beluna Grandsquall               (w:1 l:0 d:0), (2/0)
-       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/0)
-       vs Ruby, Daring Tracker             (w:1 l:1 d:0), (3/2)
-       vs Thalia and The Gitrog Monster    (w:1 l:0 d:0), (2/0)
-       vs Kess, Dissident Mage             (w:0 l:1 d:0), (0/2)
+       vs The Reality Chip                 (w:1 l:0 d:0), (2/1)
        vs Admiral Brass, Unsinkable        (w:1 l:0 d:0), (2/0)
        vs Anhelo, the Painter              (w:1 l:0 d:0), (2/0)
-       vs Tivit, Seller of Secrets         (w:0 l:1 d:0), (0/2)
-       vs Melira, the Living Cure          (w:1 l:0 d:0), (2/0)
-       vs Elminster                        (w:0 l:2 d:0), (2/4)
-       vs Laelia, the Blade Reforged       (w:0 l:1 d:0), (1/2)
-       vs Sythis, Harvest's Hand           (w:0 l:1 d:0), (0/2)
        vs Bjorna, Nightfall Alchemist      (w:1 l:0 d:0), (2/0)
         + Wernog, Rider's Chaplain        
         + Lurrus of the Dream-Den         
        vs Keranos, God of Storms           (w:1 l:0 d:0), (2/1)
+       vs Elminster                        (w:0 l:1 d:0), (1/2)
        vs Indoraptor, the Perfect Hybrid   (w:0 l:1 d:0), (0/2)
 
 Gix, Yawgmoth Praetor            matches:15   WM: 60.00%  LM: 40.00%  DM:  0.00% (wm:9   lm:6   dm:0)  games:38   WG: 55.26% LG: 44.74% (wg:  21 lg:  17) pick: 3   
@@ -885,45 +721,41 @@ God-Eternal Kefnet               matches:15   WM: 33.33%  LM: 60.00%  DM:  6.67%
         + Ludevic, Necro-Alchemist        
        vs Atraxa, Praetors' Voice          (w:0 l:1 d:0), (0/2)
 
-Golos, Tireless Pilgrim          matches:83   WM: 54.22%  LM: 40.96%  DM:  4.82% (wm:45  lm:34  dm:4)  games:192  WG: 56.25% LG: 43.75% (wg: 108 lg:  84) pick: 20  
+Golos, Tireless Pilgrim          matches:68   WM: 55.88%  LM: 36.76%  DM:  7.35% (wm:38  lm:25  dm:5)  games:156  WG: 60.26% LG: 39.74% (wg:  94 lg:  62) pick: 18  
        vs Kytheon, Hero of Akros           (w:1 l:0 d:0), (2/1)
-       vs The Reality Chip                 (w:3 l:3 d:1), (8/8)
-       vs Aminatou, the Fateshifter        (w:1 l:0 d:2), (4/2)
+       vs The Reality Chip                 (w:3 l:2 d:1), (8/6)
+       vs Aminatou, the Fateshifter        (w:2 l:0 d:3), (7/3)
        vs Ghyrson Starn, Kelermorph        (w:1 l:5 d:0), (3/10)
-       vs Kinnan, Bonder Prodigy           (w:1 l:5 d:0), (4/10)
+       vs Marath, Will of the Wild         (w:0 l:1 d:0), (1/2)
+       vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/0)
+       vs Sisay, Weatherlight Captain      (w:1 l:0 d:0), (2/0)
+        + Jegantha, the Wellspring        
+       vs Geist of Saint Traft             (w:2 l:2 d:0), (4/5)
+       vs Eriette of the Charmed Apple     (w:1 l:0 d:0), (2/0)
+       vs Slimefoot and Squee              (w:2 l:3 d:0), (5/6)
+       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/0)
+       vs Kinnan, Bonder Prodigy           (w:1 l:4 d:0), (4/8)
        vs Liesa, Shroud of Dusk            (w:1 l:0 d:0), (2/0)
        vs Ertai Resurrected                (w:0 l:1 d:0), (0/2)
-       vs Shorikai, Genesis Engine         (w:1 l:1 d:0), (2/2)
-       vs Tovolar, Dire Overlord           (w:1 l:0 d:0), (2/0)
-       vs Asmoranomardicadaistinaculdacar  (w:0 l:2 d:0), (1/4)
-       vs Slimefoot and Squee              (w:2 l:2 d:0), (5/4)
-       vs Aragorn, King of Gondor          (w:3 l:0 d:0), (6/0)
+       vs Aragorn, King of Gondor          (w:1 l:0 d:0), (2/0)
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
         + Tana, the Bloodsower            
-       vs Hogaak, Arisen Necropolis        (w:3 l:1 d:0), (6/4)
+       vs Hogaak, Arisen Necropolis        (w:1 l:0 d:0), (2/0)
        vs Karlov of the Ghost Council      (w:4 l:1 d:0), (9/2)
         + Lurrus of the Dream-Den         
        vs Akiri, Line-Slinger              (w:1 l:0 d:0), (2/0)
         + Silas Renn, Seeker Adept        
        vs Saffi Eriksdotter                (w:1 l:0 d:0), (2/0)
        vs Inalla, Archmage Ritualist       (w:1 l:0 d:0), (2/1)
-       vs Geist of Saint Traft             (w:1 l:2 d:0), (2/5)
        vs Kari Zev, Skyship Raider         (w:2 l:0 d:0), (4/0)
        vs Winota, Joiner of Forces         (w:0 l:2 d:0), (2/4)
        vs Feldon, Ronom Excavator          (w:0 l:2 d:0), (2/4)
-       vs Omnath, Locus of Creation        (w:3 l:1 d:0), (6/3)
+       vs Omnath, Locus of Creation        (w:3 l:0 d:0), (6/1)
        vs Vial Smasher the Fierce          (w:1 l:2 d:0), (4/4)
-       vs Uro, Titan of Nature's Wrath     (w:2 l:2 d:0), (5/5)
-       vs Beluna Grandsquall               (w:1 l:0 d:0), (2/1)
-       vs Kellan, the Fae-Blooded          (w:1 l:0 d:0), (2/0)
-       vs Balmor, Battlemage Captain       (w:1 l:0 d:0), (2/0)
-       vs Lord Windgrace                   (w:1 l:0 d:0), (2/0)
-       vs Melira, the Living Cure          (w:1 l:0 d:0), (2/1)
-       vs Dihada, Binder of Wills          (w:1 l:1 d:0), (2/2)
        vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/0)
        vs Oloro, Ageless Ascetic           (w:1 l:0 d:1), (3/2)
+       vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/0)
        vs Aesi, Tyrant of Gyre Strait      (w:1 l:0 d:0), (2/0)
-       vs Tivit, Seller of Secrets         (w:0 l:1 d:0), (0/2)
        vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/0)
 
 Goro-Goro and Satoru             matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:9    WG: 11.11% LG: 88.89% (wg:   1 lg:   8) pick: 1   
@@ -932,20 +764,19 @@ Goro-Goro and Satoru             matches:4    WM:  0.00%  LM:100.00%  DM:  0.00%
        vs Raffine, Scheming Seer           (w:0 l:1 d:0), (0/2)
        vs Karador, Ghost Chieftain         (w:0 l:1 d:0), (0/2)
 
-Grist, the Hunger Tide           matches:36   WM: 44.44%  LM: 50.00%  DM:  5.56% (wm:16  lm:18  dm:2)  games:90   WG: 47.78% LG: 52.22% (wg:  43 lg:  47) pick: 10  
+Grist, the Hunger Tide           matches:31   WM: 45.16%  LM: 51.61%  DM:  3.23% (wm:14  lm:16  dm:1)  games:77   WG: 48.05% LG: 51.95% (wg:  37 lg:  40) pick: 9   
        vs Atraxa, Grand Unifier            (w:1 l:0 d:0), (2/0)
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (1/2)
-       vs Shorikai, Genesis Engine         (w:1 l:1 d:0), (3/3)
-       vs Asmoranomardicadaistinaculdacar  (w:4 l:0 d:1), (9/4)
-       vs Winota, Joiner of Forces         (w:0 l:4 d:0), (1/8)
-       vs Laelia, the Blade Reforged       (w:0 l:3 d:0), (2/6)
-       vs Talion, the Kindly Lord          (w:1 l:0 d:0), (2/1)
+       vs Shorikai, Genesis Engine         (w:0 l:1 d:0), (1/2)
        vs Sidisi, Undead Vizier            (w:1 l:0 d:0), (2/0)
        vs Light-Paws, Emperor's Voice      (w:2 l:0 d:0), (4/1)
+       vs Asmoranomardicadaistinaculdacar  (w:4 l:0 d:0), (8/3)
        vs Kess, Dissident Mage             (w:0 l:0 d:1), (1/1)
        vs Slimefoot and Squee              (w:0 l:2 d:0), (0/4)
+       vs Laelia, the Blade Reforged       (w:0 l:2 d:0), (1/4)
        vs The Reality Chip                 (w:0 l:1 d:0), (0/2)
        vs Feldon, Ronom Excavator          (w:0 l:3 d:0), (3/6)
+       vs Winota, Joiner of Forces         (w:0 l:3 d:0), (1/6)
        vs Trelasarra, Moon Dancer          (w:1 l:0 d:0), (2/0)
        vs Jan Jansen, Chaos Crafter        (w:1 l:0 d:0), (2/1)
        vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/1)
@@ -985,13 +816,13 @@ Hakbal of the Surging Soul       matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00%
        vs Elminster                        (w:1 l:0 d:0), (2/0)
        vs Gix, Yawgmoth Praetor            (w:0 l:1 d:0), (0/2)
 
-Heliod, Sun-Crowned              matches:44   WM: 29.55%  LM: 70.45%  DM:  0.00% (wm:13  lm:31  dm:0)  games:108  WG: 35.19% LG: 64.81% (wg:  38 lg:  70) pick: 14  
+Heliod, Sun-Crowned              matches:47   WM: 29.79%  LM: 70.21%  DM:  0.00% (wm:14  lm:33  dm:0)  games:113  WG: 34.51% LG: 65.49% (wg:  39 lg:  74) pick: 15  
        vs Arahbo, Roar of the World        (w:1 l:1 d:0), (2/3)
        vs Geist of Saint Traft             (w:0 l:1 d:0), (1/2)
        vs Aminatou, the Fateshifter        (w:0 l:2 d:0), (0/3)
        vs Light-Paws, Emperor's Voice      (w:1 l:3 d:0), (2/6)
        vs Codie, Vociferous Codex          (w:1 l:0 d:0), (2/0)
-       vs Winota, Joiner of Forces         (w:1 l:3 d:0), (2/7)
+       vs Winota, Joiner of Forces         (w:1 l:4 d:0), (2/9)
        vs Laelia, the Blade Reforged       (w:0 l:3 d:0), (3/6)
        vs Indoraptor, the Perfect Hybrid   (w:1 l:3 d:0), (3/7)
        vs Asmoranomardicadaistinaculdacar  (w:2 l:1 d:0), (4/4)
@@ -1005,10 +836,11 @@ Heliod, Sun-Crowned              matches:44   WM: 29.55%  LM: 70.45%  DM:  0.00%
        vs Feldon, Ronom Excavator          (w:1 l:1 d:0), (3/3)
        vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
        vs Dihada, Binder of Wills          (w:0 l:1 d:0), (1/2)
+       vs Saskia the Unyielding            (w:1 l:0 d:0), (1/0)
+       vs Esika, God of the Tree           (w:0 l:2 d:0), (1/4)
        vs Radha, Heart of Keld             (w:0 l:1 d:0), (1/2)
        vs Inalla, Archmage Ritualist       (w:0 l:1 d:0), (0/2)
        vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/0)
-       vs Esika, God of the Tree           (w:0 l:1 d:0), (1/2)
        vs Lord Windgrace                   (w:1 l:0 d:0), (2/0)
 
 Hidetsugu and Kairi              matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:7    WG: 42.86% LG: 57.14% (wg:   3 lg:   4) pick: 1   
@@ -1016,40 +848,28 @@ Hidetsugu and Kairi              matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00%
        vs Shorikai, Genesis Engine         (w:0 l:1 d:0), (0/2)
        vs Sidar Jabari of Zhalfir          (w:1 l:0 d:0), (2/0)
 
-Hogaak, Arisen Necropolis        matches:75   WM: 60.00%  LM: 37.33%  DM:  2.67% (wm:45  lm:28  dm:2)  games:181  WG: 60.77% LG: 38.67% (wg: 110 lg:  70) pick: 18  
+Hogaak, Arisen Necropolis        matches:41   WM: 65.85%  LM: 31.71%  DM:  2.44% (wm:27  lm:13  dm:1)  games:98   WG: 63.27% LG: 35.71% (wg:  62 lg:  35) pick: 11  
        vs Balmor, Battlemage Captain       (w:1 l:1 d:0), (2/3)
        vs Anhelo, the Painter              (w:1 l:0 d:0), (2/0)
-       vs Shorikai, Genesis Engine         (w:3 l:1 d:0), (7/4)
+       vs Shorikai, Genesis Engine         (w:2 l:1 d:0), (5/3)
        vs Old Stickfingers                 (w:1 l:1 d:1), (3/3)
        vs Kytheon, Hero of Akros           (w:1 l:2 d:0), (3/4)
        vs Feldon, Ronom Excavator          (w:1 l:0 d:0), (2/0)
-       vs Kinnan, Bonder Prodigy           (w:3 l:4 d:0), (7/8)
+       vs Kinnan, Bonder Prodigy           (w:3 l:1 d:0), (6/2)
        vs Vial Smasher the Fierce          (w:0 l:1 d:0), (1/2)
-       vs Aragorn, King of Gondor          (w:1 l:1 d:0), (3/2)
+       vs Aragorn, King of Gondor          (w:1 l:0 d:0), (2/0)
        vs Krenko, Mob Boss                 (w:1 l:0 d:0), (2/0)
-       vs Omnath, Locus of Creation        (w:2 l:3 d:0), (6/7)
-       vs Aragorn, the Uniter              (w:1 l:0 d:0), (2/1)
-       vs Geist of Saint Traft             (w:1 l:1 d:0), (3/2)
-       vs Asmoranomardicadaistinaculdacar  (w:3 l:0 d:0), (6/0)
+       vs Omnath, Locus of Creation        (w:1 l:3 d:0), (4/6)
        vs Ghyrson Starn, Kelermorph        (w:2 l:0 d:0), (4/1)
-       vs Oloro, Ageless Ascetic           (w:2 l:0 d:0), (4/0)
+       vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/0)
+       vs Oloro, Ageless Ascetic           (w:1 l:0 d:0), (2/0)
        vs Ertai Resurrected                (w:1 l:0 d:0), (2/1)
        vs Karlov of the Ghost Council      (w:1 l:0 d:0), (2/1)
         + Lurrus of the Dream-Den         
-       vs Golos, Tireless Pilgrim          (w:1 l:3 d:0), (4/6)
-       vs Obyra, Dreaming Duelist          (w:1 l:0 d:0), (2/0)
-       vs Elas il-Kor, Sadistic Pilgrim    (w:1 l:1 d:0), (3/2)
-        + Lurrus of the Dream-Den         
-       vs Samut, Vizier of Naktamun        (w:1 l:1 d:0), (3/2)
-       vs Uro, Titan of Nature's Wrath     (w:2 l:2 d:0), (5/4)
-       vs Raffine, Scheming Seer           (w:1 l:0 d:0), (2/0)
-       vs Azusa, Lost but Seeking          (w:1 l:1 d:0), (3/2)
-       vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (2/1)
-       vs Dihada, Binder of Wills          (w:0 l:1 d:1), (2/3)
-       vs Melira, the Living Cure          (w:0 l:1 d:0), (1/2)
-       vs The Reality Chip                 (w:0 l:2 d:0), (1/4)
-       vs Tymaret, the Murder King         (w:1 l:0 d:0), (2/0)
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (1/2)
        vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/0)
+       vs The Reality Chip                 (w:0 l:1 d:0), (1/2)
        vs Abomination of Llanowar          (w:1 l:0 d:0), (2/0)
        vs Laelia, the Blade Reforged       (w:1 l:0 d:0), (2/1)
        vs Trelasarra, Moon Dancer          (w:1 l:0 d:0), (2/1)
@@ -1058,10 +878,8 @@ Hogaak, Arisen Necropolis        matches:75   WM: 60.00%  LM: 37.33%  DM:  2.67%
         + Tana, the Bloodsower            
        vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/0)
        vs Leovold, Emissary of Trest       (w:1 l:0 d:0), (2/0)
-       vs Arahbo, Roar of the World        (w:0 l:1 d:0), (1/2)
-       vs Syr Faren, the Hengehammer       (w:1 l:0 d:0), (2/0)
 
-Inalla, Archmage Ritualist       matches:19   WM: 52.63%  LM: 47.37%  DM:  0.00% (wm:10  lm:9   dm:0)  games:43   WG: 53.49% LG: 46.51% (wg:  23 lg:  20) pick: 5   
+Inalla, Archmage Ritualist       matches:13   WM: 53.85%  LM: 46.15%  DM:  0.00% (wm:7   lm:6   dm:0)  games:29   WG: 55.17% LG: 44.83% (wg:  16 lg:  13) pick: 4   
        vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (0/2)
        vs Elas il-Kor, Sadistic Pilgrim    (w:1 l:0 d:0), (2/0)
        vs The Reality Chip                 (w:0 l:2 d:0), (1/4)
@@ -1069,27 +887,28 @@ Inalla, Archmage Ritualist       matches:19   WM: 52.63%  LM: 47.37%  DM:  0.00%
         + Lurrus of the Dream-Den         
        vs Thrasios, Triton Hero            (w:0 l:1 d:0), (0/2)
        vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (1/2)
-       vs Ruby, Daring Tracker             (w:1 l:0 d:0), (2/1)
-       vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/0)
-       vs Uro, Titan of Nature's Wrath     (w:1 l:0 d:0), (2/0)
-       vs Aragorn, King of Gondor          (w:0 l:3 d:0), (1/6)
        vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/0)
        vs Radha, Heart of Keld             (w:1 l:0 d:0), (2/1)
        vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/0)
        vs Light-Paws, Emperor's Voice      (w:1 l:1 d:0), (2/2)
        vs Brago, King Eternal              (w:1 l:0 d:0), (2/0)
 
-Indoraptor, the Perfect Hybrid   matches:33   WM: 45.45%  LM: 54.55%  DM:  0.00% (wm:15  lm:18  dm:0)  games:85   WG: 45.88% LG: 54.12% (wg:  39 lg:  46) pick: 14  
+Indoraptor, the Perfect Hybrid   matches:40   WM: 37.50%  LM: 62.50%  DM:  0.00% (wm:15  lm:25  dm:0)  games:100  WG: 40.00% LG: 60.00% (wg:  40 lg:  60) pick: 16  
+       vs The Reality Chip                 (w:0 l:4 d:0), (3/8)
+       vs Sythis, Harvest's Hand           (w:0 l:1 d:0), (0/2)
+       vs Aminatou, the Fateshifter        (w:0 l:2 d:0), (1/4)
+       vs Slimefoot and Squee              (w:0 l:1 d:0), (1/2)
+       vs Juri, Master of the Revue        (w:0 l:1 d:0), (0/2)
+       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
+       vs Eriette of the Charmed Apple     (w:0 l:1 d:0), (0/2)
        vs Winota, Joiner of Forces         (w:2 l:2 d:0), (5/6)
        vs Kari Zev, Skyship Raider         (w:1 l:0 d:0), (2/0)
        vs Lord Windgrace                   (w:0 l:2 d:0), (1/4)
-       vs The Reality Chip                 (w:0 l:3 d:0), (3/6)
        vs Light-Paws, Emperor's Voice      (w:2 l:1 d:0), (4/4)
        vs Asmoranomardicadaistinaculdacar  (w:0 l:2 d:0), (0/4)
        vs Heliod, Sun-Crowned              (w:3 l:1 d:0), (7/3)
        vs Torbran, Thane of Red Fell       (w:0 l:1 d:0), (1/2)
        vs Geist of Saint Traft             (w:0 l:1 d:0), (1/2)
-       vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (1/2)
        vs Inalla, Archmage Ritualist       (w:0 l:1 d:0), (0/2)
        vs Radha, Heart of Keld             (w:1 l:0 d:0), (2/1)
        vs Elminster                        (w:1 l:0 d:0), (2/1)
@@ -1131,13 +950,20 @@ Jodah, the Unifier               matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00%
        vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/0)
        vs Saskia the Unyielding            (w:0 l:1 d:0), (1/2)
 
-Juri, Master of the Revue        matches:15   WM: 66.67%  LM: 26.67%  DM:  6.67% (wm:10  lm:4   dm:1)  games:35   WG: 65.71% LG: 34.29% (wg:  23 lg:  12) pick: 5   
+Judith, the Scourge Diva         matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:8    WG: 37.50% LG: 62.50% (wg:   3 lg:   5) pick: 1   
+       vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
+       vs Kess, Dissident Mage             (w:0 l:1 d:0), (1/2)
+       vs Rin and Seri, Inseparable        (w:1 l:0 d:0), (2/1)
+
+Juri, Master of the Revue        matches:19   WM: 57.89%  LM: 36.84%  DM:  5.26% (wm:11  lm:7   dm:1)  games:43   WG: 58.14% LG: 41.86% (wg:  25 lg:  18) pick: 6   
+       vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (0/2)
+       vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/0)
+       vs The Reality Chip                 (w:0 l:2 d:1), (1/4)
+       vs Omnath, Locus of Creation        (w:2 l:1 d:0), (4/3)
        vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (1/2)
-       vs The Reality Chip                 (w:0 l:1 d:1), (1/2)
        vs Liesa, Shroud of Dusk            (w:1 l:0 d:0), (2/0)
        vs Aragorn, King of Gondor          (w:2 l:0 d:0), (4/0)
        vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/1)
-       vs Omnath, Locus of Creation        (w:2 l:0 d:0), (4/1)
        vs Slimefoot and Squee              (w:1 l:0 d:0), (2/1)
        vs Light-Paws, Emperor's Voice      (w:1 l:1 d:0), (2/2)
        vs Vial Smasher the Fierce          (w:1 l:0 d:0), (2/1)
@@ -1176,7 +1002,7 @@ Karlov of the Ghost Council      matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00%
        vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/1)
        vs Elas il-Kor, Sadistic Pilgrim    (w:1 l:0 d:0), (2/1)
 
-Karlov of the Ghost Council      matches:55   WM: 43.64%  LM: 36.36%  DM: 20.00% (wm:24  lm:20  dm:11) games:117  WG: 52.14% LG: 47.86% (wg:  61 lg:  56) pick: 14  
+Karlov of the Ghost Council      matches:52   WM: 42.31%  LM: 40.38%  DM: 17.31% (wm:22  lm:21  dm:9)  games:112  WG: 50.00% LG: 50.00% (wg:  56 lg:  56) pick: 14  
   + Lurrus of the Dream-Den     
        vs Slimefoot and Squee              (w:1 l:1 d:2), (5/4)
        vs Dihada, Binder of Wills          (w:0 l:2 d:0), (0/4)
@@ -1192,33 +1018,30 @@ Karlov of the Ghost Council      matches:55   WM: 43.64%  LM: 36.36%  DM: 20.00%
        vs Aragorn, King of Gondor          (w:1 l:0 d:1), (2/1)
        vs Akiri, Line-Slinger              (w:0 l:1 d:0), (0/1)
         + Silas Renn, Seeker Adept        
-       vs Asmoranomardicadaistinaculdacar  (w:1 l:1 d:2), (4/4)
+       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:1), (1/3)
        vs Golos, Tireless Pilgrim          (w:1 l:4 d:0), (2/9)
        vs Aminatou, the Fateshifter        (w:0 l:1 d:1), (1/3)
        vs Kinnan, Bonder Prodigy           (w:0 l:2 d:1), (2/5)
        vs Thrasios, Triton Hero            (w:1 l:0 d:0), (1/0)
        vs Omnath, Locus of Creation        (w:0 l:2 d:0), (0/3)
-       vs The Reality Chip                 (w:3 l:0 d:1), (7/2)
-       vs Squee, Dubious Monarch           (w:1 l:0 d:0), (2/0)
-       vs Geist of Saint Traft             (w:1 l:0 d:1), (2/1)
+       vs The Reality Chip                 (w:2 l:0 d:0), (4/0)
+       vs Winota, Joiner of Forces         (w:2 l:0 d:0), (4/1)
+       vs Arahbo, Roar of the World        (w:0 l:1 d:0), (0/2)
+       vs Saskia the Unyielding            (w:1 l:0 d:0), (2/1)
        vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (2/0)
        vs Abomination of Llanowar          (w:1 l:0 d:0), (2/0)
        vs Trelasarra, Moon Dancer          (w:1 l:0 d:0), (2/0)
        vs Vial Smasher the Fierce          (w:0 l:1 d:0), (1/2)
        vs Aesi, Tyrant of Gyre Strait      (w:1 l:0 d:0), (2/0)
+       vs Geist of Saint Traft             (w:0 l:0 d:1), (1/1)
        vs Keranos, God of Storms           (w:1 l:0 d:0), (2/0)
-       vs Winota, Joiner of Forces         (w:1 l:0 d:0), (2/1)
        vs Kess, Dissident Mage             (w:0 l:0 d:1), (1/1)
 
 Kasla, the Broken Halo           matches:2    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:2   dm:0)  games:5    WG: 20.00% LG: 80.00% (wg:   1 lg:   4) pick: 1   
        vs Ojer Axonil, Deepest Might       (w:0 l:1 d:0), (1/2)
        vs Magda, Brazen Outlaw             (w:0 l:1 d:0), (0/2)
 
-Kellan, the Fae-Blooded          matches:10   WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:4   lm:6   dm:0)  games:22   WG: 36.36% LG: 63.64% (wg:   8 lg:  14) pick: 2   
-       vs Samut, Vizier of Naktamun        (w:1 l:0 d:0), (2/1)
-       vs Azusa, Lost but Seeking          (w:0 l:1 d:0), (0/2)
-       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
-       vs Uro, Titan of Nature's Wrath     (w:0 l:1 d:0), (0/2)
+Kellan, the Fae-Blooded          matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:13   WG: 46.15% LG: 53.85% (wg:   6 lg:   7) pick: 1   
        vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
        vs Wernog, Rider's Chaplain         (w:1 l:0 d:0), (2/0)
         + Bjorna, Nightfall Alchemist     
@@ -1235,10 +1058,10 @@ Keranos, God of Storms           matches:4    WM:  0.00%  LM: 75.00%  DM: 25.00%
         + Lurrus of the Dream-Den         
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (1/2)
 
-Kess, Dissident Mage             matches:34   WM: 32.35%  LM: 52.94%  DM: 14.71% (wm:11  lm:18  dm:5)  games:77   WG: 44.16% LG: 55.84% (wg:  34 lg:  43) pick: 10  
+Kess, Dissident Mage             matches:30   WM: 23.33%  LM: 60.00%  DM: 16.67% (wm:7   lm:18  dm:5)  games:69   WG: 37.68% LG: 62.32% (wg:  26 lg:  43) pick: 10  
        vs Saskia the Unyielding            (w:0 l:2 d:0), (1/4)
-       vs Raffine, Scheming Seer           (w:0 l:4 d:0), (2/8)
-       vs Asmoranomardicadaistinaculdacar  (w:1 l:2 d:0), (2/4)
+       vs Raffine, Scheming Seer           (w:0 l:3 d:0), (1/6)
+       vs Asmoranomardicadaistinaculdacar  (w:0 l:2 d:0), (0/4)
        vs Atraxa, Grand Unifier            (w:1 l:0 d:1), (3/1)
        vs Marchesa, the Black Rose         (w:1 l:0 d:0), (2/0)
        vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/1)
@@ -1254,37 +1077,33 @@ Kess, Dissident Mage             matches:34   WM: 32.35%  LM: 52.94%  DM: 14.71%
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
        vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/1)
        vs Winota, Joiner of Forces         (w:0 l:1 d:0), (1/2)
-       vs Zimone, Quandrix Prodigy         (w:1 l:0 d:0), (2/0)
-       vs Aragorn, King of Gondor          (w:1 l:0 d:0), (2/1)
-       vs Ruby, Daring Tracker             (w:1 l:0 d:0), (2/0)
-       vs Ghyrson Starn, Kelermorph        (w:1 l:0 d:0), (2/0)
-       vs Uro, Titan of Nature's Wrath     (w:0 l:1 d:0), (0/2)
+       vs Arahbo, Roar of the World        (w:0 l:1 d:0), (1/2)
+       vs Judith, the Scourge Diva         (w:1 l:0 d:0), (2/1)
+       vs Esika, God of the Tree           (w:0 l:1 d:0), (0/2)
        vs Ivy, Gleeful Spellthief          (w:1 l:0 d:0), (2/0)
        vs Oloro, Ageless Ascetic           (w:0 l:1 d:0), (0/1)
        vs Karlov of the Ghost Council      (w:0 l:0 d:1), (1/1)
         + Lurrus of the Dream-Den         
 
-Kinnan, Bonder Prodigy           matches:143  WM: 52.45%  LM: 38.46%  DM:  9.09% (wm:75  lm:55  dm:13) games:339  WG: 56.93% LG: 42.77% (wg: 193 lg: 145) pick: 35  
+Kinnan, Bonder Prodigy           matches:86   WM: 51.16%  LM: 44.19%  DM:  4.65% (wm:44  lm:38  dm:4)  games:207  WG: 55.07% LG: 44.93% (wg: 114 lg:  93) pick: 24  
        vs Ghyrson Starn, Kelermorph        (w:2 l:5 d:0), (6/12)
        vs Kytheon, Hero of Akros           (w:1 l:1 d:0), (3/2)
-       vs Omnath, Locus of Creation        (w:3 l:1 d:1), (8/4)
-       vs Aminatou, the Fateshifter        (w:3 l:2 d:1), (7/6)
+       vs Omnath, Locus of Creation        (w:3 l:1 d:0), (7/3)
+       vs Aminatou, the Fateshifter        (w:3 l:3 d:1), (8/8)
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
        vs Arahbo, Roar of the World        (w:1 l:0 d:0), (2/0)
-       vs Winota, Joiner of Forces         (w:1 l:2 d:0), (4/4)
-       vs Talion, the Kindly Lord          (w:1 l:0 d:0), (2/0)
-       vs Uro, Titan of Nature's Wrath     (w:4 l:6 d:3), (15/14)
-       vs Asmoranomardicadaistinaculdacar  (w:6 l:9 d:1), (20/21)
-       vs Arcades, the Strategist          (w:0 l:0 d:2), (2/2)
-       vs Dihada, Binder of Wills          (w:7 l:3 d:1), (17/9)
        vs Inalla, Archmage Ritualist       (w:1 l:0 d:0), (2/0)
        vs Talrand, Sky Summoner            (w:1 l:0 d:0), (2/0)
        vs The Reality Chip                 (w:3 l:0 d:0), (6/0)
-       vs Hogaak, Arisen Necropolis        (w:4 l:3 d:0), (8/7)
-       vs Golos, Tireless Pilgrim          (w:5 l:1 d:0), (10/4)
+       vs Juri, Master of the Revue        (w:1 l:0 d:0), (2/0)
+       vs Vial Smasher the Fierce          (w:0 l:2 d:0), (2/4)
+       vs Dihada, Binder of Wills          (w:2 l:3 d:0), (6/7)
+       vs Hogaak, Arisen Necropolis        (w:1 l:3 d:0), (2/6)
+       vs Golos, Tireless Pilgrim          (w:4 l:1 d:0), (8/4)
+       vs Asmoranomardicadaistinaculdacar  (w:0 l:4 d:0), (4/8)
        vs Ertai Resurrected                (w:0 l:1 d:0), (0/2)
        vs Liesa, Shroud of Dusk            (w:0 l:1 d:0), (1/2)
-       vs Shorikai, Genesis Engine         (w:2 l:0 d:1), (5/1)
+       vs Shorikai, Genesis Engine         (w:1 l:0 d:1), (3/1)
        vs Yoshimaru, Ever Faithful         (w:1 l:2 d:0), (3/5)
         + Tana, the Bloodsower            
        vs Laelia, the Blade Reforged       (w:0 l:2 d:0), (0/4)
@@ -1292,22 +1111,11 @@ Kinnan, Bonder Prodigy           matches:143  WM: 52.45%  LM: 38.46%  DM:  9.09%
        vs Karlov of the Ghost Council      (w:2 l:0 d:1), (5/2)
         + Lurrus of the Dream-Den         
        vs Torbran, Thane of Red Fell       (w:0 l:0 d:1), (1/1)
-       vs Vial Smasher the Fierce          (w:0 l:1 d:0), (1/2)
-       vs Aragorn, King of Gondor          (w:1 l:3 d:0), (3/6)
-       vs Obyra, Dreaming Duelist          (w:2 l:0 d:0), (4/0)
-       vs Ruby, Daring Tracker             (w:0 l:2 d:0), (1/4)
-       vs Thalia and The Gitrog Monster    (w:0 l:1 d:0), (0/2)
-       vs Oloro, Ageless Ascetic           (w:1 l:0 d:0), (2/0)
-       vs Prossh, Skyraider of Kher        (w:1 l:0 d:0), (2/0)
-       vs Marchesa, the Black Rose         (w:1 l:1 d:0), (3/3)
-       vs Torens, Fist of the Angels       (w:1 l:0 d:0), (2/1)
-       vs Titania, Protector of Argoth     (w:1 l:0 d:0), (2/1)
-       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/1)
-       vs Samut, Vizier of Naktamun        (w:1 l:0 d:0), (2/1)
-       vs Geist of Saint Traft             (w:2 l:2 d:1), (6/6)
+       vs Winota, Joiner of Forces         (w:0 l:2 d:0), (2/4)
+       vs Aragorn, King of Gondor          (w:1 l:1 d:0), (3/2)
        vs Heliod, Sun-Crowned              (w:2 l:0 d:0), (4/1)
+       vs Geist of Saint Traft             (w:1 l:1 d:0), (3/2)
        vs Ludevic, Necro-Alchemist         (w:1 l:0 d:0), (2/0)
-       vs Pippin, Guard of the Citadel     (w:0 l:1 d:0), (1/2)
        vs Galazeth Prismari                (w:1 l:0 d:0), (2/0)
        vs Abomination of Llanowar          (w:1 l:0 d:0), (2/1)
        vs Errant and Giada                 (w:1 l:0 d:0), (2/0)
@@ -1339,30 +1147,26 @@ Krenko, Mob Boss                 matches:10   WM: 20.00%  LM: 80.00%  DM:  0.00%
        vs Octavia, Living Thesis           (w:0 l:1 d:0), (0/2)
        vs Saskia the Unyielding            (w:0 l:1 d:0), (0/2)
 
-Kroxa, Titan of Death's Hunger   matches:16   WM: 37.50%  LM: 56.25%  DM:  6.25% (wm:6   lm:9   dm:1)  games:41   WG: 46.34% LG: 53.66% (wg:  19 lg:  22) pick: 4   
+Kroxa, Titan of Death's Hunger   matches:11   WM: 36.36%  LM: 54.55%  DM:  9.09% (wm:4   lm:6   dm:1)  games:29   WG: 44.83% LG: 55.17% (wg:  13 lg:  16) pick: 3   
        vs Raffine, Scheming Seer           (w:1 l:0 d:0), (2/1)
        vs Atraxa, Grand Unifier            (w:0 l:1 d:0), (1/2)
        vs Kess, Dissident Mage             (w:0 l:1 d:0), (1/2)
        vs Marchesa, the Black Rose         (w:0 l:1 d:0), (0/2)
-       vs Elas il-Kor, Sadistic Pilgrim    (w:1 l:0 d:0), (2/0)
-       vs Ertai Resurrected                (w:1 l:0 d:0), (2/0)
-       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:1), (1/3)
+       vs Slimefoot and Squee              (w:0 l:1 d:0), (1/2)
+       vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/1)
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
+       vs Sisay, Weatherlight Captain      (w:1 l:0 d:0), (2/0)
+        + Jegantha, the Wellspring        
        vs Saffi Eriksdotter                (w:0 l:1 d:0), (1/2)
+       vs Asmoranomardicadaistinaculdacar  (w:0 l:0 d:1), (1/1)
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
         + Tana, the Bloodsower            
-       vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (0/2)
-       vs Torens, Fist of the Angels       (w:0 l:1 d:0), (1/2)
-       vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/0)
-       vs Elas il-Kor, Sadistic Pilgrim    (w:1 l:0 d:0), (2/1)
-        + Lurrus of the Dream-Den         
-       vs Uro, Titan of Nature's Wrath     (w:0 l:1 d:0), (1/2)
-       vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (1/2)
 
-Kytheon, Hero of Akros           matches:66   WM: 57.58%  LM: 37.88%  DM:  4.55% (wm:38  lm:25  dm:3)  games:165  WG: 56.97% LG: 41.82% (wg:  94 lg:  69) pick: 17  
+Kytheon, Hero of Akros           matches:61   WM: 59.02%  LM: 36.07%  DM:  4.92% (wm:36  lm:22  dm:3)  games:153  WG: 57.52% LG: 41.18% (wg:  88 lg:  63) pick: 16  
        vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (1/2)
        vs Kinnan, Bonder Prodigy           (w:1 l:1 d:0), (2/3)
        vs Ghyrson Starn, Kelermorph        (w:3 l:4 d:1), (10/9)
-       vs Dihada, Binder of Wills          (w:1 l:2 d:0), (4/4)
+       vs Dihada, Binder of Wills          (w:1 l:1 d:0), (3/2)
        vs Shorikai, Genesis Engine         (w:3 l:2 d:1), (8/4)
        vs Anhelo, the Painter              (w:1 l:0 d:0), (2/0)
        vs Old Stickfingers                 (w:2 l:1 d:0), (5/4)
@@ -1377,10 +1181,6 @@ Kytheon, Hero of Akros           matches:66   WM: 57.58%  LM: 37.88%  DM:  4.55%
        vs Tasigur, the Golden Fang         (w:1 l:1 d:0), (3/2)
        vs Baral and Kari Zev               (w:0 l:1 d:0), (1/2)
        vs Omnath, Locus of Creation        (w:0 l:1 d:1), (1/2)
-       vs Ruby, Daring Tracker             (w:0 l:1 d:0), (0/2)
-       vs Obyra, Dreaming Duelist          (w:1 l:0 d:0), (2/0)
-       vs Torens, Fist of the Angels       (w:0 l:1 d:0), (1/2)
-       vs Zimone, Quandrix Prodigy         (w:1 l:0 d:0), (2/0)
        vs Aesi, Tyrant of Gyre Strait      (w:1 l:0 d:0), (2/0)
        vs Vial Smasher the Fierce          (w:2 l:0 d:0), (4/1)
        vs God-Eternal Kefnet               (w:1 l:0 d:0), (2/0)
@@ -1397,31 +1197,23 @@ Kytheon, Hero of Akros           matches:66   WM: 57.58%  LM: 37.88%  DM:  4.55%
        vs Gut, True Soul Zealot            (w:0 l:1 d:0), (1/2)
         + Flaming Fist                    
 
-Laelia, the Blade Reforged       matches:34   WM: 67.65%  LM: 29.41%  DM:  2.94% (wm:23  lm:10  dm:1)  games:85   WG: 60.00% LG: 40.00% (wg:  51 lg:  34) pick: 8   
-       vs Tivit, Seller of Secrets         (w:1 l:0 d:0), (2/1)
-       vs Winota, Joiner of Forces         (w:3 l:3 d:0), (7/6)
-       vs Asmoranomardicadaistinaculdacar  (w:3 l:1 d:0), (7/4)
-       vs Grist, the Hunger Tide           (w:3 l:0 d:0), (6/2)
+Laelia, the Blade Reforged       matches:24   WM: 75.00%  LM: 20.83%  DM:  4.17% (wm:18  lm:5   dm:1)  games:59   WG: 67.80% LG: 32.20% (wg:  40 lg:  19) pick: 6   
+       vs Grist, the Hunger Tide           (w:2 l:0 d:0), (4/1)
+       vs Winota, Joiner of Forces         (w:3 l:1 d:0), (7/2)
        vs Kinnan, Bonder Prodigy           (w:2 l:0 d:0), (4/0)
        vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
        vs Heliod, Sun-Crowned              (w:3 l:0 d:0), (6/3)
+       vs Asmoranomardicadaistinaculdacar  (w:3 l:0 d:0), (6/2)
        vs Samwise Gamgee                   (w:2 l:0 d:0), (4/2)
        vs Rocco, Cabaretti Caterer         (w:0 l:1 d:0), (1/2)
        vs Galazeth Prismari                (w:1 l:0 d:0), (2/0)
        vs Aminatou, the Fateshifter        (w:0 l:0 d:1), (1/1)
        vs Malik, Grim Manipulator          (w:1 l:0 d:0), (2/0)
-       vs Uro, Titan of Nature's Wrath     (w:0 l:1 d:0), (0/2)
-       vs Talion, the Kindly Lord          (w:1 l:0 d:0), (2/1)
-       vs Arahbo, Roar of the World        (w:1 l:0 d:0), (2/1)
-       vs Light-Paws, Emperor's Voice      (w:0 l:2 d:0), (0/4)
-       vs Ghyrson Starn, Kelermorph        (w:1 l:0 d:0), (2/1)
        vs Flamewar, Brash Veteran          (w:1 l:0 d:0), (2/0)
        vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (1/2)
+       vs Light-Paws, Emperor's Voice      (w:0 l:1 d:0), (0/2)
 
-Leovold, Emissary of Trest       matches:36   WM: 30.56%  LM: 66.67%  DM:  2.78% (wm:11  lm:24  dm:1)  games:85   WG: 37.65% LG: 62.35% (wg:  32 lg:  53) pick: 9   
-       vs Winota, Joiner of Forces         (w:0 l:3 d:0), (1/6)
-       vs Uro, Titan of Nature's Wrath     (w:1 l:0 d:0), (2/1)
-       vs Geist of Saint Traft             (w:0 l:2 d:0), (0/4)
+Leovold, Emissary of Trest       matches:31   WM: 32.26%  LM: 64.52%  DM:  3.23% (wm:10  lm:20  dm:1)  games:73   WG: 39.73% LG: 60.27% (wg:  29 lg:  44) pick: 8   
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
         + Jeska, Thrice Reborn            
        vs Shorikai, Genesis Engine         (w:1 l:2 d:0), (3/4)
@@ -1437,6 +1229,7 @@ Leovold, Emissary of Trest       matches:36   WM: 30.56%  LM: 66.67%  DM:  2.78%
        vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/0)
        vs Malcolm, Alluring Scoundrel      (w:0 l:3 d:0), (2/6)
        vs Ojer Axonil, Deepest Might       (w:1 l:0 d:0), (2/0)
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
        vs Syr Faren, the Hengehammer       (w:0 l:1 d:0), (1/2)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
         + Tana, the Bloodsower            
@@ -1447,36 +1240,24 @@ Leovold, Emissary of Trest       matches:36   WM: 30.56%  LM: 66.67%  DM:  2.78%
        vs Tasigur, the Golden Fang         (w:1 l:0 d:0), (2/0)
        vs Oskar, Rubbish Reclaimer         (w:0 l:1 d:0), (1/2)
 
-Liesa, Shroud of Dusk            matches:10   WM: 30.00%  LM: 70.00%  DM:  0.00% (wm:3   lm:7   dm:0)  games:22   WG: 27.27% LG: 72.73% (wg:   6 lg:  16) pick: 2   
+Liesa, Shroud of Dusk            matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:9    WG: 22.22% LG: 77.78% (wg:   2 lg:   7) pick: 1   
        vs Vial Smasher the Fierce          (w:0 l:1 d:0), (0/2)
        vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
        vs Juri, Master of the Revue        (w:0 l:1 d:0), (0/2)
        vs Kinnan, Bonder Prodigy           (w:1 l:0 d:0), (2/1)
-       vs Asmoranomardicadaistinaculdacar  (w:0 l:3 d:0), (0/6)
-       vs Teysa, Orzhov Scion              (w:1 l:0 d:0), (2/0)
-       vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (2/1)
-       vs Samut, Vizier of Naktamun        (w:0 l:1 d:0), (0/2)
 
-Light-Paws, Emperor's Voice      matches:102  WM: 38.24%  LM: 59.80%  DM:  1.96% (wm:39  lm:61  dm:2)  games:229  WG: 41.05% LG: 58.95% (wg:  94 lg: 135) pick: 32  
+Light-Paws, Emperor's Voice      matches:82   WM: 36.59%  LM: 60.98%  DM:  2.44% (wm:30  lm:50  dm:2)  games:182  WG: 40.66% LG: 59.34% (wg:  74 lg: 108) pick: 28  
        vs Asmoranomardicadaistinaculdacar  (w:4 l:4 d:0), (10/9)
        vs Anje Falkenrath                  (w:1 l:0 d:0), (2/0)
-       vs Dihada, Binder of Wills          (w:0 l:3 d:0), (1/6)
+       vs Dihada, Binder of Wills          (w:0 l:2 d:0), (1/4)
        vs Omnath, Locus of Creation        (w:0 l:5 d:0), (1/10)
        vs Aminatou, the Fateshifter        (w:0 l:5 d:0), (1/10)
-       vs Uro, Titan of Nature's Wrath     (w:2 l:2 d:0), (4/5)
-       vs Marath, Will of the Wild         (w:0 l:1 d:0), (0/2)
-       vs Chatterfang, Squirrel General    (w:2 l:0 d:0), (4/0)
-       vs Geist of Saint Traft             (w:1 l:5 d:0), (4/10)
-       vs Arcades, the Strategist          (w:0 l:1 d:0), (0/2)
-       vs Tivit, Seller of Secrets         (w:1 l:1 d:0), (2/3)
-       vs Drana, Liberator of Malakir      (w:1 l:0 d:0), (2/1)
-       vs Shorikai, Genesis Engine         (w:0 l:2 d:0), (0/4)
        vs The Reality Chip                 (w:1 l:2 d:0), (2/5)
        vs Talrand, Sky Summoner            (w:0 l:1 d:0), (0/2)
        vs Karlov of the Ghost Council      (w:1 l:2 d:0), (2/5)
         + Lurrus of the Dream-Den         
        vs Heliod, Sun-Crowned              (w:3 l:1 d:0), (6/2)
-       vs Winota, Joiner of Forces         (w:3 l:2 d:0), (6/5)
+       vs Winota, Joiner of Forces         (w:2 l:2 d:0), (4/4)
        vs Codie, Vociferous Codex          (w:0 l:1 d:0), (0/2)
        vs Grist, the Hunger Tide           (w:0 l:2 d:0), (1/4)
        vs Sidisi, Undead Vizier            (w:1 l:0 d:0), (2/0)
@@ -1490,19 +1271,20 @@ Light-Paws, Emperor's Voice      matches:102  WM: 38.24%  LM: 59.80%  DM:  1.96%
        vs Indoraptor, the Perfect Hybrid   (w:1 l:2 d:0), (4/4)
        vs Samwise Gamgee                   (w:0 l:2 d:0), (0/4)
        vs Kess, Dissident Mage             (w:0 l:1 d:0), (1/2)
-       vs Arahbo, Roar of the World        (w:1 l:1 d:0), (2/3)
+       vs Arahbo, Roar of the World        (w:0 l:1 d:0), (0/2)
        vs Ognis, the Dragon's Lash         (w:1 l:0 d:0), (2/0)
        vs Rashmi, Eternities Crafter       (w:1 l:0 d:0), (2/0)
        vs Juri, Master of the Revue        (w:1 l:1 d:0), (2/2)
-       vs Laelia, the Blade Reforged       (w:2 l:0 d:0), (4/0)
-       vs Elminster                        (w:0 l:1 d:0), (0/2)
        vs Trelasarra, Moon Dancer          (w:0 l:1 d:0), (1/2)
+       vs Laelia, the Blade Reforged       (w:1 l:0 d:0), (2/0)
        vs Errant and Giada                 (w:1 l:0 d:0), (2/0)
        vs Vial Smasher the Fierce          (w:0 l:1 d:0), (1/2)
        vs Keranos, God of Storms           (w:0 l:0 d:1), (1/1)
+       vs Geist of Saint Traft             (w:1 l:2 d:0), (2/4)
        vs Aesi, Tyrant of Gyre Strait      (w:1 l:0 d:0), (2/0)
        vs Saskia the Unyielding            (w:1 l:1 d:0), (2/2)
        vs Rocco, Cabaretti Caterer         (w:1 l:0 d:0), (2/1)
+       vs Shorikai, Genesis Engine         (w:0 l:1 d:0), (0/2)
        vs Leovold, Emissary of Trest       (w:0 l:1 d:0), (0/2)
        vs Circu, Dimir Lobotomist          (w:0 l:1 d:0), (0/2)
        vs Flamewar, Brash Veteran          (w:1 l:0 d:0), (2/0)
@@ -1510,18 +1292,15 @@ Light-Paws, Emperor's Voice      matches:102  WM: 38.24%  LM: 59.80%  DM:  1.96%
        vs Inalla, Archmage Ritualist       (w:1 l:1 d:0), (2/2)
        vs Brago, King Eternal              (w:0 l:1 d:0), (0/2)
 
-Lord Windgrace                   matches:21   WM: 38.10%  LM: 52.38%  DM:  9.52% (wm:8   lm:11  dm:2)  games:52   WG: 40.38% LG: 59.62% (wg:  21 lg:  31) pick: 5   
+Lord Windgrace                   matches:15   WM: 40.00%  LM: 53.33%  DM:  6.67% (wm:6   lm:8   dm:1)  games:38   WG: 42.11% LG: 57.89% (wg:  16 lg:  22) pick: 4   
        vs Slimefoot and Squee              (w:1 l:0 d:0), (2/1)
-       vs Asmoranomardicadaistinaculdacar  (w:1 l:2 d:0), (3/5)
+       vs Asmoranomardicadaistinaculdacar  (w:1 l:1 d:0), (3/3)
        vs Saskia the Unyielding            (w:1 l:1 d:0), (2/3)
        vs Kari Zev, Skyship Raider         (w:0 l:2 d:0), (1/4)
        vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
        vs Ghyrson Starn, Kelermorph        (w:1 l:0 d:0), (2/1)
        vs Indoraptor, the Perfect Hybrid   (w:2 l:0 d:0), (4/1)
        vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (0/2)
-       vs Tivit, Seller of Secrets         (w:1 l:0 d:0), (2/1)
-       vs Uro, Titan of Nature's Wrath     (w:1 l:1 d:1), (3/4)
-       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
        vs Najeela, the Blade-Blossom       (w:0 l:0 d:1), (1/1)
        vs Heliod, Sun-Crowned              (w:0 l:1 d:0), (0/2)
        vs Shorikai, Genesis Engine         (w:0 l:1 d:0), (1/2)
@@ -1577,34 +1356,16 @@ Malik, Grim Manipulator          matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00%
        vs The Reality Chip                 (w:0 l:1 d:0), (0/2)
        vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/0)
 
-Marath, Will of the Wild         matches:15   WM: 53.33%  LM: 26.67%  DM: 20.00% (wm:8   lm:4   dm:3)  games:34   WG: 64.71% LG: 35.29% (wg:  22 lg:  12) pick: 3   
-       vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/0)
-       vs Uro, Titan of Nature's Wrath     (w:0 l:1 d:1), (2/3)
-       vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
-       vs Asmoranomardicadaistinaculdacar  (w:0 l:3 d:2), (4/8)
-       vs Winota, Joiner of Forces         (w:2 l:0 d:0), (4/0)
-       vs Samut, Vizier of Naktamun        (w:1 l:0 d:0), (2/1)
-       vs Queen Marchesa                   (w:1 l:0 d:0), (2/0)
-       vs Ratadrabik of Urborg             (w:1 l:0 d:0), (2/0)
-       vs Surrak Dragonclaw                (w:1 l:0 d:0), (2/0)
+Marath, Will of the Wild         matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:7    WG: 57.14% LG: 42.86% (wg:   4 lg:   3) pick: 1   
+       vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/1)
+       vs Raffine, Scheming Seer           (w:0 l:1 d:0), (0/2)
+       vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (2/0)
 
-Marchesa, the Black Rose         matches:9    WM: 22.22%  LM: 77.78%  DM:  0.00% (wm:2   lm:7   dm:0)  games:23   WG: 34.78% LG: 65.22% (wg:   8 lg:  15) pick: 2   
+Marchesa, the Black Rose         matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:10   WG: 40.00% LG: 60.00% (wg:   4 lg:   6) pick: 1   
        vs Kess, Dissident Mage             (w:0 l:1 d:0), (0/2)
        vs Raffine, Scheming Seer           (w:0 l:1 d:0), (1/2)
        vs Atraxa, Grand Unifier            (w:0 l:1 d:0), (1/2)
        vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/0)
-       vs Prossh, Skyraider of Kher        (w:0 l:1 d:0), (0/2)
-       vs Obyra, Dreaming Duelist          (w:0 l:1 d:0), (0/2)
-       vs Kinnan, Bonder Prodigy           (w:1 l:1 d:0), (3/3)
-       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (1/2)
-
-Melira, the Living Cure          matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:15   WG: 33.33% LG: 66.67% (wg:   5 lg:  10) pick: 1   
-       vs Uro, Titan of Nature's Wrath     (w:0 l:1 d:0), (0/2)
-       vs Hogaak, Arisen Necropolis        (w:1 l:0 d:0), (2/1)
-       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
-       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (1/2)
-       vs Teysa, Orzhov Scion              (w:1 l:0 d:0), (2/1)
-       vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (0/2)
 
 Najeela, the Blade-Blossom       matches:6    WM: 33.33%  LM: 50.00%  DM: 16.67% (wm:2   lm:3   dm:1)  games:13   WG: 46.15% LG: 53.85% (wg:   6 lg:   7) pick: 2   
        vs Tymaret, the Murder King         (w:1 l:0 d:0), (2/0)
@@ -1637,15 +1398,6 @@ Niv-Mizzet, Parun                matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00%
        vs Karlov of the Ghost Council      (w:0 l:1 d:0), (1/2)
         + Lurrus of the Dream-Den         
        vs Elas il-Kor, Sadistic Pilgrim    (w:0 l:1 d:0), (1/2)
-
-Obyra, Dreaming Duelist          matches:9    WM: 22.22%  LM: 77.78%  DM:  0.00% (wm:2   lm:7   dm:0)  games:18   WG: 22.22% LG: 77.78% (wg:   4 lg:  14) pick: 2   
-       vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (0/2)
-       vs Kinnan, Bonder Prodigy           (w:0 l:2 d:0), (0/4)
-       vs Kytheon, Hero of Akros           (w:0 l:1 d:0), (0/2)
-       vs Marchesa, the Black Rose         (w:1 l:0 d:0), (2/0)
-       vs Asmoranomardicadaistinaculdacar  (w:0 l:2 d:0), (0/4)
-       vs Zimone, Quandrix Prodigy         (w:0 l:1 d:0), (0/2)
-       vs Beluna Grandsquall               (w:1 l:0 d:0), (2/0)
 
 Octavia, Living Thesis           matches:22   WM: 36.36%  LM: 63.64%  DM:  0.00% (wm:8   lm:14  dm:0)  games:54   WG: 40.74% LG: 59.26% (wg:  22 lg:  32) pick: 7   
        vs Aminatou, the Fateshifter        (w:1 l:2 d:0), (3/5)
@@ -1694,9 +1446,9 @@ Old Stickfingers                 matches:22   WM: 45.45%  LM: 45.45%  DM:  9.09%
        vs Balmor, Battlemage Captain       (w:1 l:1 d:0), (3/3)
        vs Baral and Kari Zev               (w:0 l:1 d:0), (0/2)
 
-Oloro, Ageless Ascetic           matches:46   WM: 34.78%  LM: 45.65%  DM: 19.57% (wm:16  lm:21  dm:9)  games:96   WG: 46.88% LG: 52.08% (wg:  45 lg:  50) pick: 13  
+Oloro, Ageless Ascetic           matches:31   WM: 32.26%  LM: 41.94%  DM: 25.81% (wm:10  lm:13  dm:8)  games:62   WG: 46.77% LG: 51.61% (wg:  29 lg:  32) pick: 10  
        vs Old Stickfingers                 (w:2 l:0 d:0), (4/2)
-       vs Asmoranomardicadaistinaculdacar  (w:3 l:1 d:0), (6/3)
+       vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/1)
        vs Shorikai, Genesis Engine         (w:0 l:1 d:1), (2/3)
        vs Balmor, Battlemage Captain       (w:0 l:1 d:0), (0/2)
        vs Niv-Mizzet Reborn                (w:0 l:1 d:0), (0/1)
@@ -1709,77 +1461,58 @@ Oloro, Ageless Ascetic           matches:46   WM: 34.78%  LM: 45.65%  DM: 19.57%
        vs Elas il-Kor, Sadistic Pilgrim    (w:0 l:1 d:0), (0/1)
        vs Karlov of the Ghost Council      (w:0 l:1 d:1), (1/3)
         + Lurrus of the Dream-Den         
-       vs Hogaak, Arisen Necropolis        (w:0 l:2 d:0), (0/4)
-       vs Uro, Titan of Nature's Wrath     (w:0 l:1 d:0), (0/2)
-       vs Dihada, Binder of Wills          (w:1 l:1 d:0), (2/2)
-       vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (0/2)
-       vs Aragorn, King of Gondor          (w:1 l:1 d:0), (3/2)
-       vs Titania, Protector of Argoth     (w:1 l:0 d:0), (2/0)
-       vs Raffine, Scheming Seer           (w:0 l:1 d:0), (1/2)
-       vs Ratadrabik of Urborg             (w:0 l:1 d:0), (0/2)
-       vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/0)
+       vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (0/2)
        vs Tasigur, the Golden Fang         (w:0 l:0 d:1), (1/1)
        vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
+       vs Dihada, Binder of Wills          (w:0 l:1 d:0), (0/1)
        vs Golos, Tireless Pilgrim          (w:0 l:1 d:1), (2/3)
-       vs The Reality Chip                 (w:1 l:1 d:1), (3/2)
-       vs Geist of Saint Traft             (w:0 l:1 d:0), (1/2)
        vs Esika, God of the Tree           (w:0 l:1 d:0), (0/1)
+       vs The Reality Chip                 (w:1 l:1 d:0), (2/1)
        vs Prosper, Tome-Bound              (w:0 l:1 d:0), (1/2)
        vs Thalia and The Gitrog Monster    (w:0 l:0 d:1), (1/1)
        vs Circu, Dimir Lobotomist          (w:1 l:0 d:0), (1/0)
        vs Kess, Dissident Mage             (w:1 l:0 d:0), (1/0)
 
-Omnath, Locus of Creation        matches:159  WM: 54.09%  LM: 40.25%  DM:  5.66% (wm:86  lm:64  dm:9)  games:367  WG: 54.50% LG: 44.96% (wg: 200 lg: 165) pick: 40  
-       vs Aminatou, the Fateshifter        (w:2 l:4 d:1), (7/8)
+Omnath, Locus of Creation        matches:131  WM: 54.20%  LM: 39.69%  DM:  6.11% (wm:71  lm:52  dm:8)  games:303  WG: 55.12% LG: 44.22% (wg: 167 lg: 134) pick: 35  
+       vs Aminatou, the Fateshifter        (w:2 l:5 d:1), (8/10)
        vs Light-Paws, Emperor's Voice      (w:5 l:0 d:0), (10/1)
-       vs Dihada, Binder of Wills          (w:4 l:3 d:1), (9/9)
-       vs Kinnan, Bonder Prodigy           (w:1 l:3 d:1), (4/8)
+       vs Dihada, Binder of Wills          (w:2 l:3 d:1), (5/9)
+       vs Kinnan, Bonder Prodigy           (w:1 l:3 d:0), (3/7)
        vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (0/2)
-       vs Arahbo, Roar of the World        (w:3 l:1 d:0), (6/5)
+       vs Arahbo, Roar of the World        (w:1 l:1 d:0), (2/3)
        vs Balmor, Battlemage Captain       (w:1 l:3 d:0), (3/6)
        vs Old Stickfingers                 (w:1 l:2 d:1), (3/5)
-       vs Ghyrson Starn, Kelermorph        (w:3 l:3 d:0), (9/7)
+       vs Ghyrson Starn, Kelermorph        (w:2 l:3 d:0), (7/7)
        vs Slimefoot and Squee              (w:3 l:4 d:2), (9/11)
        vs Baral and Kari Zev               (w:1 l:0 d:0), (2/1)
        vs Shorikai, Genesis Engine         (w:2 l:0 d:0), (4/1)
-       vs The Reality Chip                 (w:4 l:1 d:0), (8/2)
+       vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (1/2)
+       vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/0)
+       vs Juri, Master of the Revue        (w:1 l:2 d:0), (3/4)
+       vs The Reality Chip                 (w:4 l:0 d:0), (8/0)
        vs Ertai Resurrected                (w:2 l:0 d:0), (4/0)
        vs Vial Smasher the Fierce          (w:1 l:0 d:0), (2/0)
        vs Kytheon, Hero of Akros           (w:1 l:0 d:1), (2/1)
-       vs Hogaak, Arisen Necropolis        (w:3 l:2 d:0), (7/6)
+       vs Hogaak, Arisen Necropolis        (w:3 l:1 d:0), (6/4)
        vs Kess, Dissident Mage             (w:1 l:0 d:1), (3/1)
        vs Aragorn, King of Gondor          (w:1 l:2 d:0), (3/4)
        vs Yoshimaru, Ever Faithful         (w:2 l:4 d:0), (5/10)
         + Tana, the Bloodsower            
        vs Lord Windgrace                   (w:1 l:0 d:0), (2/0)
        vs Laelia, the Blade Reforged       (w:1 l:0 d:0), (2/0)
-       vs Geist of Saint Traft             (w:3 l:2 d:0), (8/5)
+       vs Geist of Saint Traft             (w:3 l:1 d:0), (7/3)
        vs Karlov of the Ghost Council      (w:2 l:0 d:0), (3/0)
         + Lurrus of the Dream-Den         
        vs Winota, Joiner of Forces         (w:2 l:3 d:0), (7/6)
-       vs Tivit, Seller of Secrets         (w:2 l:1 d:0), (5/4)
+       vs Tivit, Seller of Secrets         (w:2 l:0 d:0), (4/2)
        vs Kari Zev, Skyship Raider         (w:2 l:0 d:0), (4/0)
        vs Magda, Brazen Outlaw             (w:1 l:2 d:0), (3/5)
-       vs Golos, Tireless Pilgrim          (w:1 l:3 d:0), (3/6)
+       vs Golos, Tireless Pilgrim          (w:0 l:3 d:0), (1/6)
        vs Esika, God of the Tree           (w:1 l:1 d:0), (2/2)
-       vs Juri, Master of the Revue        (w:0 l:2 d:0), (1/4)
        vs Bjorna, Nightfall Alchemist      (w:1 l:0 d:0), (2/1)
         + Wernog, Rider's Chaplain        
         + Lurrus of the Dream-Den         
-       vs Asmoranomardicadaistinaculdacar  (w:0 l:4 d:1), (2/9)
-       vs Uro, Titan of Nature's Wrath     (w:1 l:3 d:0), (2/7)
-       vs Inalla, Archmage Ritualist       (w:0 l:1 d:0), (0/2)
-       vs Raffine, Scheming Seer           (w:0 l:1 d:0), (1/2)
-       vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (0/2)
-       vs Marchesa, the Black Rose         (w:1 l:0 d:0), (2/1)
-       vs Ratadrabik of Urborg             (w:0 l:1 d:0), (0/2)
-       vs Titania, Protector of Argoth     (w:1 l:0 d:0), (2/0)
-       vs Prossh, Skyraider of Kher        (w:1 l:0 d:0), (2/0)
-       vs Oloro, Ageless Ascetic           (w:0 l:1 d:0), (0/2)
-       vs Tymaret, the Murder King         (w:2 l:0 d:0), (4/1)
-       vs Melira, the Living Cure          (w:1 l:0 d:0), (2/0)
-       vs Azusa, Lost but Seeking          (w:1 l:0 d:0), (2/1)
-       vs Torbran, Thane of Red Fell       (w:1 l:0 d:0), (2/0)
+       vs Asmoranomardicadaistinaculdacar  (w:0 l:2 d:1), (2/5)
        vs Tasigur, the Golden Fang         (w:1 l:0 d:0), (2/0)
        vs Atraxa, Grand Unifier            (w:1 l:0 d:0), (1/0)
        vs Éowyn, Shieldmaiden              (w:1 l:0 d:0), (2/0)
@@ -1802,8 +1535,6 @@ Omnath, Locus of Creation        matches:159  WM: 54.09%  LM: 40.25%  DM:  5.66%
        vs Malcolm, Alluring Scoundrel      (w:1 l:1 d:0), (2/3)
        vs Gut, True Soul Zealot            (w:0 l:1 d:0), (0/2)
         + Flaming Fist                    
-       vs Pippin, Guard of the Citadel     (w:1 l:0 d:0), (2/0)
-       vs Aesi, Tyrant of Gyre Strait      (w:1 l:0 d:0), (2/0)
        vs Ivy, Gleeful Spellthief          (w:1 l:0 d:0), (2/1)
 
 Oskar, Rubbish Reclaimer         matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00% (wm:3   lm:2   dm:0)  games:13   WG: 61.54% LG: 38.46% (wg:   8 lg:   5) pick: 1   
@@ -1811,14 +1542,6 @@ Oskar, Rubbish Reclaimer         matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00%
        vs Slimefoot and Squee              (w:0 l:2 d:0), (2/4)
        vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/0)
        vs Leovold, Emissary of Trest       (w:1 l:0 d:0), (2/1)
-
-Pippin, Guard of the Citadel     matches:7    WM: 42.86%  LM: 42.86%  DM: 14.29% (wm:3   lm:3   dm:1)  games:17   WG: 47.06% LG: 52.94% (wg:   8 lg:   9) pick: 2   
-       vs Arahbo, Roar of the World        (w:1 l:1 d:0), (3/3)
-       vs Kinnan, Bonder Prodigy           (w:1 l:0 d:0), (2/1)
-       vs General Ferrous Rokiric          (w:0 l:1 d:0), (0/2)
-       vs Asmoranomardicadaistinaculdacar  (w:0 l:0 d:1), (1/1)
-       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
-       vs Aesi, Tyrant of Gyre Strait      (w:1 l:0 d:0), (2/0)
 
 Pippin, Warden of Isengard       matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:6    WG:  0.00% LG:100.00% (wg:   0 lg:   6) pick: 1   
   + Merry, Warden of Isengard   
@@ -1837,23 +1560,10 @@ Prosper, Tome-Bound              matches:9    WM: 77.78%  LM: 22.22%  DM:  0.00%
        vs Animar, Soul of Elements         (w:1 l:0 d:0), (2/0)
        vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (2/1)
 
-Prossh, Skyraider of Kher        matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:12   WG: 50.00% LG: 50.00% (wg:   6 lg:   6) pick: 1   
-       vs Marchesa, the Black Rose         (w:1 l:0 d:0), (2/0)
-       vs Uro, Titan of Nature's Wrath     (w:1 l:1 d:0), (2/2)
-       vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (0/2)
-       vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/0)
-       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
-
-Queen Marchesa                   matches:13   WM: 30.77%  LM: 61.54%  DM:  7.69% (wm:4   lm:8   dm:1)  games:28   WG: 39.29% LG: 60.71% (wg:  11 lg:  17) pick: 4   
+Queen Marchesa                   matches:7    WM: 42.86%  LM: 42.86%  DM: 14.29% (wm:3   lm:3   dm:1)  games:15   WG: 53.33% LG: 46.67% (wg:   8 lg:   7) pick: 3   
        vs Xavier Sal, Infested Captain     (w:0 l:1 d:0), (0/1)
        vs Atraxa, Grand Unifier            (w:1 l:1 d:0), (2/3)
        vs Slogurk, the Overslime           (w:0 l:0 d:1), (1/1)
-       vs Uro, Titan of Nature's Wrath     (w:0 l:1 d:0), (0/2)
-       vs Tivit, Seller of Secrets         (w:0 l:1 d:0), (0/2)
-       vs Teysa, Orzhov Scion              (w:0 l:1 d:0), (0/2)
-       vs Balmor, Battlemage Captain       (w:1 l:0 d:0), (2/0)
-       vs Sythis, Harvest's Hand           (w:0 l:1 d:0), (1/2)
-       vs Marath, Will of the Wild         (w:0 l:1 d:0), (0/2)
        vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (1/2)
        vs Tymaret, the Murder King         (w:1 l:0 d:0), (2/0)
        vs Don Andres, the Renegade         (w:1 l:0 d:0), (2/0)
@@ -1863,9 +1573,9 @@ Radha, Heart of Keld             matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00%
        vs Inalla, Archmage Ritualist       (w:0 l:1 d:0), (1/2)
        vs Indoraptor, the Perfect Hybrid   (w:0 l:1 d:0), (1/2)
 
-Raffine, Scheming Seer           matches:46   WM: 52.17%  LM: 36.96%  DM: 10.87% (wm:24  lm:17  dm:5)  games:117  WG: 54.70% LG: 45.30% (wg:  64 lg:  53) pick: 11  
+Raffine, Scheming Seer           matches:41   WM: 48.78%  LM: 39.02%  DM: 12.20% (wm:20  lm:16  dm:5)  games:100  WG: 55.00% LG: 45.00% (wg:  55 lg:  45) pick: 11  
        vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:2), (4/2)
-       vs Kess, Dissident Mage             (w:4 l:0 d:0), (8/2)
+       vs Kess, Dissident Mage             (w:3 l:0 d:0), (6/1)
        vs Arahbo, Roar of the World        (w:0 l:0 d:1), (1/1)
        vs Tymaret, the Murder King         (w:2 l:0 d:0), (4/0)
        vs Karador, Ghost Chieftain         (w:0 l:1 d:0), (1/2)
@@ -1873,6 +1583,9 @@ Raffine, Scheming Seer           matches:46   WM: 52.17%  LM: 36.96%  DM: 10.87%
        vs Atraxa, Grand Unifier            (w:3 l:0 d:0), (6/2)
        vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (1/2)
        vs Marchesa, the Black Rose         (w:1 l:0 d:0), (2/1)
+       vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (2/0)
+       vs Marath, Will of the Wild         (w:1 l:0 d:0), (2/0)
+       vs The Reality Chip                 (w:0 l:1 d:0), (0/2)
        vs Aminatou, the Fateshifter        (w:0 l:1 d:1), (2/3)
        vs Octavia, Living Thesis           (w:1 l:1 d:0), (3/3)
        vs Najeela, the Blade-Blossom       (w:1 l:0 d:0), (2/1)
@@ -1880,12 +1593,6 @@ Raffine, Scheming Seer           matches:46   WM: 52.17%  LM: 36.96%  DM: 10.87%
        vs Tivit, Seller of Secrets         (w:0 l:2 d:0), (0/4)
        vs Winota, Joiner of Forces         (w:0 l:2 d:0), (2/4)
        vs Kari Zev, Skyship Raider         (w:0 l:2 d:0), (2/4)
-       vs Torens, Fist of the Angels       (w:1 l:0 d:0), (2/1)
-       vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/1)
-       vs Oloro, Ageless Ascetic           (w:1 l:0 d:0), (2/1)
-       vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (0/2)
-       vs Uro, Titan of Nature's Wrath     (w:1 l:1 d:0), (3/3)
-       vs Aragorn, King of Gondor          (w:1 l:0 d:0), (2/1)
        vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
        vs Syr Faren, the Hengehammer       (w:1 l:0 d:0), (2/0)
        vs Selvala, Explorer Returned       (w:0 l:0 d:1), (1/1)
@@ -1901,15 +1608,10 @@ Rashmi, Eternities Crafter       matches:4    WM:  0.00%  LM:100.00%  DM:  0.00%
        vs Light-Paws, Emperor's Voice      (w:0 l:1 d:0), (0/2)
        vs Galazeth Prismari                (w:0 l:1 d:0), (0/2)
 
-Ratadrabik of Urborg             matches:8    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:2   lm:6   dm:0)  games:17   WG: 29.41% LG: 70.59% (wg:   5 lg:  12) pick: 2   
-       vs Aragorn, King of Gondor          (w:0 l:1 d:0), (0/2)
-       vs Uro, Titan of Nature's Wrath     (w:0 l:1 d:0), (0/2)
-       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
-       vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/0)
-       vs Oloro, Ageless Ascetic           (w:1 l:0 d:0), (2/0)
-       vs Samut, Vizier of Naktamun        (w:0 l:1 d:0), (1/2)
-       vs Marath, Will of the Wild         (w:0 l:1 d:0), (0/2)
-       vs The Reality Chip                 (w:0 l:1 d:0), (0/2)
+Rin and Seri, Inseparable        matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:7    WG: 14.29% LG: 85.71% (wg:   1 lg:   6) pick: 1   
+       vs Esika, God of the Tree           (w:0 l:1 d:0), (0/2)
+       vs Winota, Joiner of Forces         (w:0 l:1 d:0), (0/2)
+       vs Judith, the Scourge Diva         (w:0 l:1 d:0), (1/2)
 
 Roalesk, Apex Hybrid             matches:6    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:6   dm:0)  games:14   WG: 14.29% LG: 85.71% (wg:   2 lg:  12) pick: 2   
        vs Aesi, Tyrant of Gyre Strait      (w:0 l:1 d:0), (1/2)
@@ -1940,21 +1642,6 @@ Rona, Herald of Invasion         matches:11   WM: 45.45%  LM: 54.55%  DM:  0.00%
        vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/0)
        vs Dihada, Binder of Wills          (w:0 l:1 d:0), (1/2)
 
-Ruby, Daring Tracker             matches:17   WM: 41.18%  LM: 58.82%  DM:  0.00% (wm:7   lm:10  dm:0)  games:43   WG: 41.86% LG: 58.14% (wg:  18 lg:  25) pick: 3   
-       vs Kytheon, Hero of Akros           (w:1 l:0 d:0), (2/0)
-       vs Inalla, Archmage Ritualist       (w:0 l:1 d:0), (1/2)
-       vs Kinnan, Bonder Prodigy           (w:2 l:0 d:0), (4/1)
-       vs Ghyrson Starn, Kelermorph        (w:1 l:1 d:0), (2/3)
-       vs Thalia and The Gitrog Monster    (w:0 l:1 d:0), (0/2)
-       vs Uro, Titan of Nature's Wrath     (w:0 l:3 d:0), (1/6)
-       vs Samut, Vizier of Naktamun        (w:1 l:0 d:0), (2/1)
-       vs Kess, Dissident Mage             (w:0 l:1 d:0), (0/2)
-       vs Aragorn, King of Gondor          (w:1 l:0 d:0), (2/1)
-       vs Arcades, the Strategist          (w:1 l:0 d:0), (2/1)
-       vs The Reality Chip                 (w:0 l:1 d:0), (1/2)
-       vs Dihada, Binder of Wills          (w:0 l:1 d:0), (0/2)
-       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (1/2)
-
 Saffi Eriksdotter                matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:11   WG: 45.45% LG: 54.55% (wg:   5 lg:   6) pick: 1   
        vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/1)
        vs Akiri, Line-Slinger              (w:1 l:0 d:0), (2/1)
@@ -1962,43 +1649,29 @@ Saffi Eriksdotter                matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00%
        vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (1/2)
        vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
 
-Samut, Vizier of Naktamun        matches:18   WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:9   lm:9   dm:0)  games:46   WG: 52.17% LG: 47.83% (wg:  24 lg:  22) pick: 3   
-       vs Kellan, the Fae-Blooded          (w:0 l:1 d:0), (1/2)
-       vs Uro, Titan of Nature's Wrath     (w:1 l:1 d:0), (2/2)
-       vs Hogaak, Arisen Necropolis        (w:1 l:1 d:0), (2/3)
-       vs Ruby, Daring Tracker             (w:0 l:1 d:0), (1/2)
-       vs Thalia and The Gitrog Monster    (w:0 l:1 d:0), (1/2)
-       vs Ratadrabik of Urborg             (w:1 l:0 d:0), (2/1)
-       vs Marath, Will of the Wild         (w:0 l:1 d:0), (1/2)
-       vs Teysa, Orzhov Scion              (w:1 l:0 d:0), (2/1)
-       vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (1/2)
-       vs Tymaret, the Murder King         (w:0 l:1 d:0), (1/2)
-       vs Torbran, Thane of Red Fell       (w:1 l:0 d:0), (2/0)
-       vs Asmoranomardicadaistinaculdacar  (w:1 l:1 d:0), (2/3)
-       vs Shorikai, Genesis Engine         (w:1 l:0 d:0), (2/0)
-       vs Liesa, Shroud of Dusk            (w:1 l:0 d:0), (2/0)
-       vs Tivit, Seller of Secrets         (w:1 l:0 d:0), (2/0)
-
 Samwise Gamgee                   matches:8    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:4   lm:4   dm:0)  games:18   WG: 55.56% LG: 44.44% (wg:  10 lg:   8) pick: 2   
        vs Asmoranomardicadaistinaculdacar  (w:0 l:2 d:0), (0/4)
        vs Light-Paws, Emperor's Voice      (w:2 l:0 d:0), (4/0)
        vs Winota, Joiner of Forces         (w:2 l:0 d:0), (4/0)
        vs Laelia, the Blade Reforged       (w:0 l:2 d:0), (2/4)
 
-Saskia the Unyielding            matches:24   WM: 54.17%  LM: 45.83%  DM:  0.00% (wm:13  lm:11  dm:0)  games:60   WG: 58.33% LG: 41.67% (wg:  35 lg:  25) pick: 7   
+Saskia the Unyielding            matches:27   WM: 48.15%  LM: 51.85%  DM:  0.00% (wm:13  lm:14  dm:0)  games:66   WG: 54.55% LG: 45.45% (wg:  36 lg:  30) pick: 8   
        vs Kess, Dissident Mage             (w:2 l:0 d:0), (4/1)
        vs Arahbo, Roar of the World        (w:1 l:1 d:0), (2/2)
        vs Jodah, the Unifier               (w:1 l:0 d:0), (2/1)
        vs Winota, Joiner of Forces         (w:1 l:0 d:0), (2/0)
        vs Flamewar, Brash Veteran          (w:1 l:0 d:0), (2/0)
        vs Lord Windgrace                   (w:1 l:1 d:0), (3/2)
-       vs Slimefoot and Squee              (w:0 l:3 d:0), (3/6)
+       vs Slimefoot and Squee              (w:0 l:4 d:0), (3/8)
        vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (1/2)
        vs Slogurk, the Overslime           (w:0 l:1 d:0), (1/2)
        vs Krenko, Mob Boss                 (w:1 l:0 d:0), (2/0)
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
        vs Edric, Spymaster of Trest        (w:1 l:0 d:0), (2/0)
        vs Prosper, Tome-Bound              (w:1 l:0 d:0), (2/0)
+       vs Heliod, Sun-Crowned              (w:0 l:1 d:0), (0/1)
+       vs Karlov of the Ghost Council      (w:0 l:1 d:0), (1/2)
+        + Lurrus of the Dream-Den         
        vs Kari Zev, Skyship Raider         (w:1 l:0 d:0), (2/0)
        vs Light-Paws, Emperor's Voice      (w:1 l:1 d:0), (2/2)
        vs Indoraptor, the Perfect Hybrid   (w:0 l:1 d:0), (1/2)
@@ -2039,33 +1712,29 @@ Sheoldred, the Apocalypse        matches:3    WM:100.00%  LM:  0.00%  DM:  0.00%
        vs Atraxa, Grand Unifier            (w:1 l:0 d:0), (1/0)
        vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
 
-Shorikai, Genesis Engine         matches:82   WM: 42.68%  LM: 42.68%  DM: 14.63% (wm:35  lm:35  dm:12) games:195  WG: 48.72% LG: 49.74% (wg:  95 lg:  97) pick: 22  
-       vs Geist of Saint Traft             (w:1 l:1 d:0), (3/3)
+Shorikai, Genesis Engine         matches:61   WM: 44.26%  LM: 40.98%  DM: 14.75% (wm:27  lm:25  dm:9)  games:146  WG: 49.32% LG: 48.63% (wg:  72 lg:  71) pick: 18  
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (1/2)
        vs Arahbo, Roar of the World        (w:1 l:0 d:0), (2/1)
-       vs Asmoranomardicadaistinaculdacar  (w:4 l:2 d:1), (10/6)
+       vs Asmoranomardicadaistinaculdacar  (w:2 l:1 d:1), (6/4)
        vs Aminatou, the Fateshifter        (w:1 l:2 d:0), (2/4)
        vs Atraxa, Grand Unifier            (w:0 l:0 d:1), (1/1)
-       vs Grist, the Hunger Tide           (w:1 l:1 d:0), (3/3)
-       vs Uro, Titan of Nature's Wrath     (w:1 l:1 d:2), (5/5)
-       vs Light-Paws, Emperor's Voice      (w:2 l:0 d:0), (4/0)
+       vs Grist, the Hunger Tide           (w:1 l:0 d:0), (2/1)
        vs Kytheon, Hero of Akros           (w:2 l:3 d:1), (4/8)
        vs Feldon, Ronom Excavator          (w:2 l:1 d:0), (5/4)
        vs Oloro, Ageless Ascetic           (w:1 l:0 d:1), (3/2)
-       vs Hogaak, Arisen Necropolis        (w:1 l:3 d:0), (4/7)
+       vs Hogaak, Arisen Necropolis        (w:1 l:2 d:0), (3/5)
        vs Baral and Kari Zev               (w:3 l:0 d:0), (6/1)
        vs Omnath, Locus of Creation        (w:0 l:2 d:0), (1/4)
        vs Wilhelt, the Rotcleaver          (w:1 l:0 d:0), (2/0)
        vs Ivy, Gleeful Spellthief          (w:0 l:0 d:1), (1/1)
-       vs The Reality Chip                 (w:2 l:0 d:0), (4/2)
+       vs The Reality Chip                 (w:1 l:0 d:0), (2/1)
        vs Magda, Brazen Outlaw             (w:0 l:1 d:0), (1/2)
        vs Wilson, Refined Grizzly          (w:0 l:1 d:0), (1/2)
         + Guild Artisan                   
        vs Krenko, Mob Boss                 (w:0 l:1 d:0), (1/2)
-       vs Golos, Tireless Pilgrim          (w:1 l:1 d:0), (2/2)
-       vs Azusa, Lost but Seeking          (w:0 l:0 d:1), (1/1)
-       vs Kinnan, Bonder Prodigy           (w:0 l:2 d:1), (1/5)
+       vs Kinnan, Bonder Prodigy           (w:0 l:1 d:1), (1/3)
        vs Old Stickfingers                 (w:0 l:2 d:0), (1/4)
-       vs Ghyrson Starn, Kelermorph        (w:1 l:1 d:1), (3/2)
+       vs Ghyrson Starn, Kelermorph        (w:1 l:0 d:1), (2/0)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
         + Tana, the Bloodsower            
        vs Akiri, Line-Slinger              (w:0 l:1 d:0), (0/2)
@@ -2074,14 +1743,12 @@ Shorikai, Genesis Engine         matches:82   WM: 42.68%  LM: 42.68%  DM: 14.63%
        vs Leovold, Emissary of Trest       (w:2 l:1 d:0), (4/3)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
         + Jeska, Thrice Reborn            
-       vs Aragorn, King of Gondor          (w:0 l:2 d:0), (0/4)
        vs Sidar Jabari of Zhalfir          (w:1 l:0 d:0), (2/0)
        vs Hidetsugu and Kairi              (w:1 l:0 d:0), (2/0)
        vs Admiral Brass, Unsinkable        (w:1 l:0 d:0), (2/0)
        vs Tasigur, the Golden Fang         (w:1 l:0 d:1), (3/1)
        vs Balmor, Battlemage Captain       (w:0 l:0 d:1), (0/0)
-       vs Samut, Vizier of Naktamun        (w:0 l:1 d:0), (0/2)
-       vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (2/0)
+       vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/0)
        vs Elminster                        (w:0 l:1 d:0), (0/2)
        vs Lord Windgrace                   (w:1 l:0 d:0), (2/1)
        vs Slimefoot and Squee              (w:0 l:1 d:0), (1/2)
@@ -2097,31 +1764,42 @@ Sidisi, Undead Vizier            matches:3    WM:  0.00%  LM:100.00%  DM:  0.00%
        vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
        vs Light-Paws, Emperor's Voice      (w:0 l:1 d:0), (0/2)
 
-Slimefoot and Squee              matches:86   WM: 60.47%  LM: 30.23%  DM:  9.30% (wm:52  lm:26  dm:8)  games:204  WG: 59.80% LG: 40.20% (wg: 122 lg:  82) pick: 22  
+Sisay, Weatherlight Captain      matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:8    WG: 25.00% LG: 75.00% (wg:   2 lg:   6) pick: 1   
+  + Jegantha, the Wellspring    
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
+       vs The Reality Chip                 (w:0 l:1 d:0), (0/2)
+       vs Eriette of the Charmed Apple     (w:1 l:0 d:0), (2/0)
+       vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (0/2)
+
+Slimefoot and Squee              matches:89   WM: 62.92%  LM: 28.09%  DM:  8.99% (wm:56  lm:25  dm:8)  games:214  WG: 61.68% LG: 38.32% (wg: 132 lg:  82) pick: 23  
        vs Karlov of the Ghost Council      (w:1 l:1 d:2), (4/5)
         + Lurrus of the Dream-Den         
        vs Omnath, Locus of Creation        (w:4 l:3 d:2), (11/9)
        vs Ertai Resurrected                (w:1 l:1 d:1), (3/4)
-       vs Dihada, Binder of Wills          (w:4 l:2 d:0), (10/6)
+       vs Dihada, Binder of Wills          (w:5 l:3 d:0), (13/8)
        vs Light-Paws, Emperor's Voice      (w:2 l:0 d:1), (5/1)
        vs Kytheon, Hero of Akros           (w:1 l:0 d:0), (2/0)
-       vs Geist of Saint Traft             (w:0 l:1 d:0), (1/2)
+       vs Geist of Saint Traft             (w:1 l:1 d:0), (3/2)
        vs Ghyrson Starn, Kelermorph        (w:3 l:0 d:0), (6/1)
+       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/1)
+       vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/1)
+       vs Vial Smasher the Fierce          (w:2 l:1 d:1), (5/4)
+       vs Golos, Tireless Pilgrim          (w:3 l:2 d:0), (6/5)
        vs Aminatou, the Fateshifter        (w:3 l:1 d:0), (6/2)
        vs Aragorn, King of Gondor          (w:3 l:0 d:0), (6/1)
        vs Asmoranomardicadaistinaculdacar  (w:3 l:0 d:0), (6/2)
        vs Elas il-Kor, Sadistic Pilgrim    (w:0 l:1 d:0), (1/2)
        vs Kess, Dissident Mage             (w:0 l:0 d:1), (1/1)
        vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (2/1)
-       vs Golos, Tireless Pilgrim          (w:2 l:2 d:0), (4/5)
        vs Lord Windgrace                   (w:0 l:1 d:0), (1/2)
        vs Grist, the Hunger Tide           (w:2 l:0 d:0), (4/0)
-       vs Saskia the Unyielding            (w:3 l:0 d:0), (6/3)
-       vs The Reality Chip                 (w:1 l:4 d:0), (3/8)
+       vs Saskia the Unyielding            (w:4 l:0 d:0), (8/3)
+       vs The Reality Chip                 (w:1 l:3 d:0), (3/6)
        vs Juri, Master of the Revue        (w:0 l:1 d:0), (1/2)
        vs Winota, Joiner of Forces         (w:0 l:1 d:0), (0/2)
-       vs Vial Smasher the Fierce          (w:2 l:0 d:0), (4/1)
        vs Oloro, Ageless Ascetic           (w:1 l:0 d:0), (2/0)
+       vs Judith, the Scourge Diva         (w:1 l:0 d:0), (2/0)
+       vs Arahbo, Roar of the World        (w:0 l:1 d:0), (1/2)
        vs Kari Zev, Skyship Raider         (w:1 l:1 d:0), (2/3)
        vs Rocco, Cabaretti Caterer         (w:1 l:0 d:0), (2/1)
        vs Akiri, Line-Slinger              (w:1 l:0 d:0), (2/1)
@@ -2138,9 +1816,6 @@ Slimefoot and Squee              matches:86   WM: 60.47%  LM: 30.23%  DM:  9.30%
         + Lurrus of the Dream-Den         
        vs Gut, True Soul Zealot            (w:0 l:1 d:0), (1/2)
         + Flaming Fist                    
-       vs Uro, Titan of Nature's Wrath     (w:1 l:3 d:0), (2/6)
-       vs Surrak Dragonclaw                (w:0 l:0 d:1), (1/1)
-       vs Tivit, Seller of Secrets         (w:2 l:0 d:0), (4/0)
        vs Shorikai, Genesis Engine         (w:1 l:0 d:0), (2/1)
 
 Slogurk, the Overslime           matches:4    WM: 50.00%  LM: 25.00%  DM: 25.00% (wm:2   lm:1   dm:1)  games:11   WG: 54.55% LG: 45.45% (wg:   6 lg:   5) pick: 1   
@@ -2149,22 +1824,7 @@ Slogurk, the Overslime           matches:4    WM: 50.00%  LM: 25.00%  DM: 25.00%
        vs Saskia the Unyielding            (w:1 l:0 d:0), (2/1)
        vs Queen Marchesa                   (w:0 l:0 d:1), (1/1)
 
-Squee, Dubious Monarch           matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:6    WG:  0.00% LG:100.00% (wg:   0 lg:   6) pick: 1   
-       vs Karlov of the Ghost Council      (w:0 l:1 d:0), (0/2)
-        + Lurrus of the Dream-Den         
-       vs Sythis, Harvest's Hand           (w:0 l:1 d:0), (0/2)
-       vs Arahbo, Roar of the World        (w:0 l:1 d:0), (0/2)
-
-Surrak Dragonclaw                matches:9    WM: 55.56%  LM: 33.33%  DM: 11.11% (wm:5   lm:3   dm:1)  games:20   WG: 55.00% LG: 45.00% (wg:  11 lg:   9) pick: 2   
-       vs Uro, Titan of Nature's Wrath     (w:1 l:1 d:0), (2/2)
-       vs Marath, Will of the Wild         (w:0 l:1 d:0), (0/2)
-       vs Slimefoot and Squee              (w:0 l:0 d:1), (1/1)
-       vs Tivit, Seller of Secrets         (w:1 l:0 d:0), (1/0)
-       vs Arahbo, Roar of the World        (w:0 l:1 d:0), (1/2)
-       vs Syr Faren, the Hengehammer       (w:2 l:0 d:0), (4/2)
-       vs The Reality Chip                 (w:1 l:0 d:0), (2/0)
-
-Syr Faren, the Hengehammer       matches:11   WM: 18.18%  LM: 81.82%  DM:  0.00% (wm:2   lm:9   dm:0)  games:28   WG: 28.57% LG: 71.43% (wg:   8 lg:  20) pick: 3   
+Syr Faren, the Hengehammer       matches:7    WM: 28.57%  LM: 71.43%  DM:  0.00% (wm:2   lm:5   dm:0)  games:17   WG: 29.41% LG: 70.59% (wg:   5 lg:  12) pick: 2   
        vs Selvala, Explorer Returned       (w:0 l:1 d:0), (0/2)
        vs Raffine, Scheming Seer           (w:0 l:1 d:0), (0/2)
        vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (1/2)
@@ -2172,24 +1832,15 @@ Syr Faren, the Hengehammer       matches:11   WM: 18.18%  LM: 81.82%  DM:  0.00%
        vs Karlov of the Ghost Council      (w:0 l:1 d:0), (0/2)
        vs Ojer Axonil, Deepest Might       (w:1 l:0 d:0), (2/1)
        vs Leovold, Emissary of Trest       (w:1 l:0 d:0), (2/1)
-       vs The Reality Chip                 (w:0 l:1 d:0), (1/2)
-       vs Surrak Dragonclaw                (w:0 l:2 d:0), (2/4)
-       vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (0/2)
 
-Sythis, Harvest's Hand           matches:22   WM: 13.64%  LM: 86.36%  DM:  0.00% (wm:3   lm:19  dm:0)  games:52   WG: 25.00% LG: 75.00% (wg:  13 lg:  39) pick: 6   
+Sythis, Harvest's Hand           matches:16   WM:  6.25%  LM: 93.75%  DM:  0.00% (wm:1   lm:15  dm:0)  games:36   WG: 16.67% LG: 83.33% (wg:   6 lg:  30) pick: 5   
+       vs Raffine, Scheming Seer           (w:0 l:1 d:0), (0/2)
+       vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/0)
+       vs Marath, Will of the Wild         (w:0 l:1 d:0), (0/2)
        vs Aragorn, King of Gondor          (w:0 l:1 d:0), (0/2)
        vs Akiri, Line-Slinger              (w:0 l:1 d:0), (0/2)
         + Silas Renn, Seeker Adept        
        vs Slimefoot and Squee              (w:0 l:1 d:0), (1/2)
-       vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (1/2)
-       vs Squee, Dubious Monarch           (w:1 l:0 d:0), (2/0)
-       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
-       vs Liesa, Shroud of Dusk            (w:0 l:1 d:0), (1/2)
-       vs Queen Marchesa                   (w:1 l:0 d:0), (2/1)
-       vs Shorikai, Genesis Engine         (w:0 l:1 d:0), (0/2)
-       vs Geist of Saint Traft             (w:0 l:1 d:0), (1/2)
-       vs Ghyrson Starn, Kelermorph        (w:1 l:0 d:0), (2/0)
-       vs Uro, Titan of Nature's Wrath     (w:0 l:1 d:0), (0/2)
        vs Trelasarra, Moon Dancer          (w:0 l:1 d:0), (0/2)
        vs Karlov of the Ghost Council      (w:0 l:1 d:0), (0/2)
         + Lurrus of the Dream-Den         
@@ -2201,15 +1852,6 @@ Sythis, Harvest's Hand           matches:22   WM: 13.64%  LM: 86.36%  DM:  0.00%
        vs Vadrik, Astral Archmage          (w:0 l:1 d:0), (0/2)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
-
-Talion, the Kindly Lord          matches:9    WM: 11.11%  LM: 77.78%  DM: 11.11% (wm:1   lm:7   dm:1)  games:25   WG: 36.00% LG: 64.00% (wg:   9 lg:  16) pick: 2   
-       vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (0/2)
-       vs Uro, Titan of Nature's Wrath     (w:1 l:1 d:1), (4/4)
-       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (1/2)
-       vs Grist, the Hunger Tide           (w:0 l:1 d:0), (1/2)
-       vs The Reality Chip                 (w:0 l:1 d:0), (1/2)
-       vs Laelia, the Blade Reforged       (w:0 l:1 d:0), (1/2)
-       vs Winota, Joiner of Forces         (w:0 l:1 d:0), (1/2)
 
 Talrand, Sky Summoner            matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 44.44% LG: 55.56% (wg:   4 lg:   5) pick: 1   
        vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (0/2)
@@ -2242,23 +1884,10 @@ Tergrid, God of Fright           matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00%
        vs Gix, Yawgmoth Praetor            (w:0 l:1 d:0), (1/2)
        vs Kellan, the Fae-Blooded          (w:0 l:1 d:0), (0/2)
 
-Teysa, Orzhov Scion              matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:1   lm:4   dm:0)  games:12   WG: 33.33% LG: 66.67% (wg:   4 lg:   8) pick: 1   
-       vs Samut, Vizier of Naktamun        (w:0 l:1 d:0), (1/2)
-       vs Liesa, Shroud of Dusk            (w:0 l:1 d:0), (0/2)
-       vs Queen Marchesa                   (w:1 l:0 d:0), (2/0)
-       vs Torbran, Thane of Red Fell       (w:0 l:1 d:0), (0/2)
-       vs Melira, the Living Cure          (w:0 l:1 d:0), (1/2)
-
-Thalia and The Gitrog Monster    matches:12   WM: 50.00%  LM: 41.67%  DM:  8.33% (wm:6   lm:5   dm:1)  games:30   WG: 53.33% LG: 46.67% (wg:  16 lg:  14) pick: 3   
+Thalia and The Gitrog Monster    matches:6    WM: 50.00%  LM: 33.33%  DM: 16.67% (wm:3   lm:2   dm:1)  games:16   WG: 56.25% LG: 43.75% (wg:   9 lg:   7) pick: 2   
        vs Shorikai, Genesis Engine         (w:1 l:1 d:0), (3/3)
        vs God-Eternal Kefnet               (w:2 l:0 d:0), (4/1)
        vs Atraxa, Grand Unifier            (w:0 l:1 d:0), (1/2)
-       vs Azusa, Lost but Seeking          (w:0 l:1 d:0), (1/2)
-       vs Kinnan, Bonder Prodigy           (w:1 l:0 d:0), (2/0)
-       vs Ruby, Daring Tracker             (w:1 l:0 d:0), (2/0)
-       vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (0/2)
-       vs Samut, Vizier of Naktamun        (w:1 l:0 d:0), (2/1)
-       vs Aragorn, King of Gondor          (w:0 l:1 d:0), (0/2)
        vs Oloro, Ageless Ascetic           (w:0 l:0 d:1), (1/1)
 
 The Beamtown Bullies             matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:18   WG: 50.00% LG: 50.00% (wg:   9 lg:   9) pick: 1   
@@ -2270,55 +1899,47 @@ The Beamtown Bullies             matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00%
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
         + Tana, the Bloodsower            
 
-The Gitrog Monster               matches:4    WM: 25.00%  LM: 25.00%  DM: 50.00% (wm:1   lm:1   dm:2)  games:9    WG: 55.56% LG: 44.44% (wg:   5 lg:   4) pick: 1   
-       vs Asmoranomardicadaistinaculdacar  (w:1 l:1 d:0), (3/2)
-       vs Balmor, Battlemage Captain       (w:0 l:0 d:1), (1/1)
-       vs Atraxa, Grand Unifier            (w:0 l:0 d:1), (1/1)
-
-The Reality Chip                 matches:110  WM: 46.36%  LM: 44.55%  DM:  9.09% (wm:51  lm:49  dm:10) games:256  WG: 50.00% LG: 50.00% (wg: 128 lg: 128) pick: 29  
+The Reality Chip                 matches:86   WM: 47.67%  LM: 45.35%  DM:  6.98% (wm:41  lm:39  dm:6)  games:201  WG: 50.25% LG: 49.75% (wg: 101 lg: 100) pick: 23  
        vs Aminatou, the Fateshifter        (w:0 l:3 d:1), (4/7)
-       vs Golos, Tireless Pilgrim          (w:3 l:3 d:1), (8/8)
+       vs Golos, Tireless Pilgrim          (w:2 l:3 d:1), (6/8)
        vs Light-Paws, Emperor's Voice      (w:2 l:1 d:0), (5/2)
        vs Ertai Resurrected                (w:1 l:1 d:0), (2/3)
        vs Inalla, Archmage Ritualist       (w:2 l:0 d:0), (4/1)
        vs Kinnan, Bonder Prodigy           (w:0 l:3 d:0), (0/6)
-       vs Uro, Titan of Nature's Wrath     (w:2 l:2 d:1), (5/4)
-       vs Ghyrson Starn, Kelermorph        (w:2 l:2 d:0), (6/5)
+       vs Indoraptor, the Perfect Hybrid   (w:4 l:0 d:0), (8/3)
+       vs Asmoranomardicadaistinaculdacar  (w:2 l:1 d:0), (4/2)
+       vs Raffine, Scheming Seer           (w:1 l:0 d:0), (2/0)
+       vs Dihada, Binder of Wills          (w:1 l:2 d:0), (3/5)
+       vs Sisay, Weatherlight Captain      (w:1 l:0 d:0), (2/0)
+        + Jegantha, the Wellspring        
+       vs Juri, Master of the Revue        (w:2 l:0 d:1), (4/1)
        vs Elas il-Kor, Sadistic Pilgrim    (w:0 l:1 d:0), (1/2)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
         + Tana, the Bloodsower            
-       vs Shorikai, Genesis Engine         (w:0 l:2 d:0), (2/4)
-       vs Omnath, Locus of Creation        (w:1 l:4 d:0), (2/8)
-       vs Juri, Master of the Revue        (w:1 l:0 d:1), (2/1)
-       vs Aragorn, King of Gondor          (w:0 l:2 d:0), (0/4)
+       vs Shorikai, Genesis Engine         (w:0 l:1 d:0), (1/2)
+       vs Omnath, Locus of Creation        (w:0 l:4 d:0), (0/8)
        vs Grist, the Hunger Tide           (w:1 l:0 d:0), (2/0)
-       vs Winota, Joiner of Forces         (w:2 l:5 d:1), (7/12)
-       vs Indoraptor, the Perfect Hybrid   (w:3 l:0 d:0), (6/3)
-       vs Slimefoot and Squee              (w:4 l:1 d:0), (8/3)
+       vs Winota, Joiner of Forces         (w:2 l:4 d:1), (7/10)
+       vs Slimefoot and Squee              (w:3 l:1 d:0), (6/3)
        vs Thrasios, Triton Hero            (w:0 l:0 d:1), (1/1)
-       vs Karlov of the Ghost Council      (w:0 l:3 d:1), (2/7)
+       vs Karlov of the Ghost Council      (w:0 l:2 d:0), (0/4)
         + Lurrus of the Dream-Den         
        vs Bjorna, Nightfall Alchemist      (w:1 l:1 d:0), (3/3)
         + Wernog, Rider's Chaplain        
         + Lurrus of the Dream-Den         
        vs Rashmi, Eternities Crafter       (w:1 l:0 d:0), (2/0)
        vs Rocco, Cabaretti Caterer         (w:1 l:0 d:0), (2/0)
-       vs Asmoranomardicadaistinaculdacar  (w:3 l:1 d:0), (6/2)
+       vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (1/2)
        vs Malik, Grim Manipulator          (w:1 l:0 d:0), (2/0)
        vs Trelasarra, Moon Dancer          (w:0 l:1 d:0), (0/2)
-       vs Atraxa, Grand Unifier            (w:1 l:0 d:1), (3/2)
-       vs Hogaak, Arisen Necropolis        (w:2 l:0 d:0), (4/1)
        vs Feldon, Ronom Excavator          (w:2 l:0 d:0), (4/2)
-       vs Dihada, Binder of Wills          (w:1 l:1 d:0), (2/3)
        vs Ludevic, Necro-Alchemist         (w:0 l:1 d:0), (0/2)
        vs Yoshimaru, Ever Faithful         (w:1 l:1 d:0), (3/3)
        vs Heliod, Sun-Crowned              (w:3 l:0 d:0), (6/0)
        vs Gix, Yawgmoth Praetor            (w:1 l:0 d:0), (2/1)
        vs Geist of Saint Traft             (w:0 l:2 d:1), (2/5)
-       vs Talion, the Kindly Lord          (w:1 l:0 d:0), (2/1)
-       vs Ruby, Daring Tracker             (w:1 l:0 d:0), (2/1)
-       vs Elminster                        (w:0 l:1 d:0), (0/2)
-       vs Oloro, Ageless Ascetic           (w:1 l:1 d:1), (2/3)
+       vs Hogaak, Arisen Necropolis        (w:1 l:0 d:0), (2/1)
+       vs Oloro, Ageless Ascetic           (w:1 l:1 d:0), (1/2)
        vs Kari Zev, Skyship Raider         (w:0 l:1 d:0), (1/2)
        vs Gut, True Soul Zealot            (w:2 l:0 d:0), (4/1)
         + Flaming Fist                    
@@ -2328,10 +1949,6 @@ The Reality Chip                 matches:110  WM: 46.36%  LM: 44.55%  DM:  9.09%
        vs Kytheon, Hero of Akros           (w:0 l:1 d:0), (0/2)
        vs Vial Smasher the Fierce          (w:1 l:0 d:0), (2/0)
        vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/0)
-       vs Ratadrabik of Urborg             (w:1 l:0 d:0), (2/0)
-       vs Syr Faren, the Hengehammer       (w:1 l:0 d:0), (2/1)
-       vs Arahbo, Roar of the World        (w:0 l:1 d:0), (1/2)
-       vs Surrak Dragonclaw                (w:0 l:1 d:0), (0/2)
 
 Thrasios, Triton Hero            matches:4    WM: 25.00%  LM: 50.00%  DM: 25.00% (wm:1   lm:2   dm:1)  games:8    WG: 50.00% LG: 50.00% (wg:   4 lg:   4) pick: 1   
        vs Inalla, Archmage Ritualist       (w:1 l:0 d:0), (2/0)
@@ -2340,30 +1957,13 @@ Thrasios, Triton Hero            matches:4    WM: 25.00%  LM: 50.00%  DM: 25.00%
         + Lurrus of the Dream-Den         
        vs The Reality Chip                 (w:0 l:0 d:1), (1/1)
 
-Titania, Protector of Argoth     matches:5    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:5   dm:0)  games:12   WG: 16.67% LG: 83.33% (wg:   2 lg:  10) pick: 1   
-       vs Uro, Titan of Nature's Wrath     (w:0 l:1 d:0), (1/2)
-       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
-       vs Oloro, Ageless Ascetic           (w:0 l:1 d:0), (0/2)
-       vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (1/2)
-       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
-
-Tivit, Seller of Secrets         matches:24   WM: 45.83%  LM: 54.17%  DM:  0.00% (wm:11  lm:13  dm:0)  games:61   WG: 50.82% LG: 49.18% (wg:  31 lg:  30) pick: 5   
-       vs Laelia, the Blade Reforged       (w:0 l:1 d:0), (1/2)
-       vs Winota, Joiner of Forces         (w:2 l:1 d:0), (5/4)
-       vs Light-Paws, Emperor's Voice      (w:1 l:1 d:0), (3/2)
+Tivit, Seller of Secrets         matches:8    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:6   lm:2   dm:0)  games:22   WG: 63.64% LG: 36.36% (wg:  14 lg:   8) pick: 2   
        vs Raffine, Scheming Seer           (w:2 l:0 d:0), (4/0)
-       vs Omnath, Locus of Creation        (w:1 l:2 d:0), (4/5)
-       vs Asmoranomardicadaistinaculdacar  (w:2 l:1 d:0), (5/4)
-       vs Lord Windgrace                   (w:0 l:1 d:0), (1/2)
-       vs Queen Marchesa                   (w:1 l:0 d:0), (2/0)
-       vs Ghyrson Starn, Kelermorph        (w:1 l:0 d:0), (2/0)
-       vs Samut, Vizier of Naktamun        (w:0 l:1 d:0), (0/2)
-       vs Surrak Dragonclaw                (w:0 l:1 d:0), (0/1)
-       vs Slimefoot and Squee              (w:0 l:2 d:0), (0/4)
-       vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/0)
-       vs Daretti, Scrap Savant            (w:0 l:2 d:0), (2/4)
+       vs Omnath, Locus of Creation        (w:0 l:2 d:0), (2/4)
+       vs Asmoranomardicadaistinaculdacar  (w:2 l:0 d:0), (4/2)
+       vs Winota, Joiner of Forces         (w:2 l:0 d:0), (4/2)
 
-Torbran, Thane of Red Fell       matches:11   WM: 45.45%  LM: 45.45%  DM:  9.09% (wm:5   lm:5   dm:1)  games:27   WG: 44.44% LG: 55.56% (wg:  12 lg:  15) pick: 3   
+Torbran, Thane of Red Fell       matches:7    WM: 57.14%  LM: 28.57%  DM: 14.29% (wm:4   lm:2   dm:1)  games:19   WG: 52.63% LG: 47.37% (wg:  10 lg:   9) pick: 2   
        vs Kess, Dissident Mage             (w:1 l:0 d:0), (2/1)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
         + Tana, the Bloodsower            
@@ -2371,21 +1971,6 @@ Torbran, Thane of Red Fell       matches:11   WM: 45.45%  LM: 45.45%  DM:  9.09%
        vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/1)
        vs Thrasios, Triton Hero            (w:1 l:0 d:0), (2/1)
        vs Kinnan, Bonder Prodigy           (w:0 l:0 d:1), (1/1)
-       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
-       vs Samut, Vizier of Naktamun        (w:0 l:1 d:0), (0/2)
-       vs Teysa, Orzhov Scion              (w:1 l:0 d:0), (2/0)
-       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
-
-Torens, Fist of the Angels       matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:16   WG: 50.00% LG: 50.00% (wg:   8 lg:   8) pick: 1   
-       vs Raffine, Scheming Seer           (w:0 l:1 d:0), (1/2)
-       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/1)
-       vs Kytheon, Hero of Akros           (w:1 l:0 d:0), (2/1)
-       vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (1/2)
-       vs Asmoranomardicadaistinaculdacar  (w:1 l:1 d:0), (2/2)
-
-Tovolar, Dire Overlord           matches:2    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:2   dm:0)  games:4    WG:  0.00% LG:100.00% (wg:   0 lg:   4) pick: 1   
-       vs Azusa, Lost but Seeking          (w:0 l:1 d:0), (0/2)
-       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
 
 Trelasarra, Moon Dancer          matches:8    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:4   lm:4   dm:0)  games:20   WG: 50.00% LG: 50.00% (wg:  10 lg:  10) pick: 2   
        vs Heliod, Sun-Crowned              (w:0 l:1 d:0), (1/2)
@@ -2398,7 +1983,7 @@ Trelasarra, Moon Dancer          matches:8    WM: 50.00%  LM: 50.00%  DM:  0.00%
        vs Karlov of the Ghost Council      (w:0 l:1 d:0), (0/2)
         + Lurrus of the Dream-Den         
 
-Tymaret, the Murder King         matches:17   WM: 23.53%  LM: 70.59%  DM:  5.88% (wm:4   lm:12  dm:1)  games:38   WG: 26.32% LG: 73.68% (wg:  10 lg:  28) pick: 4   
+Tymaret, the Murder King         matches:12   WM: 25.00%  LM: 66.67%  DM:  8.33% (wm:3   lm:8   dm:1)  games:26   WG: 26.92% LG: 73.08% (wg:   7 lg:  19) pick: 3   
        vs Raffine, Scheming Seer           (w:0 l:2 d:0), (0/4)
        vs Goro-Goro and Satoru             (w:1 l:0 d:0), (2/0)
        vs Karador, Ghost Chieftain         (w:1 l:0 d:0), (2/1)
@@ -2406,61 +1991,9 @@ Tymaret, the Murder King         matches:17   WM: 23.53%  LM: 70.59%  DM:  5.88%
        vs Najeela, the Blade-Blossom       (w:0 l:1 d:0), (0/2)
        vs Octavia, Living Thesis           (w:0 l:1 d:0), (0/2)
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
-       vs Omnath, Locus of Creation        (w:0 l:2 d:0), (1/4)
-       vs Samut, Vizier of Naktamun        (w:1 l:0 d:0), (2/1)
-       vs Azusa, Lost but Seeking          (w:0 l:1 d:0), (0/2)
-       vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (0/2)
        vs Don Andres, the Renegade         (w:0 l:1 d:0), (0/2)
        vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
        vs Queen Marchesa                   (w:0 l:1 d:0), (0/2)
-
-Uro, Titan of Nature's Wrath     matches:134  WM: 58.21%  LM: 29.85%  DM: 11.94% (wm:78  lm:40  dm:16) games:308  WG: 60.39% LG: 39.61% (wg: 186 lg: 122) pick: 30  
-       vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
-       vs Light-Paws, Emperor's Voice      (w:2 l:2 d:0), (5/4)
-       vs Arcades, the Strategist          (w:4 l:1 d:0), (7/3)
-       vs Anafenza, the Foremost           (w:0 l:1 d:0), (1/2)
-       vs Shorikai, Genesis Engine         (w:1 l:1 d:2), (5/5)
-       vs Marath, Will of the Wild         (w:1 l:0 d:1), (3/2)
-       vs Asmoranomardicadaistinaculdacar  (w:6 l:8 d:3), (18/21)
-       vs Talion, the Kindly Lord          (w:1 l:1 d:1), (4/4)
-       vs Kinnan, Bonder Prodigy           (w:6 l:4 d:3), (14/15)
-       vs Winota, Joiner of Forces         (w:5 l:1 d:1), (12/7)
-       vs Leovold, Emissary of Trest       (w:0 l:1 d:0), (1/2)
-       vs Dihada, Binder of Wills          (w:4 l:0 d:1), (9/3)
-       vs Chatterfang, Squirrel General    (w:1 l:0 d:0), (2/1)
-       vs The Reality Chip                 (w:2 l:2 d:1), (4/5)
-       vs Ertai Resurrected                (w:1 l:0 d:0), (2/0)
-       vs Aragorn, the Uniter              (w:1 l:0 d:0), (2/1)
-       vs Ghyrson Starn, Kelermorph        (w:4 l:2 d:0), (10/5)
-       vs Aragorn, King of Gondor          (w:3 l:0 d:1), (7/1)
-       vs Omnath, Locus of Creation        (w:3 l:1 d:0), (7/2)
-       vs Oloro, Ageless Ascetic           (w:1 l:0 d:0), (2/0)
-       vs Titania, Protector of Argoth     (w:1 l:0 d:0), (2/1)
-       vs Golos, Tireless Pilgrim          (w:2 l:2 d:0), (5/5)
-       vs Prossh, Skyraider of Kher        (w:1 l:1 d:0), (2/2)
-       vs Elas il-Kor, Sadistic Pilgrim    (w:1 l:1 d:0), (2/2)
-        + Lurrus of the Dream-Den         
-       vs Samut, Vizier of Naktamun        (w:1 l:1 d:0), (2/2)
-       vs Ratadrabik of Urborg             (w:1 l:0 d:0), (2/0)
-       vs Inalla, Archmage Ritualist       (w:0 l:1 d:0), (0/2)
-       vs Azusa, Lost but Seeking          (w:3 l:0 d:0), (6/1)
-       vs Ruby, Daring Tracker             (w:3 l:0 d:0), (6/1)
-       vs Hogaak, Arisen Necropolis        (w:2 l:2 d:0), (4/5)
-       vs Kellan, the Fae-Blooded          (w:1 l:0 d:0), (2/0)
-       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/1)
-       vs Raffine, Scheming Seer           (w:1 l:1 d:0), (3/3)
-       vs Kess, Dissident Mage             (w:1 l:0 d:0), (2/0)
-       vs Queen Marchesa                   (w:1 l:0 d:0), (2/0)
-       vs Melira, the Living Cure          (w:1 l:0 d:0), (2/0)
-       vs Lord Windgrace                   (w:1 l:1 d:1), (4/3)
-       vs Laelia, the Blade Reforged       (w:1 l:0 d:0), (2/0)
-       vs Elminster                        (w:0 l:1 d:0), (0/2)
-       vs Arahbo, Roar of the World        (w:0 l:1 d:1), (2/3)
-       vs General Ferrous Rokiric          (w:1 l:1 d:0), (3/2)
-       vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (2/0)
-       vs Slimefoot and Squee              (w:3 l:1 d:0), (6/2)
-       vs Surrak Dragonclaw                (w:1 l:1 d:0), (2/2)
-       vs Daretti, Scrap Savant            (w:2 l:0 d:0), (4/0)
 
 Urza, Chief Artificer            matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:6    WG:  0.00% LG:100.00% (wg:   0 lg:   6) pick: 1   
        vs Zimone, Quandrix Prodigy         (w:0 l:1 d:0), (0/2)
@@ -2472,16 +2005,17 @@ Vadrik, Astral Archmage          matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00%
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
 
-Vial Smasher the Fierce          matches:30   WM: 43.33%  LM: 56.67%  DM:  0.00% (wm:13  lm:17  dm:0)  games:73   WG: 42.47% LG: 57.53% (wg:  31 lg:  42) pick: 7   
+Vial Smasher the Fierce          matches:34   WM: 47.06%  LM: 50.00%  DM:  2.94% (wm:16  lm:17  dm:1)  games:83   WG: 45.78% LG: 54.22% (wg:  38 lg:  45) pick: 8   
+       vs Eriette of the Charmed Apple     (w:1 l:0 d:0), (2/1)
+       vs Kinnan, Bonder Prodigy           (w:2 l:0 d:0), (4/2)
+       vs Slimefoot and Squee              (w:1 l:2 d:1), (4/5)
        vs Liesa, Shroud of Dusk            (w:1 l:0 d:0), (2/0)
        vs Hogaak, Arisen Necropolis        (w:1 l:0 d:0), (2/1)
        vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
        vs Asmoranomardicadaistinaculdacar  (w:0 l:3 d:0), (1/6)
-       vs Kinnan, Bonder Prodigy           (w:1 l:0 d:0), (2/1)
        vs Golos, Tireless Pilgrim          (w:2 l:1 d:0), (4/4)
        vs Aragorn, King of Gondor          (w:0 l:1 d:0), (0/2)
        vs Ghyrson Starn, Kelermorph        (w:1 l:0 d:0), (2/0)
-       vs Slimefoot and Squee              (w:0 l:2 d:0), (1/4)
        vs Juri, Master of the Revue        (w:0 l:1 d:0), (1/2)
        vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/0)
        vs Aminatou, the Fateshifter        (w:1 l:1 d:0), (3/3)
@@ -2528,31 +2062,27 @@ Wilson, Refined Grizzly          matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00%
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
        vs Shorikai, Genesis Engine         (w:1 l:0 d:0), (2/1)
 
-Winota, Joiner of Forces         matches:98   WM: 57.14%  LM: 38.78%  DM:  4.08% (wm:56  lm:38  dm:4)  games:241  WG: 54.77% LG: 45.23% (wg: 132 lg: 109) pick: 27  
-       vs Kinnan, Bonder Prodigy           (w:2 l:1 d:0), (4/4)
-       vs Leovold, Emissary of Trest       (w:3 l:0 d:0), (6/1)
-       vs Asmoranomardicadaistinaculdacar  (w:4 l:1 d:0), (8/6)
-       vs Laelia, the Blade Reforged       (w:3 l:3 d:0), (6/7)
-       vs Tivit, Seller of Secrets         (w:1 l:2 d:0), (4/5)
-       vs Uro, Titan of Nature's Wrath     (w:1 l:5 d:1), (7/12)
-       vs Grist, the Hunger Tide           (w:4 l:0 d:0), (8/1)
-       vs Anafenza, the Foremost           (w:1 l:0 d:0), (2/1)
-       vs Marath, Will of the Wild         (w:0 l:2 d:0), (0/4)
+Winota, Joiner of Forces         matches:77   WM: 61.04%  LM: 35.06%  DM:  3.90% (wm:47  lm:27  dm:3)  games:187  WG: 56.68% LG: 43.32% (wg: 106 lg:  81) pick: 23  
        vs Codie, Vociferous Codex          (w:0 l:0 d:1), (1/1)
-       vs Light-Paws, Emperor's Voice      (w:2 l:3 d:0), (5/6)
-       vs Heliod, Sun-Crowned              (w:3 l:1 d:0), (7/2)
+       vs Light-Paws, Emperor's Voice      (w:2 l:2 d:0), (4/4)
+       vs Heliod, Sun-Crowned              (w:4 l:1 d:0), (9/2)
        vs Saskia the Unyielding            (w:0 l:1 d:0), (0/2)
        vs Kari Zev, Skyship Raider         (w:2 l:0 d:0), (4/1)
+       vs Asmoranomardicadaistinaculdacar  (w:4 l:0 d:0), (8/4)
        vs Flamewar, Brash Veteran          (w:1 l:0 d:0), (2/0)
        vs Indoraptor, the Perfect Hybrid   (w:2 l:2 d:0), (6/5)
-       vs The Reality Chip                 (w:5 l:2 d:1), (12/7)
+       vs Laelia, the Blade Reforged       (w:1 l:3 d:0), (2/7)
+       vs The Reality Chip                 (w:4 l:2 d:1), (10/7)
        vs Ghyrson Starn, Kelermorph        (w:1 l:1 d:0), (2/2)
        vs Samwise Gamgee                   (w:0 l:2 d:0), (0/4)
+       vs Kinnan, Bonder Prodigy           (w:2 l:0 d:0), (4/2)
        vs Omnath, Locus of Creation        (w:3 l:2 d:0), (6/7)
        vs Golos, Tireless Pilgrim          (w:2 l:0 d:0), (4/2)
        vs Raffine, Scheming Seer           (w:2 l:0 d:0), (4/2)
+       vs Grist, the Hunger Tide           (w:3 l:0 d:0), (6/1)
        vs Feldon, Ronom Excavator          (w:2 l:2 d:0), (4/4)
-       vs Arahbo, Roar of the World        (w:1 l:1 d:0), (3/3)
+       vs Tivit, Seller of Secrets         (w:0 l:2 d:0), (2/4)
+       vs Arahbo, Roar of the World        (w:1 l:0 d:0), (2/1)
        vs Kess, Dissident Mage             (w:1 l:0 d:0), (2/1)
        vs Slimefoot and Squee              (w:1 l:0 d:0), (2/0)
        vs Animar, Soul of Elements         (w:1 l:0 d:0), (2/0)
@@ -2561,13 +2091,12 @@ Winota, Joiner of Forces         matches:98   WM: 57.14%  LM: 38.78%  DM:  4.08%
        vs Rocco, Cabaretti Caterer         (w:0 l:1 d:0), (1/2)
        vs Ognis, the Dragon's Lash         (w:1 l:0 d:0), (2/1)
        vs Geist of Saint Traft             (w:0 l:3 d:0), (1/6)
-       vs Talion, the Kindly Lord          (w:1 l:0 d:0), (2/1)
-       vs Arcades, the Strategist          (w:0 l:1 d:0), (1/2)
+       vs Karlov of the Ghost Council      (w:0 l:2 d:0), (1/4)
+        + Lurrus of the Dream-Den         
+       vs Rin and Seri, Inseparable        (w:1 l:0 d:0), (2/0)
        vs Prosper, Tome-Bound              (w:1 l:0 d:0), (2/1)
        vs Esika, God of the Tree           (w:1 l:0 d:0), (2/0)
        vs Aesi, Tyrant of Gyre Strait      (w:1 l:0 d:0), (2/0)
-       vs Karlov of the Ghost Council      (w:0 l:1 d:0), (1/2)
-        + Lurrus of the Dream-Den         
        vs Aminatou, the Fateshifter        (w:0 l:0 d:1), (1/1)
        vs Juri, Master of the Revue        (w:1 l:0 d:0), (2/1)
        vs Najeela, the Blade-Blossom       (w:1 l:0 d:0), (2/0)
@@ -2657,14 +2186,10 @@ Yoshimaru, Ever Faithful         matches:62   WM: 58.06%  LM: 40.32%  DM:  1.61%
         + Agent of the Iron Throne        
        vs Narset, Enlightened Master       (w:0 l:1 d:0), (1/2)
 
-Zimone, Quandrix Prodigy         matches:10   WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:5   lm:5   dm:0)  games:21   WG: 52.38% LG: 47.62% (wg:  11 lg:  10) pick: 3   
+Zimone, Quandrix Prodigy         matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:13   WG: 69.23% LG: 30.77% (wg:   9 lg:   4) pick: 2   
        vs Sen Triplets                     (w:1 l:0 d:0), (2/0)
        vs Octavia, Living Thesis           (w:1 l:1 d:0), (2/2)
        vs Raffine, Scheming Seer           (w:1 l:1 d:0), (3/2)
-       vs Kess, Dissident Mage             (w:0 l:1 d:0), (0/2)
-       vs Aragorn, King of Gondor          (w:0 l:1 d:0), (0/2)
-       vs Obyra, Dreaming Duelist          (w:1 l:0 d:0), (2/0)
-       vs Kytheon, Hero of Akros           (w:0 l:1 d:0), (0/2)
        vs Urza, Chief Artificer            (w:1 l:0 d:0), (2/0)
 
 Éowyn, Shieldmaiden              matches:3    WM:  0.00%  LM: 66.67%  DM: 33.33% (wm:0   lm:2   dm:1)  games:7    WG: 28.57% LG: 71.43% (wg:   2 lg:   5) pick: 1   

@@ -1,0 +1,207 @@
+{
+    "date": "2024_03_29",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Гяго Георгий",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Иванько Альберт",
+            "Esika, God of the Tree"
+        ],
+        [
+            "Болотский Дмитрий",
+            "Karlov of the Ghost Council :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Коваль Светослав",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Хорьков Никита",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Заиграев Даниил",
+            "Kess, Dissident Mage"
+        ],
+        [
+            "Омельченко Виктор",
+            "Heliod, Sun-Crowned"
+        ],
+        [
+            "Берзегов Рамазан",
+            "Judith, the Scourge Diva"
+        ],
+        [
+            "Петрухин Иван",
+            "Rin and Seri, Inseparable"
+        ],
+        [
+            "Пузиков Никита",
+            "Saskia the Unyielding"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Гяго Георгий",
+                "Заиграев Даниил",
+                "Arahbo, Roar of the World",
+                "Kess, Dissident Mage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Петрухин Иван",
+                "Esika, God of the Tree",
+                "Rin and Seri, Inseparable",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Болотский Дмитрий",
+                "Хорьков Никита",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Берзегов Рамазан",
+                "Slimefoot and Squee",
+                "Judith, the Scourge Diva",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Омельченко Виктор",
+                "Пузиков Никита",
+                "Heliod, Sun-Crowned",
+                "Saskia the Unyielding",
+                [
+                    1,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Гяго Георгий",
+                "Болотский Дмитрий",
+                "Arahbo, Roar of the World",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Омельченко Виктор",
+                "Esika, God of the Tree",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Пузиков Никита",
+                "Slimefoot and Squee",
+                "Saskia the Unyielding",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Петрухин Иван",
+                "Winota, Joiner of Forces",
+                "Rin and Seri, Inseparable",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Заиграев Даниил",
+                "Берзегов Рамазан",
+                "Kess, Dissident Mage",
+                "Judith, the Scourge Diva",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Гяго Георгий",
+                "Коваль Светослав",
+                "Arahbo, Roar of the World",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Заиграев Даниил",
+                "Esika, God of the Tree",
+                "Kess, Dissident Mage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Болотский Дмитрий",
+                "Пузиков Никита",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Saskia the Unyielding",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Омельченко Виктор",
+                "Winota, Joiner of Forces",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Берзегов Рамазан",
+                "Петрухин Иван",
+                "Judith, the Scourge Diva",
+                "Rin and Seri, Inseparable",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,22 @@
+location::Moscow
+level::Open
+date::2024_03_24
+organizer::GALL
+players::generals
+Фридман Сергей :: The Reality Cheap
+Палачев Константин :: Raffine the Scheaming Seer
+Третьяков Дмитрий :: Marath, Will of the Wild
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Костенко Егор :: Asmoranomardicadaistinaculdacar
+Баранов Александр :: Sythis, Harvest's Hand
+Евгеньев Александр :: Aminatou, the Fateshifter
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Round
+https://aetherhub.com/Tourney/RoundTourney/28393
+
+
+Top4:
+Фридман Сергей 2 - 0 Ульянов Алексей
+Палачев Константин 2 - 1 Третьяков Дмитрий
+Финал:
+Фридман Сергей ?? - ?? Палачев Константин

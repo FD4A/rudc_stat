@@ -1,0 +1,23 @@
+location::Spb
+level::Regular
+date::2024_03_28
+organizer::Andysays
+players::generals
+Грабовой Филипп :: Slimefoot and Squee
+Байков Аркадий :: Vial Smasher the Fierce
+Яковлев Николай :: Dihada, Binder of Wills
+Протасов Михаил :: Aminatou, the Fateshifter
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Мартынов Яков :: The Reality Cheap
+Иванов Дмитрий :: Golos, Tireless Pilgrim
+Тяпайкин Максим :: Kroxa, Titan of Death's Hunger
+Цюра Максим :: Slimefoot and Squee
+Пятыгин Андрей :: Omnath, Locus of Creation
+Иванов Максим :: Geist of Saint Traft
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Смирнов Александр :: Eriette of the Charmed Apple
+Чжан Цзяи :: Sisay, Weatherlight Captain :++: Jegantha, the Wellspring
+Лузаков Петр :: Juri, Master of the Revue
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/28481

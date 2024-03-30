@@ -1,0 +1,169 @@
+{
+    "date": "2024_03_24",
+    "location": "Moscow",
+    "level": "Open",
+    "organizer": "GALL",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Фридман Сергей",
+            "The Reality Chip"
+        ],
+        [
+            "Палачев Константин",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Третьяков Дмитрий",
+            "Marath, Will of the Wild"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Костенко Егор",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Баранов Александр",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Евгеньев Александр",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Ульянов Алексей",
+                "Третьяков Дмитрий",
+                "Golos, Tireless Pilgrim",
+                "Marath, Will of the Wild",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Евгеньев Александр",
+                "Костенко Егор",
+                "Aminatou, the Fateshifter",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Фридман Сергей",
+                "Indoraptor, the Perfect Hybrid",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Баранов Александр",
+                "Палачев Константин",
+                "Sythis, Harvest's Hand",
+                "Raffine, Scheming Seer",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Костенко Егор",
+                "Фридман Сергей",
+                "Asmoranomardicadaistinaculdacar",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Третьяков Дмитрий",
+                "Палачев Константин",
+                "Marath, Will of the Wild",
+                "Raffine, Scheming Seer",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Евгеньев Александр",
+                "Golos, Tireless Pilgrim",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Баранов Александр",
+                "Indoraptor, the Perfect Hybrid",
+                "Sythis, Harvest's Hand",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Палачев Константин",
+                "Фридман Сергей",
+                "Raffine, Scheming Seer",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Третьяков Дмитрий",
+                "Баранов Александр",
+                "Marath, Will of the Wild",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Костенко Егор",
+                "Ульянов Алексей",
+                "Asmoranomardicadaistinaculdacar",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Евгеньев Александр",
+                "Indoraptor, the Perfect Hybrid",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

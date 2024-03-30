@@ -1,0 +1,403 @@
+{
+    "date": "2024_03_28",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Грабовой Филипп",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Яковлев Николай",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Протасов Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Цюра Максим",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Пятыгин Андрей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Барабаш Валентин",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Смирнов Александр",
+            "Eriette of the Charmed Apple"
+        ],
+        [
+            "Чжан Цзяи",
+            "Sisay, Weatherlight Captain :++: Jegantha, the Wellspring"
+        ],
+        [
+            "Лузаков Петр",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Яковлев Николай",
+                "Мартынов Яков",
+                "Dihada, Binder of Wills",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лузаков Петр",
+                "Барабаш Валентин",
+                "Juri, Master of the Revue",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Пятыгин Андрей",
+                "Протасов Михаил",
+                "Omnath, Locus of Creation",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Чжан Цзяи",
+                "Golos, Tireless Pilgrim",
+                "Sisay, Weatherlight Captain :++: Jegantha, the Wellspring",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Иванов Дмитрий",
+                "Geist of Saint Traft",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Грабовой Филипп",
+                "Kroxa, Titan of Death's Hunger",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Цюра Максим",
+                "Indoraptor, the Perfect Hybrid",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Смирнов Александр",
+                "Байков Аркадий",
+                "Eriette of the Charmed Apple",
+                "Vial Smasher the Fierce",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Грабовой Филипп",
+                "Яковлев Николай",
+                "Slimefoot and Squee",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Барабаш Валентин",
+                "Vial Smasher the Fierce",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Цюра Максим",
+                "Geist of Saint Traft",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Протасов Михаил",
+                "Golos, Tireless Pilgrim",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Пятыгин Андрей",
+                "Тяпайкин Максим",
+                "Omnath, Locus of Creation",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Чжан Цзяи",
+                "The Reality Chip",
+                "Sisay, Weatherlight Captain :++: Jegantha, the Wellspring",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Смирнов Александр",
+                "Golos, Tireless Pilgrim",
+                "Eriette of the Charmed Apple",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лузаков Петр",
+                "Богатырев Александр",
+                "Juri, Master of the Revue",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Цюра Максим",
+                "Байков Аркадий",
+                "Slimefoot and Squee",
+                "Vial Smasher the Fierce",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Ульянов Алексей",
+                "Slimefoot and Squee",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Иванов Максим",
+                "Aminatou, the Fateshifter",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Лузаков Петр",
+                "The Reality Chip",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Барабаш Валентин",
+                "Dihada, Binder of Wills",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Тяпайкин Максим",
+                "Golos, Tireless Pilgrim",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чжан Цзяи",
+                "Смирнов Александр",
+                "Sisay, Weatherlight Captain :++: Jegantha, the Wellspring",
+                "Eriette of the Charmed Apple",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Пятыгин Андрей",
+                "Indoraptor, the Perfect Hybrid",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Грабовой Филипп",
+                "Байков Аркадий",
+                "Slimefoot and Squee",
+                "Vial Smasher the Fierce",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Цюра Максим",
+                "Dihada, Binder of Wills",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Иванов Дмитрий",
+                "The Reality Chip",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Барабаш Валентин",
+                "Aminatou, the Fateshifter",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Иванов Максим",
+                "Golos, Tireless Pilgrim",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Чжан Цзяи",
+                "Kroxa, Titan of Death's Hunger",
+                "Sisay, Weatherlight Captain :++: Jegantha, the Wellspring",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лузаков Петр",
+                "Пятыгин Андрей",
+                "Juri, Master of the Revue",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Смирнов Александр",
+                "Богатырев Александр",
+                "Eriette of the Charmed Apple",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}
