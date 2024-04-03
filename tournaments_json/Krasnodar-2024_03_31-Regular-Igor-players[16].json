@@ -1,0 +1,383 @@
+{
+    "date": "2024_03_31",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Омельченко Виктор",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Чурсин Данила",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Сажин Юрий",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Зайцев Даниил",
+            "Prosper, Tome-Bound"
+        ],
+        [
+            "Безрученко Дмитрий",
+            "Elminster"
+        ],
+        [
+            "Беляков Михаил",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Кириченко Евгений",
+            "The Reality Chip"
+        ],
+        [
+            "Пузиков Никита",
+            "Saskia the Unyielding"
+        ],
+        [
+            "Коваль Светослав",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Бурдуков Никита",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Иванько Альберт",
+            "Esika, God of the Tree"
+        ],
+        [
+            "Хорьков Никита",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Еремеев Александр",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Акишев Константин",
+            "Laelia, the Blade Reforged"
+        ],
+        [
+            "Заиграев Даниил",
+            "Kess, Dissident Mage"
+        ],
+        [
+            "Брюханов Андрей",
+            "Geist of Saint Traft"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Омельченко Виктор",
+                "Хорьков Никита",
+                "Kinnan, Bonder Prodigy",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Брюханов Андрей",
+                "Dihada, Binder of Wills",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сажин Юрий",
+                "Кириченко Евгений",
+                "Slimefoot and Squee",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Еремеев Александр",
+                "Prosper, Tome-Bound",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Заиграев Даниил",
+                "Elminster",
+                "Kess, Dissident Mage",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Иванько Альберт",
+                "Omnath, Locus of Creation",
+                "Esika, God of the Tree",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Пузиков Никита",
+                "Акишев Константин",
+                "Saskia the Unyielding",
+                "Laelia, the Blade Reforged",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Бурдуков Никита",
+                "Slimefoot and Squee",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Омельченко Виктор",
+                "Кириченко Евгений",
+                "Kinnan, Bonder Prodigy",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Коваль Светослав",
+                "Dihada, Binder of Wills",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сажин Юрий",
+                "Брюханов Андрей",
+                "Slimefoot and Squee",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Пузиков Никита",
+                "Prosper, Tome-Bound",
+                "Saskia the Unyielding",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Иванько Альберт",
+                "Elminster",
+                "Esika, God of the Tree",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Заиграев Даниил",
+                "Omnath, Locus of Creation",
+                "Kess, Dissident Mage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Бурдуков Никита",
+                "Хорьков Никита",
+                "Light-Paws, Emperor's Voice",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Акишев Константин",
+                "Malcolm, Alluring Scoundrel",
+                "Laelia, the Blade Reforged",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Омельченко Виктор",
+                "Беляков Михаил",
+                "Kinnan, Bonder Prodigy",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Пузиков Никита",
+                "Dihada, Binder of Wills",
+                "Saskia the Unyielding",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сажин Юрий",
+                "Безрученко Дмитрий",
+                "Slimefoot and Squee",
+                "Elminster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Кириченко Евгений",
+                "Prosper, Tome-Bound",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Заиграев Даниил",
+                "Slimefoot and Squee",
+                "Kess, Dissident Mage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Бурдуков Никита",
+                "Акишев Константин",
+                "Light-Paws, Emperor's Voice",
+                "Laelia, the Blade Reforged",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Еремеев Александр",
+                "Esika, God of the Tree",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Омельченко Виктор",
+                "Чурсин Данила",
+                "Kinnan, Bonder Prodigy",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Сажин Юрий",
+                "Пузиков Никита",
+                "Slimefoot and Squee",
+                "Saskia the Unyielding",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Бурдуков Никита",
+                "Prosper, Tome-Bound",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Коваль Светослав",
+                "Elminster",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Акишев Константин",
+                "Omnath, Locus of Creation",
+                "Laelia, the Blade Reforged",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Еремеев Александр",
+                "The Reality Chip",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Заиграев Даниил",
+                "Esika, God of the Tree",
+                "Kess, Dissident Mage",
+                [
+                    1,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

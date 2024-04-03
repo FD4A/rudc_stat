@@ -1,0 +1,135 @@
+{
+    "date": "2024_03_31",
+    "location": "Saratov",
+    "level": "Regular",
+    "organizer": "Fragin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Роман А.",
+            "Errant and Giada"
+        ],
+        [
+            "Иван Кузьменко",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Егор Волков",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Илья Друзин",
+            "Wilson, Refined Grizzly :+: Tavern Brawler"
+        ],
+        [
+            "Евгений Сафаргалиев",
+            "Yoshimaru, Ever Faithful :++: Kydele, Chosen of Kruphix"
+        ],
+        [
+            "Димитрий Фрагин",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Дмитрий Александров",
+            "Malcolm, Alluring Scoundrel"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Димитрий Фрагин",
+                "Дмитрий Александров",
+                "Sythis, Harvest's Hand",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Евгений Сафаргалиев",
+                "Роман А.",
+                "Yoshimaru, Ever Faithful :++: Kydele, Chosen of Kruphix",
+                "Errant and Giada",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Иван Кузьменко",
+                "Илья Друзин",
+                "Dihada, Binder of Wills",
+                "Wilson, Refined Grizzly :+: Tavern Brawler",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Иван Кузьменко",
+                "Роман А.",
+                "Dihada, Binder of Wills",
+                "Errant and Giada",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Димитрий Фрагин",
+                "Егор Волков",
+                "Sythis, Harvest's Hand",
+                "Light-Paws, Emperor's Voice",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Александров",
+                "Евгений Сафаргалиев",
+                "Malcolm, Alluring Scoundrel",
+                "Yoshimaru, Ever Faithful :++: Kydele, Chosen of Kruphix",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Евгений Сафаргалиев",
+                "Иван Кузьменко",
+                "Yoshimaru, Ever Faithful :++: Kydele, Chosen of Kruphix",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Димитрий Фрагин",
+                "Илья Друзин",
+                "Sythis, Harvest's Hand",
+                "Wilson, Refined Grizzly :+: Tavern Brawler",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Егор Волков",
+                "Роман А.",
+                "Light-Paws, Emperor's Voice",
+                "Errant and Giada",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}
