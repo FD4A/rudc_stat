@@ -1,0 +1,169 @@
+{
+    "date": "2024_04_05",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Бурдуков Никита",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Гяго Георгий",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Пузиков Никита",
+            "Saskia the Unyielding"
+        ],
+        [
+            "Хорьков Никита",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Заиграев Даниил",
+            "Heliod, Sun-Crowned"
+        ],
+        [
+            "Коваль Светослав",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Терновский Михаил",
+            "Soul of Windgrace"
+        ],
+        [
+            "Жандосов Карим",
+            "Inti, Seneschal of the Sun"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Бурдуков Никита",
+                "Заиграев Даниил",
+                "Light-Paws, Emperor's Voice",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Гяго Георгий",
+                "Жандосов Карим",
+                "Arahbo, Roar of the World",
+                "Inti, Seneschal of the Sun",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Пузиков Никита",
+                "Хорьков Никита",
+                "Saskia the Unyielding",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Терновский Михаил",
+                "Geist of Saint Traft",
+                "Soul of Windgrace",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Бурдуков Никита",
+                "Пузиков Никита",
+                "Light-Paws, Emperor's Voice",
+                "Saskia the Unyielding",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Гяго Георгий",
+                "Коваль Светослав",
+                "Arahbo, Roar of the World",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Заиграев Даниил",
+                "Dihada, Binder of Wills",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Терновский Михаил",
+                "Жандосов Карим",
+                "Soul of Windgrace",
+                "Inti, Seneschal of the Sun",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Бурдуков Никита",
+                "Гяго Георгий",
+                "Light-Paws, Emperor's Voice",
+                "Arahbo, Roar of the World",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Пузиков Никита",
+                "Коваль Светослав",
+                "Saskia the Unyielding",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Терновский Михаил",
+                "Dihada, Binder of Wills",
+                "Soul of Windgrace",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Заиграев Даниил",
+                "Жандосов Карим",
+                "Heliod, Sun-Crowned",
+                "Inti, Seneschal of the Sun",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}
