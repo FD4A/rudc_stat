@@ -10,7 +10,7 @@ players::generals
 Дмитрий Усачев :: Niv-Mizzet Reborn
 Никита Любомищенко :: Syr Faren, the Hengehammer
 Илья Шубенин :: Malcolm, Alluring Scoundrel
-Константин Сомки :: Elas il-Kor, Sadistic Pilgrim + Lurrus of the Dream-Den
+Константин Сомки :: Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den
 Евгений Сутягин :: Leovold, Emissary of Trest
 Егор Любомищенко :: Ojer Axonil, Deepest Might
 Round
