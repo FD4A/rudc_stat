@@ -6,7 +6,7 @@ players::generals
 Артем Ишанов :: Ghyrson Starn, Kelermorph
 Роман А. :: Errant and Giada
 Иван Кузьменко :: Dihada, Binder of Wills
-Евгений Сафаргалиев :: Yoshimaru, Ever Faithful :+: Kydele, Chosen of Kruphix
+Евгений Сафаргалиев :: Yoshimaru, Ever Faithful :++: Kydele, Chosen of Kruphix
 Димитрий Фрагин :: Sythis, Harvest's Hand
 Егор Волков :: Light-Paws, Emperor's Voice
 Дмитрий Александров :: Hogaak, Arisen Necropolis
