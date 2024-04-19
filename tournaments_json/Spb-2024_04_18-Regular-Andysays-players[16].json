@@ -1,0 +1,393 @@
+{
+    "date": "2024_04_18",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Протасов Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Саушкин Андрей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Цюра Максим",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Яковлев Николай",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Вахитов Ривкат",
+            "Kari Zev, Skyship Raider"
+        ],
+        [
+            "Грабовой Филипп",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Муравьев Никита",
+            "Karlov of the Ghost Council :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Трифонов Тимур",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Смирнов Александр",
+            "Eriette of the Charmed Apple"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Брук Роман",
+            "Urabrask"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Thrasios, Triton Hero"
+        ],
+        [
+            "Ульянов Алексей",
+            "Teysa, Orzhov Scion"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Ульянов Алексей",
+                "Муравьев Никита",
+                "Teysa, Orzhov Scion",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Федоров Дмитрий",
+                "Dihada, Binder of Wills",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Иванов Максим",
+                "Thrasios, Triton Hero",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Вахитов Ривкат",
+                "The Reality Chip",
+                "Kari Zev, Skyship Raider",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Смирнов Александр",
+                "Саушкин Андрей",
+                "Eriette of the Charmed Apple",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Протасов Михаил",
+                "Juri, Master of the Revue",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Трифонов Тимур",
+                "Ghyrson Starn, Kelermorph",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Брук Роман",
+                "Slimefoot and Squee",
+                "Urabrask",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Максим",
+                "Саушкин Андрей",
+                "Geist of Saint Traft",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Федоров Дмитрий",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Грабовой Филипп",
+                "Kari Zev, Skyship Raider",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Протасов Михаил",
+                "Ghyrson Starn, Kelermorph",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Смирнов Александр",
+                "Juri, Master of the Revue",
+                "Eriette of the Charmed Apple",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Ульянов Алексей",
+                "The Reality Chip",
+                "Teysa, Orzhov Scion",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Трифонов Тимур",
+                "Dihada, Binder of Wills",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Брук Роман",
+                "Thrasios, Triton Hero",
+                "Urabrask",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Саушкин Андрей",
+                "Муравьев Никита",
+                "Omnath, Locus of Creation",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Семенов Дмитрий",
+                "Slimefoot and Squee",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Вахитов Ривкат",
+                "Aminatou, the Fateshifter",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Федоров Дмитрий",
+                "Ghyrson Starn, Kelermorph",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Брук Роман",
+                "Иванов Максим",
+                "Urabrask",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Трифонов Тимур",
+                "The Reality Chip",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Яковлев Николай",
+                "Teysa, Orzhov Scion",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Смирнов Александр",
+                "Thrasios, Triton Hero",
+                "Eriette of the Charmed Apple",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Саушкин Андрей",
+                "Протасов Михаил",
+                "Omnath, Locus of Creation",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Иванов Максим",
+                "Juri, Master of the Revue",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Цюра Максим",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Смирнов Александр",
+                "Dihada, Binder of Wills",
+                "Eriette of the Charmed Apple",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Федоров Дмитрий",
+                "Kari Zev, Skyship Raider",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Брук Роман",
+                "Мартынов Яков",
+                "Urabrask",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Трифонов Тимур",
+                "Ульянов Алексей",
+                "Shorikai, Genesis Engine",
+                "Teysa, Orzhov Scion",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

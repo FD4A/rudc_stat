@@ -1,0 +1,167 @@
+{
+    "date": "2024_04_14",
+    "location": "Ussuriysk",
+    "level": "Regular",
+    "organizer": "Usstiger",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Владислав М",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Кирилл С",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Алексей Ж",
+            "Obyra, Dreaming Duelist"
+        ],
+        [
+            "Матвей К",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Матвей Б",
+            "Atraxa, Grand Unifier"
+        ],
+        [
+            "Дмитрий С",
+            "Tymaret, the Murder King"
+        ],
+        [
+            "Вячеслав Ш",
+            "Ziatora, the Incinerator"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Владислав М",
+                "Дмитрий С",
+                "Geist of Saint Traft",
+                "Tymaret, the Murder King",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Матвей К",
+                "Ziatora, the Incinerator",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Матвей Б",
+                "Алексей Ж",
+                "Atraxa, Grand Unifier",
+                "Obyra, Dreaming Duelist",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Матвей К",
+                "Владислав М",
+                "Asmoranomardicadaistinaculdacar",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Алексей Ж",
+                "Raffine, Scheming Seer",
+                "Obyra, Dreaming Duelist",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Матвей Б",
+                "Вячеслав Ш",
+                "Atraxa, Grand Unifier",
+                "Ziatora, the Incinerator",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Владислав М",
+                "Алексей Ж",
+                "Geist of Saint Traft",
+                "Obyra, Dreaming Duelist",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Матвей К",
+                "Raffine, Scheming Seer",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дмитрий С",
+                "Матвей Б",
+                "Tymaret, the Murder King",
+                "Atraxa, Grand Unifier",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Владислав М",
+                "Матвей Б",
+                "Geist of Saint Traft",
+                "Atraxa, Grand Unifier",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Дмитрий С",
+                "Raffine, Scheming Seer",
+                "Tymaret, the Murder King",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Вячеслав Ш",
+                "Obyra, Dreaming Duelist",
+                "Ziatora, the Incinerator",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "date": "2024_04_13",
+    "location": "Saratov",
+    "level": "Regular",
+    "organizer": "Fragin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Артем Ишанов",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Роман А.",
+            "Errant and Giada"
+        ],
+        [
+            "Иван Кузьменко",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Евгений Сафаргалиев",
+            "Yoshimaru, Ever Faithful :+: Kydele, Chosen of Kruphix"
+        ],
+        [
+            "Димитрий Фрагин",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Егор Волков",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Дмитрий Александров",
+            "Hogaak, Arisen Necropolis"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Егор Волков",
+                "Роман А.",
+                "Light-Paws, Emperor's Voice",
+                "Errant and Giada",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Артем Ишанов",
+                "Дмитрий Александров",
+                "Ghyrson Starn, Kelermorph",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Димитрий Фрагин",
+                "Евгений Сафаргалиев",
+                "Sythis, Harvest's Hand",
+                "Yoshimaru, Ever Faithful :+: Kydele, Chosen of Kruphix",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сергей Феоктистов",
+                "Иван Кузьменко",
+                "unknown",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Артем Ишанов",
+                "Иван Кузьменко",
+                "Ghyrson Starn, Kelermorph",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Роман А.",
+                "Димитрий Фрагин",
+                "Errant and Giada",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Егор Волков",
+                "Дмитрий Александров",
+                "Light-Paws, Emperor's Voice",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Роман А.",
+                "Артем Ишанов",
+                "Errant and Giada",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Димитрий Фрагин",
+                "Иван Кузьменко",
+                "Sythis, Harvest's Hand",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Егор Волков",
+                "Евгений Сафаргалиев",
+                "Light-Paws, Emperor's Voice",
+                "Yoshimaru, Ever Faithful :+: Kydele, Chosen of Kruphix",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,19 @@
+location::Spb
+level::Regular
+date::2024_04_11
+organizer::Andysays
+players::generals
+Таловер Артем :: Kinnan, Bonder Prodigy
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Поляков Герман :: Omnath, Locus of Creation
+Протасов Михаил :: Aminatou, the Fateshifter
+Иванов Максим :: Geist of Saint Traft
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Ульянов Алексей :: 4с омнат
+Богданов Сергей :: Geist of Saint Traft
+Яковлев Николай :: Dihada, Binder of Wills
+Грабовой Филипп :: Slimefoot and Squee
+Муравьев Роман :: Dihada, Binder of Wills
+Мартынов Яков :: The Reality Cheap
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/28852

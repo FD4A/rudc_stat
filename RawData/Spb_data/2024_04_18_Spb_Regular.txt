@@ -1,0 +1,23 @@
+location::Spb
+level::Regular
+date::2024_04_18
+organizer::Andysays
+players::generals
+Протасов Михаил :: Aminatou, the Fateshifter
+Семенов Дмитрий :: Juri, Master of the Revue
+Саушкин Андрей :: Omnath, Locus of Creation
+Цюра Максим :: Ghyrson Starn, Kelermorph
+Яковлев Николай :: Dihada, Binder of Wills
+Иванов Максим :: Geist of Saint Traft
+Вахитов Ривкат :: Kari Zev, Skyship Raider
+Грабовой Филипп :: Slimefoot and Squee
+Муравьев Никита :: Karlov of the Ghost Council :++: Lurrus of the Dream-Den
+Трифонов Тимур :: Shorikai, Genesis Engine
+Мартынов Яков :: The Reality Cheap
+Смирнов Александр :: Eriette of the Charmed Apple
+Федоров Дмитрий :: Geist of Saint Traft
+Брук Роман :: Urabrask
+Тяпайкин Максим :: Thrasios, Triton Hero
+Ульянов Алексей :: Teysa, Orzhov Scion
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/29102

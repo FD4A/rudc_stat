@@ -1,0 +1,169 @@
+{
+    "date": "2024_04_07",
+    "location": "Saratov",
+    "level": "Regular",
+    "organizer": "Fragin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Иван Кузьменко",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Евгений Сафаргалиев",
+            "Yoshimaru, Ever Faithful :+: Kydele, Chosen of Kruphix"
+        ],
+        [
+            "Артем Ишанов",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Дмитрий Александров",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Евгений Зитев",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Илья Друзин",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Димитрий Фрагин",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Егор Волков",
+            "Light-Paws, Emperor's Voice"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Димитрий Фрагин",
+                "Артем Ишанов",
+                "Sythis, Harvest's Hand",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Евгений Сафаргалиев",
+                "Дмитрий Александров",
+                "Yoshimaru, Ever Faithful :+: Kydele, Chosen of Kruphix",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иван Кузьменко",
+                "Егор Волков",
+                "Dihada, Binder of Wills",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Илья Друзин",
+                "Евгений Зитев",
+                "Hogaak, Arisen Necropolis",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Илья Друзин",
+                "Иван Кузьменко",
+                "Hogaak, Arisen Necropolis",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Евгений Сафаргалиев",
+                "Артем Ишанов",
+                "Yoshimaru, Ever Faithful :+: Kydele, Chosen of Kruphix",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Димитрий Фрагин",
+                "Евгений Зитев",
+                "Sythis, Harvest's Hand",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Дмитрий Александров",
+                "Егор Волков",
+                "Malcolm, Alluring Scoundrel",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Евгений Сафаргалиев",
+                "Иван Кузьменко",
+                "Yoshimaru, Ever Faithful :+: Kydele, Chosen of Kruphix",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Илья Друзин",
+                "Артем Ишанов",
+                "Hogaak, Arisen Necropolis",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Александров",
+                "Димитрий Фрагин",
+                "Malcolm, Alluring Scoundrel",
+                "Sythis, Harvest's Hand",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Евгений Зитев",
+                "Егор Волков",
+                "Kinnan, Bonder Prodigy",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

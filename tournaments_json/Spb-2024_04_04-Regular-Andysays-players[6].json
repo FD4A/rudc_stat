@@ -1,0 +1,131 @@
+{
+    "date": "2024_04_04",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Протасов Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Саушкин Андрей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Яковлев Николай",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Охлопков Валерий",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Иванов Максим",
+                "Саушкин Андрей",
+                "Geist of Saint Traft",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Ульянов Алексей",
+                "Aminatou, the Fateshifter",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Охлопков Валерий",
+                "Dihada, Binder of Wills",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Яковлев Николай",
+                "Протасов Михаил",
+                "Dihada, Binder of Wills",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Ульянов Алексей",
+                "Omnath, Locus of Creation",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Охлопков Валерий",
+                "Geist of Saint Traft",
+                "Raffine, Scheming Seer",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Протасов Михаил",
+                "Охлопков Валерий",
+                "Aminatou, the Fateshifter",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Саушкин Андрей",
+                "Dihada, Binder of Wills",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Иванов Максим",
+                "Golos, Tireless Pilgrim",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

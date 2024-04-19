@@ -1,0 +1,297 @@
+{
+    "date": "2024_04_11",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Таловер Артем",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Поляков Герман",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Протасов Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Барабаш Валентин",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Ульянов Алексей",
+            "Abaddon the Despoiler"
+        ],
+        [
+            "Богданов Сергей",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Яковлев Николай",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Грабовой Филипп",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Муравьев Роман",
+                "Богданов Сергей",
+                "Dihada, Binder of Wills",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Родюков Федор",
+                "Slimefoot and Squee",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Мартынов Яков",
+                "Kinnan, Bonder Prodigy",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Иванов Максим",
+                "Kinnan, Bonder Prodigy",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Поляков Герман",
+                "Aminatou, the Fateshifter",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Ульянов Алексей",
+                "Dihada, Binder of Wills",
+                "Abaddon the Despoiler",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Родюков Федор",
+                "Ульянов Алексей",
+                "Ghyrson Starn, Kelermorph",
+                "Abaddon the Despoiler",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Богданов Сергей",
+                "Kinnan, Bonder Prodigy",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Поляков Герман",
+                "Kinnan, Bonder Prodigy",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Яковлев Николай",
+                "Aminatou, the Fateshifter",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Грабовой Филипп",
+                "The Reality Chip",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Муравьев Роман",
+                "Geist of Saint Traft",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Родюков Федор",
+                "Таловер Артем",
+                "Ghyrson Starn, Kelermorph",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Яковлев Николай",
+                "Omnath, Locus of Creation",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Барабаш Валентин",
+                "Geist of Saint Traft",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Иванов Максим",
+                "Slimefoot and Squee",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Протасов Михаил",
+                "Abaddon the Despoiler",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Мартынов Яков",
+                "Dihada, Binder of Wills",
+                "The Reality Chip",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Таловер Артем",
+                "Поляков Герман",
+                "Kinnan, Bonder Prodigy",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Иванов Максим",
+                "Ghyrson Starn, Kelermorph",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Протасов Михаил",
+                "Kinnan, Bonder Prodigy",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Грабовой Филипп",
+                "Geist of Saint Traft",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Мартынов Яков",
+                "Abaddon the Despoiler",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

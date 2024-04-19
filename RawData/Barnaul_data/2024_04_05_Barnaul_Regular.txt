@@ -1,0 +1,15 @@
+location::Barnaul
+level::Regular
+date::2024_04_05
+organizer::
+players::generals
+Егор Костенко
+Лисин Дмитрий
+Самусенко Александр
+Гесин Илья
+Гладышев Влад
+Студеникин Андрей
+Иванищев Дмитрий
+Послухов Иван
+Round
+https://aetherhub.com/Tourney/RoundTourney/28686
