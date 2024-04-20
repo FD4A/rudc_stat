@@ -3,13 +3,13 @@ level::Regular
 date::2024_04_05
 organizer::
 players::generals
-Егор Костенко
-Лисин Дмитрий
-Самусенко Александр
-Гесин Илья
-Гладышев Влад
-Студеникин Андрей
-Иванищев Дмитрий
-Послухов Иван
+Егор Костенко :: Asmoranomardicadaistinaculdacar
+Лисин Дмитрий :: Kytheon, Hero of Akros
+Самусенко Александр :: Omnath, Locus of Creation
+Гесин Илья :: Old Stickfingers
+Гладышев Влад :: Hogaak, Arisen Necropolis
+Студеникин Андрей :: Shorikai, Genesis Engine
+Иванищев Дмитрий :: Ghyrson Starn, Kelermorph
+Послухов Иван :: Balmor, Battlemage Captain
 Round
 https://aetherhub.com/Tourney/RoundTourney/28686

@@ -1,0 +1,15 @@
+location::Barnaul
+level::Regular
+date::2024_04_19
+organizer::
+players::generals
+Влад Гладышев :: Hogaak, Arisen Necropolis
+Егор Костенко :: Asmoranomardicadaistinaculdacar
+Дмитрий Лисин :: Kytheon, Hero of Akros
+Илья Гесин :: Shorikai, Genesis Engine
+Александр Самусенко :: Omnath, Locus of Creation
+Дмитрий Разумовский :: Asmoranomardicadaistinaculdacar
+Иван Послухов :: Kinnan, Bonder Prodigy
+Алексей Петрыкин :: Ghyrson Starn, Kelermorph
+Round
+https://aetherhub.com/Tourney/RoundTourney/29122

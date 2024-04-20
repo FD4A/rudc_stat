@@ -16,7 +16,7 @@ players::generals
 Шубенин, Илья :: God-Eternal Kefnet
 Воронцов, Иван :: Hakbal of the Surging Soul
 Козлов, Максим :: Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist
-Кузьменко, Иван :: Wernog, Rider's Chaplain :+: Bjorna, Nightfall Alchemist :++: Lurrus of the Dream-Den
+Кузьменко, Иван :: Bjorna, Nightfall Alchemist :+: Wernog, Rider's Chaplain :++: Lurrus of the Dream-Den
 Серпутько, Слава :: Malcolm, Alluring Scoundrel
 Орешкин, Дмитрий :: Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist
 Костин, Андрей :: Akiri, Line-Slinger :+: Silas Renn, Seeker Adept

@@ -10,6 +10,19 @@ Atraxa, Grand Unifier            matches:5    WM:  0.00%  LM:100.00%  DM:  0.00%
        vs Selvala, Explorer Returned       (w:0 l:1 d:0), (0/2)
        vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (0/2)
 
+Bjorna, Nightfall Alchemist      matches:8    WM: 37.50%  LM: 62.50%  DM:  0.00% (wm:3   lm:5   dm:0)  games:17   WG: 41.18% LG: 58.82% (wg:   7 lg:  10) pick: 2   
+  + Wernog, Rider's Chaplain    
+  + Lurrus of the Dream-Den     
+       vs Selvala, Explorer Returned       (w:1 l:0 d:0), (2/0)
+       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
+        + Tana, the Bloodsower            
+       vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/0)
+       vs Narset, Enlightened Master       (w:0 l:1 d:0), (0/2)
+       vs The Reality Chip                 (w:1 l:0 d:0), (2/0)
+       vs Malcolm, Alluring Scoundrel      (w:0 l:1 d:0), (0/2)
+       vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
+       vs Kytheon, Hero of Akros           (w:0 l:1 d:0), (1/2)
+
 Dihada, Binder of Wills          matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:16   WG: 62.50% LG: 37.50% (wg:  10 lg:   6) pick: 1   
        vs Karlov of the Ghost Council      (w:1 l:0 d:0), (2/0)
         + Lurrus of the Dream-Den         
@@ -57,8 +70,8 @@ Gut, True Soul Zealot            matches:8    WM: 75.00%  LM: 25.00%  DM:  0.00%
 
 Indoraptor, the Perfect Hybrid   matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 40.00% LG: 60.00% (wg:   4 lg:   6) pick: 1   
        vs Leovold, Emissary of Trest       (w:1 l:0 d:0), (2/1)
-       vs Wernog, Rider's Chaplain         (w:0 l:1 d:0), (0/2)
-        + Bjorna, Nightfall Alchemist     
+       vs Bjorna, Nightfall Alchemist      (w:0 l:1 d:0), (0/2)
+        + Wernog, Rider's Chaplain        
         + Lurrus of the Dream-Den         
        vs Gut, True Soul Zealot            (w:1 l:0 d:0), (2/1)
         + Agent of the Iron Throne        
@@ -92,8 +105,8 @@ Kytheon, Hero of Akros           matches:7    WM: 85.71%  LM: 14.29%  DM:  0.00%
        vs Vial Smasher the Fierce          (w:1 l:0 d:0), (2/0)
        vs The Reality Chip                 (w:1 l:0 d:0), (2/0)
        vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/1)
-       vs Wernog, Rider's Chaplain         (w:1 l:0 d:0), (2/1)
-        + Bjorna, Nightfall Alchemist     
+       vs Bjorna, Nightfall Alchemist      (w:1 l:0 d:0), (2/1)
+        + Wernog, Rider's Chaplain        
         + Lurrus of the Dream-Den         
        vs Gut, True Soul Zealot            (w:0 l:1 d:0), (1/2)
         + Flaming Fist                    
@@ -110,8 +123,8 @@ Malcolm, Alluring Scoundrel      matches:7    WM: 71.43%  LM: 28.57%  DM:  0.00%
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
         + Tana, the Bloodsower            
        vs Leovold, Emissary of Trest       (w:1 l:0 d:0), (2/0)
-       vs Wernog, Rider's Chaplain         (w:1 l:0 d:0), (2/0)
-        + Bjorna, Nightfall Alchemist     
+       vs Bjorna, Nightfall Alchemist      (w:1 l:0 d:0), (2/0)
+        + Wernog, Rider's Chaplain        
         + Lurrus of the Dream-Den         
        vs Kytheon, Hero of Akros           (w:0 l:1 d:0), (1/2)
        vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/1)
@@ -119,8 +132,8 @@ Malcolm, Alluring Scoundrel      matches:7    WM: 71.43%  LM: 28.57%  DM:  0.00%
 
 Narset, Enlightened Master       matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:11   WG: 36.36% LG: 63.64% (wg:   4 lg:   7) pick: 1   
        vs Ertai Resurrected                (w:0 l:1 d:0), (0/2)
-       vs Wernog, Rider's Chaplain         (w:1 l:0 d:0), (2/0)
-        + Bjorna, Nightfall Alchemist     
+       vs Bjorna, Nightfall Alchemist      (w:1 l:0 d:0), (2/0)
+        + Wernog, Rider's Chaplain        
         + Lurrus of the Dream-Den         
        vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
@@ -159,8 +172,8 @@ Rona, Herald of Invasion         matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00%
        vs Dihada, Binder of Wills          (w:0 l:1 d:0), (1/2)
 
 Selvala, Explorer Returned       matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:1   lm:4   dm:0)  games:12   WG: 33.33% LG: 66.67% (wg:   4 lg:   8) pick: 1   
-       vs Wernog, Rider's Chaplain         (w:0 l:1 d:0), (0/2)
-        + Bjorna, Nightfall Alchemist     
+       vs Bjorna, Nightfall Alchemist      (w:0 l:1 d:0), (0/2)
+        + Wernog, Rider's Chaplain        
         + Lurrus of the Dream-Den         
        vs Leovold, Emissary of Trest       (w:0 l:1 d:0), (0/2)
        vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (1/2)
@@ -175,8 +188,8 @@ Slimefoot and Squee              matches:11   WM: 54.55%  LM: 45.45%  DM:  0.00%
        vs Narset, Enlightened Master       (w:1 l:0 d:0), (2/0)
        vs Dihada, Binder of Wills          (w:0 l:1 d:0), (1/2)
        vs Raffine, Scheming Seer           (w:1 l:0 d:0), (2/1)
-       vs Wernog, Rider's Chaplain         (w:1 l:0 d:0), (2/0)
-        + Bjorna, Nightfall Alchemist     
+       vs Bjorna, Nightfall Alchemist      (w:1 l:0 d:0), (2/0)
+        + Wernog, Rider's Chaplain        
         + Lurrus of the Dream-Den         
        vs Ertai Resurrected                (w:0 l:1 d:0), (0/2)
        vs Gut, True Soul Zealot            (w:0 l:1 d:0), (1/2)
@@ -195,8 +208,8 @@ The Reality Chip                 matches:10   WM: 80.00%  LM: 20.00%  DM:  0.00%
        vs Ertai Resurrected                (w:1 l:0 d:0), (2/1)
        vs Gut, True Soul Zealot            (w:2 l:0 d:0), (4/1)
         + Flaming Fist                    
-       vs Wernog, Rider's Chaplain         (w:0 l:1 d:0), (0/2)
-        + Bjorna, Nightfall Alchemist     
+       vs Bjorna, Nightfall Alchemist      (w:0 l:1 d:0), (0/2)
+        + Wernog, Rider's Chaplain        
         + Lurrus of the Dream-Den         
        vs Kytheon, Hero of Akros           (w:0 l:1 d:0), (0/2)
        vs Vial Smasher the Fierce          (w:1 l:0 d:0), (2/0)
@@ -210,24 +223,11 @@ Vial Smasher the Fierce          matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00%
        vs Gut, True Soul Zealot            (w:0 l:1 d:0), (0/2)
         + Flaming Fist                    
 
-Wernog, Rider's Chaplain         matches:8    WM: 37.50%  LM: 62.50%  DM:  0.00% (wm:3   lm:5   dm:0)  games:17   WG: 41.18% LG: 58.82% (wg:   7 lg:  10) pick: 2   
-  + Bjorna, Nightfall Alchemist 
-  + Lurrus of the Dream-Den     
-       vs Selvala, Explorer Returned       (w:1 l:0 d:0), (2/0)
-       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
-        + Tana, the Bloodsower            
-       vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/0)
-       vs Narset, Enlightened Master       (w:0 l:1 d:0), (0/2)
-       vs The Reality Chip                 (w:1 l:0 d:0), (2/0)
-       vs Malcolm, Alluring Scoundrel      (w:0 l:1 d:0), (0/2)
-       vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
-       vs Kytheon, Hero of Akros           (w:0 l:1 d:0), (1/2)
-
 Yoshimaru, Ever Faithful         matches:10   WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:5   lm:5   dm:0)  games:23   WG: 52.17% LG: 47.83% (wg:  12 lg:  11) pick: 2   
   + Tana, the Bloodsower        
        vs Kinnan, Bonder Prodigy           (w:1 l:0 d:0), (2/0)
-       vs Wernog, Rider's Chaplain         (w:1 l:0 d:0), (2/0)
-        + Bjorna, Nightfall Alchemist     
+       vs Bjorna, Nightfall Alchemist      (w:1 l:0 d:0), (2/0)
+        + Wernog, Rider's Chaplain        
         + Lurrus of the Dream-Den         
        vs Malcolm, Alluring Scoundrel      (w:0 l:1 d:0), (0/2)
        vs Kytheon, Hero of Akros           (w:0 l:1 d:0), (0/2)

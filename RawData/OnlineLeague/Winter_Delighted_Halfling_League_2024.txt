@@ -4,7 +4,7 @@ date::2024_02_07
 organizer::AlexSmirnov
 players::generals
 Давыдов, Евгений :: Selvala, Explorer Returned
-Мещеряков, Максим :: Wernog, Rider's Chaplain :+: Bjorna, Nightfall Alchemist :++: Lurrus of the Dream-Den
+Мещеряков, Максим :: Bjorna, Nightfall Alchemist :+: Wernog, Rider's Chaplain :++: Lurrus of the Dream-Den
 Лисин, Дмитрий :: Kytheon, Hero of Akros
 Яйлоян, Евгений :: Atraxa, Grand Unifier
 Сухов, Никита :: The Reality Chip
@@ -30,7 +30,7 @@ players::generals
 Байков, Аркадий :: Vial Smasher the Fierce
 Трофименко, Даниил :: Aminatou, the Fateshifter
 Гордиенко, Валентин :: Yoshimaru, Ever Faithful :+: Tana, the Bloodsower
-Кузьменко, Иван :: Wernog, Rider's Chaplain :+: Bjorna, Nightfall Alchemist :++: Lurrus of the Dream-Den
+Кузьменко, Иван :: Bjorna, Nightfall Alchemist :+: Wernog, Rider's Chaplain :++: Lurrus of the Dream-Den
 Савин, Константин :: Narset, Enlightened Master
 Руденко, Олег :: Ertai Resurrected
 Round1

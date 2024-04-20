@@ -1,0 +1,169 @@
+{
+    "date": "2024_04_05",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Егор Костенко",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Лисин Дмитрий",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Самусенко Александр",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Гесин Илья",
+            "Old Stickfingers"
+        ],
+        [
+            "Гладышев Влад",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Студеникин Андрей",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Иванищев Дмитрий",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Послухов Иван",
+            "Balmor, Battlemage Captain"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Самусенко Александр",
+                "Гладышев Влад",
+                "Omnath, Locus of Creation",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Гесин Илья",
+                "Лисин Дмитрий",
+                "Old Stickfingers",
+                "Kytheon, Hero of Akros",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванищев Дмитрий",
+                "Послухов Иван",
+                "Ghyrson Starn, Kelermorph",
+                "Balmor, Battlemage Captain",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Егор Костенко",
+                "Студеникин Андрей",
+                "Asmoranomardicadaistinaculdacar",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Лисин Дмитрий",
+                "Иванищев Дмитрий",
+                "Kytheon, Hero of Akros",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Егор Костенко",
+                "Самусенко Александр",
+                "Asmoranomardicadaistinaculdacar",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Гладышев Влад",
+                "Гесин Илья",
+                "Hogaak, Arisen Necropolis",
+                "Old Stickfingers",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Студеникин Андрей",
+                "Послухов Иван",
+                "Shorikai, Genesis Engine",
+                "Balmor, Battlemage Captain",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Егор Костенко",
+                "Лисин Дмитрий",
+                "Asmoranomardicadaistinaculdacar",
+                "Kytheon, Hero of Akros",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Самусенко Александр",
+                "Студеникин Андрей",
+                "Omnath, Locus of Creation",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванищев Дмитрий",
+                "Гесин Илья",
+                "Ghyrson Starn, Kelermorph",
+                "Old Stickfingers",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Гладышев Влад",
+                "Послухов Иван",
+                "Hogaak, Arisen Necropolis",
+                "Balmor, Battlemage Captain",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}
