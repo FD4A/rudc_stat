@@ -1,0 +1,10 @@
+location::Krasnodar
+level::Regular
+date::2024_04_12
+organizer::Igor
+Round
+Пузиков Никита	12/04/24	1	Saskia, the Unyielding	Краснодар		21	Гяго Георгий	20	Берзегов Рамазан	21	Хорьков Никита
+Гяго Георгий	12/04/24	2	Arahbo, Roar of the World	Краснодар		12	Пузиков Никита	20	Бурдуков Никита	20	Берзегов Рамазан
+Хорьков Никита	12/04/24	3	Dihada, Binder of Wills	Краснодар		11	Бурдуков Никита	bye	bye	12	Пузиков Никита
+Бурдуков Никита	12/04/24	4	Asmoranomardicadaistinaculdacar	Краснодар		11	Хорьков Никита	2	Гяго Георгий	bye	bye
+Берзегов Рамазан	12/04/24	5	Atheros, God of Passage	Краснодар		bye	bye	2	Пузиков Никита	2	Гяго Георгий

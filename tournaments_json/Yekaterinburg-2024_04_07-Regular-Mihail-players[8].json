@@ -1,0 +1,203 @@
+{
+    "date": "2024_04_07",
+    "location": "Yekaterinburg",
+    "level": "Regular",
+    "organizer": "Mihail",
+    "roundsCount": 5,
+    "players": [
+        [
+            "Валерия Лисица",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Артём Разумов",
+            "The Reality Chip"
+        ],
+        [
+            "Михаил Арестов",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Станислав Прошин",
+            "Malik, Grim Manipulator"
+        ],
+        [
+            "Никита Сычев",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Вячеслав Азев",
+            "Grenzo, Dungeon Warden"
+        ],
+        [
+            "Святослав Панкрашин",
+            "Thalia and The Gitrog Monster"
+        ],
+        [
+            "Сергей Согомонян",
+            "Hogaak, Arisen Necropolis"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Сергей Согомонян",
+                "Михаил Арестов",
+                "Hogaak, Arisen Necropolis",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Азев",
+                "Никита Сычев",
+                "Grenzo, Dungeon Warden",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Валерия Лисица",
+                "Артём Разумов",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Святослав Панкрашин",
+                "Станислав Прошин",
+                "Thalia and The Gitrog Monster",
+                "Malik, Grim Manipulator",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Никита Сычев",
+                "Валерия Лисица",
+                "Juri, Master of the Revue",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Михаил Арестов",
+                "Станислав Прошин",
+                "Kinnan, Bonder Prodigy",
+                "Malik, Grim Manipulator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сергей Согомонян",
+                "Артём Разумов",
+                "Hogaak, Arisen Necropolis",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Азев",
+                "Святослав Панкрашин",
+                "Grenzo, Dungeon Warden",
+                "Thalia and The Gitrog Monster",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Валерия Лисица",
+                "Михаил Арестов",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Никита Сычев",
+                "Артём Разумов",
+                "Juri, Master of the Revue",
+                "The Reality Chip",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Станислав Прошин",
+                "Вячеслав Азев",
+                "Malik, Grim Manipulator",
+                "Grenzo, Dungeon Warden",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сергей Согомонян",
+                "Святослав Панкрашин",
+                "Hogaak, Arisen Necropolis",
+                "Thalia and The Gitrog Monster",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Валерия Лисица",
+                "Станислав Прошин",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Malik, Grim Manipulator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Михаил Арестов",
+                "Артём Разумов",
+                "Kinnan, Bonder Prodigy",
+                "The Reality Chip",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Валерия Лисица",
+                "Артём Разумов",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

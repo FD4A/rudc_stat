@@ -1,0 +1,15 @@
+location::Yekaterinburg
+level::Regular
+date::2024_04_07
+organizer::Mihail
+players::generals
+Валерия Лисица :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Артём Разумов :: The Reality Chip
+Михаил Арестов :: Kinnan, Bonder Prodigy
+Станислав Прошин :: Malik, Grim Manipulator
+Никита Сычев :: Juri, Master of the Revue
+Вячеслав Азев :: Grenzo, Dungeon Warden
+Святослав Панкрашин :: Thalia and The Gitrog Monster
+Сергей Согомонян :: Hogaak, Arisen Necropolis
+Rounds
+https://topdeck.gg/bracket/yVgrbGIf2btd2igZnaTl

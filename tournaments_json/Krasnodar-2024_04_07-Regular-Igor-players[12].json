@@ -1,0 +1,307 @@
+{
+    "date": "2024_04_07",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Арушанян Тигран",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Безрученко Дмитрий",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Еремеев Александр",
+            "The Reality Chip"
+        ],
+        [
+            "Кириченко Евгений",
+            "The Reality Chip"
+        ],
+        [
+            "Зайцев Даниил",
+            "Prosper, Tome-Bound"
+        ],
+        [
+            "Сажин Юрий",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Ерофеев Александр",
+            "Heliod, Sun-Crowned"
+        ],
+        [
+            "Овчаренко Даниил",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Беляков Михаил",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Олешко Роман",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Усков Антон",
+            "Errant and Giada"
+        ],
+        [
+            "Квинт Егор",
+            "Eriette of the Charmed Apple"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Арушанян Тигран",
+                "Усков Антон",
+                "Geist of Saint Traft",
+                "Errant and Giada",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Сажин Юрий",
+                "Indoraptor, the Perfect Hybrid",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Олешко Роман",
+                "The Reality Chip",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Беляков Михаил",
+                "The Reality Chip",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Квинт Егор",
+                "Prosper, Tome-Bound",
+                "Eriette of the Charmed Apple",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ерофеев Александр",
+                "Овчаренко Даниил",
+                "Heliod, Sun-Crowned",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Арушанян Тигран",
+                "Зайцев Даниил",
+                "Geist of Saint Traft",
+                "Prosper, Tome-Bound",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Беляков Михаил",
+                "Indoraptor, the Perfect Hybrid",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Ерофеев Александр",
+                "The Reality Chip",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Усков Антон",
+                "The Reality Chip",
+                "Errant and Giada",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сажин Юрий",
+                "Олешко Роман",
+                "Slimefoot and Squee",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Овчаренко Даниил",
+                "Квинт Егор",
+                "Geist of Saint Traft",
+                "Eriette of the Charmed Apple",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Арушанян Тигран",
+                "Безрученко Дмитрий",
+                "Geist of Saint Traft",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Кириченко Евгений",
+                "The Reality Chip",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Ерофеев Александр",
+                "Prosper, Tome-Bound",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сажин Юрий",
+                "Овчаренко Даниил",
+                "Slimefoot and Squee",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Олешко Роман",
+                "Omnath, Locus of Creation",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Усков Антон",
+                "Квинт Егор",
+                "Errant and Giada",
+                "Eriette of the Charmed Apple",
+                [
+                    0,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Арушанян Тигран",
+                "Кириченко Евгений",
+                "Geist of Saint Traft",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Зайцев Даниил",
+                "Indoraptor, the Perfect Hybrid",
+                "Prosper, Tome-Bound",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Сажин Юрий",
+                "The Reality Chip",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ерофеев Александр",
+                "Усков Антон",
+                "Heliod, Sun-Crowned",
+                "Errant and Giada",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Овчаренко Даниил",
+                "Олешко Роман",
+                "Geist of Saint Traft",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Квинт Егор",
+                "Omnath, Locus of Creation",
+                "Eriette of the Charmed Apple",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

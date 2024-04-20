@@ -1,0 +1,97 @@
+{
+    "date": "2024_04_12",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Пузиков Никита",
+            "Saskia the Unyielding"
+        ],
+        [
+            "Гяго Георгий",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Хорьков Никита",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Бурдуков Никита",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Берзегов Рамазан",
+            "Athreos, God of Passage"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Пузиков Никита",
+                "Гяго Георгий",
+                "Saskia the Unyielding",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Бурдуков Никита",
+                "Dihada, Binder of Wills",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Пузиков Никита",
+                "Берзегов Рамазан",
+                "Saskia the Unyielding",
+                "Athreos, God of Passage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Гяго Георгий",
+                "Бурдуков Никита",
+                "Arahbo, Roar of the World",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Пузиков Никита",
+                "Хорьков Никита",
+                "Saskia the Unyielding",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Гяго Георгий",
+                "Берзегов Рамазан",
+                "Arahbo, Roar of the World",
+                "Athreos, God of Passage",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

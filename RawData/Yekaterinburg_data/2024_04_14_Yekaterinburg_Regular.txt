@@ -1,0 +1,15 @@
+location::Yekaterinburg
+level::Regular
+date::2024_04_14
+organizer::Mihail
+players::generals
+Артём Разумов :: The Reality Chip
+Сергей Согомонян :: Raffine, Scheming Seer
+Денис Орлов :: Juri, Master of the Revue
+Станислав Прошин :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Влад Кригер :: Omnath, Locus of Creation
+Никита Сычев :: Aminatou, the Fateshifter
+Святослав Панкрашин :: Atraxa, Grand Unifier
+Артём Холодный :: Oloro, Ageless Ascetic
+Rounds
+https://topdeck.gg/bracket/ERTFUibYUwwrUjTnn9VA

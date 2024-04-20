@@ -1,0 +1,93 @@
+{
+    "date": "2024_04_19",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Хорьков Никита",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Жуковский Андрей",
+            "Oloro, Ageless Ascetic"
+        ],
+        [
+            "Заиграев Даниил",
+            "Lord Windgrace"
+        ],
+        [
+            "Петрухин Иван",
+            "Gallia of the Endless Dance"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Хорьков Никита",
+                "Петрухин Иван",
+                "Winota, Joiner of Forces",
+                "Gallia of the Endless Dance",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Жуковский Андрей",
+                "Заиграев Даниил",
+                "Oloro, Ageless Ascetic",
+                "Lord Windgrace",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Хорьков Никита",
+                "Жуковский Андрей",
+                "Winota, Joiner of Forces",
+                "Oloro, Ageless Ascetic",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Заиграев Даниил",
+                "Петрухин Иван",
+                "Lord Windgrace",
+                "Gallia of the Endless Dance",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Хорьков Никита",
+                "Заиграев Даниил",
+                "Winota, Joiner of Forces",
+                "Lord Windgrace",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Жуковский Андрей",
+                "Петрухин Иван",
+                "Oloro, Ageless Ascetic",
+                "Gallia of the Endless Dance",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

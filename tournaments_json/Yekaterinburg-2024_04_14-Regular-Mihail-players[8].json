@@ -1,0 +1,203 @@
+{
+    "date": "2024_04_14",
+    "location": "Yekaterinburg",
+    "level": "Regular",
+    "organizer": "Mihail",
+    "roundsCount": 5,
+    "players": [
+        [
+            "Артём Разумов",
+            "The Reality Chip"
+        ],
+        [
+            "Сергей Согомонян",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Денис Орлов",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Станислав Прошин",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Влад Кригер",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Никита Сычев",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Святослав Панкрашин",
+            "Atraxa, Grand Unifier"
+        ],
+        [
+            "Артём Холодный",
+            "Oloro, Ageless Ascetic"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Станислав Прошин",
+                "Артём Холодный",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Oloro, Ageless Ascetic",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Влад Кригер",
+                "Святослав Панкрашин",
+                "Omnath, Locus of Creation",
+                "Atraxa, Grand Unifier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Денис Орлов",
+                "Сергей Согомонян",
+                "Juri, Master of the Revue",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Разумов",
+                "Никита Сычев",
+                "The Reality Chip",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Денис Орлов",
+                "Влад Кригер",
+                "Juri, Master of the Revue",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Разумов",
+                "Артём Холодный",
+                "The Reality Chip",
+                "Oloro, Ageless Ascetic",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Станислав Прошин",
+                "Сергей Согомонян",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Raffine, Scheming Seer",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Святослав Панкрашин",
+                "Никита Сычев",
+                "Atraxa, Grand Unifier",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Денис Орлов",
+                "Артём Разумов",
+                "Juri, Master of the Revue",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Влад Кригер",
+                "Станислав Прошин",
+                "Omnath, Locus of Creation",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Святослав Панкрашин",
+                "Сергей Согомонян",
+                "Atraxa, Grand Unifier",
+                "Raffine, Scheming Seer",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Артём Холодный",
+                "Никита Сычев",
+                "Oloro, Ageless Ascetic",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Денис Орлов",
+                "Сергей Согомонян",
+                "Juri, Master of the Revue",
+                "Raffine, Scheming Seer",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Артём Разумов",
+                "Станислав Прошин",
+                "The Reality Chip",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Сергей Согомонян",
+                "Артём Разумов",
+                "Raffine, Scheming Seer",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}
