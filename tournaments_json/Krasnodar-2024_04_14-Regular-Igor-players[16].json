@@ -1,0 +1,403 @@
+{
+    "date": "2024_04_14",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Арушанян Тигран",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Редько Павел",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Безрученко Дмитрий",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Чурсин Данила",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Кириченко Евгений",
+            "The Reality Chip"
+        ],
+        [
+            "Иванов Антон",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Беляков Михаил",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Сажин Юрий",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Еремеев Александр",
+            "The Reality Chip"
+        ],
+        [
+            "Акишев Константин",
+            "Gallia of the Endless Dance"
+        ],
+        [
+            "Хорьков Никита",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Ерофеев Александр",
+            "Kari Zev, Skyship Raider"
+        ],
+        [
+            "Васинов Николай",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Усков Антон",
+            "Errant and Giada"
+        ],
+        [
+            "Недогонов Алексей",
+            "Gix, Yawgmoth Praetor"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Арушанян Тигран",
+                "Беляков Михаил",
+                "Geist of Saint Traft",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Ерофеев Александр",
+                "Asmoranomardicadaistinaculdacar",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Усков Антон",
+                "Indoraptor, the Perfect Hybrid",
+                "Errant and Giada",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Недогонов Алексей",
+                "Dihada, Binder of Wills",
+                "Gix, Yawgmoth Praetor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Васинов Николай",
+                "The Reality Chip",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Антон",
+                "Сажин Юрий",
+                "Golos, Tireless Pilgrim",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Хорьков Никита",
+                "The Reality Chip",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Акишев Константин",
+                "Иванов Дмитрий",
+                "Gallia of the Endless Dance",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Арушанян Тигран",
+                "Чурсин Данила",
+                "Geist of Saint Traft",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Хорьков Никита",
+                "Asmoranomardicadaistinaculdacar",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Кириченко Евгений",
+                "Indoraptor, the Perfect Hybrid",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Антон",
+                "Акишев Константин",
+                "Golos, Tireless Pilgrim",
+                "Gallia of the Endless Dance",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Ерофеев Александр",
+                "Omnath, Locus of Creation",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сажин Юрий",
+                "Васинов Николай",
+                "Slimefoot and Squee",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Усков Антон",
+                "The Reality Chip",
+                "Errant and Giada",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Недогонов Алексей",
+                "Golos, Tireless Pilgrim",
+                "Gix, Yawgmoth Praetor",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Арушанян Тигран",
+                "Иванов Антон",
+                "Geist of Saint Traft",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Безрученко Дмитрий",
+                "Asmoranomardicadaistinaculdacar",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Акишев Константин",
+                "Dihada, Binder of Wills",
+                "Gallia of the Endless Dance",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Иванов Дмитрий",
+                "The Reality Chip",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Еремеев Александр",
+                "Omnath, Locus of Creation",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сажин Юрий",
+                "Хорьков Никита",
+                "Slimefoot and Squee",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ерофеев Александр",
+                "Недогонов Алексей",
+                "Kari Zev, Skyship Raider",
+                "Gix, Yawgmoth Praetor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Усков Антон",
+                "Ghyrson Starn, Kelermorph",
+                "Errant and Giada",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Арушанян Тигран",
+                "Редько Павел",
+                "Geist of Saint Traft",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Акишев Константин",
+                "Indoraptor, the Perfect Hybrid",
+                "Gallia of the Endless Dance",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Еремеев Александр",
+                "Dihada, Binder of Wills",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Сажин Юрий",
+                "The Reality Chip",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Антон",
+                "Ерофеев Александр",
+                "Golos, Tireless Pilgrim",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Васинов Николай",
+                "Omnath, Locus of Creation",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Иванов Дмитрий",
+                "Dihada, Binder of Wills",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Усков Антон",
+                "Недогонов Алексей",
+                "Errant and Giada",
+                "Gix, Yawgmoth Praetor",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

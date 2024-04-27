@@ -1,0 +1,845 @@
+{
+    "date": "2024_04_20",
+    "location": "Krasnodar",
+    "level": "Open",
+    "organizer": "Igor",
+    "roundsCount": 8,
+    "players": [
+        [
+            "Антипин Константин",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Орешкин Дмитрий",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Сухов Никита",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Кириченко Евгений",
+            "The Reality Chip"
+        ],
+        [
+            "Беланов Антон",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Беляков Михаил",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Козлов Михаил",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Шубенин Илья",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Чурсин Данила",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Башмаков Евгений",
+            "Radha, Heart of Keld"
+        ],
+        [
+            "Васинов Николай",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Омельченко Виктор",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Смирнов Александр",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Редько Павел",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Арушанян Тигран",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Деды Тимур",
+            "The Reality Chip"
+        ],
+        [
+            "Акишев Константин",
+            "Gallia of the Endless Dance"
+        ],
+        [
+            "Рудичева Александра",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Хорьков Никита",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Гапкалов Дмитрий",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Зайцев Даниил",
+            "Prosper, Tome-Bound"
+        ],
+        [
+            "Берзегов Рамазан",
+            "Otharri, Suns' Glory"
+        ],
+        [
+            "Лях Владимир",
+            "Arcades, the Strategist"
+        ],
+        [
+            "Сажин Юрий",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Пузиков Никита",
+            "Saskia the Unyielding"
+        ],
+        [
+            "Еремеев Александр",
+            "The Reality Chip"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Антипин Константин",
+                "Пузиков Никита",
+                "Feldon, Ronom Excavator",
+                "Saskia the Unyielding",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Орешкин Дмитрий",
+                "Иванов Дмитрий",
+                "Juri, Master of the Revue",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сухов Никита",
+                "Сажин Юрий",
+                "Aminatou, the Fateshifter",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Шубенин Илья",
+                "Omnath, Locus of Creation",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Зайцев Даниил",
+                "The Reality Chip",
+                "Prosper, Tome-Bound",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Беланов Антон",
+                "Еремеев Александр",
+                "Omnath, Locus of Creation",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Чурсин Данила",
+                "Omnath, Locus of Creation",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Козлов Михаил",
+                "Берзегов Рамазан",
+                "Winota, Joiner of Forces",
+                "Otharri, Suns' Glory",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Башмаков Евгений",
+                "Смирнов Александр",
+                "Radha, Heart of Keld",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Омельченко Виктор",
+                "Asmoranomardicadaistinaculdacar",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Деды Тимур",
+                "Asmoranomardicadaistinaculdacar",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Рудичева Александра",
+                "Geist of Saint Traft",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Акишев Константин",
+                "Хорьков Никита",
+                "Gallia of the Endless Dance",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Гапкалов Дмитрий",
+                "Лях Владимир",
+                "Grist, the Hunger Tide",
+                "Arcades, the Strategist",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Антипин Константин",
+                "Смирнов Александр",
+                "Feldon, Ronom Excavator",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Орешкин Дмитрий",
+                "Беланов Антон",
+                "Juri, Master of the Revue",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сухов Никита",
+                "Козлов Михаил",
+                "Aminatou, the Fateshifter",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Беляков Михаил",
+                "The Reality Chip",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Беланов Антон",
+                "Лях Владимир",
+                "Omnath, Locus of Creation",
+                "Arcades, the Strategist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Сажин Юрий",
+                "Malcolm, Alluring Scoundrel",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Гапкалов Дмитрий",
+                "Dihada, Binder of Wills",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Башмаков Евгений",
+                "Хорьков Никита",
+                "Radha, Heart of Keld",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Еремеев Александр",
+                "Asmoranomardicadaistinaculdacar",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Омельченко Виктор",
+                "Редько Павел",
+                "Kinnan, Bonder Prodigy",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Акишев Константин",
+                "Geist of Saint Traft",
+                "Gallia of the Endless Dance",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Деды Тимур",
+                "Лях Владимир",
+                "The Reality Chip",
+                "Arcades, the Strategist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Рудичева Александра",
+                "Берзегов Рамазан",
+                "Winota, Joiner of Forces",
+                "Otharri, Suns' Glory",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Пузиков Никита",
+                "Prosper, Tome-Bound",
+                "Saskia the Unyielding",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Антипин Константин",
+                "Сухов Никита",
+                "Feldon, Ronom Excavator",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Орешкин Дмитрий",
+                "Чурсин Данила",
+                "Juri, Master of the Revue",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Пузиков Никита",
+                "Omnath, Locus of Creation",
+                "Saskia the Unyielding",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Арушанян Тигран",
+                "The Reality Chip",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Акишев Константин",
+                "Omnath, Locus of Creation",
+                "Gallia of the Endless Dance",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Козлов Михаил",
+                "Рудичева Александра",
+                "Winota, Joiner of Forces",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Редько Павел",
+                "Malcolm, Alluring Scoundrel",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Башмаков Евгений",
+                "Dihada, Binder of Wills",
+                "Radha, Heart of Keld",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Смирнов Александр",
+                "Asmoranomardicadaistinaculdacar",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Омельченко Виктор",
+                "Зайцев Даниил",
+                "Kinnan, Bonder Prodigy",
+                "Prosper, Tome-Bound",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Еремеев Александр",
+                "Winota, Joiner of Forces",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Гапкалов Дмитрий",
+                "Берзегов Рамазан",
+                "Grist, the Hunger Tide",
+                "Otharri, Suns' Glory",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лях Владимир",
+                "Деды Тимур",
+                "Arcades, the Strategist",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Антипин Константин",
+                "Беланов Антон",
+                "Feldon, Ronom Excavator",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Орешкин Дмитрий",
+                "Беляков Михаил",
+                "Juri, Master of the Revue",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Сухов Никита",
+                "Смирнов Александр",
+                "Aminatou, the Fateshifter",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Арушанян Тигран",
+                "Omnath, Locus of Creation",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Омельченко Виктор",
+                "The Reality Chip",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Редько Павел",
+                "Omnath, Locus of Creation",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Козлов Михаил",
+                "Деды Тимур",
+                "Winota, Joiner of Forces",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Акишев Константин",
+                "Malcolm, Alluring Scoundrel",
+                "Gallia of the Endless Dance",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Башмаков Евгений",
+                "Берзегов Рамазан",
+                "Radha, Heart of Keld",
+                "Otharri, Suns' Glory",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Зайцев Даниил",
+                "Asmoranomardicadaistinaculdacar",
+                "Prosper, Tome-Bound",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Рудичева Александра",
+                "Лях Владимир",
+                "Winota, Joiner of Forces",
+                "Arcades, the Strategist",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Гапкалов Дмитрий",
+                "Winota, Joiner of Forces",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Антипин Константин",
+                "Кириченко Евгений",
+                "Feldon, Ronom Excavator",
+                "The Reality Chip",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Орешкин Дмитрий",
+                "Беляков Михаил",
+                "Juri, Master of the Revue",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сухов Никита",
+                "Омельченко Виктор",
+                "Aminatou, the Fateshifter",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Редько Павел",
+                "Omnath, Locus of Creation",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Беланов Антон",
+                "Козлов Михаил",
+                "Omnath, Locus of Creation",
+                "Winota, Joiner of Forces",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Смирнов Александр",
+                "Malcolm, Alluring Scoundrel",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чурсин Данила",
+                "Арушанян Тигран",
+                "Dihada, Binder of Wills",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Башмаков Евгений",
+                "Рудичева Александра",
+                "Radha, Heart of Keld",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Деды Тимур",
+                "Asmoranomardicadaistinaculdacar",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Акишев Константин",
+                "Гапкалов Дмитрий",
+                "Gallia of the Endless Dance",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Лях Владимир",
+                "Winota, Joiner of Forces",
+                "Arcades, the Strategist",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Антипин Константин",
+                "Козлов Михаил",
+                "Feldon, Ronom Excavator",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Орешкин Дмитрий",
+                "Иванов Дмитрий",
+                "Juri, Master of the Revue",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сухов Никита",
+                "Беланов Антон",
+                "Aminatou, the Fateshifter",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Кириченко Евгений",
+                "Omnath, Locus of Creation",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Антипин Константин",
+                "Сухов Никита",
+                "Feldon, Ronom Excavator",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Орешкин Дмитрий",
+                "Omnath, Locus of Creation",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Антипин Константин",
+                "Орешкин Дмитрий",
+                "Feldon, Ronom Excavator",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,581 @@
+{
+    "date": "2024_04_21",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 5,
+    "players": [
+        [
+            "Кириченко Евгений",
+            "The Reality Chip"
+        ],
+        [
+            "Иванов Антон",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Антипин Константин",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Сухов Никита",
+            "The Reality Chip"
+        ],
+        [
+            "Еремеев Александр",
+            "The Reality Chip"
+        ],
+        [
+            "Арушанян Тигран",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Васинов Николай",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Смирнов Александр",
+            "Amalia Benavides Aguirre"
+        ],
+        [
+            "Кириченко Ксения",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Хорьков Никита",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Иванько Альберт",
+            "Esika, God of the Tree"
+        ],
+        [
+            "Орешкин Дмитрий",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Беляков Михаил",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Пузиков Никита",
+            "Saskia the Unyielding"
+        ],
+        [
+            "Редько Павел",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Терновский Михаил",
+            "Soul of Windgrace"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Ерофеев Александр",
+            "Heliod, Sun-Crowned"
+        ],
+        [
+            "Квинт Егор",
+            "Kari Zev, Skyship Raider"
+        ],
+        [
+            "Сажин Юрий",
+            "Slimefoot and Squee"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Кириченко Евгений",
+                "Терновский Михаил",
+                "The Reality Chip",
+                "Soul of Windgrace",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Антон",
+                "Ерофеев Александр",
+                "Golos, Tireless Pilgrim",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Антипин Константин",
+                "Сухов Никита",
+                "Feldon, Ronom Excavator",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Хорьков Никита",
+                "The Reality Chip",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Иванов Дмитрий",
+                "Geist of Saint Traft",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Беляков Михаил",
+                "Asmoranomardicadaistinaculdacar",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Смирнов Александр",
+                "Сажин Юрий",
+                "Amalia Benavides Aguirre",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Ксения",
+                "Пузиков Никита",
+                "Hogaak, Arisen Necropolis",
+                "Saskia the Unyielding",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Квинт Егор",
+                "Esika, God of the Tree",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Орешкин Дмитрий",
+                "Редько Павел",
+                "Malcolm, Alluring Scoundrel",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Кириченко Евгений",
+                "Иванов Антон",
+                "The Reality Chip",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Антипин Константин",
+                "Орешкин Дмитрий",
+                "Feldon, Ronom Excavator",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сухов Никита",
+                "Терновский Михаил",
+                "The Reality Chip",
+                "Soul of Windgrace",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Беляков Михаил",
+                "The Reality Chip",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Смирнов Александр",
+                "Geist of Saint Traft",
+                "Amalia Benavides Aguirre",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Иванов Дмитрий",
+                "Asmoranomardicadaistinaculdacar",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Ксения",
+                "Иванько Альберт",
+                "Hogaak, Arisen Necropolis",
+                "Esika, God of the Tree",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Пузиков Никита",
+                "Dihada, Binder of Wills",
+                "Saskia the Unyielding",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Сажин Юрий",
+                "Light-Paws, Emperor's Voice",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ерофеев Александр",
+                "Квинт Егор",
+                "Heliod, Sun-Crowned",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Кириченко Евгений",
+                "Иванько Альберт",
+                "The Reality Chip",
+                "Esika, God of the Tree",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Антон",
+                "Хорьков Никита",
+                "Golos, Tireless Pilgrim",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Антипин Константин",
+                "Пузиков Никита",
+                "Feldon, Ronom Excavator",
+                "Saskia the Unyielding",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сухов Никита",
+                "Редько Павел",
+                "The Reality Chip",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Ерофеев Александр",
+                "The Reality Chip",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Орешкин Дмитрий",
+                "Geist of Saint Traft",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Кириченко Ксения",
+                "Asmoranomardicadaistinaculdacar",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Смирнов Александр",
+                "Беляков Михаил",
+                "Amalia Benavides Aguirre",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Терновский Михаил",
+                "Иванов Дмитрий",
+                "Soul of Windgrace",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Квинт Егор",
+                "Сажин Юрий",
+                "Kari Zev, Skyship Raider",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Кириченко Евгений",
+                "Арушанян Тигран",
+                "The Reality Chip",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Антон",
+                "Еремеев Александр",
+                "Golos, Tireless Pilgrim",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Антипин Константин",
+                "Иванько Альберт",
+                "Feldon, Ronom Excavator",
+                "Esika, God of the Tree",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сухов Никита",
+                "Васинов Николай",
+                "The Reality Chip",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Смирнов Александр",
+                "Орешкин Дмитрий",
+                "Amalia Benavides Aguirre",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Ксения",
+                "Квинт Егор",
+                "Hogaak, Arisen Necropolis",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Редько Павел",
+                "Dihada, Binder of Wills",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Ерофеев Александр",
+                "Omnath, Locus of Creation",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Пузиков Никита",
+                "Терновский Михаил",
+                "Saskia the Unyielding",
+                "Soul of Windgrace",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Кириченко Евгений",
+                "Антипин Константин",
+                "The Reality Chip",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Антон",
+                "Арушанян Тигран",
+                "Golos, Tireless Pilgrim",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сухов Никита",
+                "Смирнов Александр",
+                "The Reality Chip",
+                "Amalia Benavides Aguirre",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Иванько Альберт",
+                "The Reality Chip",
+                "Esika, God of the Tree",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васинов Николай",
+                "Хорьков Никита",
+                "Asmoranomardicadaistinaculdacar",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Ксения",
+                "Орешкин Дмитрий",
+                "Hogaak, Arisen Necropolis",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Пузиков Никита",
+                "Иванов Дмитрий",
+                "Saskia the Unyielding",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Ерофеев Александр",
+                "Light-Paws, Emperor's Voice",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Терновский Михаил",
+                "Квинт Егор",
+                "Soul of Windgrace",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

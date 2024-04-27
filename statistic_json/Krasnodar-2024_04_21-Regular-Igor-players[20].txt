@@ -1,0 +1,120 @@
+Amalia Benavides Aguirre         matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00% (wm:3   lm:2   dm:0)  games:13   WG: 53.85% LG: 46.15% (wg:   7 lg:   6) pick: 1   
+       vs Slimefoot and Squee              (w:1 l:0 d:0), (2/1)
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (1/2)
+       vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/0)
+       vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/1)
+       vs The Reality Chip                 (w:0 l:1 d:0), (0/2)
+
+Asmoranomardicadaistinaculdacar  matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00% (wm:3   lm:2   dm:0)  games:14   WG: 57.14% LG: 42.86% (wg:   8 lg:   6) pick: 1   
+       vs Omnath, Locus of Creation        (w:1 l:1 d:0), (3/3)
+       vs Hogaak, Arisen Necropolis        (w:1 l:0 d:0), (2/0)
+       vs The Reality Chip                 (w:0 l:1 d:0), (1/2)
+       vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/1)
+
+Dihada, Binder of Wills          matches:5    WM: 40.00%  LM: 40.00%  DM: 20.00% (wm:2   lm:2   dm:1)  games:13   WG: 53.85% LG: 46.15% (wg:   7 lg:   6) pick: 1   
+       vs The Reality Chip                 (w:0 l:0 d:1), (1/1)
+       vs Saskia the Unyielding            (w:1 l:0 d:0), (2/1)
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (1/2)
+       vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/0)
+       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (1/2)
+
+Esika, God of the Tree           matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:13   WG: 46.15% LG: 53.85% (wg:   6 lg:   7) pick: 1   
+       vs Kari Zev, Skyship Raider         (w:1 l:0 d:0), (2/0)
+       vs Hogaak, Arisen Necropolis        (w:1 l:0 d:0), (2/1)
+       vs The Reality Chip                 (w:0 l:2 d:0), (1/4)
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (1/2)
+
+Feldon, Ronom Excavator          matches:5    WM: 80.00%  LM: 20.00%  DM:  0.00% (wm:4   lm:1   dm:0)  games:15   WG: 60.00% LG: 40.00% (wg:   9 lg:   6) pick: 1   
+       vs The Reality Chip                 (w:2 l:0 d:0), (4/2)
+       vs Malcolm, Alluring Scoundrel      (w:0 l:1 d:0), (1/2)
+       vs Saskia the Unyielding            (w:1 l:0 d:0), (2/1)
+       vs Esika, God of the Tree           (w:1 l:0 d:0), (2/1)
+
+Geist of Saint Traft             matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00% (wm:3   lm:2   dm:0)  games:15   WG: 53.33% LG: 46.67% (wg:   8 lg:   7) pick: 1   
+       vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/1)
+       vs Amalia Benavides Aguirre         (w:1 l:0 d:0), (2/1)
+       vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/1)
+       vs The Reality Chip                 (w:0 l:1 d:0), (1/2)
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (1/2)
+
+Golos, Tireless Pilgrim          matches:5    WM: 80.00%  LM: 20.00%  DM:  0.00% (wm:4   lm:1   dm:0)  games:12   WG: 66.67% LG: 33.33% (wg:   8 lg:   4) pick: 1   
+       vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/0)
+       vs The Reality Chip                 (w:1 l:1 d:0), (2/2)
+       vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/1)
+       vs Geist of Saint Traft             (w:1 l:0 d:0), (2/1)
+
+Heliod, Sun-Crowned              matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:1   lm:4   dm:0)  games:12   WG: 33.33% LG: 66.67% (wg:   4 lg:   8) pick: 1   
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
+       vs Kari Zev, Skyship Raider         (w:1 l:0 d:0), (2/0)
+       vs The Reality Chip                 (w:0 l:1 d:0), (1/2)
+       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (1/2)
+       vs Light-Paws, Emperor's Voice      (w:0 l:1 d:0), (0/2)
+
+Hogaak, Arisen Necropolis        matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00% (wm:3   lm:2   dm:0)  games:13   WG: 53.85% LG: 46.15% (wg:   7 lg:   6) pick: 1   
+       vs Saskia the Unyielding            (w:1 l:0 d:0), (2/1)
+       vs Esika, God of the Tree           (w:0 l:1 d:0), (1/2)
+       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
+       vs Kari Zev, Skyship Raider         (w:1 l:0 d:0), (2/0)
+       vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/1)
+
+Kari Zev, Skyship Raider         matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:1   lm:4   dm:0)  games:12   WG: 25.00% LG: 75.00% (wg:   3 lg:   9) pick: 1   
+       vs Esika, God of the Tree           (w:0 l:1 d:0), (0/2)
+       vs Heliod, Sun-Crowned              (w:0 l:1 d:0), (0/2)
+       vs Slimefoot and Squee              (w:1 l:0 d:0), (2/1)
+       vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (0/2)
+       vs Soul of Windgrace                (w:0 l:1 d:0), (1/2)
+
+Light-Paws, Emperor's Voice      matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:10   WG: 40.00% LG: 60.00% (wg:   4 lg:   6) pick: 1   
+       vs Malcolm, Alluring Scoundrel      (w:0 l:1 d:0), (0/2)
+       vs Slimefoot and Squee              (w:1 l:0 d:0), (2/0)
+       vs The Reality Chip                 (w:0 l:1 d:0), (0/2)
+       vs Dihada, Binder of Wills          (w:0 l:1 d:0), (0/2)
+       vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/0)
+
+Malcolm, Alluring Scoundrel      matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:14   WG: 50.00% LG: 50.00% (wg:   7 lg:   7) pick: 1   
+       vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/0)
+       vs Feldon, Ronom Excavator          (w:1 l:0 d:0), (2/1)
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (1/2)
+       vs Amalia Benavides Aguirre         (w:0 l:1 d:0), (1/2)
+       vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (1/2)
+
+Omnath, Locus of Creation        matches:8    WM: 25.00%  LM: 62.50%  DM: 12.50% (wm:2   lm:5   dm:1)  games:22   WG: 40.91% LG: 59.09% (wg:   9 lg:  13) pick: 2   
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (1/2)
+       vs Asmoranomardicadaistinaculdacar  (w:1 l:1 d:0), (3/3)
+       vs The Reality Chip                 (w:0 l:1 d:0), (1/2)
+       vs Amalia Benavides Aguirre         (w:0 l:1 d:0), (0/2)
+       vs Soul of Windgrace                (w:0 l:0 d:1), (1/1)
+       vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/1)
+       vs Saskia the Unyielding            (w:0 l:1 d:0), (1/2)
+
+Saskia the Unyielding            matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:15   WG: 46.67% LG: 53.33% (wg:   7 lg:   8) pick: 1   
+       vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (1/2)
+       vs Dihada, Binder of Wills          (w:0 l:1 d:0), (1/2)
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (1/2)
+       vs Soul of Windgrace                (w:1 l:0 d:0), (2/1)
+       vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/1)
+
+Slimefoot and Squee              matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:8    WG: 25.00% LG: 75.00% (wg:   2 lg:   6) pick: 1   
+       vs Amalia Benavides Aguirre         (w:0 l:1 d:0), (1/2)
+       vs Light-Paws, Emperor's Voice      (w:0 l:1 d:0), (0/2)
+       vs Kari Zev, Skyship Raider         (w:0 l:1 d:0), (1/2)
+
+Soul of Windgrace                matches:5    WM: 20.00%  LM: 60.00%  DM: 20.00% (wm:1   lm:3   dm:1)  games:12   WG: 33.33% LG: 66.67% (wg:   4 lg:   8) pick: 1   
+       vs The Reality Chip                 (w:0 l:2 d:0), (0/4)
+       vs Omnath, Locus of Creation        (w:0 l:0 d:1), (1/1)
+       vs Saskia the Unyielding            (w:0 l:1 d:0), (1/2)
+       vs Kari Zev, Skyship Raider         (w:1 l:0 d:0), (2/1)
+
+The Reality Chip                 matches:15   WM: 73.33%  LM: 20.00%  DM:  6.67% (wm:11  lm:3   dm:1)  games:37   WG: 67.57% LG: 32.43% (wg:  25 lg:  12) pick: 3   
+       vs Soul of Windgrace                (w:2 l:0 d:0), (4/0)
+       vs Feldon, Ronom Excavator          (w:0 l:2 d:0), (2/4)
+       vs Dihada, Binder of Wills          (w:0 l:0 d:1), (1/1)
+       vs Golos, Tireless Pilgrim          (w:1 l:1 d:0), (2/2)
+       vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/1)
+       vs Esika, God of the Tree           (w:2 l:0 d:0), (4/1)
+       vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/0)
+       vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/1)
+       vs Geist of Saint Traft             (w:1 l:0 d:0), (2/1)
+       vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/1)
+       vs Amalia Benavides Aguirre         (w:1 l:0 d:0), (2/0)
+

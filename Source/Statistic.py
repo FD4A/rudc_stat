@@ -112,6 +112,29 @@ class GeneralStat:
             str_ += f"{matchup}\n"
         return str_
 
+    # for_tables
+    def to_str2(self, full=True):
+        magic_len = 32  # replace by max length general
+        cz_plain = self.general.replace(' :++: ', '+')
+        cz_plain = cz_plain.replace(' :+: ', '+')
+        cz_plain = cz_plain.split('+')
+        str_ = f"{(cz_plain[0])}"
+        for item in cz_plain[1:]:
+            str_ += f" + {item}"
+        str_ += ' | '
+        str_ += f"{str(self.matches_total).ljust(4):<4} | "
+        str_ += f"{self.match_wrate:>6.2f} | {self.match_lrate:>6.2f} | {self.match_drate:>6.2f} | "
+        str_ += f"(wm:{str(self.win).ljust(3)} lm:{str(self.lose).ljust(3)} dm:{(str(self.draw)+')').ljust(3)} | "
+        str_ += f"{self.games_total:<4} | "
+        str_ += f"{self.game_wrate:>6.2f} | {self.game_lrate:>6.2f} | "
+        str_ += f"(wg:{self.game_win:>4} lg:{self.game_lose:>4}) | {self.pick_total:<4}"
+        str_ += '\n'
+        # if not full:
+        #     return str_
+        # for matchup in self.matchups.values():
+        #     str_ += f"{matchup}\n"
+        return str_
+
 
 class Statistic:
     def __init__(self):

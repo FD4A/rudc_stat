@@ -1,0 +1,315 @@
+{
+    "date": "2024_04_21",
+    "location": "Ussuriysk",
+    "level": "Regular",
+    "organizer": "Usstiger",
+    "roundsCount": 5,
+    "players": [
+        [
+            "Владислав М",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Кирилл С",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Дима Строкач",
+            "Ixhel, Scion of Atraxa"
+        ],
+        [
+            "Матвей К",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Вячеслав Ш",
+            "Ziatora, the Incinerator"
+        ],
+        [
+            "Алексей Ж",
+            "Urza, Lord Protector"
+        ],
+        [
+            "Алексей К",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Матвей Б",
+            "Atraxa, Grand Unifier"
+        ],
+        [
+            "Евгений Б",
+            "Narset, Enlightened Exile"
+        ],
+        [
+            "Дмитрий Савин",
+            "Flamewar, Brash Veteran"
+        ],
+        [
+            "Андрей Е",
+            "Sen Triplets"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Алексей К",
+                "Евгений Б",
+                "Kroxa, Titan of Death's Hunger",
+                "Narset, Enlightened Exile",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Андрей Е",
+                "Алексей Ж",
+                "Sen Triplets",
+                "Urza, Lord Protector",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Владислав М",
+                "Матвей Б",
+                "Geist of Saint Traft",
+                "Atraxa, Grand Unifier",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дмитрий Савин",
+                "Матвей К",
+                "Flamewar, Brash Veteran",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Вячеслав Ш",
+                "Raffine, Scheming Seer",
+                "Ziatora, the Incinerator",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Дима Строкач",
+                "Евгений Б",
+                "Ixhel, Scion of Atraxa",
+                "Narset, Enlightened Exile",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Матвей К",
+                "Urza, Lord Protector",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Владислав М",
+                "Кирилл С",
+                "Geist of Saint Traft",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Алексей К",
+                "Матвей Б",
+                "Kroxa, Titan of Death's Hunger",
+                "Atraxa, Grand Unifier",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Дмитрий Савин",
+                "Ziatora, the Incinerator",
+                "Flamewar, Brash Veteran",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Матвей К",
+                "Владислав М",
+                "Asmoranomardicadaistinaculdacar",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дима Строкач",
+                "Андрей Е",
+                "Ixhel, Scion of Atraxa",
+                "Sen Triplets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Евгений Б",
+                "Вячеслав Ш",
+                "Narset, Enlightened Exile",
+                "Ziatora, the Incinerator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Алексей К",
+                "Алексей Ж",
+                "Kroxa, Titan of Death's Hunger",
+                "Urza, Lord Protector",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Дмитрий Савин",
+                "Raffine, Scheming Seer",
+                "Flamewar, Brash Veteran",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Дима Строкач",
+                "Владислав М",
+                "Ixhel, Scion of Atraxa",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Матвей К",
+                "Кирилл С",
+                "Asmoranomardicadaistinaculdacar",
+                "Raffine, Scheming Seer",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Вячеслав Ш",
+                "Urza, Lord Protector",
+                "Ziatora, the Incinerator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Андрей Е",
+                "Алексей К",
+                "Sen Triplets",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Матвей Б",
+                "Евгений Б",
+                "Atraxa, Grand Unifier",
+                "Narset, Enlightened Exile",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Владислав М",
+                "Вячеслав Ш",
+                "Geist of Saint Traft",
+                "Ziatora, the Incinerator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Дима Строкач",
+                "Raffine, Scheming Seer",
+                "Ixhel, Scion of Atraxa",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Матвей К",
+                "Матвей Б",
+                "Asmoranomardicadaistinaculdacar",
+                "Atraxa, Grand Unifier",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дмитрий Савин",
+                "Алексей К",
+                "Flamewar, Brash Veteran",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Андрей Е",
+                "Urza, Lord Protector",
+                "Sen Triplets",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+location::Ussuriysk
+level::Regular
+date::2024_04_21
+organizer::Usstiger
+players::generals
+Владислав М :: Geist of Saint Traft
+Кирилл С :: Raffine, Scheming Seer
+Дима Строкач :: Ixhel, Scion of Atraxa
+Матвей К :: Asmoranomardicadaistinaculdacar
+Вячеслав Ш :: Satoru, the Infiltrator
+Алексей Ж :: Yuma, Proud Protector
+Алексей К :: Kroxa, Titan of Death's Hunger.
+Матвей Б :: Atraxa, Grand Unifier
+Евгений Б :: Narset, Enlightened Exile
+Дмитрий Савин :: Flamewar, Brash Veteran // Flamewar, Streetwise Operative
+Андрей Е :: Sen Triplets
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/29207

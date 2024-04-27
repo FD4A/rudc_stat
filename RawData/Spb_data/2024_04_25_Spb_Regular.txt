@@ -1,0 +1,22 @@
+location::Spb
+level::Regular
+date::2024_04_25
+organizer::Andysays
+players::generals
+Таловер Артем :: Dihada, Binder of Wills
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Поляков Герман :: Omnath, Locus of Creation
+Байков Аркадий :: Vial Smasher the Fierce
+Протасов Михаил :: Aminatou, the Fateshifter
+Яковлев Николай :: Dihada, Binder of Wills
+Семенов Дмитрий :: Juri, Master of the Revue
+Ульянов Алексей :: Teysa, Orzhov Scion
+Мартынов Яков :: The Reality Cheap
+Иванов Дмитрий :: Omnath, Locus of Creation
+Саушкин Андрей :: The Gitrog Monster
+Федоров Дмитрий :: Karlov of the Ghost Council :++: Lurrus of the Dream-Den
+Цюра Максим :: Ghyrson Starn, Kelermorph
+Брук Роман :: Urabrask
+Грабовой Филипп :: Slimefoot and Squee
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/29301

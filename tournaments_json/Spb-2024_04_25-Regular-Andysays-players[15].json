@@ -1,0 +1,349 @@
+{
+    "date": "2024_04_25",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Таловер Артем",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Поляков Герман",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Протасов Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Яковлев Николай",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Ульянов Алексей",
+            "Teysa, Orzhov Scion"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Саушкин Андрей",
+            "The Gitrog Monster"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Karlov of the Ghost Council :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Цюра Максим",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Брук Роман",
+            "Urabrask"
+        ],
+        [
+            "Грабовой Филипп",
+            "Slimefoot and Squee"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Иванов Дмитрий",
+                "Семенов Дмитрий",
+                "Omnath, Locus of Creation",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Саушкин Андрей",
+                "Teysa, Orzhov Scion",
+                "The Gitrog Monster",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Брук Роман",
+                "Мартынов Яков",
+                "Urabrask",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Байков Аркадий",
+                "Aminatou, the Fateshifter",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Таловер Артем",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Грабовой Филипп",
+                "Ghyrson Starn, Kelermorph",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Яковлев Николай",
+                "Omnath, Locus of Creation",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Родюков Федор",
+                "Цюра Максим",
+                "Ghyrson Starn, Kelermorph",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Поляков Герман",
+                "The Reality Chip",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Саушкин Андрей",
+                "Dihada, Binder of Wills",
+                "The Gitrog Monster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Семенов Дмитрий",
+                "Aminatou, the Fateshifter",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Федоров Дмитрий",
+                "Vial Smasher the Fierce",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Брук Роман",
+                "Slimefoot and Squee",
+                "Urabrask",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Иванов Дмитрий",
+                "Dihada, Binder of Wills",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Родюков Федор",
+                "Поляков Герман",
+                "Ghyrson Starn, Kelermorph",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Семенов Дмитрий",
+                "Dihada, Binder of Wills",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Саушкин Андрей",
+                "Vial Smasher the Fierce",
+                "The Gitrog Monster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Ульянов Алексей",
+                "Ghyrson Starn, Kelermorph",
+                "Teysa, Orzhov Scion",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Мартынов Яков",
+                "Aminatou, the Fateshifter",
+                "The Reality Chip",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Брук Роман",
+                "Яковлев Николай",
+                "Urabrask",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Федоров Дмитрий",
+                "Omnath, Locus of Creation",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Родюков Федор",
+                "Таловер Артем",
+                "Ghyrson Starn, Kelermorph",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Семенов Дмитрий",
+                "Omnath, Locus of Creation",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Ульянов Алексей",
+                "Vial Smasher the Fierce",
+                "Teysa, Orzhov Scion",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Иванов Дмитрий",
+                "Aminatou, the Fateshifter",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Яковлев Николай",
+                "The Reality Chip",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Брук Роман",
+                "Федоров Дмитрий",
+                "Urabrask",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

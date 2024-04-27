@@ -9,7 +9,7 @@ players::generals
 Протасов Михаил :: Aminatou, the Fateshifter
 Иванов Максим :: Geist of Saint Traft
 Барабаш Валентин :: Kinnan, Bonder Prodigy
-Ульянов Алексей :: 4с омнат
+Ульянов Алексей :: Omnath, Locus of Creation
 Богданов Сергей :: Geist of Saint Traft
 Яковлев Николай :: Dihada, Binder of Wills
 Грабовой Филипп :: Slimefoot and Squee

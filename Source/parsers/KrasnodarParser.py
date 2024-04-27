@@ -83,12 +83,13 @@ class KrasnodarParser:
                 m.general1 = item.general
                 if item.rounds[i][0] == 'bye':
                     continue
-                m.result = res_dict[item.rounds[i][0]]
                 m.player2 = item.rounds[i][1]
                 m.general2 = tr.get_participant_general(m.player2)
                 if m.general2 is None:
                     print("player general not found!")
                     exit(1)
+                print(m.player1, " :: ", m.player2)
+                m.result = res_dict[item.rounds[i][0]]
 
                 if len(round_.matches) == 0:
                     round_.matches.append(m)

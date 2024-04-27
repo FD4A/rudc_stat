@@ -1,17 +1,40 @@
 import argparse
 from glob import glob
 
-
 from Source.Statistic import Statistic
 from Source.Tournament import Tournament
 from Source.LegendaryBase import LegendaryBase
+# from Server.reqForm import GetParams
+
+
+# def make_stat(get_params: GetParams, tournament_list):
+#     save_date = []
+#     start_date = get_params.date_after
+#     finish_date = get_params.date_before
+#     stat = Statistic()
+#     for tournament in tournament_list:
+#         if tournament.before_date(finish_date) and tournament.after_date(start_date):
+#             if (tournament.level == 'Regular' and get_params.regular) or \
+#                (tournament.level == 'Open' and get_params.open) or \
+#                (tournament.level == 'Other' and get_params.other) or \
+#                (tournament.level == 'League' and get_params.league):
+#                 if len(tournament.players) >= get_params.min_players:
+#                     stat.add_tournament(tournament, get_params.exclude_generals)
+#                     save_date.append(tournament.date)
+#     for_delete = []
+#     for elem in stat.generalStat.values():
+#         if elem.matches_total < get_params.min_match_count:
+#             for_delete.append(elem.general)
+#     for item in for_delete:
+#         del stat.generalStat[item]
+#     return stat
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser('RuDcStat')
     parser.add_argument('--tournament_folder', default='tournaments_json')
     parser.add_argument('--statistic_folder', default='statistic_json')
-    parser.add_argument('--start_date', default='0000_00_00')  # 0000_00_00 2023_11_08
+    parser.add_argument('--start_date', default='2023_11_08')  # 0000_00_00 2023_11_08
     parser.add_argument('--finish_date', default='9999_99_99')
     parser.add_argument('--out_path', default='./Stat/')
     args = parser.parse_args()
@@ -64,3 +87,46 @@ if __name__ == '__main__':
         fd.write(stat_tr_names)
         stat_str = stat.to_str(sort_type='name', full=False)
         fd.write(stat_str)
+
+    # sort_params = []
+    #
+    # sort_params.append(GetParams(date_after='0000_00_00', date_before='9999_99_99', open='checked', regular='checked',
+    #                              other='checked', league='checked', full_stat='', exclude_generals='', sort_type='matches_total',
+    #                              min_players=4, min_match_count=10))
+    #
+    # sort_params.append(GetParams(date_after='0000_00_00', date_before='9999_99_99', open='checked', regular='checked',
+    #                              other='checked', league='checked', full_stat='checked', exclude_generals='', sort_type='matches_total',
+    #                              min_players=4, min_match_count=10))
+    #
+    # sort_params.append(GetParams(date_after='2023_11_08', date_before='9999_99_99', open='checked', regular='checked',
+    #                              other='checked', league='checked', full_stat='', exclude_generals='', sort_type='matches_total',
+    #                              min_players=4, min_match_count=10))
+    #
+    # sort_params.append(GetParams(date_after='2023_11_08', date_before='9999_99_99', open='checked', regular='checked',
+    #                              other='checked', league='checked', full_stat='checked', exclude_generals='', sort_type='matches_total',
+    #                              min_players=4, min_match_count=10))
+    #
+    # sort_params.append(GetParams(date_after='0000_00_00', date_before='9999_99_99', open='checked', regular='checked',
+    #                              other='checked', league='checked', full_stat='', exclude_generals='', sort_type='name',
+    #                              min_players=4, min_match_count=1))
+    #
+    # sort_params.append(GetParams(date_after='0000_00_00', date_before='9999_99_99', open='checked', regular='checked',
+    #                              other='checked', league='checked', full_stat='checked', exclude_generals='', sort_type='name',
+    #                              min_players=4, min_match_count=1))
+    #
+    # sort_params.append(GetParams(date_after='2023_11_08', date_before='9999_99_99', open='checked', regular='checked',
+    #                              other='checked', league='checked', full_stat='', exclude_generals='', sort_type='name',
+    #                              min_players=4, min_match_count=1))
+    #
+    # sort_params.append(GetParams(date_after='2023_11_08', date_before='9999_99_99', open='checked', regular='checked',
+    #                              other='checked', league='checked', full_stat='checked', exclude_generals='', sort_type='name',
+    #                              min_players=4, min_match_count=1))
+    #
+    # tournament_list = []
+    # tournament_files_list = glob('./tournaments_json/*.json')
+    # for tournament_filename in tournament_files_list:
+    #     tournament_list.append(Tournament.load_from_json(tournament_filename))
+    #
+    # # for sort_p in sort_params:
+    # res = make_stat(sort_params[0], tournament_list)
+    # print(res)
