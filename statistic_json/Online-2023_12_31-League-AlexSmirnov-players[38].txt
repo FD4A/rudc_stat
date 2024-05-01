@@ -12,6 +12,7 @@ Akiri, Line-Slinger              matches:16   WM: 37.50%  LM: 62.50%  DM:  0.00%
        vs Rona, Herald of Invasion         (w:1 l:1 d:0), (2/2)
        vs Vial Smasher the Fierce          (w:1 l:1 d:0), (2/2)
 
+
 Aminatou, the Fateshifter        matches:12   WM: 41.67%  LM: 58.33%  DM:  0.00% (wm:5   lm:7   dm:0)  games:28   WG: 42.86% LG: 57.14% (wg:  12 lg:  16) pick: 2   
        vs Kinnan, Bonder Prodigy           (w:1 l:0 d:0), (2/0)
        vs Leovold, Emissary of Trest       (w:0 l:1 d:0), (1/2)
@@ -25,6 +26,7 @@ Aminatou, the Fateshifter        matches:12   WM: 41.67%  LM: 58.33%  DM:  0.00%
        vs Atraxa, Grand Unifier            (w:0 l:1 d:0), (0/2)
        vs Gix, Yawgmoth Praetor            (w:0 l:1 d:0), (0/2)
 
+
 Asmoranomardicadaistinaculdacar  matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:14   WG: 57.14% LG: 42.86% (wg:   8 lg:   6) pick: 1   
        vs Vial Smasher the Fierce          (w:1 l:0 d:0), (2/0)
        vs Ertai Resurrected                (w:1 l:0 d:0), (2/0)
@@ -33,6 +35,7 @@ Asmoranomardicadaistinaculdacar  matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00%
        vs Rona, Herald of Invasion         (w:1 l:0 d:0), (2/0)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
         + Ludevic, Necro-Alchemist        
+
 
 Atraxa, Grand Unifier            matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:14   WG: 71.43% LG: 28.57% (wg:  10 lg:   4) pick: 1   
        vs Malcolm, Alluring Scoundrel      (w:0 l:1 d:0), (1/2)
@@ -43,6 +46,7 @@ Atraxa, Grand Unifier            matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00%
        vs Leovold, Emissary of Trest       (w:1 l:0 d:0), (2/0)
        vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/0)
 
+
 Atraxa, Praetors' Voice          matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:14   WG: 42.86% LG: 57.14% (wg:   6 lg:   8) pick: 1   
        vs Akiri, Line-Slinger              (w:0 l:1 d:0), (1/2)
         + Silas Renn, Seeker Adept        
@@ -51,6 +55,7 @@ Atraxa, Praetors' Voice          matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00%
        vs Elminster                        (w:1 l:0 d:0), (2/0)
        vs The Beamtown Bullies             (w:0 l:1 d:0), (1/2)
        vs God-Eternal Kefnet               (w:1 l:0 d:0), (2/0)
+
 
 Bjorna, Nightfall Alchemist      matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:13   WG: 61.54% LG: 38.46% (wg:   8 lg:   5) pick: 1   
   + Wernog, Rider's Chaplain    
@@ -62,6 +67,7 @@ Bjorna, Nightfall Alchemist      matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00%
         + Tana, the Bloodsower            
        vs God-Eternal Kefnet               (w:1 l:0 d:0), (2/0)
 
+
 Dihada, Binder of Wills          matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:16   WG: 56.25% LG: 43.75% (wg:   9 lg:   7) pick: 1   
        vs Ertai Resurrected                (w:0 l:1 d:0), (0/2)
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
@@ -71,12 +77,14 @@ Dihada, Binder of Wills          matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00%
        vs Slimefoot and Squee              (w:1 l:0 d:0), (2/1)
        vs Omnath, Locus of Creation        (w:0 l:1 d:0), (1/2)
 
+
 Elminster                        matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:10   WG: 20.00% LG: 80.00% (wg:   2 lg:   8) pick: 1   
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
         + Tana, the Bloodsower            
        vs Tergrid, God of Fright           (w:0 l:1 d:0), (1/2)
        vs Hakbal of the Surging Soul       (w:0 l:1 d:0), (0/2)
        vs Atraxa, Praetors' Voice          (w:0 l:1 d:0), (0/2)
+
 
 Erayo, Soratami Ascendant        matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:11   WG: 27.27% LG: 72.73% (wg:   3 lg:   8) pick: 1   
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
@@ -87,10 +95,12 @@ Erayo, Soratami Ascendant        matches:4    WM:  0.00%  LM:100.00%  DM:  0.00%
         + Ludevic, Necro-Alchemist        
        vs The Beamtown Bullies             (w:0 l:1 d:0), (1/2)
 
+
 Ertai Resurrected                matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:6    WG: 33.33% LG: 66.67% (wg:   2 lg:   4) pick: 1   
        vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/0)
        vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
        vs Magda, Brazen Outlaw             (w:0 l:1 d:0), (0/2)
+
 
 Gix, Yawgmoth Praetor            matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:15   WG: 60.00% LG: 40.00% (wg:   9 lg:   6) pick: 1   
        vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (1/2)
@@ -99,6 +109,7 @@ Gix, Yawgmoth Praetor            matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00%
        vs Hakbal of the Surging Soul       (w:1 l:0 d:0), (2/0)
        vs Tergrid, God of Fright           (w:1 l:0 d:0), (2/1)
        vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/0)
+
 
 God-Eternal Kefnet               matches:6    WM: 16.67%  LM: 83.33%  DM:  0.00% (wm:1   lm:5   dm:0)  games:12   WG: 16.67% LG: 83.33% (wg:   2 lg:  10) pick: 1   
        vs Kytheon, Hero of Akros           (w:0 l:1 d:0), (0/2)
@@ -111,6 +122,7 @@ God-Eternal Kefnet               matches:6    WM: 16.67%  LM: 83.33%  DM:  0.00%
         + Ludevic, Necro-Alchemist        
        vs Atraxa, Praetors' Voice          (w:0 l:1 d:0), (0/2)
 
+
 Grist, the Hunger Tide           matches:7    WM: 57.14%  LM: 42.86%  DM:  0.00% (wm:4   lm:3   dm:0)  games:16   WG: 56.25% LG: 43.75% (wg:   9 lg:   7) pick: 1   
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
         + Ludevic, Necro-Alchemist        
@@ -121,12 +133,14 @@ Grist, the Hunger Tide           matches:7    WM: 57.14%  LM: 42.86%  DM:  0.00%
        vs Kellan, the Fae-Blooded          (w:1 l:0 d:0), (2/0)
        vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
 
+
 Hakbal of the Surging Soul       matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:8    WG: 25.00% LG: 75.00% (wg:   2 lg:   6) pick: 1   
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
         + Tana, the Bloodsower            
        vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (0/2)
        vs Elminster                        (w:1 l:0 d:0), (2/0)
        vs Gix, Yawgmoth Praetor            (w:0 l:1 d:0), (0/2)
+
 
 Hogaak, Arisen Necropolis        matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:13   WG: 61.54% LG: 38.46% (wg:   8 lg:   5) pick: 1   
        vs Gix, Yawgmoth Praetor            (w:1 l:0 d:0), (2/1)
@@ -137,6 +151,7 @@ Hogaak, Arisen Necropolis        matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00%
        vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/0)
        vs Leovold, Emissary of Trest       (w:1 l:0 d:0), (2/0)
 
+
 Kellan, the Fae-Blooded          matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:13   WG: 46.15% LG: 53.85% (wg:   6 lg:   7) pick: 1   
        vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
        vs Bjorna, Nightfall Alchemist      (w:1 l:0 d:0), (2/0)
@@ -146,6 +161,7 @@ Kellan, the Fae-Blooded          matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00%
        vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
        vs Grist, the Hunger Tide           (w:0 l:1 d:0), (0/2)
        vs Tergrid, God of Fright           (w:1 l:0 d:0), (2/0)
+
 
 Kinnan, Bonder Prodigy           matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:16   WG: 50.00% LG: 50.00% (wg:   8 lg:   8) pick: 1   
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
@@ -158,6 +174,7 @@ Kinnan, Bonder Prodigy           matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00%
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
         + Tana, the Bloodsower            
 
+
 Kytheon, Hero of Akros           matches:7    WM: 57.14%  LM: 42.86%  DM:  0.00% (wm:4   lm:3   dm:0)  games:17   WG: 52.94% LG: 47.06% (wg:   9 lg:   8) pick: 1   
        vs God-Eternal Kefnet               (w:1 l:0 d:0), (2/0)
        vs Hogaak, Arisen Necropolis        (w:1 l:0 d:0), (2/0)
@@ -166,6 +183,7 @@ Kytheon, Hero of Akros           matches:7    WM: 57.14%  LM: 42.86%  DM:  0.00%
         + Tana, the Bloodsower            
        vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/1)
        vs Magda, Brazen Outlaw             (w:0 l:1 d:0), (0/2)
+
 
 Leovold, Emissary of Trest       matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:15   WG: 40.00% LG: 60.00% (wg:   6 lg:   9) pick: 1   
        vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/1)
@@ -176,6 +194,7 @@ Leovold, Emissary of Trest       matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00%
        vs Atraxa, Grand Unifier            (w:0 l:1 d:0), (0/2)
        vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (0/2)
 
+
 Magda, Brazen Outlaw             matches:9    WM: 77.78%  LM: 22.22%  DM:  0.00% (wm:7   lm:2   dm:0)  games:21   WG: 66.67% LG: 33.33% (wg:  14 lg:   7) pick: 1   
        vs Tergrid, God of Fright           (w:1 l:0 d:0), (2/1)
        vs Yoshimaru, Ever Faithful         (w:2 l:2 d:0), (4/4)
@@ -185,6 +204,7 @@ Magda, Brazen Outlaw             matches:9    WM: 77.78%  LM: 22.22%  DM:  0.00%
        vs Kytheon, Hero of Akros           (w:1 l:0 d:0), (2/0)
        vs Slimefoot and Squee              (w:1 l:0 d:0), (2/1)
 
+
 Malcolm, Alluring Scoundrel      matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:17   WG: 52.94% LG: 47.06% (wg:   9 lg:   8) pick: 1   
        vs Atraxa, Grand Unifier            (w:1 l:0 d:0), (2/1)
        vs Grist, the Hunger Tide           (w:0 l:1 d:0), (1/2)
@@ -192,6 +212,7 @@ Malcolm, Alluring Scoundrel      matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00%
        vs Leovold, Emissary of Trest       (w:1 l:0 d:0), (2/1)
        vs Omnath, Locus of Creation        (w:0 l:1 d:0), (1/2)
        vs Kytheon, Hero of Akros           (w:0 l:1 d:0), (1/2)
+
 
 Omnath, Locus of Creation        matches:15   WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:10  lm:5   dm:0)  games:37   WG: 59.46% LG: 40.54% (wg:  22 lg:  15) pick: 2   
        vs Kellan, the Fae-Blooded          (w:1 l:0 d:0), (2/0)
@@ -206,6 +227,7 @@ Omnath, Locus of Creation        matches:15   WM: 66.67%  LM: 33.33%  DM:  0.00%
        vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/1)
        vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
 
+
 Rona, Herald of Invasion         matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:13   WG: 38.46% LG: 61.54% (wg:   5 lg:   8) pick: 1   
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
         + Tana, the Bloodsower            
@@ -214,6 +236,7 @@ Rona, Herald of Invasion         matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00%
        vs Akiri, Line-Slinger              (w:1 l:1 d:0), (2/2)
         + Silas Renn, Seeker Adept        
        vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
+
 
 Slimefoot and Squee              matches:8    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:6   lm:2   dm:0)  games:20   WG: 70.00% LG: 30.00% (wg:  14 lg:   6) pick: 1   
        vs Akiri, Line-Slinger              (w:1 l:0 d:0), (2/1)
@@ -226,6 +249,7 @@ Slimefoot and Squee              matches:8    WM: 75.00%  LM: 25.00%  DM:  0.00%
        vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/0)
        vs Magda, Brazen Outlaw             (w:0 l:1 d:0), (1/2)
 
+
 Tergrid, God of Fright           matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:16   WG: 37.50% LG: 62.50% (wg:   6 lg:  10) pick: 1   
        vs Magda, Brazen Outlaw             (w:0 l:1 d:0), (1/2)
        vs Elminster                        (w:1 l:0 d:0), (2/1)
@@ -233,6 +257,7 @@ Tergrid, God of Fright           matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00%
        vs Atraxa, Grand Unifier            (w:1 l:0 d:0), (2/1)
        vs Gix, Yawgmoth Praetor            (w:0 l:1 d:0), (1/2)
        vs Kellan, the Fae-Blooded          (w:0 l:1 d:0), (0/2)
+
 
 The Beamtown Bullies             matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:18   WG: 50.00% LG: 50.00% (wg:   9 lg:   9) pick: 1   
        vs Omnath, Locus of Creation        (w:0 l:1 d:0), (1/2)
@@ -243,6 +268,7 @@ The Beamtown Bullies             matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00%
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
         + Tana, the Bloodsower            
 
+
 Vial Smasher the Fierce          matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:12   WG: 33.33% LG: 66.67% (wg:   4 lg:   8) pick: 1   
        vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
        vs God-Eternal Kefnet               (w:0 l:1 d:0), (0/2)
@@ -251,6 +277,7 @@ Vial Smasher the Fierce          matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00%
         + Ludevic, Necro-Alchemist        
        vs Akiri, Line-Slinger              (w:1 l:1 d:0), (2/2)
         + Silas Renn, Seeker Adept        
+
 
 Yoshimaru, Ever Faithful         matches:12   WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:6   lm:6   dm:0)  games:28   WG: 46.43% LG: 53.57% (wg:  13 lg:  15) pick: 2   
   + Ludevic, Necro-Alchemist    
@@ -268,6 +295,7 @@ Yoshimaru, Ever Faithful         matches:12   WM: 50.00%  LM: 50.00%  DM:  0.00%
        vs Kinnan, Bonder Prodigy           (w:1 l:0 d:0), (2/1)
        vs God-Eternal Kefnet               (w:1 l:0 d:0), (2/0)
        vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/1)
+
 
 Yoshimaru, Ever Faithful         matches:31   WM: 58.06%  LM: 41.94%  DM:  0.00% (wm:18  lm:13  dm:0)  games:74   WG: 56.76% LG: 43.24% (wg:  42 lg:  32) pick: 5   
   + Tana, the Bloodsower        
@@ -292,4 +320,5 @@ Yoshimaru, Ever Faithful         matches:31   WM: 58.06%  LM: 41.94%  DM:  0.00%
        vs Kytheon, Hero of Akros           (w:2 l:0 d:0), (4/1)
        vs The Beamtown Bullies             (w:0 l:1 d:0), (1/2)
        vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (1/2)
+
 

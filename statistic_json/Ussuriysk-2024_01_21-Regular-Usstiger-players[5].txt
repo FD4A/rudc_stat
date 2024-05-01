@@ -4,11 +4,13 @@ Aminatou, the Fateshifter        matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00%
        vs Tymaret, the Murder King         (w:1 l:0 d:0), (2/0)
        vs Octavia, Living Thesis           (w:0 l:1 d:0), (1/2)
 
+
 Najeela, the Blade-Blossom       matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 55.56% LG: 44.44% (wg:   5 lg:   4) pick: 1   
        vs Tymaret, the Murder King         (w:1 l:0 d:0), (2/0)
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
        vs Octavia, Living Thesis           (w:1 l:0 d:0), (2/0)
        vs Raffine, Scheming Seer           (w:0 l:1 d:0), (1/2)
+
 
 Octavia, Living Thesis           matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 50.00% LG: 50.00% (wg:   5 lg:   5) pick: 1   
        vs Tymaret, the Murder King         (w:1 l:0 d:0), (2/0)
@@ -16,15 +18,18 @@ Octavia, Living Thesis           matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00%
        vs Najeela, the Blade-Blossom       (w:0 l:1 d:0), (0/2)
        vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/1)
 
+
 Raffine, Scheming Seer           matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:11   WG: 63.64% LG: 36.36% (wg:   7 lg:   4) pick: 1   
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (1/2)
        vs Octavia, Living Thesis           (w:1 l:0 d:0), (2/1)
        vs Tymaret, the Murder King         (w:1 l:0 d:0), (2/0)
        vs Najeela, the Blade-Blossom       (w:1 l:0 d:0), (2/1)
 
+
 Tymaret, the Murder King         matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:8    WG:  0.00% LG:100.00% (wg:   0 lg:   8) pick: 1   
        vs Najeela, the Blade-Blossom       (w:0 l:1 d:0), (0/2)
        vs Octavia, Living Thesis           (w:0 l:1 d:0), (0/2)
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
        vs Raffine, Scheming Seer           (w:0 l:1 d:0), (0/2)
+
 

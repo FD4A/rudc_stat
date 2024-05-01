@@ -3,28 +3,34 @@ Arahbo, Roar of the World        matches:3    WM: 66.67%  LM:  0.00%  DM: 33.33%
        vs Saskia the Unyielding            (w:1 l:0 d:0), (2/0)
        vs Raffine, Scheming Seer           (w:0 l:0 d:1), (1/1)
 
+
 Asmoranomardicadaistinaculdacar  matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:6    WG: 33.33% LG: 66.67% (wg:   2 lg:   4) pick: 1   
        vs Raffine, Scheming Seer           (w:0 l:1 d:0), (0/2)
        vs Jodah, the Unifier               (w:0 l:1 d:0), (0/2)
        vs Kess, Dissident Mage             (w:1 l:0 d:0), (2/0)
+
 
 Jodah, the Unifier               matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:7    WG: 42.86% LG: 57.14% (wg:   3 lg:   4) pick: 1   
        vs Arahbo, Roar of the World        (w:0 l:1 d:0), (0/2)
        vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/0)
        vs Saskia the Unyielding            (w:0 l:1 d:0), (1/2)
 
+
 Kess, Dissident Mage             matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:7    WG: 14.29% LG: 85.71% (wg:   1 lg:   6) pick: 1   
        vs Saskia the Unyielding            (w:0 l:1 d:0), (1/2)
        vs Raffine, Scheming Seer           (w:0 l:1 d:0), (0/2)
        vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
+
 
 Raffine, Scheming Seer           matches:3    WM: 66.67%  LM:  0.00%  DM: 33.33% (wm:2   lm:0   dm:1)  games:6    WG: 83.33% LG: 16.67% (wg:   5 lg:   1) pick: 1   
        vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/0)
        vs Kess, Dissident Mage             (w:1 l:0 d:0), (2/0)
        vs Arahbo, Roar of the World        (w:0 l:0 d:1), (1/1)
 
+
 Saskia the Unyielding            matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:8    WG: 50.00% LG: 50.00% (wg:   4 lg:   4) pick: 1   
        vs Kess, Dissident Mage             (w:1 l:0 d:0), (2/1)
        vs Arahbo, Roar of the World        (w:0 l:1 d:0), (0/2)
        vs Jodah, the Unifier               (w:1 l:0 d:0), (2/1)
+
 

@@ -1,0 +1,131 @@
+{
+    "date": "2024_04_28",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Еремеев Александр",
+            "The Reality Chip"
+        ],
+        [
+            "Арушанян Тигран",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Помогайлов Максим",
+            "Syr Faren, the Hengehammer"
+        ],
+        [
+            "Помогайлов Кирилл",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Акишев Константин",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Ерофеев Александр",
+            "Kari Zev, Skyship Raider"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Еремеев Александр",
+                "Помогайлов Кирилл",
+                "The Reality Chip",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Акишев Константин",
+                "Geist of Saint Traft",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Помогайлов Максим",
+                "Ерофеев Александр",
+                "Syr Faren, the Hengehammer",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Еремеев Александр",
+                "Помогайлов Максим",
+                "The Reality Chip",
+                "Syr Faren, the Hengehammer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Помогайлов Кирилл",
+                "Geist of Saint Traft",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Акишев Константин",
+                "Ерофеев Александр",
+                "Sythis, Harvest's Hand",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Еремеев Александр",
+                "Арушанян Тигран",
+                "The Reality Chip",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Помогайлов Максим",
+                "Акишев Константин",
+                "Syr Faren, the Hengehammer",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Помогайлов Кирилл",
+                "Ерофеев Александр",
+                "Winota, Joiner of Forces",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

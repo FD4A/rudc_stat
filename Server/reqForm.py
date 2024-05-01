@@ -2,7 +2,8 @@ from collections import namedtuple
 from Source.LegendaryBase import LegendaryBase
 
 GetParams = namedtuple('GetParams', ['date_after', 'date_before', 'open', 'regular', 'other',
-                       'league', 'full_stat', 'min_players', 'min_match_count', 'exclude_generals', 'sort_type'])
+                       'league', 'full_stat', 'min_players', 'min_match_count', 'exclude_generals', 'sort_type',
+                       'mach_threshold_for_full_matchup',])
 
 
 class RequestFrom:
@@ -31,6 +32,7 @@ class RequestFrom:
         self.sort_type_games_loss = ''
         self.min_players_count = 4
         self.min_match_count = 1
+        self.mach_threshold_for_full_matchup = 1
 
     @staticmethod
     def __check_min_players(min_pl, default_value=4):
@@ -38,6 +40,13 @@ class RequestFrom:
             if not alpha.isdigit():
                 return default_value
         return int(min_pl)
+
+    @staticmethod
+    def __check_mach_threshold_for_full_matchup(mach_threshold_for_full_matchup, default_value=1):
+        for i, alpha in enumerate(mach_threshold_for_full_matchup):
+            if not alpha.isdigit():
+                return default_value
+        return int(mach_threshold_for_full_matchup)
 
     @staticmethod
     def __check_min_match_count(min_match_count, default_value=1):
@@ -96,6 +105,7 @@ class RequestFrom:
         self.sort_type_games_loss = ''
         self.min_match_count = 1
         self.min_players_count = 4
+        self.mach_threshold_for_full_matchup = 1
         for item in plist:
             if 0 == item.find("date_after"):
                 date_after = RequestFrom.__check_date(item[len("date_after")+1:], RequestFrom.default_date_after)
@@ -111,6 +121,8 @@ class RequestFrom:
                 self.league = 'checked'
             if 0 == item.find("min_players"):
                 self.min_players_count = RequestFrom.__check_min_players(item[len("min_players")+1:])
+            if 0 == item.find("mach_threshold_for_full_matchup"):
+                self.mach_threshold_for_full_matchup = RequestFrom.__check_mach_threshold_for_full_matchup(item[len("mach_threshold_for_full_matchup")+1:])
             if 0 == item.find("min_match_count"):
                 self.min_match_count = RequestFrom.__check_min_match_count(item[len("min_match_count")+1:])
             if 0 == item.find("ExcludeGenerals"):
@@ -180,6 +192,7 @@ class RequestFrom:
                          sort_type=self.get_sort_type(),
                          min_players=self.min_players_count,
                          min_match_count=self.min_match_count,
+                         mach_threshold_for_full_matchup=self.mach_threshold_for_full_matchup,
                          )
 
     def get_http_form(self):
@@ -196,6 +209,7 @@ class RequestFrom:
                    f'<label for="TrTypeLeague"> Other</label></p>' \
                    f'<p> Minimum players count in tournament: <input type="text" name="min_players" minlength="1" maxlength="2" value="{self.min_players_count}"></p>' \
                    f'<p> Show generals with match count more than: <input type="text" name="min_match_count" minlength="1" maxlength="3" value="{self.min_match_count}"></p>' \
+                   f'<p> Show in full stat matchup with more than ~ matches: <input type="text" name="mach_threshold_for_full_matchup" minlength="1" maxlength="3" value="{self.mach_threshold_for_full_matchup}"></p>' \
                    f'<input type="checkbox" id="FullStat" name="FullStat" {self.full_stat}>' \
                    f'<label for="FullStat"> Full stat</label></p>' \
                    f'<p>ExcludeGenerals:</p><p><textarea name="ExcludeGenerals" cols="60" rows="10" wrap="soft">{self.get_exclude_generals_str()}</textarea></p>' \

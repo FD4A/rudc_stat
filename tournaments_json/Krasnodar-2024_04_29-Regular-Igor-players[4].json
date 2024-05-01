@@ -1,0 +1,93 @@
+{
+    "date": "2024_04_29",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Еремеев Александр",
+            "The Reality Chip"
+        ],
+        [
+            "Иванько Альберт",
+            "Gut, True Soul Zealot"
+        ],
+        [
+            "Ерофеев Александр",
+            "Kari Zev, Skyship Raider"
+        ],
+        [
+            "Овчаренко Даниил",
+            "Light-Paws, Emperor's Voice"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Еремеев Александр",
+                "Иванько Альберт",
+                "The Reality Chip",
+                "Gut, True Soul Zealot",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ерофеев Александр",
+                "Овчаренко Даниил",
+                "Kari Zev, Skyship Raider",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Еремеев Александр",
+                "Овчаренко Даниил",
+                "The Reality Chip",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Ерофеев Александр",
+                "Gut, True Soul Zealot",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Еремеев Александр",
+                "Ерофеев Александр",
+                "The Reality Chip",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Овчаренко Даниил",
+                "Gut, True Soul Zealot",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

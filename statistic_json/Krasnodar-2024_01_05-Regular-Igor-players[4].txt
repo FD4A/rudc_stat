@@ -3,18 +3,22 @@ Heliod, Sun-Crowned              matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00%
        vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/1)
        vs Inalla, Archmage Ritualist       (w:0 l:1 d:0), (0/2)
 
+
 Inalla, Archmage Ritualist       matches:3    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:3   lm:0   dm:0)  games:7    WG: 85.71% LG: 14.29% (wg:   6 lg:   1) pick: 1   
        vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/0)
        vs Radha, Heart of Keld             (w:1 l:0 d:0), (2/1)
        vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/0)
+
 
 Indoraptor, the Perfect Hybrid   matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:8    WG: 37.50% LG: 62.50% (wg:   3 lg:   5) pick: 1   
        vs Inalla, Archmage Ritualist       (w:0 l:1 d:0), (0/2)
        vs Heliod, Sun-Crowned              (w:0 l:1 d:0), (1/2)
        vs Radha, Heart of Keld             (w:1 l:0 d:0), (2/1)
 
+
 Radha, Heart of Keld             matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:9    WG: 44.44% LG: 55.56% (wg:   4 lg:   5) pick: 1   
        vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/1)
        vs Inalla, Archmage Ritualist       (w:0 l:1 d:0), (1/2)
        vs Indoraptor, the Perfect Hybrid   (w:0 l:1 d:0), (1/2)
+
 

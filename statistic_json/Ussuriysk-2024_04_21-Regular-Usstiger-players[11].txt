@@ -5,17 +5,20 @@ Asmoranomardicadaistinaculdacar  matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00%
        vs Raffine, Scheming Seer           (w:0 l:1 d:0), (1/2)
        vs Atraxa, Grand Unifier            (w:1 l:0 d:0), (2/1)
 
+
 Atraxa, Grand Unifier            matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:11   WG: 45.45% LG: 54.55% (wg:   5 lg:   6) pick: 1   
        vs Geist of Saint Traft             (w:0 l:1 d:0), (1/2)
        vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (1/2)
        vs Narset, Enlightened Exile        (w:1 l:0 d:0), (2/0)
        vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (1/2)
 
+
 Flamewar, Brash Veteran          matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:8    WG:  0.00% LG:100.00% (wg:   0 lg:   8) pick: 1   
        vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
        vs Ziatora, the Incinerator         (w:0 l:1 d:0), (0/2)
        vs Raffine, Scheming Seer           (w:0 l:1 d:0), (0/2)
        vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (0/2)
+
 
 Geist of Saint Traft             matches:5    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:5   lm:0   dm:0)  games:14   WG: 71.43% LG: 28.57% (wg:  10 lg:   4) pick: 1   
        vs Atraxa, Grand Unifier            (w:1 l:0 d:0), (2/1)
@@ -24,11 +27,13 @@ Geist of Saint Traft             matches:5    WM:100.00%  LM:  0.00%  DM:  0.00%
        vs Ixhel, Scion of Atraxa           (w:1 l:0 d:0), (2/1)
        vs Ziatora, the Incinerator         (w:1 l:0 d:0), (2/0)
 
+
 Ixhel, Scion of Atraxa           matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 60.00% LG: 40.00% (wg:   6 lg:   4) pick: 1   
        vs Narset, Enlightened Exile        (w:1 l:0 d:0), (2/0)
        vs Sen Triplets                     (w:1 l:0 d:0), (2/0)
        vs Geist of Saint Traft             (w:0 l:1 d:0), (1/2)
        vs Raffine, Scheming Seer           (w:0 l:1 d:0), (1/2)
+
 
 Kroxa, Titan of Death's Hunger   matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00% (wm:3   lm:2   dm:0)  games:12   WG: 58.33% LG: 41.67% (wg:   7 lg:   5) pick: 1   
        vs Narset, Enlightened Exile        (w:0 l:1 d:0), (0/2)
@@ -37,11 +42,13 @@ Kroxa, Titan of Death's Hunger   matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00%
        vs Sen Triplets                     (w:1 l:0 d:0), (2/0)
        vs Flamewar, Brash Veteran          (w:1 l:0 d:0), (2/0)
 
+
 Narset, Enlightened Exile        matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:8    WG: 25.00% LG: 75.00% (wg:   2 lg:   6) pick: 1   
        vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/0)
        vs Ixhel, Scion of Atraxa           (w:0 l:1 d:0), (0/2)
        vs Ziatora, the Incinerator         (w:0 l:1 d:0), (0/2)
        vs Atraxa, Grand Unifier            (w:0 l:1 d:0), (0/2)
+
 
 Raffine, Scheming Seer           matches:5    WM: 80.00%  LM: 20.00%  DM:  0.00% (wm:4   lm:1   dm:0)  games:14   WG: 64.29% LG: 35.71% (wg:   9 lg:   5) pick: 1   
        vs Ziatora, the Incinerator         (w:1 l:0 d:0), (2/1)
@@ -50,10 +57,12 @@ Raffine, Scheming Seer           matches:5    WM: 80.00%  LM: 20.00%  DM:  0.00%
        vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/1)
        vs Ixhel, Scion of Atraxa           (w:1 l:0 d:0), (2/1)
 
+
 Sen Triplets                     matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:8    WG:  0.00% LG:100.00% (wg:   0 lg:   8) pick: 1   
        vs Urza, Lord Protector             (w:0 l:2 d:0), (0/4)
        vs Ixhel, Scion of Atraxa           (w:0 l:1 d:0), (0/2)
        vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (0/2)
+
 
 Urza, Lord Protector             matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00% (wm:3   lm:2   dm:0)  games:12   WG: 58.33% LG: 41.67% (wg:   7 lg:   5) pick: 1   
        vs Sen Triplets                     (w:2 l:0 d:0), (4/0)
@@ -61,10 +70,12 @@ Urza, Lord Protector             matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00%
        vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/1)
        vs Ziatora, the Incinerator         (w:0 l:1 d:0), (1/2)
 
+
 Ziatora, the Incinerator         matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00% (wm:3   lm:2   dm:0)  games:12   WG: 58.33% LG: 41.67% (wg:   7 lg:   5) pick: 1   
        vs Raffine, Scheming Seer           (w:0 l:1 d:0), (1/2)
        vs Flamewar, Brash Veteran          (w:1 l:0 d:0), (2/0)
        vs Narset, Enlightened Exile        (w:1 l:0 d:0), (2/0)
        vs Urza, Lord Protector             (w:1 l:0 d:0), (2/1)
        vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
+
 

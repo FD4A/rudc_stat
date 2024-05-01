@@ -91,7 +91,7 @@ class GeneralStat:
     def __str__(self):
         return self.to_str()
 
-    def to_str(self, full=True):
+    def to_str(self, full=True, match_limit_for_matchup_print=1):
         magic_len = 32  # replace by max length general
         cz_plain = self.general.replace(' :++: ', '+')
         cz_plain = cz_plain.replace(' :+: ', '+')
@@ -108,9 +108,15 @@ class GeneralStat:
         str_ += '\n'
         if not full:
             return str_
+        str_more_10 = ''
         for matchup in self.matchups.values():
-            str_ += f"{matchup}\n"
-        return str_
+            if matchup.win + matchup.lose + matchup.draw >= match_limit_for_matchup_print:
+                str_more_10 += f"{matchup}\n"
+        str_ += str_more_10
+        if str_more_10 == '':
+            return ''
+        else:
+            return str_ + '\n'
 
     # for_tables
     def to_str2(self, full=True):
@@ -273,7 +279,7 @@ class Statistic:
             str_ += '\n'
         return str_
 
-    def to_str(self, sort_type, full=False):
+    def to_str(self, sort_type, full=False, threshold=1):
         str_ = ''
         ret = []
         if sort_type == 'matches_total':
@@ -311,7 +317,7 @@ class Statistic:
                 ret.append([elem.games_total, elem])
 
         for elem in ret:
-            str_ += f"{elem[1].to_str(full)}"
+            str_ += f"{elem[1].to_str(full, threshold)}"
 
         return str_
 

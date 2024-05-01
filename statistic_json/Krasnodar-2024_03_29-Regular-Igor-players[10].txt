@@ -4,20 +4,24 @@ Arahbo, Roar of the World        matches:3    WM:100.00%  LM:  0.00%  DM:  0.00%
         + Lurrus of the Dream-Den         
        vs Slimefoot and Squee              (w:1 l:0 d:0), (2/1)
 
+
 Esika, God of the Tree           matches:3    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:3   lm:0   dm:0)  games:6    WG:100.00% LG:  0.00% (wg:   6 lg:   0) pick: 1   
        vs Rin and Seri, Inseparable        (w:1 l:0 d:0), (2/0)
        vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/0)
        vs Kess, Dissident Mage             (w:1 l:0 d:0), (2/0)
+
 
 Heliod, Sun-Crowned              matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:5    WG: 20.00% LG: 80.00% (wg:   1 lg:   4) pick: 1   
        vs Saskia the Unyielding            (w:1 l:0 d:0), (1/0)
        vs Esika, God of the Tree           (w:0 l:1 d:0), (0/2)
        vs Winota, Joiner of Forces         (w:0 l:1 d:0), (0/2)
 
+
 Judith, the Scourge Diva         matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:8    WG: 37.50% LG: 62.50% (wg:   3 lg:   5) pick: 1   
        vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
        vs Kess, Dissident Mage             (w:0 l:1 d:0), (1/2)
        vs Rin and Seri, Inseparable        (w:1 l:0 d:0), (2/1)
+
 
 Karlov of the Ghost Council      matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:7    WG: 57.14% LG: 42.86% (wg:   4 lg:   3) pick: 1   
   + Lurrus of the Dream-Den     
@@ -25,15 +29,18 @@ Karlov of the Ghost Council      matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00%
        vs Arahbo, Roar of the World        (w:0 l:1 d:0), (0/2)
        vs Saskia the Unyielding            (w:1 l:0 d:0), (2/1)
 
+
 Kess, Dissident Mage             matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:8    WG: 37.50% LG: 62.50% (wg:   3 lg:   5) pick: 1   
        vs Arahbo, Roar of the World        (w:0 l:1 d:0), (1/2)
        vs Judith, the Scourge Diva         (w:1 l:0 d:0), (2/1)
        vs Esika, God of the Tree           (w:0 l:1 d:0), (0/2)
 
+
 Rin and Seri, Inseparable        matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:7    WG: 14.29% LG: 85.71% (wg:   1 lg:   6) pick: 1   
        vs Esika, God of the Tree           (w:0 l:1 d:0), (0/2)
        vs Winota, Joiner of Forces         (w:0 l:1 d:0), (0/2)
        vs Judith, the Scourge Diva         (w:0 l:1 d:0), (1/2)
+
 
 Saskia the Unyielding            matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:6    WG: 16.67% LG: 83.33% (wg:   1 lg:   5) pick: 1   
        vs Heliod, Sun-Crowned              (w:0 l:1 d:0), (0/1)
@@ -41,14 +48,17 @@ Saskia the Unyielding            matches:3    WM:  0.00%  LM:100.00%  DM:  0.00%
        vs Karlov of the Ghost Council      (w:0 l:1 d:0), (1/2)
         + Lurrus of the Dream-Den         
 
+
 Slimefoot and Squee              matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:7    WG: 71.43% LG: 28.57% (wg:   5 lg:   2) pick: 1   
        vs Judith, the Scourge Diva         (w:1 l:0 d:0), (2/0)
        vs Saskia the Unyielding            (w:1 l:0 d:0), (2/0)
        vs Arahbo, Roar of the World        (w:0 l:1 d:0), (1/2)
+
 
 Winota, Joiner of Forces         matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:6    WG: 66.67% LG: 33.33% (wg:   4 lg:   2) pick: 1   
        vs Karlov of the Ghost Council      (w:0 l:1 d:0), (0/2)
         + Lurrus of the Dream-Den         
        vs Rin and Seri, Inseparable        (w:1 l:0 d:0), (2/0)
        vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/0)
+
 

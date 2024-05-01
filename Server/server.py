@@ -19,7 +19,7 @@ def make_stat_response(get_params: GetParams):
     tr_str += '<h2 id="stat">Stats</h2>'
     stat_str = ''
     if get_params.full_stat:
-        stat_str += f'<pre  id="stat">{stat.to_str(get_params.sort_type, True)}</pre>'
+        stat_str += f'<pre  id="stat">{stat.to_str(get_params.sort_type, True, get_params.mach_threshold_for_full_matchup)}</pre>'
     else:
         stat_str += f'<pre  id="stat">{stat.to_str(get_params.sort_type, False)}</pre>'
     return [tr_str, stat_str]

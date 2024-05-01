@@ -34,8 +34,9 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser('RuDcStat')
     parser.add_argument('--tournament_folder', default='tournaments_json')
     parser.add_argument('--statistic_folder', default='statistic_json')
-    parser.add_argument('--start_date', default='2023_11_08')  # 0000_00_00 2023_11_08
+    parser.add_argument('--start_date', default='0000_00_00')  # 0000_00_00 2023_11_08
     parser.add_argument('--finish_date', default='9999_99_99')
+    parser.add_argument('--matchup_threshold', default='1')
     parser.add_argument('--out_path', default='./Stat/')
     args = parser.parse_args()
 
@@ -44,6 +45,7 @@ if __name__ == '__main__':
     start_date = args.start_date
     finish_date = args.finish_date
     out_path = args.out_path
+    matchup_threshold = int(args.matchup_threshold)
 
     tournament_list = glob(tournament_dir + '/*.json')
 
@@ -80,7 +82,7 @@ if __name__ == '__main__':
     stat_tr_names = stat.get_tournaments_names()
     with open(f"{out_path}/Stat_full_{suffix_date}.txt", 'w', encoding='utf-8') as fd:
         fd.write(stat_tr_names)
-        stat_str = f"{stat}"
+        stat_str = stat.to_str(sort_type='name', full=True, threshold=matchup_threshold)
         fd.write(stat_str)
 
     with open(f"{out_path}/Stat_short_{suffix_date}.txt", 'w', encoding='utf-8') as fd:
