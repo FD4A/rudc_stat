@@ -1,0 +1,19 @@
+location::Spb
+level::Regular
+date::2024_05_02
+organizer::Andysays
+players::generals
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Муравьев Никита :: Juri, Master of the Revue
+Семенов Дмитрий :: Hogaak, Arisen Necropolis
+Грабовой Филипп :: Golos, Tireless Pilgrim
+Богданов Сергей :: Kroxa, Titan of Death's Hunger
+Поляков Герман :: Omnath, Locus of Creation
+Ульянов Алексей :: Teysa, Orzhov Scion
+Кеворков Артур :: Marchesa, Dealer of Death
+Яковлев Николай :: Dihada, Binder of Wills
+Мозоля Алексей :: Omnath, Locus of Creation
+Брук Роман :: Urabrask
+Иванов Дмитрий :: Slimefoot and Squee
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/29505

@@ -1,0 +1,287 @@
+{
+    "date": "2024_05_02",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Барабаш Валентин",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Грабовой Филипп",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Богданов Сергей",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Поляков Герман",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Ульянов Алексей",
+            "Teysa, Orzhov Scion"
+        ],
+        [
+            "Кеворков Артур",
+            "Marisi, Breaker of the Coil"
+        ],
+        [
+            "Яковлев Николай",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Мозоля Алексей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Брук Роман",
+            "Urabrask"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Slimefoot and Squee"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Ульянов Алексей",
+                "Богданов Сергей",
+                "Teysa, Orzhov Scion",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Брук Роман",
+                "Муравьев Никита",
+                "Urabrask",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Грабовой Филипп",
+                "Dihada, Binder of Wills",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Кеворков Артур",
+                "Иванов Дмитрий",
+                "Marisi, Breaker of the Coil",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Барабаш Валентин",
+                "Omnath, Locus of Creation",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мозоля Алексей",
+                "Семенов Дмитрий",
+                "Omnath, Locus of Creation",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Кеворков Артур",
+                "Барабаш Валентин",
+                "Marisi, Breaker of the Coil",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Богданов Сергей",
+                "Hogaak, Arisen Necropolis",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Яковлев Николай",
+                "Juri, Master of the Revue",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Мозоля Алексей",
+                "Golos, Tireless Pilgrim",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Иванов Дмитрий",
+                "Omnath, Locus of Creation",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Брук Роман",
+                "Teysa, Orzhov Scion",
+                "Urabrask",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Барабаш Валентин",
+                "Муравьев Никита",
+                "Kinnan, Bonder Prodigy",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Грабовой Филипп",
+                "Hogaak, Arisen Necropolis",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Ульянов Алексей",
+                "Omnath, Locus of Creation",
+                "Teysa, Orzhov Scion",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Кеворков Артур",
+                "Kroxa, Titan of Death's Hunger",
+                "Marisi, Breaker of the Coil",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Брук Роман",
+                "Dihada, Binder of Wills",
+                "Urabrask",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Барабаш Валентин",
+                "Грабовой Филипп",
+                "Kinnan, Bonder Prodigy",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Муравьев Никита",
+                "Omnath, Locus of Creation",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Кеворков Артур",
+                "Hogaak, Arisen Necropolis",
+                "Marisi, Breaker of the Coil",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мозоля Алексей",
+                "Ульянов Алексей",
+                "Omnath, Locus of Creation",
+                "Teysa, Orzhov Scion",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Брук Роман",
+                "Kroxa, Titan of Death's Hunger",
+                "Urabrask",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}
