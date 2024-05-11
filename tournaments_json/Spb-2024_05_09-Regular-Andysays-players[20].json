@@ -1,0 +1,489 @@
+{
+    "date": "2024_05_09",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Чжан Цзяи",
+            "Sisay, Weatherlight Captain :++: Jegantha, the Wellspring"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Олифер Егор",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Брук Роман",
+            "Urabrask"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Грабовой Филипп",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Цюра Максим",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Корняков Евгений",
+            "Animar, Soul of Elements"
+        ],
+        [
+            "Кеворков Артур",
+            "Marchesa, Dealer of Death"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Olivia, Mobilized for War"
+        ],
+        [
+            "Вахитов Ривкат",
+            "Ertai Resurrected"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Барабаш Валентин",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Саушкин Андрей",
+            "The Gitrog Monster"
+        ],
+        [
+            "Яковлев Николай",
+            "Admiral Brass, Unsinkable"
+        ],
+        [
+            "Котельников Алексий",
+            "Emmara, Soul of the Accord"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Барабаш Валентин",
+                "Олифер Егор",
+                "Kinnan, Bonder Prodigy",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Грабовой Филипп",
+                "The Gitrog Monster",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Брук Роман",
+                "Eris, Roar of the Storm",
+                "Urabrask",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Корняков Евгений",
+                "Муравьев Никита",
+                "Animar, Soul of Elements",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Котельников Алексий",
+                "Иванов Дмитрий",
+                "Emmara, Soul of the Accord",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Кеворков Артур",
+                "Olivia, Mobilized for War",
+                "Marchesa, Dealer of Death",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Муравьев Роман",
+                "Hogaak, Arisen Necropolis",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чжан Цзяи",
+                "Иванов Максим",
+                "Sisay, Weatherlight Captain :++: Jegantha, the Wellspring",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Вахитов Ривкат",
+                "Indoraptor, the Perfect Hybrid",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Родюков Федор",
+                "Admiral Brass, Unsinkable",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Семенов Дмитрий",
+                "Кеворков Артур",
+                "Hogaak, Arisen Necropolis",
+                "Marchesa, Dealer of Death",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Вахитов Ривкат",
+                "Omnath, Locus of Creation",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Брук Роман",
+                "Чжан Цзяи",
+                "Urabrask",
+                "Sisay, Weatherlight Captain :++: Jegantha, the Wellspring",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Олифер Егор",
+                "Juri, Master of the Revue",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Саушкин Андрей",
+                "Ghyrson Starn, Kelermorph",
+                "The Gitrog Monster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Богатырев Александр",
+                "Eris, Roar of the Storm",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Муравьев Роман",
+                "Kinnan, Bonder Prodigy",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Котельников Алексий",
+                "Цюра Максим",
+                "Emmara, Soul of the Accord",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Корняков Евгений",
+                "Geist of Saint Traft",
+                "Animar, Soul of Elements",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Тяпайкин Максим",
+                "Admiral Brass, Unsinkable",
+                "Olivia, Mobilized for War",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Чжан Цзяи",
+                "Семенов Дмитрий",
+                "Sisay, Weatherlight Captain :++: Jegantha, the Wellspring",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Иванов Дмитрий",
+                "Ghyrson Starn, Kelermorph",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Грабовой Филипп",
+                "Asmoranomardicadaistinaculdacar",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Брук Роман",
+                "Olivia, Mobilized for War",
+                "Urabrask",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кеворков Артур",
+                "Муравьев Роман",
+                "Marchesa, Dealer of Death",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Вахитов Ривкат",
+                "Eris, Roar of the Storm",
+                "Ertai Resurrected",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Корняков Евгений",
+                "Саушкин Андрей",
+                "Animar, Soul of Elements",
+                "The Gitrog Monster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Иванов Максим",
+                "Juri, Master of the Revue",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Богатырев Александр",
+                "Admiral Brass, Unsinkable",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Котельников Алексий",
+                "Kinnan, Bonder Prodigy",
+                "Emmara, Soul of the Accord",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Чжан Цзяи",
+                "Родюков Федор",
+                "Sisay, Weatherlight Captain :++: Jegantha, the Wellspring",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Семенов Дмитрий",
+                "Eris, Roar of the Storm",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Брук Роман",
+                "Omnath, Locus of Creation",
+                "Urabrask",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Корняков Евгений",
+                "Asmoranomardicadaistinaculdacar",
+                "Animar, Soul of Elements",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Муравьев Роман",
+                "Juri, Master of the Revue",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Барабаш Валентин",
+                "Eris, Roar of the Storm",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Кеворков Артур",
+                "Ertai Resurrected",
+                "Marchesa, Dealer of Death",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Тяпайкин Максим",
+                "Indoraptor, the Perfect Hybrid",
+                "Olivia, Mobilized for War",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Котельников Алексий",
+                "Geist of Saint Traft",
+                "Emmara, Soul of the Accord",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

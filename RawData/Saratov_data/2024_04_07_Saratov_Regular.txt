@@ -4,7 +4,7 @@ date::2024_04_07
 organizer::Fragin
 players::generals
 Иван Кузьменко :: Dihada, Binder of Wills
-Евгений Сафаргалиев :: Yoshimaru, Ever Faithful :++: Kydele, Chosen of Kruphix
+Евгений Сафаргалиев :: Yoshimaru, Ever Faithful :+: Kydele, Chosen of Kruphix
 Артем Ишанов :: Ghyrson Starn, Kelermorph
 Дмитрий Александров :: Malcolm, Alluring Scoundrel
 Евгений Зитев :: Kinnan, Bonder Prodigy

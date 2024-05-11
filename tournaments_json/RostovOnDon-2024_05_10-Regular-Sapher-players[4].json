@@ -1,0 +1,71 @@
+{
+    "date": "2024_05_10",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Sapher",
+    "roundsCount": 2,
+    "players": [
+        [
+            "Антипин Константин",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Шубенин Илья",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Марченко Олег",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Cомкин Константин",
+            "Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Антипин Константин",
+                "Марченко Олег",
+                "Feldon, Ronom Excavator",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Cомкин Константин",
+                "Шубенин Илья",
+                "Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Антипин Константин",
+                "Шубенин Илья",
+                "Feldon, Ronom Excavator",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Cомкин Константин",
+                "Марченко Олег",
+                "Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

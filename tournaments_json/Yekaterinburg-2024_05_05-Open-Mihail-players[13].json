@@ -1,0 +1,356 @@
+{
+    "date": "2024_05_05",
+    "location": "Yekaterinburg",
+    "level": "Open",
+    "organizer": "Mihail",
+    "roundsCount": 7,
+    "players": [
+        [
+            "Сергей Дружинин",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Сергей Согомонян",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Иван Кокорин",
+            "Marath, Will of the Wild"
+        ],
+        [
+            "Артём Разумов",
+            "The Reality Chip"
+        ],
+        [
+            "Валерия Лисица",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Дмитрий Безногов",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Владислав Кригер",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Азев Вячеслав",
+            "Grenzo, Dungeon Warden"
+        ],
+        [
+            "Никита Сычев",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Павел Кавтаскин",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Артём Антипов",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Станислав Прошин",
+            "Kumena, Tyrant of Orazca"
+        ],
+        [
+            "Вячеслав Воинков",
+            "Talion, the Kindly Lord"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Павел Кавтаскин",
+                "Артём Разумов",
+                "Feldon, Ronom Excavator",
+                "The Reality Chip",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Азев Вячеслав",
+                "Дмитрий Безногов",
+                "Grenzo, Dungeon Warden",
+                "Raffine, Scheming Seer",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иван Кокорин",
+                "Артём Антипов",
+                "Marath, Will of the Wild",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Никита Сычев",
+                "Владислав Кригер",
+                "Aminatou, the Fateshifter",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Валерия Лисица",
+                "Сергей Дружинин",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Воинков",
+                "Сергей Согомонян",
+                "Talion, the Kindly Lord",
+                "Raffine, Scheming Seer",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Владислав Кригер",
+                "Сергей Дружинин",
+                "Omnath, Locus of Creation",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Станислав Прошин",
+                "Дмитрий Безногов",
+                "Kumena, Tyrant of Orazca",
+                "Raffine, Scheming Seer",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сергей Согомонян",
+                "Иван Кокорин",
+                "Raffine, Scheming Seer",
+                "Marath, Will of the Wild",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Артём Разумов",
+                "Никита Сычев",
+                "The Reality Chip",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Павел Кавтаскин",
+                "Вячеслав Воинков",
+                "Feldon, Ronom Excavator",
+                "Talion, the Kindly Lord",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Антипов",
+                "Азев Вячеслав",
+                "Aminatou, the Fateshifter",
+                "Grenzo, Dungeon Warden",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Сергей Дружинин",
+                "Дмитрий Безногов",
+                "Eris, Roar of the Storm",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Разумов",
+                "Иван Кокорин",
+                "The Reality Chip",
+                "Marath, Will of the Wild",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Павел Кавтаскин",
+                "Сергей Согомонян",
+                "Feldon, Ronom Excavator",
+                "Raffine, Scheming Seer",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Владислав Кригер",
+                "Валерия Лисица",
+                "Omnath, Locus of Creation",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Азев Вячеслав",
+                "Станислав Прошин",
+                "Grenzo, Dungeon Warden",
+                "Kumena, Tyrant of Orazca",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Никита Сычев",
+                "Артём Антипов",
+                "Aminatou, the Fateshifter",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Азев Вячеслав",
+                "Артём Разумов",
+                "Grenzo, Dungeon Warden",
+                "The Reality Chip",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Иван Кокорин",
+                "Павел Кавтаскин",
+                "Marath, Will of the Wild",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Никита Сычев",
+                "Вячеслав Воинков",
+                "Aminatou, the Fateshifter",
+                "Talion, the Kindly Lord",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Владислав Кригер",
+                "Станислав Прошин",
+                "Omnath, Locus of Creation",
+                "Kumena, Tyrant of Orazca",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Сергей Дружинин",
+                "Азев Вячеслав",
+                "Eris, Roar of the Storm",
+                "Grenzo, Dungeon Warden",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Разумов",
+                "Валерия Лисица",
+                "The Reality Chip",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иван Кокорин",
+                "Дмитрий Безногов",
+                "Marath, Will of the Wild",
+                "Raffine, Scheming Seer",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Сергей Согомонян",
+                "Владислав Кригер",
+                "Raffine, Scheming Seer",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Сергей Дружинин",
+                "Артём Разумов",
+                "Eris, Roar of the Storm",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Владислав Кригер",
+                "Иван Кокорин",
+                "Omnath, Locus of Creation",
+                "Marath, Will of the Wild",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        []
+    ]
+}

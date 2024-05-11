@@ -1,0 +1,16 @@
+location::RostovOnDon
+level::Regular
+date::2024_05_10
+organizer::Sapher
+players::generals
+Антипин Константин :: Feldon, Ronom Excavator
+Сомкин Константин :: Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den
+Шубенин Илья :: Malcolm, Alluring Scoundrel
+Марченко Олег :: Juri, Master of the Revue
+Посидайло Артём :: Thalia and The Gitrog Monster
+Любомищенко Егор :: Yoshimaru, Ever Faithful :+: Tana, the Bloodsower
+Ерохин Владимир :: Krark, the Thumbless
+Любомищенко Никита :: Ojer Axonil, Deepest Might
+Ковалёв Александр :: Drana, Liberator of Malakir
+Round
+https://aetherhub.com/Tourney/RoundTourney/29986

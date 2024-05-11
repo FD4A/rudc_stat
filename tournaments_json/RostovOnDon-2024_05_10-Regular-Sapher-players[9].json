@@ -1,0 +1,215 @@
+{
+    "date": "2024_05_10",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Sapher",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Антипин Константин",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Сомкин Константин",
+            "Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Шубенин Илья",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Марченко Олег",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Посидайло Артём",
+            "Thalia and The Gitrog Monster"
+        ],
+        [
+            "Любомищенко Егор",
+            "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower"
+        ],
+        [
+            "Ерохин Владимир",
+            "Krark, the Thumbless"
+        ],
+        [
+            "Любомищенко Никита",
+            "Ojer Axonil, Deepest Might"
+        ],
+        [
+            "Ковалёв Александр",
+            "Drana, Liberator of Malakir"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Ерохин Владимир",
+                "Ковалёв Александр",
+                "Krark, the Thumbless",
+                "Drana, Liberator of Malakir",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Антипин Константин",
+                "Любомищенко Никита",
+                "Feldon, Ronom Excavator",
+                "Ojer Axonil, Deepest Might",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сомкин Константин",
+                "Посидайло Артём",
+                "Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den",
+                "Thalia and The Gitrog Monster",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Марченко Олег",
+                "Любомищенко Егор",
+                "Juri, Master of the Revue",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Антипин Константин",
+                "Марченко Олег",
+                "Feldon, Ronom Excavator",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ерохин Владимир",
+                "Шубенин Илья",
+                "Krark, the Thumbless",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сомкин Константин",
+                "Любомищенко Никита",
+                "Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den",
+                "Ojer Axonil, Deepest Might",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Посидайло Артём",
+                "Ковалёв Александр",
+                "Thalia and The Gitrog Monster",
+                "Drana, Liberator of Malakir",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Шубенин Илья",
+                "Антипин Константин",
+                "Malcolm, Alluring Scoundrel",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сомкин Константин",
+                "Ерохин Владимир",
+                "Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den",
+                "Krark, the Thumbless",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Посидайло Артём",
+                "Марченко Олег",
+                "Thalia and The Gitrog Monster",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Любомищенко Егор",
+                "Ковалёв Александр",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Drana, Liberator of Malakir",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Антипин Константин",
+                "Сомкин Константин",
+                "Feldon, Ronom Excavator",
+                "Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Марченко Олег",
+                "Шубенин Илья",
+                "Juri, Master of the Revue",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Любомищенко Егор",
+                "Посидайло Артём",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Thalia and The Gitrog Monster",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Любомищенко Никита",
+                "Ерохин Владимир",
+                "Ojer Axonil, Deepest Might",
+                "Krark, the Thumbless",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

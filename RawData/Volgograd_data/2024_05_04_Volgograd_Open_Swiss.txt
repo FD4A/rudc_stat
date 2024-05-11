@@ -1,0 +1,41 @@
+location::Volgograd
+level::Open
+date::2024_05_04
+organizer::Rombik34rus
+players::generals
+Козлов Михаил :: Winota, Joiner of Forces
+Сайфутдинов Тимур :: Omnath, Locus of Creation
+Серпутько Слава :: Wylie Duke, Atiin Hero
+Орешкин Дима :: Ertai Resurrected
+Палачев Максим :: The Beamtown Bullies
+Мещеряков Максим :: Geist of Saint Traft
+Громов Михаил :: Hogaak, Arisen Necropolis
+Токарев Александр :: Hogaak, Arisen Necropolis
+Брук Роман :: Urabrask
+Сафаргалиев Евгений :: Yoshimaru, Ever Faithful :+: Kydele, Chosen of Kruphix
+Зитев Евгений :: Kinnan, Bonder Prodigy
+Протасов Михаил :: Aminatou, the Fateshifter
+Саушкин Андрей :: Omnath, Locus of Creation
+Смирнов Саша :: Muxus, Goblin Grandee
+Арушанян Тигран :: Geist of Saint Traft
+Краснов Илья :: Geist of Saint Traft
+Уваров Вадим :: Maelstrom Wanderer
+Гусев Денис :: Shorikai, Genesis Engine
+Сухов Никита :: Aminatou, the Fateshifter
+Дьяченко Андрей :: Ruby, Daring Tracker
+Андрей Губин :: Geist of Saint Traft
+Кузьменко Иван :: Dihada, Binder of Wills
+Ангурцов Артём :: Feldon, Ronom Excavator
+Давыдов Александр :: Magda, Brazen Outlaw
+Курмакаев Игорь :: Asmoranomardicadaistinaculdacar
+Иванов Никита :: Gut, True Soul Zealot :+: Flaming Fist
+Стрельцов Артем :: Torens, Fist of the Angels
+Волков Егор :: Light-Paws, Emperor's Voice
+Кузьмин Богдан :: Raffine, Scheming Seer
+Сидоров Иван :: Arahbo, Roar of the World
+Акишев Константин :: Magda, Brazen Outlaw
+Черкашин Дима :: Hogaak, Arisen Necropolis
+Сомкин Константин :: Elas il-Kor, Sadistic Pilgrim
+Зайцев Даниил :: Prosper, Tome-Bound
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/29528

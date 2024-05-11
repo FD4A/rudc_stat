@@ -1,0 +1,119 @@
+{
+    "date": "2024_05_04",
+    "location": "Volgograd",
+    "level": "Open",
+    "organizer": "FDA",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Козлов Михаил",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Сайфутдинов Тимур",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Серпутько Слава",
+            "Wylie Duke, Atiin Hero"
+        ],
+        [
+            "Орешкин Дима",
+            "Ertai Resurrected"
+        ],
+        [
+            "Палачев Максим",
+            "The Beamtown Bullies"
+        ],
+        [
+            "Мещеряков Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Громов Михаил",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Токарев Александр",
+            "Hogaak, Arisen Necropolis"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Орешкин Дима",
+                "Палачев Максим",
+                "Ertai Resurrected",
+                "The Beamtown Bullies",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мещеряков Максим",
+                "Серпутько Слава",
+                "Geist of Saint Traft",
+                "Wylie Duke, Atiin Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Козлов Михаил",
+                "Токарев Александр",
+                "Winota, Joiner of Forces",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Громов Михаил",
+                "Сайфутдинов Тимур",
+                "Hogaak, Arisen Necropolis",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Орешкин Дима",
+                "Серпутько Слава",
+                "Ertai Resurrected",
+                "Wylie Duke, Atiin Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Токарев Александр",
+                "Omnath, Locus of Creation",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Орешкин Дима",
+                "Токарев Александр",
+                "Ertai Resurrected",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

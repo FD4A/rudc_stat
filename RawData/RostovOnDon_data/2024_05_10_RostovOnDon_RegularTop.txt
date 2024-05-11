@@ -1,0 +1,11 @@
+location::RostovOnDon
+level::Regular
+date::2024_05_10
+organizer::Sapher
+players::generals
+Антипин Константин :: Feldon, Ronom Excavator
+Шубенин Илья :: Malcolm, Alluring Scoundrel
+Марченко Олег :: Juri, Master of the Revue
+Cомкин Константин :: Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den
+Round
+https://aetherhub.com/Tourney/RoundTourney/29990

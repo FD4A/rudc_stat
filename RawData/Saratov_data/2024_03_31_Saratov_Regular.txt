@@ -7,7 +7,7 @@ players::generals
 Иван Кузьменко :: Dihada, Binder of Wills
 Егор Волков :: Light-Paws, Emperor's Voice
 Илья Друзин :: Wilson, Refined Grizzly :+: Tavern Brawler
-Евгений Сафаргалиев :: Yoshimaru, Ever Faithful :++: Kydele, Chosen of Kruphix
+Евгений Сафаргалиев :: Yoshimaru, Ever Faithful :+: Kydele, Chosen of Kruphix
 Димитрий Фрагин :: Sythis, Harvest's Hand
 Дмитрий Александров :: Malcolm, Alluring Scoundrel
 Rounds

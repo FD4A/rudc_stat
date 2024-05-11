@@ -1,0 +1,27 @@
+location::Spb
+level::Regular
+date::2024_05_09
+organizer::Andysays
+players::generals
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Чжан Цзяи :: Sisay, Weatherlight Captain :++: Jegantha, the Wellspring
+Семенов Дмитрий :: Hogaak, Arisen Necropolis
+Олифер Егор :: Asmoranomardicadaistinaculdacar
+Брук Роман :: Urabrask
+Муравьев Никита :: Juri, Master of the Revue
+Грабовой Филипп :: Eris, Roar of the Storm
+Цюра Максим :: Eris, Roar of the Storm
+Иванов Дмитрий :: Omnath, Locus of Creation
+Муравьев Роман :: Dihada, Binder of Wills
+Корняков Евгений :: Animar, Soul of Elements
+Кеворков Артур :: Marchesa, Dealer of Death
+Тяпайкин Максим :: Olivia, Mobilized for War
+Вахитов Ривкат :: Ertai Resurrected
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Иванов Максим :: Geist of Saint Traft
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Саушкин Андрей :: The Gitrog Monster
+Яковлев Николай :: Admiral Brass, Unsinkable
+Котельников Алексий :: Emmara, Soul of the Accord
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/29972

@@ -30,7 +30,10 @@ class MyHTMLParser(HTMLParser):
     def handle_data(self, data):
         # print("Encountered some data  :", data)
         if self.tag_state == self.tag_state_str[0]:
-            self.matchNum.append(int(data))
+            if data != 'Bye':
+                self.matchNum.append(int(data))
+            else:
+                self.matchNum.append(int(0))
         if self.tag_state == self.tag_state_str[1]:
             if isinstance(data, list):
                 self.player1.append(data[0].strip())
@@ -77,17 +80,24 @@ class TopdeckGGParser:
         #     fd.write(driver.page_source)
         return self.parse(driver.page_source, tr)
 
-
     def parse_round(self, roundtxt: str):
+        # print(roundtxt)
         round_ = Tournament.Round()
         parser = MyHTMLParser()
         parser.feed(roundtxt)
+        # print(parser.matchNum)
+        # print(parser.player1)
+        # print(parser.result)
+        # print(parser.player2)
         for i in range(len(parser.matchNum)):
-            m = Tournament.Match()
-            m.player1 = parser.player1[i]
-            m.player2 = parser.player2[i]
-            m.result = parser.result[i]
-            round_.matches.append(m)
+            if parser.matchNum[i] != 0:
+                if parser.result[i] != [0, 0]:
+                    print(parser.result[i])
+                    m = Tournament.Match()
+                    m.player1 = parser.player1[i]
+                    m.player2 = parser.player2[i]
+                    m.result = parser.result[i]
+                    round_.matches.append(m)
         return round_
 
     def parse(self, page_source: str, tr: Tournament):

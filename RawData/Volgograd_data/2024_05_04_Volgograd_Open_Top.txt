@@ -1,0 +1,15 @@
+location::Volgograd
+level::Open
+date::2024_05_04
+organizer::FDA
+players::generals
+Козлов Михаил :: Winota, Joiner of Forces
+Сайфутдинов Тимур :: Omnath, Locus of Creation
+Серпутько Слава :: Wylie Duke, Atiin Hero
+Орешкин Дима :: Ertai Resurrected
+Палачев Максим :: The Beamtown Bullies
+Мещеряков Максим :: Geist of Saint Traft
+Громов Михаил :: Hogaak, Arisen Necropolis
+Токарев Александр :: Hogaak, Arisen Necropolis
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/30038

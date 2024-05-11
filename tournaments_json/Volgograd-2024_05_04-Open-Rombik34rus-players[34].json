@@ -1,0 +1,1139 @@
+{
+    "date": "2024_05_04",
+    "location": "Volgograd",
+    "level": "Open",
+    "organizer": "Rombik34rus",
+    "roundsCount": 6,
+    "players": [
+        [
+            "Козлов Михаил",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Сайфутдинов Тимур",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Серпутько Слава",
+            "Wylie Duke, Atiin Hero"
+        ],
+        [
+            "Орешкин Дима",
+            "Ertai Resurrected"
+        ],
+        [
+            "Палачев Максим",
+            "The Beamtown Bullies"
+        ],
+        [
+            "Мещеряков Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Громов Михаил",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Токарев Александр",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Брук Роман",
+            "Urabrask"
+        ],
+        [
+            "Сафаргалиев Евгений",
+            "Yoshimaru, Ever Faithful :+: Kydele, Chosen of Kruphix"
+        ],
+        [
+            "Зитев Евгений",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Протасов Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Саушкин Андрей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Смирнов Саша",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Арушанян Тигран",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Краснов Илья",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Уваров Вадим",
+            "Maelstrom Wanderer"
+        ],
+        [
+            "Гусев Денис",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Сухов Никита",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Дьяченко Андрей",
+            "Ruby, Daring Tracker"
+        ],
+        [
+            "Андрей Губин",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Кузьменко Иван",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Ангурцов Артём",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Давыдов Александр",
+            "Magda, Brazen Outlaw"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Иванов Никита",
+            "Gut, True Soul Zealot :+: Flaming Fist"
+        ],
+        [
+            "Стрельцов Артем",
+            "Torens, Fist of the Angels"
+        ],
+        [
+            "Волков Егор",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Кузьмин Богдан",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Сидоров Иван",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Акишев Константин",
+            "Magda, Brazen Outlaw"
+        ],
+        [
+            "Черкашин Дима",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Сомкин Константин",
+            "Elas il-Kor, Sadistic Pilgrim"
+        ],
+        [
+            "Зайцев Даниил",
+            "Prosper, Tome-Bound"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Давыдов Александр",
+                "Мещеряков Максим",
+                "Magda, Brazen Outlaw",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кузьмин Богдан",
+                "Уваров Вадим",
+                "Raffine, Scheming Seer",
+                "Maelstrom Wanderer",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Арушанян Тигран",
+                "Gut, True Soul Zealot :+: Flaming Fist",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сафаргалиев Евгений",
+                "Ангурцов Артём",
+                "Yoshimaru, Ever Faithful :+: Kydele, Chosen of Kruphix",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Андрей Губин",
+                "Aminatou, the Fateshifter",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Черкашин Дима",
+                "Волков Егор",
+                "Hogaak, Arisen Necropolis",
+                "Light-Paws, Emperor's Voice",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Серпутько Слава",
+                "Громов Михаил",
+                "Wylie Duke, Atiin Hero",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Смирнов Саша",
+                "Дьяченко Андрей",
+                "Muxus, Goblin Grandee",
+                "Ruby, Daring Tracker",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Акишев Константин",
+                "Краснов Илья",
+                "Magda, Brazen Outlaw",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сомкин Константин",
+                "Кузьменко Иван",
+                "Elas il-Kor, Sadistic Pilgrim",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Палачев Максим",
+                "Сайфутдинов Тимур",
+                "The Beamtown Bullies",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Сидоров Иван",
+                "Asmoranomardicadaistinaculdacar",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Брук Роман",
+                "Токарев Александр",
+                "Urabrask",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Зитев Евгений",
+                "Стрельцов Артем",
+                "Kinnan, Bonder Prodigy",
+                "Torens, Fist of the Angels",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Орешкин Дима",
+                "Зайцев Даниил",
+                "Ertai Resurrected",
+                "Prosper, Tome-Bound",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Козлов Михаил",
+                "Omnath, Locus of Creation",
+                "Winota, Joiner of Forces",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сухов Никита",
+                "Гусев Денис",
+                "Aminatou, the Fateshifter",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Волков Егор",
+                "Козлов Михаил",
+                "Light-Paws, Emperor's Voice",
+                "Winota, Joiner of Forces",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Серпутько Слава",
+                "Aminatou, the Fateshifter",
+                "Wylie Duke, Atiin Hero",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Ангурцов Артём",
+                "Уваров Вадим",
+                "Feldon, Ronom Excavator",
+                "Maelstrom Wanderer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Токарев Александр",
+                "Omnath, Locus of Creation",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Гусев Денис",
+                "Арушанян Тигран",
+                "Shorikai, Genesis Engine",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мещеряков Максим",
+                "Зитев Евгений",
+                "Geist of Saint Traft",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Смирнов Саша",
+                "Курмакаев Игорь",
+                "Muxus, Goblin Grandee",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кузьменко Иван",
+                "Орешкин Дима",
+                "Dihada, Binder of Wills",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Давыдов Александр",
+                "Geist of Saint Traft",
+                "Magda, Brazen Outlaw",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Черкашин Дима",
+                "Дьяченко Андрей",
+                "Hogaak, Arisen Necropolis",
+                "Ruby, Daring Tracker",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сафаргалиев Евгений",
+                "Акишев Константин",
+                "Yoshimaru, Ever Faithful :+: Kydele, Chosen of Kruphix",
+                "Magda, Brazen Outlaw",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Брук Роман",
+                "Сухов Никита",
+                "Urabrask",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сидоров Иван",
+                "Андрей Губин",
+                "Arahbo, Roar of the World",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сомкин Константин",
+                "Палачев Максим",
+                "Elas il-Kor, Sadistic Pilgrim",
+                "The Beamtown Bullies",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Стрельцов Артем",
+                "Prosper, Tome-Bound",
+                "Torens, Fist of the Angels",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Громов Михаил",
+                "Кузьмин Богдан",
+                "Hogaak, Arisen Necropolis",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Иванов Никита",
+                "Omnath, Locus of Creation",
+                "Gut, True Soul Zealot :+: Flaming Fist",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Серпутько Слава",
+                "Ангурцов Артём",
+                "Wylie Duke, Atiin Hero",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Орешкин Дима",
+                "Сайфутдинов Тимур",
+                "Ertai Resurrected",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Смирнов Саша",
+                "Арушанян Тигран",
+                "Muxus, Goblin Grandee",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Козлов Михаил",
+                "Мещеряков Максим",
+                "Winota, Joiner of Forces",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Зитев Евгений",
+                "Кузьменко Иван",
+                "Kinnan, Bonder Prodigy",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Давыдов Александр",
+                "Протасов Михаил",
+                "Magda, Brazen Outlaw",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Сафаргалиев Евгений",
+                "Asmoranomardicadaistinaculdacar",
+                "Yoshimaru, Ever Faithful :+: Kydele, Chosen of Kruphix",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Токарев Александр",
+                "Уваров Вадим",
+                "Hogaak, Arisen Necropolis",
+                "Maelstrom Wanderer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Андрей Губин",
+                "Стрельцов Артем",
+                "Geist of Saint Traft",
+                "Torens, Fist of the Angels",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Черкашин Дима",
+                "Саушкин Андрей",
+                "Hogaak, Arisen Necropolis",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Волков Егор",
+                "Краснов Илья",
+                "Light-Paws, Emperor's Voice",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Гусев Денис",
+                "Громов Михаил",
+                "Shorikai, Genesis Engine",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Брук Роман",
+                "Палачев Максим",
+                "Urabrask",
+                "The Beamtown Bullies",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сомкин Константин",
+                "Акишев Константин",
+                "Elas il-Kor, Sadistic Pilgrim",
+                "Magda, Brazen Outlaw",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Сухов Никита",
+                "Кузьмин Богдан",
+                "Aminatou, the Fateshifter",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Сидоров Иван",
+                "Prosper, Tome-Bound",
+                "Arahbo, Roar of the World",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дьяченко Андрей",
+                "Иванов Никита",
+                "Ruby, Daring Tracker",
+                "Gut, True Soul Zealot :+: Flaming Fist",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Козлов Михаил",
+                "Серпутько Слава",
+                "Winota, Joiner of Forces",
+                "Wylie Duke, Atiin Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Орешкин Дима",
+                "Смирнов Саша",
+                "Ertai Resurrected",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Токарев Александр",
+                "Арушанян Тигран",
+                "Hogaak, Arisen Necropolis",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Сафаргалиев Евгений",
+                "Aminatou, the Fateshifter",
+                "Yoshimaru, Ever Faithful :+: Kydele, Chosen of Kruphix",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ангурцов Артём",
+                "Громов Михаил",
+                "Feldon, Ronom Excavator",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Андрей Губин",
+                "Саушкин Андрей",
+                "Geist of Saint Traft",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Краснов Илья",
+                "Omnath, Locus of Creation",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Зитев Евгений",
+                "Палачев Максим",
+                "Kinnan, Bonder Prodigy",
+                "The Beamtown Bullies",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кузьменко Иван",
+                "Мещеряков Максим",
+                "Dihada, Binder of Wills",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сидоров Иван",
+                "Дьяченко Андрей",
+                "Arahbo, Roar of the World",
+                "Ruby, Daring Tracker",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Гусев Денис",
+                "Курмакаев Игорь",
+                "Shorikai, Genesis Engine",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Черкашин Дима",
+                "Уваров Вадим",
+                "Hogaak, Arisen Necropolis",
+                "Maelstrom Wanderer",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Волков Егор",
+                "Сухов Никита",
+                "Light-Paws, Emperor's Voice",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Брук Роман",
+                "Стрельцов Артем",
+                "Urabrask",
+                "Torens, Fist of the Angels",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Давыдов Александр",
+                "Сомкин Константин",
+                "Magda, Brazen Outlaw",
+                "Elas il-Kor, Sadistic Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Акишев Константин",
+                "Кузьмин Богдан",
+                "Magda, Brazen Outlaw",
+                "Raffine, Scheming Seer",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Орешкин Дима",
+                "Козлов Михаил",
+                "Ertai Resurrected",
+                "Winota, Joiner of Forces",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Серпутько Слава",
+                "Omnath, Locus of Creation",
+                "Wylie Duke, Atiin Hero",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Саушкин Андрей",
+                "Aminatou, the Fateshifter",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Громов Михаил",
+                "Geist of Saint Traft",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Смирнов Саша",
+                "Палачев Максим",
+                "Muxus, Goblin Grandee",
+                "The Beamtown Bullies",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мещеряков Максим",
+                "Краснов Илья",
+                "Geist of Saint Traft",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Андрей Губин",
+                "Уваров Вадим",
+                "Geist of Saint Traft",
+                "Maelstrom Wanderer",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Давыдов Александр",
+                "Токарев Александр",
+                "Magda, Brazen Outlaw",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Брук Роман",
+                "Asmoranomardicadaistinaculdacar",
+                "Urabrask",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сухов Никита",
+                "Дьяченко Андрей",
+                "Aminatou, the Fateshifter",
+                "Ruby, Daring Tracker",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ангурцов Артём",
+                "Зитев Евгений",
+                "Feldon, Ronom Excavator",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сафаргалиев Евгений",
+                "Кузьменко Иван",
+                "Yoshimaru, Ever Faithful :+: Kydele, Chosen of Kruphix",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Волков Егор",
+                "Gut, True Soul Zealot :+: Flaming Fist",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Стрельцов Артем",
+                "Кузьмин Богдан",
+                "Torens, Fist of the Angels",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сидоров Иван",
+                "Черкашин Дима",
+                "Arahbo, Roar of the World",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Гусев Денис",
+                "Сомкин Константин",
+                "Shorikai, Genesis Engine",
+                "Elas il-Kor, Sadistic Pilgrim",
+                [
+                    1,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Козлов Михаил",
+                "Громов Михаил",
+                "Winota, Joiner of Forces",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Орешкин Дима",
+                "Серпутько Слава",
+                "Ertai Resurrected",
+                "Wylie Duke, Atiin Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Протасов Михаил",
+                "Omnath, Locus of Creation",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Палачев Максим",
+                "Саушкин Андрей",
+                "The Beamtown Bullies",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мещеряков Максим",
+                "Смирнов Саша",
+                "Geist of Saint Traft",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Токарев Александр",
+                "Дьяченко Андрей",
+                "Hogaak, Arisen Necropolis",
+                "Ruby, Daring Tracker",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Брук Роман",
+                "Geist of Saint Traft",
+                "Urabrask",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сафаргалиев Евгений",
+                "Уваров Вадим",
+                "Yoshimaru, Ever Faithful :+: Kydele, Chosen of Kruphix",
+                "Maelstrom Wanderer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Зитев Евгений",
+                "Иванов Никита",
+                "Kinnan, Bonder Prodigy",
+                "Gut, True Soul Zealot :+: Flaming Fist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ангурцов Артём",
+                "Андрей Губин",
+                "Feldon, Ronom Excavator",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Краснов Илья",
+                "Asmoranomardicadaistinaculdacar",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Гусев Денис",
+                "Стрельцов Артем",
+                "Shorikai, Genesis Engine",
+                "Torens, Fist of the Angels",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сухов Никита",
+                "Сидоров Иван",
+                "Aminatou, the Fateshifter",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кузьменко Иван",
+                "Акишев Константин",
+                "Dihada, Binder of Wills",
+                "Magda, Brazen Outlaw",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Черкашин Дима",
+                "Кузьмин Богдан",
+                "Hogaak, Arisen Necropolis",
+                "Raffine, Scheming Seer",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

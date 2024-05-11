@@ -1,0 +1,20 @@
+location::Yekaterinburg
+level::Open
+date::2024_05_05
+organizer::Mihail
+players::generals
+Сергей Дружинин :: Eris, Roar of the Storm
+Сергей Согомонян :: Raffine, Scheming Seer
+Иван Кокорин :: Marath, Will of the Wild
+Артём Разумов :: The Reality Chip
+Валерия Лисица :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Дмитрий Безногов :: Raffine, Scheming Seer
+Владислав Кригер :: Omnath, Locus of Creation
+Азев Вячеслав :: Grenzo, Dungeon Warden
+Никита Сычев :: Aminatou, the Fateshifter
+Павел Кавтаскин :: Feldon, Ronom Excavator
+Артём Антипов :: Aminatou, the Fateshifter
+Станислав Прошин :: Kumena, Tyrant of Orazca
+Вячеслав Воинков :: Talion, the Kindly Lord
+Rounds
+https://topdeck.gg/bracket/Upg6sD07ba3tyrZnB3Rd

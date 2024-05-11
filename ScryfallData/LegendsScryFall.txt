@@ -30,9 +30,11 @@ Aetherworks Marvel
 Aeve, Progenitor Ooze
 Agatha of the Vile Cauldron
 Agatha's Soul Cauldron
+Agent Frank Horrigan
 Agent of the Iron Throne
 Agent of the Shadow Thieves
 Agrus Kos, Eternal Soldier
+Agrus Kos, Spirit of Justice
 Agrus Kos, Wojek Veteran
 A-Harald, King of Skemfar
 Aisha of Sparks and Smoke
@@ -41,6 +43,7 @@ Ajani, Caller of the Pride
 Ajani Goldmane
 Ajani, Inspiring Leader
 Ajani, Mentor of Heroes
+Ajani, Nacatl Pariah
 Ajani, Sleeper Agent
 Ajani Steadfast
 Ajani, Strength of the Pride
@@ -50,6 +53,7 @@ Ajani, Valiant Protector
 Ajani Vengeant
 Ajani, Wise Counselor
 Akal Pakal, First Among Equals
+A-Karn, Living Legacy
 Akawalli, the Seething Tower
 Akim, the Soaring Wind
 Akiri, Fearless Voyager
@@ -60,9 +64,11 @@ Akroma, Angel of Wrath
 Akroma's Memorial
 Akroma, Vision of Ixidor
 A-Krydle of Baldur's Gate
+Akul the Unrepentant
 Akuta, Born of Ash
 Alandra, Sky Dreamer
 Alaundo the Seer
+Albiorix, Goose Tyrant
 Alela, Artful Provocateur
 Alela, Cunning Conqueror
 Alena, Kessig Trapper
@@ -78,7 +84,9 @@ Alirios, Enraptured
 Alistair, the Brigadier
 Alora, Merry Thief
 Alora, Rogue Companion
+Alquist Proft, Master Sleuth
 Alrund, God of the Cosmos
+Altaïr Ibn-La'Ahad
 Amalia Benavides Aguirre
 Amareth, the Lustrous
 Ambassador Blorpityblorpboop
@@ -87,8 +95,11 @@ Ambergris, Citadel Agent
 Amber Gristle O'Maul
 Aminatou, the Fateshifter
 A-Minsc & Boo, Timeless Heroes
+A-Mishra, Excavation Prodigy
 A-Mr. Orfeo, the Boulder
 Amy Pond
+Amzu, Swarm's Hunger
+A-Nael, Avizoa Aeronaut
 Anafenza, Kin-Tree Spirit
 Anafenza, the Foremost
 A-Nahiri, Heir of the Ancients
@@ -110,16 +121,22 @@ Animar, Soul of Elements
 Anim Pakal, Thousandth Moon
 Anje Falkenrath
 Anje, Maid of Dishonor
+Annie Flash, the Veteran
+Annie Joins Up
 Anowon, the Ruin Sage
 Anowon, the Ruin Thief
 Anrakyr the Traveller
 Anthousa, Setessan Hero
 Anya, Merciless Angel
+Anzrag, the Quake-Mole
 A-Omnath, Locus of Creation
 Ao, the Dawn Sky
 Aphemia, the Cacophony
 A-Phylath, World Sculptor
+Apothecary White
 A-Queza, Augur of Agonies
+Aradesh, the Founder
+A-Radha, Coalition Warlord
 Aragorn and Arwen, Wed
 Aragorn, Company Leader
 Aragorn, Hornburg Hero
@@ -130,6 +147,7 @@ A-Raiyuu, Storm's Edge
 Arashi, the Sky Asunder
 Arasta of the Endless Web
 Araumi of the Dead Tide
+Arcade Gannon
 Arcades Sabboth
 Arcades, the Strategist
 Arcanis the Omnipotent
@@ -152,6 +170,7 @@ Arni Brokenbrow
 Arni Metalbrow
 Aron, Benalia's Ruin
 A-Rowan, Scholar of Sparks
+A-Rulik Mons, Warren Chief
 Arvad the Cursed
 Arvad, Weatherlight Smuggler
 Arvinox, the Mind Flail
@@ -159,6 +178,7 @@ Arwen, Mortal Queen
 Arwen Undómiel
 Arwen, Weaver of Hope
 Aryel, Knight of Windgrace
+A-Saheeli, Filigree Master
 A-Satoru Umezawa
 Ascendant Evincar
 Ashad, the Lone Cyberman
@@ -178,12 +198,14 @@ Ash, Party Crasher
 Asmira, Holy Avenger
 Asmodeus the Archfiend
 Asmoranomardicadaistinaculdacar
+A-Soul of Windgrace
 Astarion, the Decadent
 Astor, Bearer of Blades
 Astrid Peth
 Atalya, Samite Master
 A-Tanazir Quandrix
 Atarka, World Render
+A-Tatyova, Steward of Tides
 A-Teferi, Time Raveler
 Atemsis, All-Seeing
 A-The Meathook Massacre
@@ -199,8 +221,11 @@ Atsushi, the Blazing Sky
 A-Tyvar Kell
 Auntie Blyte, Bad Influence
 Aurelia, Exemplar of Justice
+Aurelia, the Law Above
 Aurelia, the Warleader
+A-Urza, Powerstone Prodigy
 Autumn Willow
+A-Uurg, Spawn of Turg
 Avacyn, Angel of Hope
 Avacyn, Guardian Angel
 Avacyn's Memorial
@@ -216,6 +241,7 @@ Ayli, Eternal Pilgrim
 Ayula, Queen Among Bears
 Ayumi, the Last Visitor
 Azami, Lady of Scrolls
+A-Zar Ojanen, Scion of Efrava
 Azor's Gateway
 Azor, the Lawbringer
 Azusa, Lost but Seeking
@@ -235,6 +261,7 @@ Baral and Kari Zev
 Baral, Chief of Compliance
 Barbara Wright
 Barktooth Warbeard
+Baron Bertram Graywater
 Baron Sengir
 Baron Von Count
 Barrin, Master Wizard
@@ -280,6 +307,7 @@ Blitzwing, Cruel Tormentor
 Blue, Loyal Raptor
 B.O.B. (Bevy of Beebles)
 Bolas's Citadel
+Bonny Pall, Clearcutter
 Bontu's Monument
 Bontu the Glorified
 Borborygmos
@@ -302,9 +330,11 @@ Brallin, Skyshark Rider
 Brass's Tunnel-Grinder
 Breeches, Brazen Plunderer
 Breeches, Eager Pillager
+Breeches, the Blastmaker
 Breena, the Demagogue
 Brenard, Ginger Sculptor
 Breya, Etherium Shaper
+Bria, Riptide Rogue
 Bright-Palm, Soul Awakener
 Brigid, Hero of Kinsbaile
 Brimaz, Blight of Oreskos
@@ -313,6 +343,7 @@ Brimaz, King of Oreskos
 Brinelin, the Moon Kraken
 Brion Stoutarm
 Brisela, Voice of Nightmares
+Bristly Bill, Spine Sower
 Brokkos, Apex of Forever
 Brothers Yamazaki
 Brudiclad, Telchor Engineer
@@ -320,16 +351,21 @@ Bruenor Battlehammer
 Bruna, Light of Alabaster
 Bruna, the Fading Light
 Bruse Tarl, Boorish Herder
+Bruse Tarl, Roving Rancher
 Bruvac the Grandiloquent
 Budoka Gardener
 Budoka Pupil
 Burakos, Party Leader
 Bushi Tenderfoot
+Butch DeLoria, Tunnel Snake
 Butterbur, Bree Innkeeper
+Byrke, Long Ear of the Law
 Cabal Patriarch
 Cadira, Caller of the Small
 Cadric, Soul Kindler
 Caesar, Legion's Emperor
+Cait, Cage Brawler
+Calamity, Galloping Inferno
 Calim, Djinn Emperor
 Calix, Destiny's Hand
 Calix, Guided by Fate
@@ -349,6 +385,7 @@ Captain Storm, Cosmium Raider
 Captain Vargus Wrath
 Carmen, Cruel Skymarcher
 Carth the Lion
+Cass, Hand of Vengeance
 Catti-brie of Mithral Hall
 Cazur, Ruthless Stalker
 Cecily, Haunted Mage
@@ -399,18 +436,24 @@ Claire D'Loon, Joy Sculptor
 Clan Crafter
 Clara Oswald
 Clavileño, First of the Blessed
+Cleopatra, Exiled Pharaoh
 Cloakwood Hermit
 Cloudhoof Kirin
 Codie, Vociferous Codex
+Codsworth, Handy Helper
 Colfenor, the Last Yew
+Colonel Autumn
 Comet, Stellar Pup
 Commander Eesha
 Commander Greven il-Vec
 Commander Liara Portyr
+Commander Mustard
+Commander Sofia Daguerre
 Commissar Severina Raine
 Commodore Guff
 Cormela, Glamour Thief
 Cosima, God of the Voyage
+Craig Boone, Novac Guard
 Criminal Past
 Cromat
 Crosis, the Purger
@@ -421,6 +464,7 @@ Crucias, Titan of the Waves
 Cultist of the Absolute
 Cult of Skaro
 Cunning Bandit
+Curie, Emergent Intelligence
 Cyclonus, the Saboteur
 D00-DL, Caricaturist
 Dack Fayden
@@ -454,6 +498,7 @@ Deathleaper, Terror Weapon
 Deekah, Fractal Theorist
 Dee Kay, Finder of the Lost
 Delina, Wild Mage
+Delney, Streetwise Lookout
 Demonlord Belzenlok
 Denethor, Ruling Steward
 Denethor, Stone Seer
@@ -461,12 +506,14 @@ Dennick, Pious Apprentice
 Denry Klin, Editor in Chief
 Depala, Pilot Exemplar
 Derevi, Empyrial Tactician
+Desdemona, Freedom's Edge
 Devil K. Nevil
 Diaochan, Artful Beauty
 Dihada, Binder of Wills
 Dina, Soul Steeper
 Djeru and Hazoret
 Djeru, With Eyes Open
+Doc Aurlock, Grizzled Genius
 Dogmeat, Ever Loyal
 Domri, Anarch of Bolas
 Domri, Chaos Bringer
@@ -506,14 +553,17 @@ Dr. Julius Jumblemorph
 Dr. Madison Li
 Dromar, the Banisher
 Dromoka, the Eternal
+Duchess, Wayward Tavernkeep
 Duggan, Private Detective
 Duke Ulder Ravengard
 Dungeon Delver
 Durnan of the Yawning Portal
+Duskana, the Rage Mother
 Dwynen, Gilt-Leaf Daen
 Dynaheir, Invoker Adept
 Eater of Virtue
 Ebondeath, Dracolich
+ED-E, Lonesome Eyebot
 Edgar, Charmed Groom
 Edgar Markov
 Edgin, Larcenous Lutenist
@@ -522,10 +572,13 @@ Egon, God of Death
 Eiganjo Castle
 Eiganjo, Seat of the Empire
 Eight-and-a-Half-Tails
+Eivor, Battle-Ready
 Eladamri, Lord of Leaves
 Elanor Gardner
 Elas il-Kor, Sadistic Pilgrim
 Elbrus, the Binding Blade
+Elder Arthur Maxson
+Elder Owyn Lyons
 Elenda and Azor
 Elenda, the Dusk Rose
 Elesh Norn, Grand Cenobite
@@ -551,12 +604,16 @@ Elspeth Tirel
 Elspeth, Undaunted Hero
 Embercleave
 Emiel the Blessed
+Emissary Green
 Emmara, Soul of the Accord
 Emmara Tandris
+Emmara, Voice of the Conclave
+Emperor Apatzec Intli IV
 Emperor Mihail II
 Empress Galina
 Emrakul, the Aeons Torn
 Emrakul, the Promised End
+Emrakul, the World Anew
 Emry, Lurker of the Loch
 Endrek Sahr, Master Breeder
 Enkira, Hostile Scavenger
@@ -573,7 +630,9 @@ Erebos, God of the Dead
 Erestor of the Council
 Eriette of the Charmed Apple
 Eriette's Tempting Apple
+Eriette, the Beguiler
 Erinis, Gloom Stalker
+Eris, Roar of the Storm
 Erkenbrand, Lord of Westfold
 Eron the Relentless
 Errant and Giada
@@ -581,6 +640,7 @@ Errant, Street Artist
 Ertai Resurrected
 Ertai, the Corrupted
 Ertai, Wizard Adept
+Ertha Jo, Frontier Mentor
 Eruth, Tormented Prophet
 Esika, God of the Tree
 Esika's Chariot
@@ -589,6 +649,7 @@ Esix, Fractal Bloom
 Estrid, the Masked
 Etali, Primal Conqueror
 Etali, Primal Storm
+Etrata, Deadly Fugitive
 Etrata, the Silencer
 Eutropia the Twice-Favored
 Evelyn, the Covetous
@@ -598,6 +659,9 @@ Experiment Kraj
 Extus, Oriq Overlord
 Eye of Ugin
 Eye of Vecna
+Ezio Auditore da Firenze
+Ezio, Blade of Vengeance
+Ezrim, Agency Chief
 Ezuri, Claw of Progress
 Ezuri, Renegade Leader
 Ezuri, Stalker of Spheres
@@ -615,11 +679,14 @@ Farideh, Devil's Chosen
 Farid, Enterprising Salvager
 Farmer Cotton
 Far Traveler
+Fblthp, Lost on the Range
 Fblthp, the Lost
+Feather, Radiant Arbiter
 Feather, the Redeemed
 Feldon of the Third Path
 Feldon, Ronom Excavator
 Felisa, Fang of Silverquill
+Felix Five-Boots
 Feywild Visitor
 Fires of Mount Doom
 Firesong and Sunspeaker
@@ -635,6 +702,7 @@ Fluros of Myra's Marvels
 Folk Hero
 Forge, Neverwinter Charlatan
 Forsaken Monument
+Fortune, Loyal Steed
 Francisco, Fowl Marauder
 Frankie Peanuts
 Freyalise, Llanowar's Fury
@@ -644,6 +712,7 @@ Frodo Baggins
 Frodo, Determined Hero
 Frodo, Sauron's Bane
 Fumiko the Lowblood
+Furgul, Quag Nurturer
 Fynn, the Fangbearer
 Gabriel Angelfire
 Gaddock Teeg
@@ -694,6 +763,7 @@ General Kudro of Drannith
 General Marhault Elsdragon
 General Tazri
 Genju of the Realm
+Geralf, the Fleshwright
 Geralf, Visionary Stitcher
 Gerrard Capashen
 Gerrard's Hourglass Pendant
@@ -708,6 +778,7 @@ Ghalta, Stampede Tyrant
 Ghave, Guru of Spores
 Ghen, Arcanum Weaver
 Ghired, Conclave Exile
+Ghired, Mirror of the Wilds
 Ghost Council of Orzhova
 Ghost of Ramirez DePietro
 Ghoulcaller Gisa
@@ -729,6 +800,7 @@ Gimli of the Glittering Caves
 Gisa and Geralf
 Gisa, Glorious Resurrector
 Gisa's Favorite Shovel
+Gisa, the Hellraiser
 Gisela, Blade of Goldnight
 Gisela, the Broken Blade
 Gishath, Sun's Avatar
@@ -761,6 +833,7 @@ Gollum, Obsessed Stalker
 Gollum, Patient Plotter
 Gollum, Scheming Guide
 Golos, Tireless Pilgrim
+Gonti, Canny Acquisitor
 Gonti, Lord of Luxury
 Gonti's Aether Heart
 Gorbag of Minas Morgul
@@ -792,6 +865,7 @@ Greasefang, Okiba Boss
 Greel, Mind Raker
 Greensleeves, Maro-Sorcerer
 Gregor, Shrewd Magistrate
+Grenzo, Crooked Jailer
 Grenzo, Dungeon Warden
 Grenzo, Havoc Raiser
 Greta, Sweettooth Scourge
@@ -850,6 +924,7 @@ Hammerheim
 Hammer of Nazahn
 Hammer of Purphoros
 Hamza, Guardian of Arashin
+Hancock, Ghoulish Mayor
 Hand of Vecna
 Hanna, Ship's Navigator
 Hans Eriksson
@@ -861,6 +936,7 @@ Harbin, Vanguard Aviator
 Hardy of Myra's Marvels
 Hardy Outlander
 Hargilde, Kindly Runechanter
+Harold and Bob, First Numens
 Haunted One
 Havengul Laboratory
 Hazduhr the Abbot
@@ -868,6 +944,7 @@ Hazezon, Shaper of Sand
 Hazezon Tamar
 Hazoret's Monument
 Hazoret the Fervent
+Headliner Scarlett
 Heartless Hidetsugu
 Heart of Kiran
 Heidar, Rimewind Master
@@ -881,11 +958,13 @@ Helvault
 Henrika Domnathi
 Henry Wu, InGen Geneticist
 Henzie "Toolbox" Torre
+Herigast, Erupting Nullkite
 Heroes' Podium
 He Who Hungers
 Hex, Kellan's Companion
 Hidetsugu and Kairi
 Hidetsugu, Devouring Chaos
+High Marshal Arguel
 Higure, the Still Wind
 Hikari, Twilight Guardian
 Hinata, Dawn-Crowned
@@ -903,6 +982,7 @@ Honden of Infinite Rage
 Honden of Life's Web
 Honden of Night's Reach
 Honden of Seeing Winds
+Honest Rutstein
 Hope of Ghirapur
 Horde of Notions
 Horn of Gondor
@@ -922,6 +1002,7 @@ Hylda's Crown of Winter
 Hythonia the Cruel
 Ian Chesterton
 Ian Malcolm, Chaotician
+Ian the Reckless
 Ib Halfheart, Goblin Tactician
 Ich-Tekik, Salvage Splicer
 Icingdeath, Frost Tyrant
@@ -993,6 +1074,7 @@ Iwamori of the Open Fist
 Ixhel, Scion of Atraxa
 Ixidor, Reality Sculptor
 Iymrith, Desert Doom
+Izoni, Center of the Web
 Izoni, Thousand-Eyed
 Jace, Arcane Strategist
 Jace, Architect of Thought
@@ -1001,6 +1083,7 @@ Jace, Cunning Castaway
 Jace, Ingenious Mind-Mage
 Jace, Memory Adept
 Jace, Mirror Mage
+Jace Reawakened
 Jace, the Living Guildpact
 Jace, the Mind Sculptor
 Jace, the Perfected Mind
@@ -1015,6 +1098,7 @@ Jaheira, Friend of the Forest
 Jaheira, Harper Emissary
 Jalira, Master Polymorphist
 Jalum Grifter
+James, Wandering Dad
 Jamie McCrimmon
 Jan Jansen, Chaos Crafter
 Jarad, Golgari Lich Lord
@@ -1024,6 +1108,7 @@ Jareth, Leonine Titan
 Jarsyl, Dark Age Scion
 Jasmine Boreal
 Jasmine Boreal of the Seven
+Jason Bright, Glowing Prophet
 Jaxis, the Troublemaker
 Jaya Ballard
 Jaya Ballard, Task Mage
@@ -1036,6 +1121,7 @@ Jedit Ojanen, Mercenary
 Jedit Ojanen of Efrava
 Jegantha, the Wellspring
 Jeleva, Nephalia's Scourge
+Jem Lightfoote, Sky Explorer
 Jenara, Asura of War
 Jenny Flint
 Jenny, Generated Anomaly
@@ -1045,6 +1131,7 @@ Jerrard of the Closed Fist
 Jerren, Corrupted Bishop
 Jeska, Thrice Reborn
 Jeska, Warrior Adept
+Jessie Zane, Fangbringer
 Jetfire, Ingenious Scientist
 Jetmir, Nexus of Revels
 Jhoira, Ageless Innovator
@@ -1065,6 +1152,7 @@ Jo Grant
 Johan
 Johann, Apprentice Sorcerer
 Johnny, Combo Player
+Jolene, Plundering Pugilist
 Jolene, the Plunder Queen
 Jolrael, Empress of Beasts
 Jolrael, Mwonvuli Recluse
@@ -1078,6 +1166,7 @@ Jorn, God of Winter
 Josu Vess, Lich Knight
 Journey to Eternity
 Joven
+Judith, Carnage Connoisseur
 Judith, the Scourge Diva
 Jugan, the Rising Star
 Junji, the Midnight Sky
@@ -1088,6 +1177,7 @@ Kaalia of the Vast
 Kaalia, Zenith Seeker
 Kadena, Slinking Sorcerer
 Kaervek the Merciless
+Kaervek, the Punisher
 Kaervek, the Spiteful
 Kagemaro, First to Suffer
 Kagha, Shadow Archdruid
@@ -1103,11 +1193,13 @@ Kaldra Compleat
 Kalemne, Disciple of Iroas
 Kalitas, Bloodchief of Ghet
 Kalitas, Traitor of Ghet
+Kamachal, Ship's Mascot
 Kamahl, Fist of Krosa
 Kamahl, Heart of Krosa
 Kamahl, Pit Fighter
 Kamahl's Druidic Vow
 Kambal, Consul of Allocation
+Kambal, Profiteering Mayor
 Kamber, the Plunderer
 Kami of the Crescent Moon
 Kamiz, Obscura Oculus
@@ -1148,11 +1240,13 @@ Katilda and Lier
 Katilda, Dawnhart Martyr
 Katilda, Dawnhart Prime
 Katsumasa, the Animator
+Kaust, Eyes of the Glade
 Kaya, Bane of the Dead
 Kaya, Geist Hunter
 Kaya, Ghost Assassin
 Kaya, Intangible Slayer
 Kaya, Orzhov Usurper
+Kaya, Spirits' Justice
 Kaya the Inexorable
 Kayla's Music Box
 Kaysa
@@ -1167,7 +1261,11 @@ Kei Takahashi
 Keldon Necropolis
 Keleth, Sunmane Familiar
 Kellan, Daring Traveler
+Kellan, Inquisitive Prodigy
+Kellan Joins Up
 Kellan, the Fae-Blooded
+Kellan, the Kid
+Kellogg, Dangerous Mind
 Kels, Fight Fixer
 Kelsien, the Plague
 Kemba, Kha Enduring
@@ -1202,6 +1300,7 @@ Kiora, Sovereign of the Deep
 Kiora, the Crashing Wave
 Kiora, the Tide's Fury
 Kira, Great Glass-Spinner
+Kirri, Talented Sprout
 Kitsune Mystic
 Kitt Kanto, Mayhem Diva
 Kiyomaro, First to Stand
@@ -1241,7 +1340,9 @@ Krark's Other Thumb
 Krark's Thumb
 Krark, the Thumbless
 Kraum, Ludevic's Opus
+Kraum, Violent Cacophony
 Krav, the Unredeemed
+Krenko, Baron of Tin Street
 Krenko, Mob Boss
 Krenko, Tin Street Kingpin
 Kresh the Bloodbraided
@@ -1252,6 +1353,7 @@ Kroxa, Titan of Death's Hunger
 K'rrik, Son of Yawgmoth
 Kruphix, God of Horizons
 Krydle of Baldur's Gate
+Kudo, King Among Bears
 Kumano, Master Yamabushi
 Kumena, Tyrant of Orazca
 Kunoros, Hound of Athreos
@@ -1266,6 +1368,7 @@ Kwende, Pride of Femeref
 Kydele, Chosen of Kruphix
 Kykar, Wind's Fury
 Kyler, Sigardian Emissary
+Kylox, Visionary Inventor
 Kynaios and Tiro of Meletis
 Kyodai, Soul of Kamigawa
 Kyoki, Sanity's Eclipse
@@ -1281,27 +1384,35 @@ Lae'zel, Vlaakith's Champion
 Lagomos, Hand of Hatred
 Lagrella, the Magpie
 Landroval, Horizon Witness
+Lara Croft, Tomb Raider
 Lathiel, the Bounteous Dawn
 Lathliss, Dragon Queen
 Lathril, Blade of the Elves
 Latulla, Keldon Overseer
+Laughing Jasper Flint
 Laurine, the Diversion
 Lavinia, Azorius Renegade
+Lavinia, Foil to Conspiracy
 Lavinia of the Tenth
 Lazav, Dimir Mastermind
+Lazav, Familiar Stranger
 Lazav, the Multifarious
+Lazav, Wearer of Faces
 Leela, Sevateem Warrior
 Legacy Weapon
+Legate Lanius, Caesar's Ace
 Legion's Landing
 Legolas, Counter of Kills
 Legolas Greenleaf
 Legolas, Master Archer
 Leinore, Autumn Sovereign
 Lena, Selfless Champion
+Leonardo da Vinci
 Leori, Sparktouched Hunter
 Leovold, Emissary of Trest
 Liara of the Flaming Fist
 Liberator, Urza's Battlethopter
+Liberty Prime, Recharged
 Lich's Mastery
 Licia, Sanguine Tribune
 Lier, Disciple of the Drowned
@@ -1310,6 +1421,7 @@ Liesa, Shroud of Dusk
 Lieutenant Kirtar
 Light-Paws, Emperor's Voice
 Lila, Hospitality Hostess
+Lilah, Undefeated Slickshot
 Liliana, Death Mage
 Liliana, Death's Majesty
 Liliana, Death Wielder
@@ -1322,6 +1434,7 @@ Liliana, the Necromancer
 Liliana, Untouched by Death
 Liliana Vess
 Liliana, Waker of the Dead
+Lily Bowen, Raging Grandma
 Lim-Dûl the Necromancer
 Linden, the Steadfast Queen
 Linessa, Zephyr Mage
@@ -1340,6 +1453,8 @@ Lobelia, Defender of Bag End
 Lobelia Sackville-Baggins
 Lolth, Spider Queen
 Lonis, Cryptozoologist
+Lonis, Genetics Expert
+Loot, the Key to Everything
 Loran, Disciple of History
 Loran of the Third Path
 Lorcan, Warlock Collector
@@ -1351,6 +1466,7 @@ Lord Windgrace
 Lord Xander, the Collector
 Lorthos, the Tidemaker
 Losheel, Clockwork Scholar
+Lost Jitte
 Lotho, Corrupt Shirriff
 Lovisa Coldeyes
 Lozhan, Dragons' Legacy
@@ -1364,6 +1480,7 @@ Lukka, Coppercoat Outcast
 Lulu, Forgetful Hollyphant
 Lulu, Loyal Hollyphant
 Lu Meng, Wu General
+Lumra, Bellow of the Woods
 Lurrus of the Dream-Den
 Lu Su, Wu Advisor
 Lutri, the Spellchaser
@@ -1373,6 +1490,8 @@ Lynde, Cheerful Tormentor
 Lyra Dawnbringer
 Lyzolda, the Blood Witch
 Maarika, Brutal Gladiator
+Mabel, Heir to Cragflame
+MacCready, Lamplight Mayor
 Ma Chao, Western Warrior
 Madame Vastra
 Maelstrom Wanderer
@@ -1380,6 +1499,7 @@ Maeve, Insidious Singer
 Magar of the Magic Strings
 Maga, Traitor to Mortals
 Magda, Brazen Outlaw
+Magda, the Hoardmaster
 Mageta the Lion
 Magnus the Red
 Magus Lucea Kane
@@ -1390,6 +1510,7 @@ Major Teroh
 Malcator, Purity Overseer
 Malcolm, Alluring Scoundrel
 Malcolm, Keen-Eyed Navigator
+Malcolm, the Eyes
 Malfegor
 Malik, Grim Manipulator
 Mangara of Corondor
@@ -1398,7 +1519,9 @@ Mannichi, the Fevered Dream
 Maralen of the Mornsong
 Marath, Will of the Wild
 Maraxus of Keld
+Marchesa, Dealer of Death
 Marchesa, the Black Rose
+Marcus, Mutant Mayor
 Marhault Elsdragon
 Marisi, Breaker of the Coil
 Mari, the Killing Quill
@@ -1407,12 +1530,15 @@ Marneus Calgar
 Marrow-Gnawer
 Martha Jones
 Márton Stromgald
+Marvo, Deep Operative
 Marwyn, the Nurturer
 Mary O'Kill
 Masako the Humorless
 Mask of Griselbrand
 Massacre Girl
+Massacre Girl, Known Killer
 Master Chef
+Mastermind Plum
 Masumaro, First to Live
 Mathas, Fiend Seeker
 Matzalantli, the Great Door
@@ -1427,6 +1553,7 @@ Meet and Greet "Sisay"
 Megatron, Tyrant
 Meishin, the Mind Cage
 Melek, Izzet Paragon
+Melek, Reforged Researcher
 Melira, Sylvok Outcast
 Melira, the Living Cure
 Meloku the Clouded Mirror
@@ -1462,6 +1589,8 @@ Minthara, Merciless Soul
 Minthara of the Absolute
 Mirari
 Miren, the Moaning Well
+Miriam, Herd Whisperer
+Mirko, Obsessive Theorist
 Mirko Vosk, Mind Drinker
 Mirri, Cat Warrior
 Mirri the Cursed
@@ -1480,6 +1609,7 @@ Mizzix of the Izmagnus
 Mizzix, Replica Rider
 Mogis, God of Slaughter
 Moira and Teshar
+Moira Brown, Guide Author
 Moira, Urborg Haunt
 Molimo, Maro-Sorcerer
 Momir Vig, Simic Visionary
@@ -1491,6 +1621,7 @@ Mordenkainen
 Morinfen
 Moritte of the Frost
 Morophon, the Boundless
+Morska, Undersea Sleuth
 Mortarion, Daemon Primarch
 Mount Doom
 Mowu, Loyal Companion
@@ -1520,6 +1651,7 @@ Myojin of Towering Might
 Myra the Magnificent
 Myrel, Shield of Argive
 Myrkul, Lord of Bones
+Mythweaver Poq
 Naban, Dean of Iteration
 Nadaar, Selfless Paladin
 Nadier, Agent of the Duskenel
@@ -1544,6 +1676,7 @@ Narset of the Ancient Way
 Narset, Parter of Veils
 Narset Transcendent
 Naru Meha, Master Wizard
+Nashi, Illusion Gadgeteer
 Nashi, Moon Sage's Scion
 Nashi, Moon's Legacy
 Nath of the Gilt-Leaf
@@ -1555,6 +1688,7 @@ Neheb, Dreadhorde Champion
 Neheb, the Eternal
 Neheb, the Worthy
 Nekusar, the Mindrazer
+Nelly Borca, Impulsive Accuser
 Nemata, Grove Guardian
 Nemata, Primeval Warden
 Nethroi, Apex of Death
@@ -1570,6 +1704,7 @@ Niambi, Beloved Protector
 Niambi, Esteemed Speaker
 Niambi, Faithful Healer
 Nicanzil, Current Conductor
+Nick Valentine, Private Eye
 Nicol Bolas
 Nicol Bolas, Dragon-God
 Nicol Bolas, God-Pharaoh
@@ -1597,6 +1732,7 @@ Nissa, Voice of Zendikar
 Nissa, Who Shakes the World
 Nissa, Worldwaker
 Niv-Mizzet, Dracogenius
+Niv-Mizzet, Guildpact
 Niv-Mizzet, Parun
 Niv-Mizzet Reborn
 Niv-Mizzet, Supreme
@@ -1625,6 +1761,7 @@ Oath of Liliana
 Oath of Nissa
 Oath of Teferi
 Obeka, Brute Chronologist
+Obeka, Splitter of Seconds
 Ob Nixilis, Captive Kingpin
 Ob Nixilis of the Black Oath
 Ob Nixilis Reignited
@@ -1655,6 +1792,7 @@ Okaun, Eye of Chaos
 Oketra's Monument
 Oketra the True
 Okina, Temple to the Grandfathers
+Oko, the Ringleader
 Oko, the Trickster
 Oko, Thief of Crowns
 Ol' Buzzbark
@@ -1666,6 +1804,7 @@ Old Rutstein
 Old Stickfingers
 Olivia, Crimson Bride
 Olivia, Mobilized for War
+Olivia, Opulent Outlaw
 Olivia Voldaren
 Oloro, Ageless Ascetic
 Omarthis, Ghostfire Initiate
@@ -1696,6 +1835,7 @@ Otawara, Soaring City
 Otharri, Suns' Glory
 Othelm, Sigardian Outcast
 Otrimi, the Ever-Playful
+Overseer of Vault 76
 Ovika, Enigma Goliath
 Oviya Pashiri, Sage Lifecrafter
 Owen Grady, Raptor Trainer
@@ -1704,6 +1844,8 @@ Oyobi, Who Split the Heavens
 Ozolith, the Shattered Spire
 Padeem, Consul of Innovation
 Pako, Arcane Retriever
+Paladin Danse, Steel Maverick
+Paladin Elizabeth Taggerdy
 Palantír of Orthanc
 Paliano, the High City
 Palladia-Mors
@@ -1730,6 +1872,7 @@ Phabine, Boss's Confidant
 Phage the Untouchable
 Pharika, God of Affliction
 Phelddagrif
+Phelia, Exuberant Shepherd
 Phenax, God of Deception
 Phial of Galadriel
 Phoebe, Head of S.N.E.A.K.
@@ -1740,6 +1883,7 @@ Pia Nalaar
 Pia Nalaar, Consul of Revival
 Pianna, Nomad Captain
 Pietra, Crafter of Clowns
+Piper Wright, Publick Reporter
 Pippa, Duchess of Dice
 Pippin, Guard of the Citadel
 Pippin, Warden of Isengard
@@ -1755,6 +1899,7 @@ Popular Entertainer
 Pramikon, Sky Rampart
 Prava of the Steel Legion
 Predator, Flagship
+Preston Garvey, Minuteman
 Preston, the Vanisher
 Prime Speaker Vannifar
 Prime Speaker Zegana
@@ -1763,6 +1908,7 @@ Prince Imrahil the Fair
 Princess Lucrezia
 Profane Procession
 Professor Onyx
+Proft's Eidetic Memory
 Progenitus
 Prosper, Tome-Bound
 Prossh, Skyraider of Kher
@@ -1798,8 +1944,11 @@ Ragnar
 Rahilda, Wanted Cutthroat
 Raised by Giants
 Raiyuu, Storm's Edge
+Rakdos Joins Up
 Rakdos, Lord of Riots
+Rakdos, Patron of Chaos
 Rakdos the Defiler
+Rakdos, the Muscle
 Rakdos, the Showstopper
 Rakka Mar
 Raksha Golden Cub
@@ -1816,6 +1965,7 @@ Ramses Overdark
 Ranar the Ever-Watchful
 Rankle and Torbran
 Rankle, Master of Pranks
+Rankle, Pitiless Trickster
 Raphael, Fiendish Savior
 Rasaad, Monk of Selûne
 Rasaad yn Bashir
@@ -1829,6 +1979,7 @@ Rassilon, the War President
 Ratadrabik of Urborg
 Ratchet, Field Medic
 Rath's Edge
+Raul, Trouble Shooter
 Ravos, Soultender
 Rayami, First of the Fallen
 Rayne, Academy Chancellor
@@ -1838,6 +1989,7 @@ R&D's Secret Lair
 Realmbreaker, the Invasion Tree
 Reaper King
 Rebbec, Architect of Ascension
+Red Death, Shipwrecker
 Reezug, the Bonecobbler
 Regna, the Redeemer
 Reidane, God of the Worthy
@@ -1862,6 +2014,7 @@ Richlau, Headmaster
 Rielle, the Everwise
 Rienne, Angel of Rebirth
 Rigo, Streetwise Mentor
+Riku of Many Paths
 Riku of Two Reflections
 Rilsa Rael, Kingpin
 Rin and Seri, Inseparable
@@ -1876,6 +2029,7 @@ Riven Turnbull
 River Song
 RMS Titanic
 Roalesk, Apex Hybrid
+Roalesk, Prime Specimen
 Rocco, Cabaretti Caterer
 Rocco, Street Chef
 Rodolf Duskbringer
@@ -1891,6 +2045,8 @@ Roon of the Hidden Realm
 Rootha, Mercurial Artist
 Rorix Bladewing
 Rory Williams
+Rose, Cutthroat Raider
+Rose Noble
 Rose Tyler
 Rosheen Meanderer
 Rosie Cotton of South Lane
@@ -1900,6 +2056,7 @@ Rowan, Fearless Sparkmage
 Rowan Kenrith
 Rowan, Scholar of Sparks
 Rowan, Scion of War
+Roxanne, Starfall Savant
 Roxi, Publicist to the Stars
 Rubinia Soulsinger
 Ruby, Daring Tracker
@@ -1923,6 +2080,7 @@ Saheeli, Sublime Artificer
 Saheeli, the Gifted
 Saheeli, the Sun's Brilliance
 Sai, Master Thopterist
+Saint Elenda
 Saint Traft and Rem Karolus
 Sakashima of a Thousand Faces
 Sakashima the Impostor
@@ -1963,6 +2121,7 @@ Saruman, the White Hand
 Saryth, the Viper's Fang
 Sasaya, Orochi Ascendant
 Saskia the Unyielding
+Satoru, the Infiltrator
 Satoru Umezawa
 Satsuki, the Living Lore
 Sauron, Lord of the Rings
@@ -1980,10 +2139,13 @@ Seizan, Perverter of Truth
 Sekki, Seasons' Guide
 Sek'Kuar, Deathkeeper
 Selenia, Dark Angel
+Selvala, Eager Trailblazer
 Selvala, Explorer Returned
 Selvala, Heart of the Wilds
+Senator Peacock
 Sengir, the Dark Baron
 Sensei Golden-Tail
+Sentinel Sarah Lyons
 Sen Triplets
 Sephara, Sky's Blade
 Sergeant John Benton
@@ -2012,6 +2174,7 @@ Sharkey, Tyrant of the Shire
 Sharuum the Hegemon
 Shattergang Brothers
 Shauku, Endbringer
+Shaun, Father of Synths
 Shell of the Last Kappa
 Shelob, Child of Ungoliant
 Shelob, Dread Weaver
@@ -2036,6 +2199,7 @@ Sidar Jabari of Zhalfir
 Sidar Kondo of Jamuraa
 Sidisi, Brood Tyrant
 Sidisi, Undead Vizier
+Sierra, Nuka's Biggest Fan
 Sigarda, Champion of Light
 Sigarda, Font of Blessings
 Sigarda, Heron's Grace
@@ -2085,6 +2249,7 @@ Solaflora, Intergalactic Icon
 Sol'kanar the Swamp King
 Sol'Kanar the Tainted
 Solphim, Mayhem Dominus
+Sophia, Dogged Detective
 Sophina, Spearsage Deserter
 Soramaro, First to Dream
 Soraya the Falconer
@@ -2113,6 +2278,7 @@ Stangg
 Stangg, Echo Warrior
 Starke of Rath
 Starscream, Power Hungry
+Stella Lee, Wild Card
 Stenn, Paranoid Partisan
 Stet, Draconic Proofreader
 Sting, the Glinting Dagger
@@ -2126,6 +2292,7 @@ Strax, Sontaran Nurse
 Street Urchin
 Strefan, Maurer Progenitor
 Strider, Ranger of the North
+Strong, the Brutish Thespian
 Student of Elements
 Subira, Tulzidi Caravanner
 Sunastian Falconer
@@ -2166,8 +2333,10 @@ Tahngarth, First Mate
 Tahngarth, Talruum Hero
 Taigam, Ojutai Master
 Taigam, Sidisi's Hand
+Taii Wakeen, Perfect Shot
 Tajic, Blade of the Legion
 Tajic, Legion's Edge
+Tajic, Legion's Valor
 Takeno, Samurai General
 Takenuma, Abandoned Mire
 Talion, the Kindly Lord
@@ -2181,6 +2350,7 @@ Tamiyo, the Moon Sage
 Tana, the Bloodsower
 Tanazir Quandrix
 Taniwha
+Tan Jolom, the Worldwalker
 Taranika, Akroan Veteran
 Targ Nar, Demon-Fang Gnoll
 Tariel, Reckoner of Souls
@@ -2220,6 +2390,7 @@ Temmet, Vizier of Naktamun
 Teneb, the Harvester
 Tenza, Godo's Maul
 Tergrid, God of Fright
+Tesak, Judith's Hellhound
 Teshar, Ancestor's Apostle
 Tetsuko Umezawa, Fugitive
 Tetsuo, Imperial Champion
@@ -2232,6 +2403,8 @@ Teyo, Geometric Tactician
 Teyo, the Shieldmage
 Teysa, Envoy of Ghosts
 Teysa Karlov
+Teysa of the Ghost Council
+Teysa, Opulent Oligarch
 Teysa, Orzhov Scion
 Tezzeret, Agent of Bolas
 Tezzeret, Artifice Master
@@ -2251,6 +2424,7 @@ Thassa, Deep-Dwelling
 Thassa, God of the Sea
 That Which Was Taken
 The Ancient One
+The Animus
 The Archimandrite
 The Balrog, Durin's Bane
 The Balrog, Flame of Udûn
@@ -2264,6 +2438,7 @@ The Blackstaff of Waterdeep
 The Book of Exalted Deeds
 The Book of Vile Darkness
 The Cauldron of Eternity
+The Celestial Toymaker
 The Celestus
 The Chain Veil
 The Circle of Loyalty
@@ -2278,14 +2453,17 @@ The Eternal Wanderer
 The Ever-Changing 'Dane
 The Everflowing Well
 The Face of Boe
+The Fifteenth Doctor
 The Fifth Doctor
 The Filigree Sylex
 The First Doctor
 The First Sliver
+The Fourteenth Doctor
 The Fourth Doctor
 The Fugitive Doctor
 The Gaffer
 The Gitrog Monster
+The Gitrog, Ravenous Ride
 The Golden Throne
 The Goose Mother
 The Grand Calcutron
@@ -2299,6 +2477,7 @@ The Immortal Sun
 The Indomitable
 The Irencrag
 The Kenriths' Royal Funeral
+The Key to the Vault
 The Lady of Otaria
 The Lady of the Mountain
 The Locust God
@@ -2309,13 +2488,16 @@ The Master, Formed Anew
 The Master, Gallifrey's End
 The Master, Mesmerist
 The Master, Multiplied
+The Master, Transcendent
 Themberchaud
 The Meathook Massacre
+The Meep
 The Mightstone and Weakstone
 The Millennium Calendar
 The Mimeoplasm
 The Moment
 The Most Dangerous Gamer
+The Motherlode, Excavator
 The Mouth of Sauron
 The Mycotyrant
 The Ninth Doctor
@@ -2324,7 +2506,9 @@ The One Ring
 The Ozolith
 The Pandorica
 The Peregrine Dynamo
+The Pride of Hull Clade
 The Prismatic Piper
+The Prydwen, Steel Flagship
 The Rani
 The Raven Man
 The Reality Chip
@@ -2363,6 +2547,7 @@ Thran Temporal Gateway
 Thrasios, Triton Hero
 Thrasta, Tempest's Roar
 Thraximundar
+Three Dog, Galaxy News DJ
 Thriss, Nantuko Primus
 Thromok the Insatiable
 Throne of Eldraine
@@ -2383,6 +2568,8 @@ Timeless Lotus
 Timin, Youthful Geist
 Timmy, Power Gamer
 Timothar, Baron of Bats
+Tinybones Joins Up
+Tinybones, the Pickpocket
 Tinybones, Trinket Thief
 Tishana, Voice of Thunder
 Titania, Gaea Incarnate
@@ -2399,12 +2586,14 @@ Toggo, Goblin Weaponsmith
 Tolaria
 Tolarian Academy
 Tolsimir, Friend to Wolves
+Tolsimir, Midnight's Light
 Tolsimir Wolfblood
 Toluz, Clever Conductor
 Tomb of Urami
 Tom Bombadil
 Tome of the Infinite
 Tomik, Distinguished Advokist
+Tomik, Wielder of Law
 Tomorrow, Azami's Familiar
 Toothy, Imaginary Friend
 Toralf, God of Fury
@@ -2426,6 +2615,7 @@ Toxrill, the Corrosive
 Traxos, Scourge of Kroog
 Trazyn the Infinite
 Treebeard, Gracious Host
+Treizeci, Sun of Serra
 Trelasarra, Moon Dancer
 Trenzalore Clocktower
 Treva, the Renewer
@@ -2433,6 +2623,7 @@ Triad of Fates
 Tromokratis
 Trostani Discordant
 Trostani, Selesnya's Voice
+Trostani, Three Whispers
 Troyan, Gutsy Explorer
 Truss, Chief Engineer
 Trynn, Champion of Freedom
@@ -2490,6 +2681,7 @@ Urza's Sylex
 Uurg, Spawn of Turg
 Uvilda, Dean of Perfection
 Uyo, Silent Prophet
+Vadmir, New Blood
 Vadrik, Astral Archmage
 Vadrok, Apex of Thunder
 Vaevictis Asmadi
@@ -2498,6 +2690,7 @@ Valduk, Keeper of the Flame
 Valentin, Dean of the Vein
 Valki, God of Lies
 Vance's Blasting Cannons
+Vannifar, Evolved Enigma
 Varchild, Betrayer of Kjeldor
 Varina, Lich Queen
 Varis, Silverymoon Ranger
@@ -2505,6 +2698,7 @@ Varolz, the Scar-Striped
 Varragoth, Bloodsky Sire
 Vazi, Keen Negotiator
 Vega, the Watcher
+Veko, Death's Doorkeeper
 Vela the Night-Clad
 Veldrane of Sengir
 Velomachus Lorehold
@@ -2515,6 +2709,7 @@ Venser, the Sojourner
 Verazol, the Split Current
 Verdeloth the Ancient
 Verix Bladewing
+Veronica, Dissident Scribe
 Verrak, Warped Sengir
 Veteran Soldier
 Vexyr, Ich-Tekik's Heir
@@ -2522,9 +2717,11 @@ Veyran, Voice of Duality
 Vhal, Candlekeep Researcher
 Vhal, Eager Scholar
 Vhati il-Dal
+Vial Smasher, Gleeful Grenadier
 Vial Smasher the Fierce
 Viconia, Drow Apostate
 Viconia, Nightsinger's Disciple
+Vihaan, Goldwaker
 Vikya, Scorching Stalwart
 Vilis, Broker of Blood
 Virtus the Veiled
@@ -2545,12 +2742,14 @@ Vivien's Arkbow
 Vladimir and Godfrey
 Vogar, Necropolis Tyrant
 Vohar, Vodalian Desecrator
+Voja, Jaws of the Conclave
 Volo, Guide to Monsters
 Volo, Itinerant Scholar
 Volrath's Stronghold
 Volrath the Fallen
 Volrath, the Shapestealer
 Vona, Butcher of Magan
+Vona de ledo, the Antifex
 Vorel of the Hull Clade
 Vorinclex, Monstrous Raider
 Vorinclex
@@ -2560,10 +2759,12 @@ Vorthos, Steward of Myth
 Vraan, Executioner Thane
 Vraska, Betrayal's Sting
 Vraska, Golgari Queen
+Vraska Joins Up
 Vraska, Regal Gorgon
 Vraska, Relic Seeker
 Vraska, Scheming Gorgon
 Vraska, Swarm's Eminence
+Vraska, the Silencer
 Vraska the Unseen
 Vrestin, Menoptra Leader
 Vrondiss, Rage of Ancients
@@ -2598,6 +2799,7 @@ Wrexial, the Risen Deep
 Wulfgar of Icewind Dale
 Wydwen, the Biting Gale
 Wyleth, Soul of Steel
+Wylie Duke, Atiin Hero
 Wyll, Blade of Frontiers
 Wyll, Pact-Bound Duelist
 X
@@ -2618,6 +2820,7 @@ Yannik, Scavenging Sentinel
 Yargle and Multani
 Yargle, Glutton of Urborg
 Yarok, the Desecrated
+Yarus, Roar of the Old Gods
 Yasharn, Implacable Earth
 Yasmin Khan
 Yasova Dragonclaw
@@ -2628,6 +2831,7 @@ Yawgmoth, Thran Physician
 Yedora, Grave Gardener
 Yenna, Redtooth Regent
 Yennett, Cryptic Sovereign
+Yes Man, Personal Securitron
 Yeva, Nature's Herald
 Yidaro, Wandering Monster
 Yidris, Maelstrom Wielder
@@ -2639,6 +2843,7 @@ Yosei, the Morning Star
 Yoshimaru, Ever Faithful
 Yuan Shao, the Indecisive
 Yukora, the Prisoner
+Yuma, Proud Protector
 Yuriko, the Tiger's Shadow
 Yurlok of Scorch Thrash
 Yusri, Fortune's Flame

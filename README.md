@@ -1,6 +1,6 @@
 Stat - статистика генералов в формате Russian Duel Commander. За различные даты и с различными фильтрами.
 
-https://www.youtube.com/watch?v=WyBkLZcPyRw - короткое демо видео о том, что планируется получить.
+https://docs.google.com/spreadsheets/d/1DvFNChZnR7nNllr1f1KuMhM9f5BAowict7X3iPGXR3E/edit#gid=1969611537 - данные в гугл таблицах.
 
 statistic_json - статистика сформированная по каждому отдельному турниру.
 
