@@ -1,0 +1,13 @@
+location::Barnaul
+level::Regular
+date::2024_05_03
+organizer::
+players::generals
+Дмитрий Лисин :: Kytheon, Hero of Akros
+Илья Гесин :: Old Stickfingers
+Влад Гладышев :: Hogaak, Arisen Necropolis
+Достияр Амержаев :: Baral and Kari Zev
+Андрей Студеникин (384155255) :: Shorikai, Genesis Engine
+Егор Костенко :: Asmoranomardicadaistinaculdacar
+Round
+https://aetherhub.com/Tourney/RoundTourney/29527

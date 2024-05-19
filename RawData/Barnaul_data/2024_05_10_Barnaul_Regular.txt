@@ -1,0 +1,14 @@
+location::Barnaul
+level::Regular
+date::2024_05_10
+organizer::
+players::generals
+Влад Гладышев :: Hogaak, Arisen Necropolis
+Александр Самусенко :: Omnath, Locus of Creation
+Лисин Дмитрий :: Kytheon, Hero of Akros
+Дмитрий Разумовский :: Asmoranomardicadaistinaculdacar
+Андрей Тагильцев :: Ghyrson Starn, Kelermorph
+Амержаев Достияр :: Baral and Kari Zev
+Григорий Малыхин :: Krenko, Mob Boss
+Round
+https://aetherhub.com/Tourney/RoundTourney/29988

@@ -1,0 +1,131 @@
+{
+    "date": "2024_05_03",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Дмитрий Лисин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Илья Гесин",
+            "Old Stickfingers"
+        ],
+        [
+            "Влад Гладышев",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Достияр Амержаев",
+            "Baral and Kari Zev"
+        ],
+        [
+            "Андрей Студеникин (384155255)",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Егор Костенко",
+            "Asmoranomardicadaistinaculdacar"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Дмитрий Лисин",
+                "Илья Гесин",
+                "Kytheon, Hero of Akros",
+                "Old Stickfingers",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Егор Костенко",
+                "Влад Гладышев",
+                "Asmoranomardicadaistinaculdacar",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Достияр Амержаев",
+                "Андрей Студеникин (384155255)",
+                "Baral and Kari Zev",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Достияр Амержаев",
+                "Дмитрий Лисин",
+                "Baral and Kari Zev",
+                "Kytheon, Hero of Akros",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Илья Гесин",
+                "Hogaak, Arisen Necropolis",
+                "Old Stickfingers",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Егор Костенко",
+                "Андрей Студеникин (384155255)",
+                "Asmoranomardicadaistinaculdacar",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Лисин",
+                "Влад Гладышев",
+                "Kytheon, Hero of Akros",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Андрей Студеникин (384155255)",
+                "Old Stickfingers",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Достияр Амержаев",
+                "Егор Костенко",
+                "Baral and Kari Zev",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

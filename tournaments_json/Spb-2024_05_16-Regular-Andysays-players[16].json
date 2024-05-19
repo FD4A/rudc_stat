@@ -1,0 +1,373 @@
+{
+    "date": "2024_05_16",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Барабаш Валентин",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Соловьев Валентин",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Поляков Герман",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Цюра Максим",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Amalia Benavides Aguirre"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Богданов Сергей",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Юферов Владимир",
+            "Ertai Resurrected"
+        ],
+        [
+            "Селиверстов Роберт",
+            "K'rrik, Son of Yawgmoth"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Богатырев Александр",
+                "Муравьев Никита",
+                "Indoraptor, the Perfect Hybrid",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Федоров Дмитрий",
+                "Kinnan, Bonder Prodigy",
+                "Amalia Benavides Aguirre",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Семенов Дмитрий",
+                "Golos, Tireless Pilgrim",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Селиверстов Роберт",
+                "Geist of Saint Traft",
+                "K'rrik, Son of Yawgmoth",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Иванов Дмитрий",
+                "Eris, Roar of the Storm",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Поляков Герман",
+                "Vial Smasher the Fierce",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Юферов Владимир",
+                "Ghyrson Starn, Kelermorph",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Соловьев Валентин",
+                "Богданов Сергей",
+                "Asmoranomardicadaistinaculdacar",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Барабаш Валентин",
+                "Иванов Максим",
+                "Kinnan, Bonder Prodigy",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Соловьев Валентин",
+                "Семенов Дмитрий",
+                "Asmoranomardicadaistinaculdacar",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Байков Аркадий",
+                "Ghyrson Starn, Kelermorph",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Иванов Дмитрий",
+                "Indoraptor, the Perfect Hybrid",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Ульянов Алексей",
+                "Eris, Roar of the Storm",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Селиверстов Роберт",
+                "Поляков Герман",
+                "K'rrik, Son of Yawgmoth",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Юферов Владимир",
+                "Федоров Дмитрий",
+                "Ertai Resurrected",
+                "Amalia Benavides Aguirre",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Муравьев Никита",
+                "Kroxa, Titan of Death's Hunger",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Родюков Федор",
+                "Богатырев Александр",
+                "Ghyrson Starn, Kelermorph",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Семенов Дмитрий",
+                "Kinnan, Bonder Prodigy",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Соловьев Валентин",
+                "Иванов Максим",
+                "Asmoranomardicadaistinaculdacar",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Поляков Герман",
+                "Amalia Benavides Aguirre",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Ульянов Алексей",
+                "Vial Smasher the Fierce",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Цюра Максим",
+                "Juri, Master of the Revue",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Селиверстов Роберт",
+                "Kroxa, Titan of Death's Hunger",
+                "K'rrik, Son of Yawgmoth",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Родюков Федор",
+                "Барабаш Валентин",
+                "Ghyrson Starn, Kelermorph",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Соловьев Валентин",
+                "Богатырев Александр",
+                "Asmoranomardicadaistinaculdacar",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Поляков Герман",
+                "Golos, Tireless Pilgrim",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Богданов Сергей",
+                "Hogaak, Arisen Necropolis",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Байков Аркадий",
+                "Eris, Roar of the Storm",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Федоров Дмитрий",
+                "Geist of Saint Traft",
+                "Amalia Benavides Aguirre",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

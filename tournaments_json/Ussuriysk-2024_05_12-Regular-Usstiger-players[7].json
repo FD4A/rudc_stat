@@ -1,0 +1,167 @@
+{
+    "date": "2024_05_12",
+    "location": "Ussuriysk",
+    "level": "Regular",
+    "organizer": "Usstiger",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Матвей К",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Алексей Ж",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Владислав М",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Кирилл С",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Матвей Б",
+            "Atraxa, Grand Unifier"
+        ],
+        [
+            "Вячеслав Ш",
+            "Satoru, the Infiltrator"
+        ],
+        [
+            "Дмитрий И",
+            "Ranar the Ever-Watchful"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Вячеслав Ш",
+                "Дмитрий И",
+                "Satoru, the Infiltrator",
+                "Ranar the Ever-Watchful",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Владислав М",
+                "Grist, the Hunger Tide",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Матвей Б",
+                "Raffine, Scheming Seer",
+                "Atraxa, Grand Unifier",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Кирилл С",
+                "Матвей К",
+                "Raffine, Scheming Seer",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Владислав М",
+                "Вячеслав Ш",
+                "Geist of Saint Traft",
+                "Satoru, the Infiltrator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Матвей Б",
+                "Алексей Ж",
+                "Atraxa, Grand Unifier",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Владислав М",
+                "Матвей К",
+                "Geist of Saint Traft",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Дмитрий И",
+                "Grist, the Hunger Tide",
+                "Ranar the Ever-Watchful",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Вячеслав Ш",
+                "Raffine, Scheming Seer",
+                "Satoru, the Infiltrator",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Матвей К",
+                "Алексей Ж",
+                "Asmoranomardicadaistinaculdacar",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Владислав М",
+                "Кирилл С",
+                "Geist of Saint Traft",
+                "Raffine, Scheming Seer",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Матвей Б",
+                "Дмитрий И",
+                "Atraxa, Grand Unifier",
+                "Ranar the Ever-Watchful",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

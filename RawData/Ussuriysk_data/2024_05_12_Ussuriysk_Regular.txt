@@ -1,0 +1,14 @@
+location::Ussuriysk
+level::Regular
+date::2024_05_12
+organizer::Usstiger
+players::generals
+Матвей К :: Asmoranomardicadaistinaculdacar
+Алексей Ж :: Grist, the Hunger Tide
+Владислав М :: Geist of Saint Traft
+Кирилл С :: Raffine, Scheming Seer
+Матвей Б :: Atraxa, Grand Unifier
+Вячеслав Ш :: Satoru, the Infiltrator
+Дмитрий И :: Ranar the Ever-Watchful
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/30059

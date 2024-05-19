@@ -1,0 +1,135 @@
+{
+    "date": "2024_05_10",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Влад Гладышев",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Александр Самусенко",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Лисин Дмитрий",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Дмитрий Разумовский",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Андрей Тагильцев",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Амержаев Достияр",
+            "Baral and Kari Zev"
+        ],
+        [
+            "Григорий Малыхин",
+            "Krenko, Mob Boss"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Дмитрий Разумовский",
+                "Александр Самусенко",
+                "Asmoranomardicadaistinaculdacar",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Андрей Тагильцев",
+                "Лисин Дмитрий",
+                "Ghyrson Starn, Kelermorph",
+                "Kytheon, Hero of Akros",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Григорий Малыхин",
+                "Амержаев Достияр",
+                "Krenko, Mob Boss",
+                "Baral and Kari Zev",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Лисин Дмитрий",
+                "Амержаев Достияр",
+                "Kytheon, Hero of Akros",
+                "Baral and Kari Zev",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Александр Самусенко",
+                "Hogaak, Arisen Necropolis",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Андрей Тагильцев",
+                "Дмитрий Разумовский",
+                "Ghyrson Starn, Kelermorph",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Влад Гладышев",
+                "Лисин Дмитрий",
+                "Hogaak, Arisen Necropolis",
+                "Kytheon, Hero of Akros",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Амержаев Достияр",
+                "Александр Самусенко",
+                "Baral and Kari Zev",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Григорий Малыхин",
+                "Дмитрий Разумовский",
+                "Krenko, Mob Boss",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}
