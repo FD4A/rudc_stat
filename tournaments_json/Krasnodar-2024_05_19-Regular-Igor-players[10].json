@@ -1,0 +1,259 @@
+{
+    "date": "2024_05_19",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Кириченко Евгений",
+            "The Reality Chip"
+        ],
+        [
+            "Неговелов Игорь",
+            "Lord Windgrace"
+        ],
+        [
+            "Еремеев Александр",
+            "The Reality Chip"
+        ],
+        [
+            "Кириченко Ксения",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Беляков Михаил",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Петрухин Иван",
+            "Gallia of the Endless Dance"
+        ],
+        [
+            "Романчугов Евгений",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Ерофеев Александр",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Квинт Егор",
+            "Radha, Heart of Keld"
+        ],
+        [
+            "Усков Антон",
+            "Dr. Madison Li"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Кириченко Евгений",
+                "Петрухин Иван",
+                "The Reality Chip",
+                "Gallia of the Endless Dance",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Неговелов Игорь",
+                "Беляков Михаил",
+                "Lord Windgrace",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Квинт Егор",
+                "The Reality Chip",
+                "Radha, Heart of Keld",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Ксения",
+                "Романчугов Евгений",
+                "Hogaak, Arisen Necropolis",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Ерофеев Александр",
+                "Усков Антон",
+                "Sythis, Harvest's Hand",
+                "Dr. Madison Li",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Кириченко Евгений",
+                "Еремеев Александр",
+                "The Reality Chip",
+                "The Reality Chip",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Неговелов Игорь",
+                "Ерофеев Александр",
+                "Lord Windgrace",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Ксения",
+                "Петрухин Иван",
+                "Hogaak, Arisen Necropolis",
+                "Gallia of the Endless Dance",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Романчугов Евгений",
+                "Golos, Tireless Pilgrim",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Квинт Егор",
+                "Усков Антон",
+                "Radha, Heart of Keld",
+                "Dr. Madison Li",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Кириченко Евгений",
+                "Неговелов Игорь",
+                "The Reality Chip",
+                "Lord Windgrace",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Кириченко Ксения",
+                "The Reality Chip",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Ерофеев Александр",
+                "Golos, Tireless Pilgrim",
+                "Sythis, Harvest's Hand",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Петрухин Иван",
+                "Усков Антон",
+                "Gallia of the Endless Dance",
+                "Dr. Madison Li",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Романчугов Евгений",
+                "Квинт Егор",
+                "Shorikai, Genesis Engine",
+                "Radha, Heart of Keld",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Кириченко Евгений",
+                "Беляков Михаил",
+                "The Reality Chip",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Неговелов Игорь",
+                "Квинт Егор",
+                "Lord Windgrace",
+                "Radha, Heart of Keld",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Романчугов Евгений",
+                "The Reality Chip",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Ксения",
+                "Усков Антон",
+                "Hogaak, Arisen Necropolis",
+                "Dr. Madison Li",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Петрухин Иван",
+                "Ерофеев Александр",
+                "Gallia of the Endless Dance",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

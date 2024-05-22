@@ -1,0 +1,93 @@
+{
+    "date": "2024_05_12",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Помогайлов Кирилл",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Еремеев Александр",
+            "The Reality Chip"
+        ],
+        [
+            "Петрухин Иван",
+            "Gallia of the Endless Dance"
+        ],
+        [
+            "Беляков Михаил",
+            "Golos, Tireless Pilgrim"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Помогайлов Кирилл",
+                "Беляков Михаил",
+                "Winota, Joiner of Forces",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Петрухин Иван",
+                "The Reality Chip",
+                "Gallia of the Endless Dance",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Помогайлов Кирилл",
+                "Еремеев Александр",
+                "Winota, Joiner of Forces",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Петрухин Иван",
+                "Беляков Михаил",
+                "Gallia of the Endless Dance",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Помогайлов Кирилл",
+                "Петрухин Иван",
+                "Winota, Joiner of Forces",
+                "Gallia of the Endless Dance",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Беляков Михаил",
+                "The Reality Chip",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

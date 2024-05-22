@@ -1,0 +1,17 @@
+location::Volgograd
+level::Regular
+date::2024_05_19
+organizer::Rombik34rus
+players::generals
+Тимур Сайфутдинов :: Omnath, Locus of Creation
+Александр Смирнов :: Malcolm, Alluring Scoundrel
+Никита Сухов :: The Reality Chip
+Артём Стрельцов :: Magda, Brazen Outlaw
+Артём Ангурцов :: Raffine, the Scheming Seer
+Дмитрий Орешкин :: Selvala, Explorer Returned
+Вячеслав Серпутько :: Wylie Duke, Atiin Hero
+Иван Божков :: Slimefoot and Squee
+Михаил Козлов :: Nalia de'Arnise
+Станислав Грачев :: Ellivere of the Wild Court
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/30240

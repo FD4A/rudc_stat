@@ -1,0 +1,93 @@
+{
+    "date": "2024_05_05",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Еремеев Александр",
+            "The Reality Chip"
+        ],
+        [
+            "Беляков Михаил",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Иванько Альберт",
+            "Gut, True Soul Zealot :+: Acolyte of Bahamut"
+        ],
+        [
+            "Жуковский Андрей",
+            "Oloro, Ageless Ascetic"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Еремеев Александр",
+                "Иванько Альберт",
+                "The Reality Chip",
+                "Gut, True Soul Zealot :+: Acolyte of Bahamut",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Жуковский Андрей",
+                "Omnath, Locus of Creation",
+                "Oloro, Ageless Ascetic",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Еремеев Александр",
+                "Беляков Михаил",
+                "The Reality Chip",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванько Альберт",
+                "Жуковский Андрей",
+                "Gut, True Soul Zealot :+: Acolyte of Bahamut",
+                "Oloro, Ageless Ascetic",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Еремеев Александр",
+                "Жуковский Андрей",
+                "The Reality Chip",
+                "Oloro, Ageless Ascetic",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Иванько Альберт",
+                "Omnath, Locus of Creation",
+                "Gut, True Soul Zealot :+: Acolyte of Bahamut",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

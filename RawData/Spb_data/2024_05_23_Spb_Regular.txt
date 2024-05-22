@@ -1,0 +1,25 @@
+location::Spb
+level::Regular
+date::2024_05_23
+organizer::Andysays
+players::generals
+Семенов Дмитрий :: Hogaak, Arisen Necropolis
+Протасов Михаил :: Aminatou, the Fateshifter
+Богданов Сергей :: Kroxa, Titan of Death's Hunger
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Муравьев Никита :: Juri, Master of the Revue
+Саушкин Андрей :: Omnath, Locus of Creation
+Федоров Дмитрий :: Amalia Benavides Aguirre
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Иванов Максим :: Geist of Saint Traft
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Шабалов Михаил :: Sygg, River Cutthroat
+Цюра Максим :: Eris, Roar of the Storm
+Истомин Евгений :: Geist of Saint Traft
+Вахитов Ривкат :: The Reality Cheap
+Байков Аркадий :: Vial Smasher the Fierce
+Альбеков Никита :: Millicent, Restless Revenant
+Яковлев Николай :: Dihada, Binder of Wills
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/30320

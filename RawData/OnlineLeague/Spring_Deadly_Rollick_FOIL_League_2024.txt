@@ -1,0 +1,47 @@
+location::Online
+level::League
+date::2024_05_22
+organizer::AlexSmirnov
+players::generals
+Стрельцов, Артем :: Selvala, Eager Trailblazer
+Поляков, Герман :: Aminatou, the Fateshifter
+Барабаш, Валентин :: Kinnan, Bonder Prodigy
+Лисин, Дмитрий :: Kytheon, Hero of Akros
+Кузьменко, Иван :: Thalia and The Gitrog Monster
+Сайфутдинов, Тимур :: Omnath, Locus of Creation
+Шубенин, Илья :: Malcolm, Alluring Scoundrel
+Поспелов, Александр :: Gix, Yawgmoth Praetor
+Олифер, Егор :: Aminatou, the Fateshifter
+Козлов, Максим :: Feldon, Ronom Excavator
+Палачев, Константин :: Raffine, Scheming Seer
+Курмакаев, Игорь :: Slimefoot and Squee
+Сафаргалиев, Евгений :: Yoshimaru, Ever Faithful :++: Kydele, Chosen of Kruphix
+Васинов, Николай :: Feldon, Ronom Excavator
+Бутримов, Виктор :: Slimefoot and Squee
+Сомкин, Константин :: Laughing Jasper Flint
+Кондрашов, Матвей :: Arahbo, Roar of the World
+Байков, Аркадий :: Vial Smasher the Fierce
+Серпутько, Слава :: Wylie Duke, Atiin Hero
+Чутчев, Владимир :: Arcum Dagsson
+Савин, Константин :: Marchesa, Dealer of Death
+Милюков, Даниил :: Asmoranomardicadaistinaculdacar
+Костин, Андрей :: The Reality Chip
+Муравьев, Роман :: Dihada, Binder of Wills
+Орешкин, Дмитрий :: Juri, Master of the Revue
+Иванов, Антон :: Golos, Tireless Pilgrim
+Ламзин, Сережа :: Golos, Tireless Pilgrim
+Трофименко, Даниил :: Tinybones, the Pickpocket
+Давыдов, Евгений :: Geist of Saint Traft
+Сидоров, Иван :: Lord Windgrace
+Сильчев, Никита :: Fblthp, Lost on the Range
+Череповский, Роман :: Asmoranomardicadaistinaculdacar
+Сухов, Никита :: Aminatou, the Fateshifter
+Краснов, Илья :: Geist of Saint Traft
+Говорун, Вадим :: Aclazotz, Deepest Betrayal
+Семенов, Дмитрий :: Teysa, Orzhov Scion
+Богданов, Сергей :: Kroxa, Titan of Death's Hunger
+Иванов, Дмитрий II :: Omnath, Locus of Creation
+Давыдов, Александр :: Magda, Brazen Outlaw
+Долганов, Матвей :: Emmara, Soul of the Accord
+
+

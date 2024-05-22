@@ -1,0 +1,259 @@
+{
+    "date": "2024_05_19",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Тимур Сайфутдинов",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Александр Смирнов",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Никита Сухов",
+            "The Reality Chip"
+        ],
+        [
+            "Артём Стрельцов",
+            "Magda, Brazen Outlaw"
+        ],
+        [
+            "Артём Ангурцов",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Дмитрий Орешкин",
+            "Selvala, Explorer Returned"
+        ],
+        [
+            "Вячеслав Серпутько",
+            "Wylie Duke, Atiin Hero"
+        ],
+        [
+            "Иван Божков",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Михаил Козлов",
+            "Nalia de'Arnise"
+        ],
+        [
+            "Станислав Грачев",
+            "Ellivere of the Wild Court"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Станислав Грачев",
+                "Тимур Сайфутдинов",
+                "Ellivere of the Wild Court",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Михаил Козлов",
+                "Никита Сухов",
+                "Nalia de'Arnise",
+                "The Reality Chip",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Вячеслав Серпутько",
+                "Raffine, Scheming Seer",
+                "Wylie Duke, Atiin Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Иван Божков",
+                "Malcolm, Alluring Scoundrel",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Дмитрий Орешкин",
+                "Magda, Brazen Outlaw",
+                "Selvala, Explorer Returned",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Смирнов",
+                "Артём Стрельцов",
+                "Malcolm, Alluring Scoundrel",
+                "Magda, Brazen Outlaw",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Никита Сухов",
+                "Omnath, Locus of Creation",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Иван Божков",
+                "Raffine, Scheming Seer",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Михаил Козлов",
+                "Wylie Duke, Atiin Hero",
+                "Nalia de'Arnise",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Станислав Грачев",
+                "Selvala, Explorer Returned",
+                "Ellivere of the Wild Court",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Артём Ангурцов",
+                "Александр Смирнов",
+                "Raffine, Scheming Seer",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Артём Стрельцов",
+                "Omnath, Locus of Creation",
+                "Magda, Brazen Outlaw",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Никита Сухов",
+                "Wylie Duke, Atiin Hero",
+                "The Reality Chip",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Иван Божков",
+                "Selvala, Explorer Returned",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Михаил Козлов",
+                "Станислав Грачев",
+                "Nalia de'Arnise",
+                "Ellivere of the Wild Court",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Смирнов",
+                "Тимур Сайфутдинов",
+                "Malcolm, Alluring Scoundrel",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Никита Сухов",
+                "Raffine, Scheming Seer",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Иван Божков",
+                "Magda, Brazen Outlaw",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Михаил Козлов",
+                "Selvala, Explorer Returned",
+                "Nalia de'Arnise",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Станислав Грачев",
+                "Wylie Duke, Atiin Hero",
+                "Ellivere of the Wild Court",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

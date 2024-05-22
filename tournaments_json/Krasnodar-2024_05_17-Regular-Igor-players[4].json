@@ -1,0 +1,93 @@
+{
+    "date": "2024_05_17",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Зайцев Даниил",
+            "Talion, the Kindly Lord"
+        ],
+        [
+            "Петрухин Иван",
+            "Gallia of the Endless Dance"
+        ],
+        [
+            "Жандосов Карим",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Жуковский Андрей",
+            "Oloro, Ageless Ascetic"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Зайцев Даниил",
+                "Петрухин Иван",
+                "Talion, the Kindly Lord",
+                "Gallia of the Endless Dance",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Жандосов Карим",
+                "Жуковский Андрей",
+                "Feldon, Ronom Excavator",
+                "Oloro, Ageless Ascetic",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Зайцев Даниил",
+                "Жуковский Андрей",
+                "Talion, the Kindly Lord",
+                "Oloro, Ageless Ascetic",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Петрухин Иван",
+                "Жандосов Карим",
+                "Gallia of the Endless Dance",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Зайцев Даниил",
+                "Жандосов Карим",
+                "Talion, the Kindly Lord",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Петрухин Иван",
+                "Жуковский Андрей",
+                "Gallia of the Endless Dance",
+                "Oloro, Ageless Ascetic",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}
