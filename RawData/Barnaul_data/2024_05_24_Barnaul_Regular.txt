@@ -1,0 +1,15 @@
+location::Barnaul
+level::Regular
+date::2024_05_24
+organizer::
+players::generals
+Самусенко Александр :: Shorikai, Genesis Engine
+Алексей Петрыкин :: Ghyrson Starn, Kelermorph
+Михаил Старостенков :: Hogaak, Arisen Necropolis
+Лисин Дмитрий :: Ghyrson Starn, Kelermorph
+Илья Гесин :: Kytheon, Hero of Akros
+Гладышев Влад :: Old Stickfingers
+Достияр Амержаев :: Baral and Kari Zev
+Андрей Тагильцев :: Omnath, Locus of Creation
+Round
+https://aetherhub.com/Tourney/RoundTourney/30345

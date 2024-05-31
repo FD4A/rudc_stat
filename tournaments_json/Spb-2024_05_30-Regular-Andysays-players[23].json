@@ -1,0 +1,551 @@
+{
+    "date": "2024_05_30",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Семенов Дмитрий",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Барабаш Валентин",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Протасов Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Поляков Герман",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Грабовой Филипп",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Фукин Дмитрий",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Саушкин Андрей",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Таловер Артем",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Чжан Цзяи",
+            "Sisay, Weatherlight Captain :++: Jegantha, the Wellspring"
+        ],
+        [
+            "Мартынов Влад",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Amalia Benavides Aguirre"
+        ],
+        [
+            "Вахитов Ривкат",
+            "The Reality Chip"
+        ],
+        [
+            "Альбеков Никита",
+            "Mizzix of the Izmagnus"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Артемьев Александр Сергеевич",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Булочко Михаил",
+            "Ertai Resurrected"
+        ],
+        [
+            "Ульянов Алексей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Цюра Максим",
+            "Eris, Roar of the Storm"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Барабаш Валентин",
+                "Альбеков Никита",
+                "Kinnan, Bonder Prodigy",
+                "Mizzix of the Izmagnus",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Грабовой Филипп",
+                "Omnath, Locus of Creation",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Саушкин Андрей",
+                "Eris, Roar of the Storm",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Артемьев Александр Сергеевич",
+                "Aminatou, the Fateshifter",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Таловер Артем",
+                "The Reality Chip",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Чжан Цзяи",
+                "Булочко Михаил",
+                "Sisay, Weatherlight Captain :++: Jegantha, the Wellspring",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Тяпайкин Максим",
+                "Omnath, Locus of Creation",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Вахитов Ривкат",
+                "Ghyrson Starn, Kelermorph",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Мартынов Влад",
+                "Amalia Benavides Aguirre",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Фукин Дмитрий",
+                "Hogaak, Arisen Necropolis",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Иванов Максим",
+                "Juri, Master of the Revue",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Саушкин Андрей",
+                "Таловер Артем",
+                "Eris, Roar of the Storm",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Чжан Цзяи",
+                "Aminatou, the Fateshifter",
+                "Sisay, Weatherlight Captain :++: Jegantha, the Wellspring",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Семенов Дмитрий",
+                "Kinnan, Bonder Prodigy",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Федоров Дмитрий",
+                "Juri, Master of the Revue",
+                "Amalia Benavides Aguirre",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Богатырев Александр",
+                "Ghyrson Starn, Kelermorph",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Тяпайкин Максим",
+                "Eris, Roar of the Storm",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Поляков Герман",
+                "Omnath, Locus of Creation",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Артемьев Александр Сергеевич",
+                "Мартынов Влад",
+                "Grist, the Hunger Tide",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Булочко Михаил",
+                "Geist of Saint Traft",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Вахитов Ривкат",
+                "Eris, Roar of the Storm",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Альбеков Никита",
+                "Мартынов Яков",
+                "Mizzix of the Izmagnus",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Семенов Дмитрий",
+                "Протасов Михаил",
+                "Hogaak, Arisen Necropolis",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Муравьев Никита",
+                "Ghyrson Starn, Kelermorph",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Грабовой Филипп",
+                "Eris, Roar of the Storm",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Фукин Дмитрий",
+                "Geist of Saint Traft",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Мартынов Влад",
+                "The Reality Chip",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Таловер Артем",
+                "Indoraptor, the Perfect Hybrid",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Федоров Дмитрий",
+                "The Reality Chip",
+                "Amalia Benavides Aguirre",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Чжан Цзяи",
+                "Kinnan, Bonder Prodigy",
+                "Sisay, Weatherlight Captain :++: Jegantha, the Wellspring",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Артемьев Александр Сергеевич",
+                "Omnath, Locus of Creation",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Тяпайкин Максим",
+                "Omnath, Locus of Creation",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Булочко Михаил",
+                "Eris, Roar of the Storm",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Муравьев Никита",
+                "Протасов Михаил",
+                "Juri, Master of the Revue",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Грабовой Филипп",
+                "Hogaak, Arisen Necropolis",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Фукин Дмитрий",
+                "Родюков Федор",
+                "Golos, Tireless Pilgrim",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Мартынов Яков",
+                "Kinnan, Bonder Prodigy",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Саушкин Андрей",
+                "Indoraptor, the Perfect Hybrid",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Федоров Дмитрий",
+                "Omnath, Locus of Creation",
+                "Amalia Benavides Aguirre",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Тяпайкин Максим",
+                "The Reality Chip",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Иванов Максим",
+                "Aminatou, the Fateshifter",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Таловер Артем",
+                "Ertai Resurrected",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Чжан Цзяи",
+                "Ульянов Алексей",
+                "Sisay, Weatherlight Captain :++: Jegantha, the Wellspring",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Артемьев Александр Сергеевич",
+                "Eris, Roar of the Storm",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

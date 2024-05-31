@@ -1,0 +1,13 @@
+location::Ussuriysk
+level::Regular
+date::2024_05_26
+organizer::Usstiger
+players::generals
+Алексей Ж :: Grist, the Hunger Tide
+Вячеслав Ш :: Satoru, the Infiltrator
+Матвей Б :: Leovold, Emissary of Trest
+Дмитрий С :: Ixhel, Scion of Atraxa
+Кирилл С :: Kellan, the Kid
+Владислав М :: Geist of Saint Traft
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/30416

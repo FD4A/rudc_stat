@@ -1,26 +1,26 @@
-Aesi, Tyrant of Gyre Strait      matches:2    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:1   lm:1   dm:0)  games:5    WG: 60.00% LG: 40.00% (wg:   3 lg:   2) pick: 1   
+Aesi, Tyrant of Gyre Strait      matches:2    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:1   lm:1   dm:0)  games:5    WG: 60.00% LG: 40.00% (wg:   3 lg:   2) pick: 1    Krasnodar(1), 
        vs Brago, King Eternal              (w:1 l:0 d:0), (2/0)
        vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (1/2)
 
 
-Anje Falkenrath                  matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:7    WG: 42.86% LG: 57.14% (wg:   3 lg:   4) pick: 1   
+Anje Falkenrath                  matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:7    WG: 42.86% LG: 57.14% (wg:   3 lg:   4) pick: 1    Krasnodar(1), 
        vs Asmoranomardicadaistinaculdacar  (w:1 l:1 d:0), (3/2)
        vs Light-Paws, Emperor's Voice      (w:0 l:1 d:0), (0/2)
 
 
-Asmoranomardicadaistinaculdacar  matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:15   WG: 53.33% LG: 46.67% (wg:   8 lg:   7) pick: 2   
+Asmoranomardicadaistinaculdacar  matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:15   WG: 53.33% LG: 46.67% (wg:   8 lg:   7) pick: 2    Krasnodar(2), 
        vs Anje Falkenrath                  (w:1 l:1 d:0), (2/3)
        vs Light-Paws, Emperor's Voice      (w:1 l:1 d:0), (2/3)
        vs Aesi, Tyrant of Gyre Strait      (w:1 l:0 d:0), (2/1)
        vs Brago, King Eternal              (w:1 l:0 d:0), (2/0)
 
 
-Brago, King Eternal              matches:2    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:2   dm:0)  games:4    WG:  0.00% LG:100.00% (wg:   0 lg:   4) pick: 1   
+Brago, King Eternal              matches:2    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:2   dm:0)  games:4    WG:  0.00% LG:100.00% (wg:   0 lg:   4) pick: 1    Krasnodar(1), 
        vs Aesi, Tyrant of Gyre Strait      (w:0 l:1 d:0), (0/2)
        vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
 
 
-Light-Paws, Emperor's Voice      matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:7    WG: 71.43% LG: 28.57% (wg:   5 lg:   2) pick: 1   
+Light-Paws, Emperor's Voice      matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:7    WG: 71.43% LG: 28.57% (wg:   5 lg:   2) pick: 1    Krasnodar(1), 
        vs Asmoranomardicadaistinaculdacar  (w:1 l:1 d:0), (3/2)
        vs Anje Falkenrath                  (w:1 l:0 d:0), (2/0)
 

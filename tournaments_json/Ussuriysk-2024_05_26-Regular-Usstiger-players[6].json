@@ -1,0 +1,195 @@
+{
+    "date": "2024_05_26",
+    "location": "Ussuriysk",
+    "level": "Regular",
+    "organizer": "Usstiger",
+    "roundsCount": 5,
+    "players": [
+        [
+            "Алексей Ж",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Вячеслав Ш",
+            "Satoru, the Infiltrator"
+        ],
+        [
+            "Матвей Б",
+            "Leovold, Emissary of Trest"
+        ],
+        [
+            "Дмитрий С",
+            "Ixhel, Scion of Atraxa"
+        ],
+        [
+            "Кирилл С",
+            "Kellan, the Kid"
+        ],
+        [
+            "Владислав М",
+            "Geist of Saint Traft"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Вячеслав Ш",
+                "Дмитрий С",
+                "Satoru, the Infiltrator",
+                "Ixhel, Scion of Atraxa",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Владислав М",
+                "Grist, the Hunger Tide",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Матвей Б",
+                "Kellan, the Kid",
+                "Leovold, Emissary of Trest",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий С",
+                "Матвей Б",
+                "Ixhel, Scion of Atraxa",
+                "Leovold, Emissary of Trest",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Вячеслав Ш",
+                "Grist, the Hunger Tide",
+                "Satoru, the Infiltrator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Владислав М",
+                "Кирилл С",
+                "Geist of Saint Traft",
+                "Kellan, the Kid",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей Ж",
+                "Кирилл С",
+                "Grist, the Hunger Tide",
+                "Kellan, the Kid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Матвей Б",
+                "Satoru, the Infiltrator",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Владислав М",
+                "Дмитрий С",
+                "Geist of Saint Traft",
+                "Ixhel, Scion of Atraxa",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей Ж",
+                "Дмитрий С",
+                "Grist, the Hunger Tide",
+                "Ixhel, Scion of Atraxa",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Владислав М",
+                "Матвей Б",
+                "Geist of Saint Traft",
+                "Leovold, Emissary of Trest",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Кирилл С",
+                "Satoru, the Infiltrator",
+                "Kellan, the Kid",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Владислав М",
+                "Вячеслав Ш",
+                "Geist of Saint Traft",
+                "Satoru, the Infiltrator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Матвей Б",
+                "Grist, the Hunger Tide",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дмитрий С",
+                "Кирилл С",
+                "Ixhel, Scion of Atraxa",
+                "Kellan, the Kid",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

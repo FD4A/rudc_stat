@@ -1,0 +1,5 @@
+location::Krasnodar
+level::Regular
+date::2024_05_26
+organizer::Igor
+Round

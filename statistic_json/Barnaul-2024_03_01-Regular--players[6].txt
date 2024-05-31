@@ -1,34 +1,34 @@
-Ghyrson Starn, Kelermorph        matches:3    WM: 33.33%  LM: 33.33%  DM: 33.33% (wm:1   lm:1   dm:1)  games:6    WG: 33.33% LG: 50.00% (wg:   2 lg:   3) pick: 1   
+Ghyrson Starn, Kelermorph        matches:3    WM: 33.33%  LM: 33.33%  DM: 33.33% (wm:1   lm:1   dm:1)  games:6    WG: 33.33% LG: 50.00% (wg:   2 lg:   3) pick: 1    Barnaul(1), 
        vs Kytheon, Hero of Akros           (w:1 l:0 d:0), (2/1)
        vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (0/2)
        vs Shorikai, Genesis Engine         (w:0 l:0 d:1), (0/0)
 
 
-Hogaak, Arisen Necropolis        matches:3    WM: 66.67%  LM:  0.00%  DM: 33.33% (wm:2   lm:0   dm:1)  games:5    WG: 80.00% LG:  0.00% (wg:   4 lg:   0) pick: 1   
+Hogaak, Arisen Necropolis        matches:3    WM: 66.67%  LM:  0.00%  DM: 33.33% (wm:2   lm:0   dm:1)  games:5    WG: 80.00% LG:  0.00% (wg:   4 lg:   0) pick: 1    Barnaul(1), 
        vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/0)
        vs Ghyrson Starn, Kelermorph        (w:1 l:0 d:0), (2/0)
        vs Old Stickfingers                 (w:0 l:0 d:1), (0/0)
 
 
-Kytheon, Hero of Akros           matches:3    WM:  0.00%  LM: 66.67%  DM: 33.33% (wm:0   lm:2   dm:1)  games:7    WG: 28.57% LG: 57.14% (wg:   2 lg:   4) pick: 1   
+Kytheon, Hero of Akros           matches:3    WM:  0.00%  LM: 66.67%  DM: 33.33% (wm:0   lm:2   dm:1)  games:7    WG: 28.57% LG: 57.14% (wg:   2 lg:   4) pick: 1    Barnaul(1), 
        vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (1/2)
        vs Shorikai, Genesis Engine         (w:0 l:1 d:0), (1/2)
        vs Omnath, Locus of Creation        (w:0 l:0 d:1), (0/0)
 
 
-Old Stickfingers                 matches:3    WM: 66.67%  LM:  0.00%  DM: 33.33% (wm:2   lm:0   dm:1)  games:7    WG: 57.14% LG: 28.57% (wg:   4 lg:   2) pick: 1   
+Old Stickfingers                 matches:3    WM: 66.67%  LM:  0.00%  DM: 33.33% (wm:2   lm:0   dm:1)  games:7    WG: 57.14% LG: 28.57% (wg:   4 lg:   2) pick: 1    Barnaul(1), 
        vs Shorikai, Genesis Engine         (w:1 l:0 d:0), (2/1)
        vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/1)
        vs Hogaak, Arisen Necropolis        (w:0 l:0 d:1), (0/0)
 
 
-Omnath, Locus of Creation        matches:3    WM:  0.00%  LM: 66.67%  DM: 33.33% (wm:0   lm:2   dm:1)  games:6    WG: 16.67% LG: 66.67% (wg:   1 lg:   4) pick: 1   
+Omnath, Locus of Creation        matches:3    WM:  0.00%  LM: 66.67%  DM: 33.33% (wm:0   lm:2   dm:1)  games:6    WG: 16.67% LG: 66.67% (wg:   1 lg:   4) pick: 1    Barnaul(1), 
        vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (0/2)
        vs Old Stickfingers                 (w:0 l:1 d:0), (1/2)
        vs Kytheon, Hero of Akros           (w:0 l:0 d:1), (0/0)
 
 
-Shorikai, Genesis Engine         matches:3    WM: 33.33%  LM: 33.33%  DM: 33.33% (wm:1   lm:1   dm:1)  games:7    WG: 42.86% LG: 42.86% (wg:   3 lg:   3) pick: 1   
+Shorikai, Genesis Engine         matches:3    WM: 33.33%  LM: 33.33%  DM: 33.33% (wm:1   lm:1   dm:1)  games:7    WG: 42.86% LG: 42.86% (wg:   3 lg:   3) pick: 1    Barnaul(1), 
        vs Old Stickfingers                 (w:0 l:1 d:0), (1/2)
        vs Kytheon, Hero of Akros           (w:1 l:0 d:0), (2/1)
        vs Ghyrson Starn, Kelermorph        (w:0 l:0 d:1), (0/0)

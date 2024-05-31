@@ -1,0 +1,30 @@
+location::Spb
+level::Regular
+date::2024_05_30
+organizer::Andysays
+players::generals
+Семенов Дмитрий :: Hogaak, Arisen Necropolis
+Муравьев Никита :: Juri, Master of the Revue
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Протасов Михаил :: Aminatou, the Fateshifter
+Поляков Герман :: Omnath, Locus of Creation
+Грабовой Филипп :: Eris, Roar of the Storm
+Тяпайкин Максим :: Asmoranomardicadaistinaculdacar
+Фукин Дмитрий :: Golos, Tireless Pilgrim
+Саушкин Андрей :: Eris, Roar of the Storm
+Мартынов Яков :: The Reality Chip
+Таловер Артем :: Kinnan, Bonder Prodigy
+Чжан Цзяи :: Sisay, Weatherlight Captain :++: Jegantha, the Wellspring
+Мартынов Влад :: Aminatou, the Fateshifter
+Федоров Дмитрий :: Amalia Benavides Aguirre
+Вахитов Ривкат :: The Reality Chip
+Альбеков Никита :: Mizzix of the Izmagnus
+Иванов Максим :: Geist of Saint Traft
+Артемьев Александр Сергеевич :: Grist, the Hunger Tide
+Булочко Михаил :: Ertai Resurrected
+Ульянов Алексей :: Omnath, Locus of Creation
+Цюра Максим :: Eris, Roar of the Storm
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/30505

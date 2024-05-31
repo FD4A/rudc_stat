@@ -1,25 +1,25 @@
-Asmoranomardicadaistinaculdacar  matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:10   WG: 30.00% LG: 70.00% (wg:   3 lg:   7) pick: 1   
+Asmoranomardicadaistinaculdacar  matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:10   WG: 30.00% LG: 70.00% (wg:   3 lg:   7) pick: 1    Krasnodar(1), 
        vs The Reality Chip                 (w:0 l:1 d:0), (1/2)
        vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
        vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/1)
        vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
 
 
-Eriette of the Charmed Apple     matches:4    WM:  0.00%  LM: 75.00%  DM: 25.00% (wm:0   lm:3   dm:1)  games:7    WG:  0.00% LG: 85.71% (wg:   0 lg:   6) pick: 1   
+Eriette of the Charmed Apple     matches:4    WM:  0.00%  LM: 75.00%  DM: 25.00% (wm:0   lm:3   dm:1)  games:7    WG:  0.00% LG: 85.71% (wg:   0 lg:   6) pick: 1    Krasnodar(1), 
        vs Prosper, Tome-Bound              (w:0 l:1 d:0), (0/2)
        vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
        vs Errant and Giada                 (w:0 l:0 d:1), (0/0)
        vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
 
 
-Errant and Giada                 matches:4    WM:  0.00%  LM: 75.00%  DM: 25.00% (wm:0   lm:3   dm:1)  games:8    WG: 12.50% LG: 75.00% (wg:   1 lg:   6) pick: 1   
+Errant and Giada                 matches:4    WM:  0.00%  LM: 75.00%  DM: 25.00% (wm:0   lm:3   dm:1)  games:8    WG: 12.50% LG: 75.00% (wg:   1 lg:   6) pick: 1    Krasnodar(1), 
        vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
        vs The Reality Chip                 (w:0 l:1 d:0), (0/2)
        vs Eriette of the Charmed Apple     (w:0 l:0 d:1), (0/0)
        vs Heliod, Sun-Crowned              (w:0 l:1 d:0), (1/2)
 
 
-Geist of Saint Traft             matches:8    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:6   lm:2   dm:0)  games:17   WG: 76.47% LG: 23.53% (wg:  13 lg:   4) pick: 2   
+Geist of Saint Traft             matches:8    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:6   lm:2   dm:0)  games:17   WG: 76.47% LG: 23.53% (wg:  13 lg:   4) pick: 2    Krasnodar(2), 
        vs Errant and Giada                 (w:1 l:0 d:0), (2/0)
        vs Heliod, Sun-Crowned              (w:0 l:1 d:0), (0/2)
        vs Prosper, Tome-Bound              (w:1 l:0 d:0), (2/0)
@@ -30,42 +30,42 @@ Geist of Saint Traft             matches:8    WM: 75.00%  LM: 25.00%  DM:  0.00%
        vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/0)
 
 
-Heliod, Sun-Crowned              matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 44.44% LG: 55.56% (wg:   4 lg:   5) pick: 1   
+Heliod, Sun-Crowned              matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 44.44% LG: 55.56% (wg:   4 lg:   5) pick: 1    Krasnodar(1), 
        vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
        vs The Reality Chip                 (w:0 l:1 d:0), (0/2)
        vs Prosper, Tome-Bound              (w:0 l:1 d:0), (0/2)
        vs Errant and Giada                 (w:1 l:0 d:0), (2/1)
 
 
-Indoraptor, the Perfect Hybrid   matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:11   WG: 54.55% LG: 45.45% (wg:   6 lg:   5) pick: 1   
+Indoraptor, the Perfect Hybrid   matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:11   WG: 54.55% LG: 45.45% (wg:   6 lg:   5) pick: 1    Krasnodar(1), 
        vs Slimefoot and Squee              (w:1 l:0 d:0), (2/1)
        vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/1)
        vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
        vs Prosper, Tome-Bound              (w:1 l:0 d:0), (2/1)
 
 
-Omnath, Locus of Creation        matches:4    WM: 25.00%  LM: 50.00%  DM: 25.00% (wm:1   lm:2   dm:1)  games:10   WG: 50.00% LG: 50.00% (wg:   5 lg:   5) pick: 1   
+Omnath, Locus of Creation        matches:4    WM: 25.00%  LM: 50.00%  DM: 25.00% (wm:1   lm:2   dm:1)  games:10   WG: 50.00% LG: 50.00% (wg:   5 lg:   5) pick: 1    Krasnodar(1), 
        vs The Reality Chip                 (w:0 l:0 d:1), (1/1)
        vs Indoraptor, the Perfect Hybrid   (w:0 l:1 d:0), (1/2)
        vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (1/2)
        vs Eriette of the Charmed Apple     (w:1 l:0 d:0), (2/0)
 
 
-Prosper, Tome-Bound              matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 55.56% LG: 44.44% (wg:   5 lg:   4) pick: 1   
+Prosper, Tome-Bound              matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 55.56% LG: 44.44% (wg:   5 lg:   4) pick: 1    Krasnodar(1), 
        vs Eriette of the Charmed Apple     (w:1 l:0 d:0), (2/0)
        vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
        vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/0)
        vs Indoraptor, the Perfect Hybrid   (w:0 l:1 d:0), (1/2)
 
 
-Slimefoot and Squee              matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:11   WG: 54.55% LG: 45.45% (wg:   6 lg:   5) pick: 1   
+Slimefoot and Squee              matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:11   WG: 54.55% LG: 45.45% (wg:   6 lg:   5) pick: 1    Krasnodar(1), 
        vs Indoraptor, the Perfect Hybrid   (w:0 l:1 d:0), (1/2)
        vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/0)
        vs Geist of Saint Traft             (w:1 l:0 d:0), (2/1)
        vs The Reality Chip                 (w:0 l:1 d:0), (1/2)
 
 
-The Reality Chip                 matches:6    WM: 66.67%  LM: 16.67%  DM: 16.67% (wm:4   lm:1   dm:1)  games:14   WG: 64.29% LG: 35.71% (wg:   9 lg:   5) pick: 2   
+The Reality Chip                 matches:6    WM: 66.67%  LM: 16.67%  DM: 16.67% (wm:4   lm:1   dm:1)  games:14   WG: 64.29% LG: 35.71% (wg:   9 lg:   5) pick: 2    Krasnodar(2), 
        vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/1)
        vs Omnath, Locus of Creation        (w:0 l:0 d:1), (1/1)
        vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/0)

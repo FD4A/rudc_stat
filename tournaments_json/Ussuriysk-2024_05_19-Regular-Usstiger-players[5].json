@@ -1,0 +1,97 @@
+{
+    "date": "2024_05_19",
+    "location": "Ussuriysk",
+    "level": "Regular",
+    "organizer": "Usstiger",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Алексей Ж",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Кирилл С",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Вячеслав Ш",
+            "Satoru, the Infiltrator"
+        ],
+        [
+            "Дмитрий С",
+            "Tymaret, the Murder King"
+        ],
+        [
+            "Матвей Б",
+            "Najeela, the Blade-Blossom"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Дмитрий С",
+                "Матвей Б",
+                "Tymaret, the Murder King",
+                "Najeela, the Blade-Blossom",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Кирилл С",
+                "Satoru, the Infiltrator",
+                "Raffine, Scheming Seer",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий С",
+                "Кирилл С",
+                "Tymaret, the Murder King",
+                "Raffine, Scheming Seer",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Вячеслав Ш",
+                "Grist, the Hunger Tide",
+                "Satoru, the Infiltrator",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей Ж",
+                "Дмитрий С",
+                "Grist, the Hunger Tide",
+                "Tymaret, the Murder King",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Матвей Б",
+                "Raffine, Scheming Seer",
+                "Najeela, the Blade-Blossom",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

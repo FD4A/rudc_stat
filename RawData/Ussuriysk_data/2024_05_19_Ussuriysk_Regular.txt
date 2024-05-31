@@ -1,0 +1,12 @@
+location::Ussuriysk
+level::Regular
+date::2024_05_19
+organizer::Usstiger
+players::generals
+Алексей Ж :: Grist, the Hunger Tide
+Кирилл С :: Raffine, Scheming Seer
+Вячеслав Ш :: Satoru, the Infiltrator
+Дмитрий С :: Tymaret, the Murder King
+Матвей Б :: Najeela, the Blade-Blossom
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/30228

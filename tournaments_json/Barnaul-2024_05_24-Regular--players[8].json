@@ -1,0 +1,169 @@
+{
+    "date": "2024_05_24",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Самусенко Александр",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Алексей Петрыкин",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Михаил Старостенков",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Лисин Дмитрий",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Илья Гесин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Гладышев Влад",
+            "Old Stickfingers"
+        ],
+        [
+            "Достияр Амержаев",
+            "Baral and Kari Zev"
+        ],
+        [
+            "Андрей Тагильцев",
+            "Omnath, Locus of Creation"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Андрей Тагильцев",
+                "Алексей Петрыкин",
+                "Omnath, Locus of Creation",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лисин Дмитрий",
+                "Самусенко Александр",
+                "Ghyrson Starn, Kelermorph",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Достияр Амержаев",
+                "Kytheon, Hero of Akros",
+                "Baral and Kari Zev",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Михаил Старостенков",
+                "Гладышев Влад",
+                "Hogaak, Arisen Necropolis",
+                "Old Stickfingers",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Михаил Старостенков",
+                "Алексей Петрыкин",
+                "Hogaak, Arisen Necropolis",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Самусенко Александр",
+                "Достияр Амержаев",
+                "Shorikai, Genesis Engine",
+                "Baral and Kari Zev",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Андрей Тагильцев",
+                "Kytheon, Hero of Akros",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лисин Дмитрий",
+                "Гладышев Влад",
+                "Ghyrson Starn, Kelermorph",
+                "Old Stickfingers",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Самусенко Александр",
+                "Алексей Петрыкин",
+                "Shorikai, Genesis Engine",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Михаил Старостенков",
+                "Kytheon, Hero of Akros",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лисин Дмитрий",
+                "Достияр Амержаев",
+                "Ghyrson Starn, Kelermorph",
+                "Baral and Kari Zev",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Андрей Тагильцев",
+                "Гладышев Влад",
+                "Omnath, Locus of Creation",
+                "Old Stickfingers",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}
