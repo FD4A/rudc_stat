@@ -1,0 +1,14 @@
+location::Barnaul
+level::Regular
+date::2024_05_31
+organizer::
+players::generals
+Алексей Петрыкин :: Ghyrson Starn, Kelermorph
+Андрей Студеникин (384155255) :: Shorikai, Genesis Engine
+Дмитрий Лисин :: Kytheon, Hero of Akros
+Влад Гладышев :: Hogaak, Arisen Necropolis
+Илья Гесин :: Old Stickfingers
+Дмитрий Разумовский :: Asmoranomardicadaistinaculdacar
+Александр Самусенко :: Asmoranomardicadaistinaculdacar
+Round
+https://aetherhub.com/Tourney/RoundTourney/30502

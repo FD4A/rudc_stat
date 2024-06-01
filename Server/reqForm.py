@@ -2,8 +2,8 @@ from collections import namedtuple
 from Source.LegendaryBase import LegendaryBase
 
 GetParams = namedtuple('GetParams', ['date_after', 'date_before', 'open', 'regular', 'other',
-                       'league', 'full_stat', 'min_players', 'min_match_count', 'exclude_generals', 'sort_type',
-                       'mach_threshold_for_full_matchup',])
+                       'league', 'full_stat', 'min_players', 'min_match_count', 'sort_type',
+                       'mach_threshold_for_full_matchup', 'location',])
 
 
 class RequestFrom:
@@ -21,8 +21,11 @@ class RequestFrom:
         self.league = 'checked'
         self.other = 'checked'
         self.full_stat = 'checked'
-        self.exclude_generals = []
         self.sort_type_name = 'checked'
+        self.location = 'all'
+        self.loc_all = 'selected'
+        self.loc_Spb = ''
+        self.loc_Krasnodar = ''
         self.sort_type_matches_tot = ''
         self.sort_type_matches_win = ''
         self.sort_type_matches_loss = ''
@@ -70,22 +73,6 @@ class RequestFrom:
             return f"{date[0:4]}_{date[5:7]}_{date[8:10]}"
         return default_date
 
-    @staticmethod
-    def __check_exclude_generals(exc_gen_str):
-        ret = []
-        names = exc_gen_str.split('%0D%0A')
-        for name in names:
-            if len(name) < 3:
-                continue
-            ret.append(RequestFrom.legend_base.check_general_name_and_return_fixed(name))
-        return ret
-
-    def get_exclude_generals_str(self):
-        str_ = ''
-        for general in self.exclude_generals:
-            str_ += general + '\n'
-        return str_[:-1]
-
     def parse_params(self, plist):
         print(plist)
         date_after = RequestFrom.default_date_after
@@ -95,6 +82,10 @@ class RequestFrom:
         self.regular = ''
         self.other = ''
         self.full_stat = ''
+        self.location = ''
+        self.loc_all = ''
+        self.loc_Spb = ''
+        self.loc_Krasnodar = ''
         self.sort_type_name = ''
         self.sort_type_matches_tot = ''
         self.sort_type_matches_win = ''
@@ -125,10 +116,16 @@ class RequestFrom:
                 self.mach_threshold_for_full_matchup = RequestFrom.__check_mach_threshold_for_full_matchup(item[len("mach_threshold_for_full_matchup")+1:])
             if 0 == item.find("min_match_count"):
                 self.min_match_count = RequestFrom.__check_min_match_count(item[len("min_match_count")+1:])
-            if 0 == item.find("ExcludeGenerals"):
-                self.exclude_generals = RequestFrom.__check_exclude_generals(item[len("ExcludeGenerals")+1:])
             if 0 == item.find("FullStat"):
                 self.full_stat = 'checked'
+            if 0 == item.find("Location"):
+                self.location = item[len("Location")+1:]
+                if self.location == 'all':
+                    self.loc_all = 'selected'
+                if self.location == 'Spb':
+                    self.loc_Spb = 'selected'
+                if self.location == 'Krasnodar':
+                    self.loc_Krasnodar = 'selected'
             if 0 == item.find("SortType"):
                 if "Name" == item[len("SortType")+1:]:
                     self.sort_type_name = 'checked'
@@ -158,6 +155,10 @@ class RequestFrom:
             self.sort_type_name = 'checked'
             self.min_players_count = 4
             self.min_match_count = 1
+            self.location = 'all'
+            self.loc_all = 'selected'
+            self.loc_Spb = ''
+            self.loc_Krasnodar = ''
 
     def get_sort_type(self):
         value = ''
@@ -188,11 +189,11 @@ class RequestFrom:
                          other=True if self.other == 'checked' else False,
                          league=True if self.league == 'checked' else False,
                          full_stat=True if self.full_stat == 'checked' else False,
-                         exclude_generals=self.exclude_generals,
                          sort_type=self.get_sort_type(),
                          min_players=self.min_players_count,
                          min_match_count=self.min_match_count,
                          mach_threshold_for_full_matchup=self.mach_threshold_for_full_matchup,
+                         location=self.location,
                          )
 
     def get_http_form(self):
@@ -207,12 +208,17 @@ class RequestFrom:
                    f'<label for="TrTypeLeague"> League</label>' \
                    f'<input type="checkbox" id="TrTypeOther" name="TrTypeOther" {self.other}>' \
                    f'<label for="TrTypeLeague"> Other</label></p>' \
+                   f'<label for="fruits">Choose location:</label>' \
+                   f'<select id="Location" name="Location">' \
+                   f'<option {self.loc_all} value="all">all</option>' \
+                   f'<option {self.loc_Spb} value="Spb">Spb</option>' \
+                   f'<option {self.loc_Krasnodar} value="Krasnodar">Krasnodar</option>' \
+                   f'</select>' \
                    f'<p> Minimum players count in tournament: <input type="text" name="min_players" minlength="1" maxlength="2" value="{self.min_players_count}"></p>' \
                    f'<p> Show generals with match count more than: <input type="text" name="min_match_count" minlength="1" maxlength="3" value="{self.min_match_count}"></p>' \
                    f'<p> Show in full stat matchup with more than ~ matches: <input type="text" name="mach_threshold_for_full_matchup" minlength="1" maxlength="3" value="{self.mach_threshold_for_full_matchup}"></p>' \
                    f'<input type="checkbox" id="FullStat" name="FullStat" {self.full_stat}>' \
                    f'<label for="FullStat"> Full stat</label></p>' \
-                   f'<p>ExcludeGenerals:</p><p><textarea name="ExcludeGenerals" cols="60" rows="10" wrap="soft">{self.get_exclude_generals_str()}</textarea></p>' \
                    f'<button type="submit" name="Send">Send</button>' \
                    f'<p>' \
                    f'<input onchange="this.form.submit()" type="radio" id="" name="SortType" value="Name" {self.sort_type_name}/><label for ="Name">-------------------------------------------</label>' \

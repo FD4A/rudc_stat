@@ -64,13 +64,13 @@ if __name__ == '__main__':
         #     exit(1)
 
         one_tournament_stat = Statistic()
-        one_tournament_stat.add_tournament(tournament, [])
+        one_tournament_stat.add_tournament(tournament)
         one_stat_str = f"{one_tournament_stat}"
         with open(f"{stat_dir}/{tournament.form_stat_filename()}", 'w', encoding='utf-8') as fd:
             fd.write(one_stat_str)
 
         if tournament.before_date(finish_date) and tournament.after_date(start_date):
-            stat.add_tournament(tournament, [])
+            stat.add_tournament(tournament)
             save_date.append(tournament.date)
 
     suffix_date = '_from_'+start_date if start_date != parser.get_default('start_date') else ''

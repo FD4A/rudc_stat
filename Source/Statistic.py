@@ -46,6 +46,7 @@ class GeneralStat:
     def __init__(self, general_: str):
         self.general = general_
         self.pick_total = 0
+        self.locationDistr = {}
         self.matches_total = 0
         self.win = 0
         self.lose = 0
@@ -102,7 +103,12 @@ class GeneralStat:
         str_ += f"(wm:{str(self.win).ljust(3)} lm:{str(self.lose).ljust(3)} dm:{(str(self.draw)+')').ljust(3)} "
         str_ += f"games:{self.games_total:<4} "
         str_ += f"WG:{self.game_wrate:>6.2f}% LG:{self.game_lrate:>6.2f}% "
-        str_ += f"(wg:{self.game_win:>4} lg:{self.game_lose:>4}) pick: {self.pick_total:<4}"
+
+        loc = ''
+        locd = dict(sorted(self.locationDistr.items(), key=lambda elem_: elem_[1], reverse=True))
+        for elem in locd:
+            loc += f"{elem}({locd[elem]}), "
+        str_ += f"(wg:{self.game_win:>4} lg:{self.game_lose:>4}) pick: {self.pick_total:<4} {loc}"
         for item in cz_plain[1:]:
             str_ += f"\n{('  + '+item).ljust(magic_len)[:magic_len]}"
         str_ += '\n'
@@ -133,7 +139,13 @@ class GeneralStat:
         str_ += f"(wm:{str(self.win).ljust(3)} lm:{str(self.lose).ljust(3)} dm:{(str(self.draw)+')').ljust(3)} | "
         str_ += f"{self.games_total:<4} | "
         str_ += f"{self.game_wrate:>6.2f} | {self.game_lrate:>6.2f} | "
-        str_ += f"(wg:{self.game_win:>4} lg:{self.game_lose:>4}) | {self.pick_total:<4}"
+
+        loc = ''
+        locd = dict(sorted(self.locationDistr.items(), key=lambda elem_: elem_[1], reverse=True))
+        for elem in locd:
+            loc += f"{elem}({locd[elem]}), "
+
+        str_ += f"(wg:{self.game_win:>4} lg:{self.game_lose:>4}) | {self.pick_total:<4} {loc}"
         str_ += '\n'
         # if not full:
         #     return str_
@@ -153,20 +165,18 @@ class Statistic:
             if gs is None:
                 gs = GeneralStat(item[1])
             gs.pick_total += 1
+            if tr.location in gs.locationDistr:
+                gs.locationDistr[tr.location] += 1
+            else:
+                gs.locationDistr[tr.location] = 1
             self.generalStat.update({item[1]: gs})
 
-    def add_tournament(self, tr: Tournament, exclude_generals: list):
+    def add_tournament(self, tr: Tournament):
         self.tournaments_names.append(tr.form_name())
         self.general_pick(tr)
         for r in tr.rounds:
             for m in r.matches:
-                skip = False
-                for ex_gen in exclude_generals:
-                    if m.general1 == ex_gen or ex_gen == m.general2:
-                        skip = True
-                        break
-                if not skip:
-                    self.add_match(m.general1, m.general2, m.result[0], m.result[1])
+                self.add_match(m.general1, m.general2, m.result[0], m.result[1])
         self.generalStat = dict(sorted(self.generalStat.items(), key=lambda item: item[0]))
 
     def add_match(self, general1: str, general2: str, score1: int, score2: int):

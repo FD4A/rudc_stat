@@ -1,0 +1,135 @@
+{
+    "date": "2024_05_31",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Алексей Петрыкин",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Андрей Студеникин (384155255)",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Дмитрий Лисин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Влад Гладышев",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Илья Гесин",
+            "Old Stickfingers"
+        ],
+        [
+            "Дмитрий Разумовский",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Александр Самусенко",
+            "Asmoranomardicadaistinaculdacar"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Влад Гладышев",
+                "Алексей Петрыкин",
+                "Hogaak, Arisen Necropolis",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Разумовский",
+                "Александр Самусенко",
+                "Asmoranomardicadaistinaculdacar",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дмитрий Лисин",
+                "Андрей Студеникин (384155255)",
+                "Kytheon, Hero of Akros",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Андрей Студеникин (384155255)",
+                "Илья Гесин",
+                "Shorikai, Genesis Engine",
+                "Old Stickfingers",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Дмитрий Разумовский",
+                "Алексей Петрыкин",
+                "Asmoranomardicadaistinaculdacar",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Александр Самусенко",
+                "Hogaak, Arisen Necropolis",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей Петрыкин",
+                "Андрей Студеникин (384155255)",
+                "Ghyrson Starn, Kelermorph",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Дмитрий Лисин",
+                "Илья Гесин",
+                "Kytheon, Hero of Akros",
+                "Old Stickfingers",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Дмитрий Разумовский",
+                "Hogaak, Arisen Necropolis",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}
