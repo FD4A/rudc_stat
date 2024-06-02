@@ -24,8 +24,15 @@ class RequestFrom:
         self.sort_type_name = 'checked'
         self.location = 'all'
         self.loc_all = 'selected'
-        self.loc_Spb = ''
+        self.loc_Barnaul = ''
         self.loc_Krasnodar = ''
+        self.loc_Moscow = ''
+        self.loc_Online = ''
+        self.loc_Saratov = ''
+        self.loc_Spb = ''
+        self.loc_Ussuriysk = ''
+        self.loc_Volgograd = ''
+        self.loc_Yekaterinburg = ''
         self.sort_type_matches_tot = ''
         self.sort_type_matches_win = ''
         self.sort_type_matches_loss = ''
@@ -84,8 +91,15 @@ class RequestFrom:
         self.full_stat = ''
         self.location = ''
         self.loc_all = ''
-        self.loc_Spb = ''
+        self.loc_Barnaul = ''
         self.loc_Krasnodar = ''
+        self.loc_Moscow = ''
+        self.loc_Online = ''
+        self.loc_Saratov = ''
+        self.loc_Spb = ''
+        self.loc_Ussuriysk = ''
+        self.loc_Volgograd = ''
+        self.loc_Yekaterinburg = ''
         self.sort_type_name = ''
         self.sort_type_matches_tot = ''
         self.sort_type_matches_win = ''
@@ -122,10 +136,24 @@ class RequestFrom:
                 self.location = item[len("Location")+1:]
                 if self.location == 'all':
                     self.loc_all = 'selected'
-                if self.location == 'Spb':
-                    self.loc_Spb = 'selected'
+                if self.location == 'Barnaul':
+                    self.loc_Barnaul = 'selected'
                 if self.location == 'Krasnodar':
                     self.loc_Krasnodar = 'selected'
+                if self.location == 'Moscow':
+                    self.loc_Moscow = 'selected'
+                if self.location == 'Online':
+                    self.loc_Online = 'selected'
+                if self.location == 'Saratov':
+                    self.loc_Saratov = 'selected'
+                if self.location == 'Spb':
+                    self.loc_Spb = 'selected'
+                if self.location == 'Ussuriysk':
+                    self.loc_Ussuriysk = 'selected'
+                if self.location == 'Volgograd':
+                    self.loc_Volgograd = 'selected'
+                if self.location == 'Yekaterinburg':
+                    self.loc_Yekaterinburg = 'selected'
             if 0 == item.find("SortType"):
                 if "Name" == item[len("SortType")+1:]:
                     self.sort_type_name = 'checked'
@@ -157,8 +185,15 @@ class RequestFrom:
             self.min_match_count = 1
             self.location = 'all'
             self.loc_all = 'selected'
-            self.loc_Spb = ''
+            self.loc_Barnaul = ''
             self.loc_Krasnodar = ''
+            self.loc_Moscow = ''
+            self.loc_Online = ''
+            self.loc_Saratov = ''
+            self.loc_Spb = ''
+            self.loc_Ussuriysk = ''
+            self.loc_Volgograd = ''
+            self.loc_Yekaterinburg = ''
 
     def get_sort_type(self):
         value = ''
@@ -211,8 +246,15 @@ class RequestFrom:
                    f'<label for="fruits">Choose location:</label>' \
                    f'<select id="Location" name="Location">' \
                    f'<option {self.loc_all} value="all">all</option>' \
-                   f'<option {self.loc_Spb} value="Spb">Spb</option>' \
+                   f'<option {self.loc_Barnaul} value="Barnaul">Barnaul</option>' \
                    f'<option {self.loc_Krasnodar} value="Krasnodar">Krasnodar</option>' \
+                   f'<option {self.loc_Moscow} value="Moscow">Moscow</option>' \
+                   f'<option {self.loc_Online} value="Online">Online</option>' \
+                   f'<option {self.loc_Saratov} value="Saratov">Saratov</option>' \
+                   f'<option {self.loc_Spb} value="Spb">Spb</option>' \
+                   f'<option {self.loc_Ussuriysk} value="Ussuriysk">Ussuriysk</option>' \
+                   f'<option {self.loc_Volgograd} value="Volgograd">Volgograd</option>'\
+                   f'<option {self.loc_Yekaterinburg} value="Yekaterinburg">Yekaterinburg</option>' \
                    f'</select>' \
                    f'<p> Minimum players count in tournament: <input type="text" name="min_players" minlength="1" maxlength="2" value="{self.min_players_count}"></p>' \
                    f'<p> Show generals with match count more than: <input type="text" name="min_match_count" minlength="1" maxlength="3" value="{self.min_match_count}"></p>' \

@@ -1,0 +1,1339 @@
+{
+    "date": "2024_05_22",
+    "location": "Online",
+    "level": "League",
+    "organizer": "AlexSmirnov",
+    "roundsCount": 9,
+    "players": [
+        [
+            "Стрельцов, Артем",
+            "Selvala, Eager Trailblazer"
+        ],
+        [
+            "Поляков, Герман",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Барабаш, Валентин",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Лисин, Дмитрий",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Кузьменко, Иван",
+            "Thalia and The Gitrog Monster"
+        ],
+        [
+            "Сайфутдинов, Тимур",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Шубенин, Илья",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Поспелов, Александр",
+            "Gix, Yawgmoth Praetor"
+        ],
+        [
+            "Олифер, Егор",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Козлов, Максим",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Палачев, Константин",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Курмакаев, Игорь",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Сафаргалиев, Евгений",
+            "Yoshimaru, Ever Faithful :++: Kydele, Chosen of Kruphix"
+        ],
+        [
+            "Васинов, Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Бутримов, Виктор",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Сомкин, Константин",
+            "Laughing Jasper Flint"
+        ],
+        [
+            "Кондрашов, Матвей",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Байков, Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Серпутько, Слава",
+            "Wylie Duke, Atiin Hero"
+        ],
+        [
+            "Чутчев, Владимир",
+            "Arcum Dagsson"
+        ],
+        [
+            "Савин, Константин",
+            "Marchesa, Dealer of Death"
+        ],
+        [
+            "Милюков, Даниил",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Костин, Андрей",
+            "The Reality Chip"
+        ],
+        [
+            "Муравьев, Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Орешкин, Дмитрий",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Иванов, Антон",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Ламзин, Сережа",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Трофименко, Даниил",
+            "Tinybones, the Pickpocket"
+        ],
+        [
+            "Давыдов, Евгений",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Сидоров, Иван",
+            "Lord Windgrace"
+        ],
+        [
+            "Сильчев, Никита",
+            "Fblthp, Lost on the Range"
+        ],
+        [
+            "Череповский, Роман",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Сухов, Никита",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Краснов, Илья",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Говорун, Вадим",
+            "Aclazotz, Deepest Betrayal"
+        ],
+        [
+            "Семенов, Дмитрий",
+            "Teysa, Orzhov Scion"
+        ],
+        [
+            "Богданов, Сергей",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Иванов, Дмитрий II",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Давыдов, Александр",
+            "Magda, Brazen Outlaw"
+        ],
+        [
+            "Долганов, Матвей",
+            "Emmara, Soul of the Accord"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Стрельцов, Артем",
+                "Поляков, Герман",
+                "Selvala, Eager Trailblazer",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш, Валентин",
+                "Лисин, Дмитрий",
+                "Kinnan, Bonder Prodigy",
+                "Kytheon, Hero of Akros",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кузьменко, Иван",
+                "Сайфутдинов, Тимур",
+                "Thalia and The Gitrog Monster",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шубенин, Илья",
+                "Поспелов, Александр",
+                "Malcolm, Alluring Scoundrel",
+                "Gix, Yawgmoth Praetor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Олифер, Егор",
+                "Козлов, Максим",
+                "Aminatou, the Fateshifter",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Палачев, Константин",
+                "Курмакаев, Игорь",
+                "Raffine, Scheming Seer",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сафаргалиев, Евгений",
+                "Васинов, Николай",
+                "Yoshimaru, Ever Faithful :++: Kydele, Chosen of Kruphix",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Бутримов, Виктор",
+                "Сомкин, Константин",
+                "Slimefoot and Squee",
+                "Laughing Jasper Flint",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кондрашов, Матвей",
+                "Байков, Аркадий",
+                "Arahbo, Roar of the World",
+                "Vial Smasher the Fierce",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Серпутько, Слава",
+                "Чутчев, Владимир",
+                "Wylie Duke, Atiin Hero",
+                "Arcum Dagsson",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Савин, Константин",
+                "Милюков, Даниил",
+                "Marchesa, Dealer of Death",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Костин, Андрей",
+                "Муравьев, Роман",
+                "The Reality Chip",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Орешкин, Дмитрий",
+                "Иванов, Антон",
+                "Juri, Master of the Revue",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ламзин, Сережа",
+                "Трофименко, Даниил",
+                "Golos, Tireless Pilgrim",
+                "Tinybones, the Pickpocket",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Давыдов, Евгений",
+                "Сидоров, Иван",
+                "Geist of Saint Traft",
+                "Lord Windgrace",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сильчев, Никита",
+                "Череповский, Роман",
+                "Fblthp, Lost on the Range",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сухов, Никита",
+                "Краснов, Илья",
+                "Aminatou, the Fateshifter",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Говорун, Вадим",
+                "Семенов, Дмитрий",
+                "Aclazotz, Deepest Betrayal",
+                "Teysa, Orzhov Scion",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богданов, Сергей",
+                "Иванов, Дмитрий II",
+                "Kroxa, Titan of Death's Hunger",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Давыдов, Александр",
+                "Долганов, Матвей",
+                "Magda, Brazen Outlaw",
+                "Emmara, Soul of the Accord",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Сухов, Никита",
+                "Орешкин, Дмитрий",
+                "Aminatou, the Fateshifter",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Бутримов, Виктор",
+                "Семенов, Дмитрий",
+                "Slimefoot and Squee",
+                "Teysa, Orzhov Scion",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Байков, Аркадий",
+                "Козлов, Максим",
+                "Vial Smasher the Fierce",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лисин, Дмитрий",
+                "Череповский, Роман",
+                "Kytheon, Hero of Akros",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Серпутько, Слава",
+                "Васинов, Николай",
+                "Wylie Duke, Atiin Hero",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Давыдов, Александр",
+                "Поляков, Герман",
+                "Magda, Brazen Outlaw",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Палачев, Константин",
+                "Костин, Андрей",
+                "Raffine, Scheming Seer",
+                "The Reality Chip",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богданов, Сергей",
+                "Сайфутдинов, Тимур",
+                "Kroxa, Titan of Death's Hunger",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ламзин, Сережа",
+                "Савин, Константин",
+                "Golos, Tireless Pilgrim",
+                "Marchesa, Dealer of Death",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сидоров, Иван",
+                "Шубенин, Илья",
+                "Lord Windgrace",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Трофименко, Даниил",
+                "Барабаш, Валентин",
+                "Tinybones, the Pickpocket",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Курмакаев, Игорь",
+                "Краснов, Илья",
+                "Slimefoot and Squee",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кондрашов, Матвей",
+                "Сафаргалиев, Евгений",
+                "Arahbo, Roar of the World",
+                "Yoshimaru, Ever Faithful :++: Kydele, Chosen of Kruphix",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев, Роман",
+                "Милюков, Даниил",
+                "Dihada, Binder of Wills",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Давыдов, Евгений",
+                "Иванов, Антон",
+                "Geist of Saint Traft",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кузьменко, Иван",
+                "Поспелов, Александр",
+                "Thalia and The Gitrog Monster",
+                "Gix, Yawgmoth Praetor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сильчев, Никита",
+                "Сомкин, Константин",
+                "Fblthp, Lost on the Range",
+                "Laughing Jasper Flint",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Олифер, Егор",
+                "Иванов, Дмитрий II",
+                "Aminatou, the Fateshifter",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Чутчев, Владимир",
+                "Стрельцов, Артем",
+                "Arcum Dagsson",
+                "Selvala, Eager Trailblazer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Говорун, Вадим",
+                "Долганов, Матвей",
+                "Aclazotz, Deepest Betrayal",
+                "Emmara, Soul of the Accord",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Серпутько, Слава",
+                "Бутримов, Виктор",
+                "Wylie Duke, Atiin Hero",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лисин, Дмитрий",
+                "Давыдов, Александр",
+                "Kytheon, Hero of Akros",
+                "Magda, Brazen Outlaw",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Козлов, Максим",
+                "Орешкин, Дмитрий",
+                "Feldon, Ronom Excavator",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богданов, Сергей",
+                "Шубенин, Илья",
+                "Kroxa, Titan of Death's Hunger",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ламзин, Сережа",
+                "Костин, Андрей",
+                "Golos, Tireless Pilgrim",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сомкин, Константин",
+                "Краснов, Илья",
+                "Laughing Jasper Flint",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Трофименко, Даниил",
+                "Череповский, Роман",
+                "Tinybones, the Pickpocket",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов, Антон",
+                "Сидоров, Иван",
+                "Golos, Tireless Pilgrim",
+                "Lord Windgrace",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Милюков, Даниил",
+                "Семенов, Дмитрий",
+                "Asmoranomardicadaistinaculdacar",
+                "Teysa, Orzhov Scion",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сайфутдинов, Тимур",
+                "Васинов, Николай",
+                "Omnath, Locus of Creation",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков, Герман",
+                "Долганов, Матвей",
+                "Aminatou, the Fateshifter",
+                "Emmara, Soul of the Accord",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Савин, Константин",
+                "Чутчев, Владимир",
+                "Marchesa, Dealer of Death",
+                "Arcum Dagsson",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Байков, Аркадий",
+                "Сухов, Никита",
+                "Vial Smasher the Fierce",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Палачев, Константин",
+                "Иванов, Дмитрий II",
+                "Raffine, Scheming Seer",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кузьменко, Иван",
+                "Муравьев, Роман",
+                "Thalia and The Gitrog Monster",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кондрашов, Матвей",
+                "Барабаш, Валентин",
+                "Arahbo, Roar of the World",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев, Игорь",
+                "Поспелов, Александр",
+                "Slimefoot and Squee",
+                "Gix, Yawgmoth Praetor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Давыдов, Евгений",
+                "Говорун, Вадим",
+                "Geist of Saint Traft",
+                "Aclazotz, Deepest Betrayal",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сафаргалиев, Евгений",
+                "Сильчев, Никита",
+                "Yoshimaru, Ever Faithful :++: Kydele, Chosen of Kruphix",
+                "Fblthp, Lost on the Range",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Ламзин, Сережа",
+                "Лисин, Дмитрий",
+                "Golos, Tireless Pilgrim",
+                "Kytheon, Hero of Akros",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Козлов, Максим",
+                "Богданов, Сергей",
+                "Feldon, Ronom Excavator",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Бутримов, Виктор",
+                "Иванов, Антон",
+                "Slimefoot and Squee",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Краснов, Илья",
+                "Серпутько, Слава",
+                "Geist of Saint Traft",
+                "Wylie Duke, Atiin Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Орешкин, Дмитрий",
+                "Шубенин, Илья",
+                "Juri, Master of the Revue",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сухов, Никита",
+                "Давыдов, Александр",
+                "Aminatou, the Fateshifter",
+                "Magda, Brazen Outlaw",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Череповский, Роман",
+                "Сайфутдинов, Тимур",
+                "Asmoranomardicadaistinaculdacar",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Семенов, Дмитрий",
+                "Долганов, Матвей",
+                "Teysa, Orzhov Scion",
+                "Emmara, Soul of the Accord",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Савин, Константин",
+                "Кузьменко, Иван",
+                "Marchesa, Dealer of Death",
+                "Thalia and The Gitrog Monster",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов, Дмитрий II",
+                "Костин, Андрей",
+                "Omnath, Locus of Creation",
+                "The Reality Chip",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кондрашов, Матвей",
+                "Милюков, Даниил",
+                "Arahbo, Roar of the World",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сомкин, Константин",
+                "Байков, Аркадий",
+                "Laughing Jasper Flint",
+                "Vial Smasher the Fierce",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков, Герман",
+                "Давыдов, Евгений",
+                "Aminatou, the Fateshifter",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Трофименко, Даниил",
+                "Стрельцов, Артем",
+                "Tinybones, the Pickpocket",
+                "Selvala, Eager Trailblazer",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Палачев, Константин",
+                "Сафаргалиев, Евгений",
+                "Raffine, Scheming Seer",
+                "Yoshimaru, Ever Faithful :++: Kydele, Chosen of Kruphix",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Чутчев, Владимир",
+                "Барабаш, Валентин",
+                "Arcum Dagsson",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сидоров, Иван",
+                "Поспелов, Александр",
+                "Lord Windgrace",
+                "Gix, Yawgmoth Praetor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Васинов, Николай",
+                "Муравьев, Роман",
+                "Feldon, Ronom Excavator",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Говорун, Вадим",
+                "Сильчев, Никита",
+                "Aclazotz, Deepest Betrayal",
+                "Fblthp, Lost on the Range",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Бутримов, Виктор",
+                "Козлов, Максим",
+                "Slimefoot and Squee",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ламзин, Сережа",
+                "Сайфутдинов, Тимур",
+                "Golos, Tireless Pilgrim",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Долганов, Матвей",
+                "Кузьменко, Иван",
+                "Emmara, Soul of the Accord",
+                "Thalia and The Gitrog Monster",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богданов, Сергей",
+                "Орешкин, Дмитрий",
+                "Kroxa, Titan of Death's Hunger",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лисин, Дмитрий",
+                "Серпутько, Слава",
+                "Kytheon, Hero of Akros",
+                "Wylie Duke, Atiin Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Давыдов, Александр",
+                "Костин, Андрей",
+                "Magda, Brazen Outlaw",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Череповский, Роман",
+                "Иванов, Дмитрий II",
+                "Asmoranomardicadaistinaculdacar",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Шубенин, Илья",
+                "Иванов, Антон",
+                "Malcolm, Alluring Scoundrel",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Милюков, Даниил",
+                "Сафаргалиев, Евгений",
+                "Asmoranomardicadaistinaculdacar",
+                "Yoshimaru, Ever Faithful :++: Kydele, Chosen of Kruphix",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Семенов, Дмитрий",
+                "Васинов, Николай",
+                "Teysa, Orzhov Scion",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Савин, Константин",
+                "Байков, Аркадий",
+                "Marchesa, Dealer of Death",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Стрельцов, Артем",
+                "Краснов, Илья",
+                "Selvala, Eager Trailblazer",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сухов, Никита",
+                "Барабаш, Валентин",
+                "Aminatou, the Fateshifter",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков, Герман",
+                "Поспелов, Александр",
+                "Aminatou, the Fateshifter",
+                "Gix, Yawgmoth Praetor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Палачев, Константин",
+                "Кондрашов, Матвей",
+                "Raffine, Scheming Seer",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сомкин, Константин",
+                "Говорун, Вадим",
+                "Laughing Jasper Flint",
+                "Aclazotz, Deepest Betrayal",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Давыдов, Евгений",
+                "Сильчев, Никита",
+                "Geist of Saint Traft",
+                "Fblthp, Lost on the Range",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Козлов, Максим",
+                "Сайфутдинов, Тимур",
+                "Feldon, Ronom Excavator",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Орешкин, Дмитрий",
+                "Ламзин, Сережа",
+                "Juri, Master of the Revue",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Бутримов, Виктор",
+                "Давыдов, Александр",
+                "Slimefoot and Squee",
+                "Magda, Brazen Outlaw",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Серпутько, Слава",
+                "Кузьменко, Иван",
+                "Wylie Duke, Atiin Hero",
+                "Thalia and The Gitrog Monster",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богданов, Сергей",
+                "Лисин, Дмитрий",
+                "Kroxa, Titan of Death's Hunger",
+                "Kytheon, Hero of Akros",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Долганов, Матвей",
+                "Костин, Андрей",
+                "Emmara, Soul of the Accord",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шубенин, Илья",
+                "Поляков, Герман",
+                "Malcolm, Alluring Scoundrel",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов, Дмитрий II",
+                "Краснов, Илья",
+                "Omnath, Locus of Creation",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш, Валентин",
+                "Иванов, Антон",
+                "Kinnan, Bonder Prodigy",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сухов, Никита",
+                "Семенов, Дмитрий",
+                "Aminatou, the Fateshifter",
+                "Teysa, Orzhov Scion",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков, Аркадий",
+                "Стрельцов, Артем",
+                "Vial Smasher the Fierce",
+                "Selvala, Eager Trailblazer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Палачев, Константин",
+                "Милюков, Даниил",
+                "Raffine, Scheming Seer",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев, Роман",
+                "Сомкин, Константин",
+                "Dihada, Binder of Wills",
+                "Laughing Jasper Flint",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Козлов, Максим",
+                "Давыдов, Александр",
+                "Feldon, Ronom Excavator",
+                "Magda, Brazen Outlaw",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богданов, Сергей",
+                "Ламзин, Сережа",
+                "Kroxa, Titan of Death's Hunger",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Серпутько, Слава",
+                "Сайфутдинов, Тимур",
+                "Wylie Duke, Atiin Hero",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Орешкин, Дмитрий",
+                "Бутримов, Виктор",
+                "Juri, Master of the Revue",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Козлов, Максим",
+                "Ламзин, Сережа",
+                "Feldon, Ronom Excavator",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сайфутдинов, Тимур",
+                "Орешкин, Дмитрий",
+                "Omnath, Locus of Creation",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Козлов, Максим",
+                "Орешкин, Дмитрий",
+                "Feldon, Ronom Excavator",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

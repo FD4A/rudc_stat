@@ -1,0 +1,93 @@
+{
+    "date": "2024_05_22",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Беляков Михаил",
+            "Ertai Resurrected"
+        ],
+        [
+            "Коваль Светослав",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Арушанян Тигран",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Жандосов Карим",
+            "The Reality Chip"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Беляков Михаил",
+                "Коваль Светослав",
+                "Ertai Resurrected",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Жандосов Карим",
+                "Aminatou, the Fateshifter",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Беляков Михаил",
+                "Арушанян Тигран",
+                "Ertai Resurrected",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Жандосов Карим",
+                "Juri, Master of the Revue",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Беляков Михаил",
+                "Жандосов Карим",
+                "Ertai Resurrected",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Арушанян Тигран",
+                "Juri, Master of the Revue",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,355 @@
+{
+    "date": "2024_06_02",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Безрученко Дмитрий",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Редько Павел",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Арушанян Тигран",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Беляков Михаил",
+            "The Reality Chip"
+        ],
+        [
+            "Кириченко Евгений",
+            "The Reality Chip"
+        ],
+        [
+            "Сажин Юрий",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Еремеев Александр",
+            "The Reality Chip"
+        ],
+        [
+            "Кириченко Ксения",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Жуковский Андрей",
+            "Oloro, Ageless Ascetic"
+        ],
+        [
+            "Зайцев Даниил",
+            "Queen Marchesa"
+        ],
+        [
+            "Коваль Светослав",
+            "The Reality Chip"
+        ],
+        [
+            "Акишев Константин",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Захаренко Вячеслав",
+            "Estrid, the Masked"
+        ],
+        [
+            "Олешко Роман",
+            "Dihada, Binder of Wills"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Безрученко Дмитрий",
+                "Арушанян Тигран",
+                "Indoraptor, the Perfect Hybrid",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Кириченко Ксения",
+                "Light-Paws, Emperor's Voice",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Захаренко Вячеслав",
+                "The Reality Chip",
+                "Estrid, the Masked",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Олешко Роман",
+                "The Reality Chip",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сажин Юрий",
+                "Еремеев Александр",
+                "Slimefoot and Squee",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Жуковский Андрей",
+                "Акишев Константин",
+                "Oloro, Ageless Ascetic",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Коваль Светослав",
+                "Queen Marchesa",
+                "The Reality Chip",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Безрученко Дмитрий",
+                "Жуковский Андрей",
+                "Indoraptor, the Perfect Hybrid",
+                "Oloro, Ageless Ascetic",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Коваль Светослав",
+                "Light-Paws, Emperor's Voice",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Акишев Константин",
+                "Aminatou, the Fateshifter",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Кириченко Евгений",
+                "The Reality Chip",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сажин Юрий",
+                "Захаренко Вячеслав",
+                "Slimefoot and Squee",
+                "Estrid, the Masked",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Зайцев Даниил",
+                "The Reality Chip",
+                "Queen Marchesa",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Ксения",
+                "Олешко Роман",
+                "Hogaak, Arisen Necropolis",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Безрученко Дмитрий",
+                "Кириченко Евгений",
+                "Indoraptor, the Perfect Hybrid",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Сажин Юрий",
+                "Light-Paws, Emperor's Voice",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Еремеев Александр",
+                "Aminatou, the Fateshifter",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Кириченко Ксения",
+                "The Reality Chip",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Жуковский Андрей",
+                "Коваль Светослав",
+                "Oloro, Ageless Ascetic",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Захаренко Вячеслав",
+                "Queen Marchesa",
+                "Estrid, the Masked",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Акишев Константин",
+                "Олешко Роман",
+                "Asmoranomardicadaistinaculdacar",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Безрученко Дмитрий",
+                "Редько Павел",
+                "Indoraptor, the Perfect Hybrid",
+                "Light-Paws, Emperor's Voice",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Кириченко Евгений",
+                "Aminatou, the Fateshifter",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Сажин Юрий",
+                "The Reality Chip",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Жуковский Андрей",
+                "The Reality Chip",
+                "Oloro, Ageless Ascetic",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Ксения",
+                "Коваль Светослав",
+                "Hogaak, Arisen Necropolis",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Олешко Роман",
+                "Queen Marchesa",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Акишев Константин",
+                "Захаренко Вячеслав",
+                "Asmoranomardicadaistinaculdacar",
+                "Estrid, the Masked",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

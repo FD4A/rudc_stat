@@ -1,0 +1,489 @@
+{
+    "date": "2024_05_26",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 5,
+    "players": [
+        [
+            "Антипин Константин",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Кириченко Евгений",
+            "The Reality Chip"
+        ],
+        [
+            "Еремеев Александр",
+            "The Reality Chip"
+        ],
+        [
+            "Жандосов Карим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Коваль Светослав",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Ерофеев Александр",
+            "Kari Zev, Skyship Raider"
+        ],
+        [
+            "Усков Антон",
+            "Radha, Heart of Keld"
+        ],
+        [
+            "Шубенин Илья",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Пузиков Никита",
+            "Saskia the Unyielding"
+        ],
+        [
+            "Арушанян Тигран",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Беляков Михаил",
+            "Ertai Resurrected"
+        ],
+        [
+            "Акишев Константин",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Петрухин Иван",
+            "Gallia of the Endless Dance"
+        ],
+        [
+            "Захаренко Вячеслав",
+            "Estrid, the Masked"
+        ],
+        [
+            "Зайцев Даниил",
+            "Talion, the Kindly Lord"
+        ],
+        [
+            "Квинт Егор",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Титов Егор",
+            "Zaffai, Thunder Conductor"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Антипин Константин",
+                "Арушанян Тигран",
+                "Feldon, Ronom Excavator",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Ерофеев Александр",
+                "The Reality Chip",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Зайцев Даниил",
+                "The Reality Chip",
+                "Talion, the Kindly Lord",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Жандосов Карим",
+                "Пузиков Никита",
+                "Geist of Saint Traft",
+                "Saskia the Unyielding",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Шубенин Илья",
+                "Juri, Master of the Revue",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Усков Антон",
+                "Квинт Егор",
+                "Radha, Heart of Keld",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Титов Егор",
+                "Ertai Resurrected",
+                "Zaffai, Thunder Conductor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Акишев Константин",
+                "Захаренко Вячеслав",
+                "Asmoranomardicadaistinaculdacar",
+                "Estrid, the Masked",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Антипин Константин",
+                "Еремеев Александр",
+                "Feldon, Ronom Excavator",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Коваль Светослав",
+                "The Reality Chip",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Жандосов Карим",
+                "Квинт Егор",
+                "Geist of Saint Traft",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ерофеев Александр",
+                "Зайцев Даниил",
+                "Kari Zev, Skyship Raider",
+                "Talion, the Kindly Lord",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Усков Антон",
+                "Акишев Константин",
+                "Radha, Heart of Keld",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Арушанян Тигран",
+                "Malcolm, Alluring Scoundrel",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Петрухин Иван",
+                "Ertai Resurrected",
+                "Gallia of the Endless Dance",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Захаренко Вячеслав",
+                "Титов Егор",
+                "Estrid, the Masked",
+                "Zaffai, Thunder Conductor",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Антипин Константин",
+                "Коваль Светослав",
+                "Feldon, Ronom Excavator",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Петрухин Иван",
+                "The Reality Chip",
+                "Gallia of the Endless Dance",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Ерофеев Александр",
+                "The Reality Chip",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Жандосов Карим",
+                "Захаренко Вячеслав",
+                "Geist of Saint Traft",
+                "Estrid, the Masked",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Зайцев Даниил",
+                "Malcolm, Alluring Scoundrel",
+                "Talion, the Kindly Lord",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Пузиков Никита",
+                "Беляков Михаил",
+                "Saskia the Unyielding",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Титов Егор",
+                "Aminatou, the Fateshifter",
+                "Zaffai, Thunder Conductor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Акишев Константин",
+                "Квинт Егор",
+                "Asmoranomardicadaistinaculdacar",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Антипин Константин",
+                "Жандосов Карим",
+                "Feldon, Ronom Excavator",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Пузиков Никита",
+                "The Reality Chip",
+                "Saskia the Unyielding",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Беляков Михаил",
+                "The Reality Chip",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Акишев Константин",
+                "Juri, Master of the Revue",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ерофеев Александр",
+                "Титов Егор",
+                "Kari Zev, Skyship Raider",
+                "Zaffai, Thunder Conductor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Усков Антон",
+                "Петрухин Иван",
+                "Radha, Heart of Keld",
+                "Gallia of the Endless Dance",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Квинт Егор",
+                "Malcolm, Alluring Scoundrel",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Захаренко Вячеслав",
+                "Aminatou, the Fateshifter",
+                "Estrid, the Masked",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Антипин Константин",
+                "Кириченко Евгений",
+                "Feldon, Ronom Excavator",
+                "The Reality Chip",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Арушанян Тигран",
+                "The Reality Chip",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Жандосов Карим",
+                "Коваль Светослав",
+                "Geist of Saint Traft",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ерофеев Александр",
+                "Захаренко Вячеслав",
+                "Kari Zev, Skyship Raider",
+                "Estrid, the Masked",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Усков Антон",
+                "Зайцев Даниил",
+                "Radha, Heart of Keld",
+                "Talion, the Kindly Lord",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Пузиков Никита",
+                "Malcolm, Alluring Scoundrel",
+                "Saskia the Unyielding",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Акишев Константин",
+                "Ertai Resurrected",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Петрухин Иван",
+                "Квинт Егор",
+                "Gallia of the Endless Dance",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

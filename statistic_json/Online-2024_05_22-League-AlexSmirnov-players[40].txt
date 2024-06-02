@@ -1,0 +1,318 @@
+Aclazotz, Deepest Betrayal       matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:12   WG: 33.33% LG: 66.67% (wg:   4 lg:   8) pick: 1    Online(1), 
+       vs Teysa, Orzhov Scion              (w:0 l:1 d:0), (0/2)
+       vs Emmara, Soul of the Accord       (w:0 l:1 d:0), (0/2)
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
+       vs Fblthp, Lost on the Range        (w:1 l:0 d:0), (2/1)
+       vs Laughing Jasper Flint            (w:1 l:0 d:0), (2/1)
+
+
+Aminatou, the Fateshifter        matches:14   WM: 42.86%  LM: 57.14%  DM:  0.00% (wm:6   lm:8   dm:0)  games:35   WG: 48.57% LG: 51.43% (wg:  17 lg:  18) pick: 3    Online(3), 
+       vs Selvala, Eager Trailblazer       (w:1 l:0 d:0), (2/0)
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (0/2)
+       vs Geist of Saint Traft             (w:2 l:0 d:0), (4/1)
+       vs Juri, Master of the Revue        (w:0 l:1 d:0), (1/2)
+       vs Magda, Brazen Outlaw             (w:0 l:2 d:0), (2/4)
+       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (1/2)
+       vs Emmara, Soul of the Accord       (w:0 l:1 d:0), (0/2)
+       vs Vial Smasher the Fierce          (w:1 l:0 d:0), (2/0)
+       vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (0/2)
+       vs Gix, Yawgmoth Praetor            (w:1 l:0 d:0), (2/1)
+       vs Malcolm, Alluring Scoundrel      (w:0 l:1 d:0), (1/2)
+       vs Teysa, Orzhov Scion              (w:1 l:0 d:0), (2/0)
+
+
+Arahbo, Roar of the World        matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:1   lm:4   dm:0)  games:12   WG: 25.00% LG: 75.00% (wg:   3 lg:   9) pick: 1    Online(1), 
+       vs Vial Smasher the Fierce          (w:0 l:1 d:0), (0/2)
+       vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
+        + Kydele, Chosen of Kruphix       
+       vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (0/2)
+       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
+       vs Raffine, Scheming Seer           (w:0 l:1 d:0), (1/2)
+
+
+Arcum Dagsson                    matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:10   WG: 30.00% LG: 70.00% (wg:   3 lg:   7) pick: 1    Online(1), 
+       vs Wylie Duke, Atiin Hero           (w:0 l:1 d:0), (0/2)
+       vs Selvala, Eager Trailblazer       (w:1 l:0 d:0), (2/1)
+       vs Marchesa, Dealer of Death        (w:0 l:1 d:0), (1/2)
+       vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (0/2)
+
+
+Asmoranomardicadaistinaculdacar  matches:11   WM: 54.55%  LM: 45.45%  DM:  0.00% (wm:6   lm:5   dm:0)  games:27   WG: 55.56% LG: 44.44% (wg:  15 lg:  12) pick: 2    Online(2), 
+       vs Marchesa, Dealer of Death        (w:0 l:1 d:0), (1/2)
+       vs Fblthp, Lost on the Range        (w:1 l:0 d:0), (2/0)
+       vs Kytheon, Hero of Akros           (w:0 l:1 d:0), (0/2)
+       vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/1)
+       vs Tinybones, the Pickpocket        (w:1 l:0 d:0), (2/0)
+       vs Teysa, Orzhov Scion              (w:0 l:1 d:0), (0/2)
+       vs Omnath, Locus of Creation        (w:0 l:2 d:0), (2/4)
+       vs Arahbo, Roar of the World        (w:1 l:0 d:0), (2/0)
+       vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
+        + Kydele, Chosen of Kruphix       
+       vs Raffine, Scheming Seer           (w:1 l:0 d:0), (2/1)
+
+
+Dihada, Binder of Wills          matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:1   lm:4   dm:0)  games:13   WG: 38.46% LG: 61.54% (wg:   5 lg:   8) pick: 1    Online(1), 
+       vs The Reality Chip                 (w:0 l:1 d:0), (1/2)
+       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (1/2)
+       vs Thalia and The Gitrog Monster    (w:0 l:1 d:0), (1/2)
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (0/2)
+       vs Laughing Jasper Flint            (w:1 l:0 d:0), (2/0)
+
+
+Emmara, Soul of the Accord       matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:14   WG: 50.00% LG: 50.00% (wg:   7 lg:   7) pick: 1    Online(1), 
+       vs Magda, Brazen Outlaw             (w:0 l:1 d:0), (0/2)
+       vs Aclazotz, Deepest Betrayal       (w:1 l:0 d:0), (2/0)
+       vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/0)
+       vs Teysa, Orzhov Scion              (w:1 l:0 d:0), (2/1)
+       vs Thalia and The Gitrog Monster    (w:0 l:1 d:0), (1/2)
+       vs The Reality Chip                 (w:0 l:1 d:0), (0/2)
+
+
+Fblthp, Lost on the Range        matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:1   lm:4   dm:0)  games:11   WG: 27.27% LG: 72.73% (wg:   3 lg:   8) pick: 1    Online(1), 
+       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
+       vs Laughing Jasper Flint            (w:0 l:1 d:0), (0/2)
+       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
+        + Kydele, Chosen of Kruphix       
+       vs Aclazotz, Deepest Betrayal       (w:0 l:1 d:0), (1/2)
+       vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
+
+
+Feldon, Ronom Excavator          matches:14   WM: 78.57%  LM: 21.43%  DM:  0.00% (wm:11  lm:3   dm:0)  games:34   WG: 67.65% LG: 32.35% (wg:  23 lg:  11) pick: 2    Online(2), 
+       vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/0)
+       vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
+        + Kydele, Chosen of Kruphix       
+       vs Vial Smasher the Fierce          (w:1 l:0 d:0), (2/1)
+       vs Wylie Duke, Atiin Hero           (w:0 l:1 d:0), (0/2)
+       vs Juri, Master of the Revue        (w:1 l:1 d:0), (3/2)
+       vs Omnath, Locus of Creation        (w:1 l:1 d:0), (2/3)
+       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/1)
+       vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/0)
+       vs Slimefoot and Squee              (w:1 l:0 d:0), (2/0)
+       vs Teysa, Orzhov Scion              (w:1 l:0 d:0), (2/1)
+       vs Magda, Brazen Outlaw             (w:1 l:0 d:0), (2/0)
+       vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/0)
+
+
+Geist of Saint Traft             matches:11   WM: 45.45%  LM: 54.55%  DM:  0.00% (wm:5   lm:6   dm:0)  games:26   WG: 50.00% LG: 50.00% (wg:  13 lg:  13) pick: 2    Online(2), 
+       vs Lord Windgrace                   (w:0 l:1 d:0), (0/2)
+       vs Aminatou, the Fateshifter        (w:0 l:2 d:0), (1/4)
+       vs Slimefoot and Squee              (w:1 l:0 d:0), (2/1)
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (1/2)
+       vs Laughing Jasper Flint            (w:1 l:0 d:0), (2/0)
+       vs Aclazotz, Deepest Betrayal       (w:1 l:0 d:0), (2/0)
+       vs Wylie Duke, Atiin Hero           (w:0 l:1 d:0), (1/2)
+       vs Selvala, Eager Trailblazer       (w:1 l:0 d:0), (2/0)
+       vs Fblthp, Lost on the Range        (w:0 l:1 d:0), (0/2)
+       vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/0)
+
+
+Gix, Yawgmoth Praetor            matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:11   WG: 45.45% LG: 54.55% (wg:   5 lg:   6) pick: 1    Online(1), 
+       vs Malcolm, Alluring Scoundrel      (w:0 l:1 d:0), (0/2)
+       vs Thalia and The Gitrog Monster    (w:0 l:1 d:0), (0/2)
+       vs Slimefoot and Squee              (w:1 l:0 d:0), (2/0)
+       vs Lord Windgrace                   (w:1 l:0 d:0), (2/0)
+       vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (1/2)
+
+
+Golos, Tireless Pilgrim          matches:14   WM: 57.14%  LM: 42.86%  DM:  0.00% (wm:8   lm:6   dm:0)  games:33   WG: 54.55% LG: 45.45% (wg:  18 lg:  15) pick: 2    Online(2), 
+       vs Juri, Master of the Revue        (w:1 l:1 d:0), (3/2)
+       vs Tinybones, the Pickpocket        (w:1 l:0 d:0), (2/0)
+       vs Marchesa, Dealer of Death        (w:1 l:0 d:0), (2/1)
+       vs Geist of Saint Traft             (w:1 l:0 d:0), (2/1)
+       vs The Reality Chip                 (w:1 l:0 d:0), (2/0)
+       vs Lord Windgrace                   (w:1 l:0 d:0), (2/0)
+       vs Kytheon, Hero of Akros           (w:1 l:0 d:0), (2/0)
+       vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
+       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (1/2)
+       vs Malcolm, Alluring Scoundrel      (w:0 l:1 d:0), (0/2)
+       vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (0/2)
+       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/1)
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (0/2)
+
+
+Juri, Master of the Revue        matches:9    WM: 77.78%  LM: 22.22%  DM:  0.00% (wm:7   lm:2   dm:0)  games:22   WG: 63.64% LG: 36.36% (wg:  14 lg:   8) pick: 1    Online(1), 
+       vs Golos, Tireless Pilgrim          (w:1 l:1 d:0), (2/3)
+       vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/1)
+       vs Feldon, Ronom Excavator          (w:1 l:1 d:0), (2/3)
+       vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/0)
+       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/0)
+       vs Slimefoot and Squee              (w:1 l:0 d:0), (2/0)
+       vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/1)
+
+
+Kinnan, Bonder Prodigy           matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:13   WG: 69.23% LG: 30.77% (wg:   9 lg:   4) pick: 1    Online(1), 
+       vs Kytheon, Hero of Akros           (w:0 l:1 d:0), (1/2)
+       vs Tinybones, the Pickpocket        (w:0 l:1 d:0), (0/2)
+       vs Arahbo, Roar of the World        (w:1 l:0 d:0), (2/0)
+       vs Arcum Dagsson                    (w:1 l:0 d:0), (2/0)
+       vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/0)
+       vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/0)
+
+
+Kroxa, Titan of Death's Hunger   matches:7    WM: 57.14%  LM: 42.86%  DM:  0.00% (wm:4   lm:3   dm:0)  games:17   WG: 58.82% LG: 41.18% (wg:  10 lg:   7) pick: 1    Online(1), 
+       vs Omnath, Locus of Creation        (w:2 l:0 d:0), (4/1)
+       vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/0)
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (1/2)
+       vs Juri, Master of the Revue        (w:0 l:1 d:0), (0/2)
+       vs Kytheon, Hero of Akros           (w:1 l:0 d:0), (2/0)
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (1/2)
+
+
+Kytheon, Hero of Akros           matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:14   WG: 42.86% LG: 57.14% (wg:   6 lg:   8) pick: 1    Online(1), 
+       vs Kinnan, Bonder Prodigy           (w:1 l:0 d:0), (2/1)
+       vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/0)
+       vs Magda, Brazen Outlaw             (w:1 l:0 d:0), (2/1)
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
+       vs Wylie Duke, Atiin Hero           (w:0 l:1 d:0), (0/2)
+       vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (0/2)
+
+
+Laughing Jasper Flint            matches:6    WM: 16.67%  LM: 83.33%  DM:  0.00% (wm:1   lm:5   dm:0)  games:13   WG: 23.08% LG: 76.92% (wg:   3 lg:  10) pick: 1    Online(1), 
+       vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
+       vs Fblthp, Lost on the Range        (w:1 l:0 d:0), (2/0)
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
+       vs Vial Smasher the Fierce          (w:0 l:1 d:0), (0/2)
+       vs Aclazotz, Deepest Betrayal       (w:0 l:1 d:0), (1/2)
+       vs Dihada, Binder of Wills          (w:0 l:1 d:0), (0/2)
+
+
+Lord Windgrace                   matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:8    WG: 25.00% LG: 75.00% (wg:   2 lg:   6) pick: 1    Online(1), 
+       vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
+       vs Malcolm, Alluring Scoundrel      (w:0 l:1 d:0), (0/2)
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
+       vs Gix, Yawgmoth Praetor            (w:0 l:1 d:0), (0/2)
+
+
+Magda, Brazen Outlaw             matches:7    WM: 57.14%  LM: 42.86%  DM:  0.00% (wm:4   lm:3   dm:0)  games:18   WG: 55.56% LG: 44.44% (wg:  10 lg:   8) pick: 1    Online(1), 
+       vs Emmara, Soul of the Accord       (w:1 l:0 d:0), (2/0)
+       vs Aminatou, the Fateshifter        (w:2 l:0 d:0), (4/2)
+       vs Kytheon, Hero of Akros           (w:0 l:1 d:0), (1/2)
+       vs The Reality Chip                 (w:1 l:0 d:0), (2/0)
+       vs Slimefoot and Squee              (w:0 l:1 d:0), (1/2)
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (0/2)
+
+
+Malcolm, Alluring Scoundrel      matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:13   WG: 61.54% LG: 38.46% (wg:   8 lg:   5) pick: 1    Online(1), 
+       vs Gix, Yawgmoth Praetor            (w:1 l:0 d:0), (2/0)
+       vs Lord Windgrace                   (w:1 l:0 d:0), (2/0)
+       vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (0/2)
+       vs Juri, Master of the Revue        (w:0 l:1 d:0), (0/2)
+       vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/0)
+       vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/1)
+
+
+Marchesa, Dealer of Death        matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00% (wm:3   lm:2   dm:0)  games:13   WG: 53.85% LG: 46.15% (wg:   7 lg:   6) pick: 1    Online(1), 
+       vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/1)
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (1/2)
+       vs Arcum Dagsson                    (w:1 l:0 d:0), (2/1)
+       vs Thalia and The Gitrog Monster    (w:0 l:1 d:0), (0/2)
+       vs Vial Smasher the Fierce          (w:1 l:0 d:0), (2/0)
+
+
+Omnath, Locus of Creation        matches:14   WM: 57.14%  LM: 42.86%  DM:  0.00% (wm:8   lm:6   dm:0)  games:37   WG: 54.05% LG: 45.95% (wg:  20 lg:  17) pick: 2    Online(2), 
+       vs Thalia and The Gitrog Monster    (w:1 l:0 d:0), (2/0)
+       vs Kroxa, Titan of Death's Hunger   (w:0 l:2 d:0), (1/4)
+       vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/1)
+       vs Feldon, Ronom Excavator          (w:1 l:1 d:0), (3/2)
+       vs Raffine, Scheming Seer           (w:1 l:0 d:0), (2/1)
+       vs Asmoranomardicadaistinaculdacar  (w:2 l:0 d:0), (4/2)
+       vs The Reality Chip                 (w:0 l:1 d:0), (1/2)
+       vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/1)
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
+       vs Wylie Duke, Atiin Hero           (w:1 l:0 d:0), (2/0)
+       vs Juri, Master of the Revue        (w:0 l:1 d:0), (1/2)
+
+
+Raffine, Scheming Seer           matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:16   WG: 43.75% LG: 56.25% (wg:   7 lg:   9) pick: 1    Online(1), 
+       vs Slimefoot and Squee              (w:1 l:0 d:0), (2/0)
+       vs The Reality Chip                 (w:0 l:1 d:0), (1/2)
+       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (1/2)
+       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
+        + Kydele, Chosen of Kruphix       
+       vs Arahbo, Roar of the World        (w:1 l:0 d:0), (2/1)
+       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (1/2)
+
+
+Selvala, Eager Trailblazer       matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:1   lm:4   dm:0)  games:11   WG: 27.27% LG: 72.73% (wg:   3 lg:   8) pick: 1    Online(1), 
+       vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
+       vs Arcum Dagsson                    (w:0 l:1 d:0), (1/2)
+       vs Tinybones, the Pickpocket        (w:1 l:0 d:0), (2/0)
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
+       vs Vial Smasher the Fierce          (w:0 l:1 d:0), (0/2)
+
+
+Slimefoot and Squee              matches:10   WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:5   lm:5   dm:0)  games:23   WG: 47.83% LG: 52.17% (wg:  11 lg:  12) pick: 2    Online(2), 
+       vs Raffine, Scheming Seer           (w:0 l:1 d:0), (0/2)
+       vs Laughing Jasper Flint            (w:1 l:0 d:0), (2/0)
+       vs Teysa, Orzhov Scion              (w:1 l:0 d:0), (2/1)
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (1/2)
+       vs Wylie Duke, Atiin Hero           (w:1 l:0 d:0), (2/0)
+       vs Gix, Yawgmoth Praetor            (w:0 l:1 d:0), (0/2)
+       vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/0)
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (0/2)
+       vs Magda, Brazen Outlaw             (w:1 l:0 d:0), (2/1)
+       vs Juri, Master of the Revue        (w:0 l:1 d:0), (0/2)
+
+
+Teysa, Orzhov Scion              matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:15   WG: 46.67% LG: 53.33% (wg:   7 lg:   8) pick: 1    Online(1), 
+       vs Aclazotz, Deepest Betrayal       (w:1 l:0 d:0), (2/0)
+       vs Slimefoot and Squee              (w:0 l:1 d:0), (1/2)
+       vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/0)
+       vs Emmara, Soul of the Accord       (w:0 l:1 d:0), (1/2)
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (1/2)
+       vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
+
+
+Thalia and The Gitrog Monster    matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:15   WG: 60.00% LG: 40.00% (wg:   9 lg:   6) pick: 1    Online(1), 
+       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
+       vs Gix, Yawgmoth Praetor            (w:1 l:0 d:0), (2/0)
+       vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/1)
+       vs Marchesa, Dealer of Death        (w:1 l:0 d:0), (2/0)
+       vs Emmara, Soul of the Accord       (w:1 l:0 d:0), (2/1)
+       vs Wylie Duke, Atiin Hero           (w:0 l:1 d:0), (1/2)
+
+
+The Reality Chip                 matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:15   WG: 53.33% LG: 46.67% (wg:   8 lg:   7) pick: 1    Online(1), 
+       vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/1)
+       vs Raffine, Scheming Seer           (w:1 l:0 d:0), (2/1)
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
+       vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/1)
+       vs Magda, Brazen Outlaw             (w:0 l:1 d:0), (0/2)
+       vs Emmara, Soul of the Accord       (w:1 l:0 d:0), (2/0)
+
+
+Tinybones, the Pickpocket        matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:8    WG: 25.00% LG: 75.00% (wg:   2 lg:   6) pick: 1    Online(1), 
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
+       vs Kinnan, Bonder Prodigy           (w:1 l:0 d:0), (2/0)
+       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
+       vs Selvala, Eager Trailblazer       (w:0 l:1 d:0), (0/2)
+
+
+Vial Smasher the Fierce          matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:13   WG: 53.85% LG: 46.15% (wg:   7 lg:   6) pick: 1    Online(1), 
+       vs Arahbo, Roar of the World        (w:1 l:0 d:0), (2/0)
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (1/2)
+       vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
+       vs Laughing Jasper Flint            (w:1 l:0 d:0), (2/0)
+       vs Marchesa, Dealer of Death        (w:0 l:1 d:0), (0/2)
+       vs Selvala, Eager Trailblazer       (w:1 l:0 d:0), (2/0)
+
+
+Wylie Duke, Atiin Hero           matches:7    WM: 71.43%  LM: 28.57%  DM:  0.00% (wm:5   lm:2   dm:0)  games:16   WG: 62.50% LG: 37.50% (wg:  10 lg:   6) pick: 1    Online(1), 
+       vs Arcum Dagsson                    (w:1 l:0 d:0), (2/0)
+       vs Feldon, Ronom Excavator          (w:1 l:0 d:0), (2/0)
+       vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
+       vs Geist of Saint Traft             (w:1 l:0 d:0), (2/1)
+       vs Kytheon, Hero of Akros           (w:1 l:0 d:0), (2/0)
+       vs Thalia and The Gitrog Monster    (w:1 l:0 d:0), (2/1)
+       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
+
+
+Yoshimaru, Ever Faithful         matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:12   WG: 50.00% LG: 50.00% (wg:   6 lg:   6) pick: 1    Online(1), 
+  + Kydele, Chosen of Kruphix   
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (1/2)
+       vs Arahbo, Roar of the World        (w:0 l:1 d:0), (1/2)
+       vs Fblthp, Lost on the Range        (w:1 l:0 d:0), (2/0)
+       vs Raffine, Scheming Seer           (w:1 l:0 d:0), (2/0)
+       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
+
+

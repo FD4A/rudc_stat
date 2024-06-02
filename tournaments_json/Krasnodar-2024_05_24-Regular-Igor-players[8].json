@@ -1,0 +1,169 @@
+{
+    "date": "2024_05_24",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Жандосов Карим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Зайцев Даниил",
+            "Talion, the Kindly Lord"
+        ],
+        [
+            "Овчаренко Даниил",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Беляков Михаил",
+            "Ertai Resurrected"
+        ],
+        [
+            "Хорьков Никита",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Коваль Светослав",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Неговелов Игорь",
+            "Lord Windgrace"
+        ],
+        [
+            "Захаренко Вячеслав",
+            "Estrid, the Masked"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Жандосов Карим",
+                "Хорьков Никита",
+                "Geist of Saint Traft",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Беляков Михаил",
+                "Talion, the Kindly Lord",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Овчаренко Даниил",
+                "Захаренко Вячеслав",
+                "Light-Paws, Emperor's Voice",
+                "Estrid, the Masked",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Неговелов Игорь",
+                "Juri, Master of the Revue",
+                "Lord Windgrace",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Жандосов Карим",
+                "Зайцев Даниил",
+                "Geist of Saint Traft",
+                "Talion, the Kindly Lord",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Овчаренко Даниил",
+                "Коваль Светослав",
+                "Light-Paws, Emperor's Voice",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Хорьков Никита",
+                "Ertai Resurrected",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Неговелов Игорь",
+                "Захаренко Вячеслав",
+                "Lord Windgrace",
+                "Estrid, the Masked",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Жандосов Карим",
+                "Овчаренко Даниил",
+                "Geist of Saint Traft",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Неговелов Игорь",
+                "Talion, the Kindly Lord",
+                "Lord Windgrace",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Беляков Михаил",
+                "Коваль Светослав",
+                "Ertai Resurrected",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Захаренко Вячеслав",
+                "Dihada, Binder of Wills",
+                "Estrid, the Masked",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

@@ -8,19 +8,19 @@ legendary_base = LegendaryBase('./ScryfallData')
 out_folder = './tournaments_json/'
 
 # # online league
-# filenames = glob('RawData/OnlineLeague/*.txt')
+# filenames = glob('RawData/OnlineLeague/Spring_Deadly_Rollick_FOIL_League_2024.txt')
 # for filename in filenames:
 #     parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_league, legendary_base)
 #     tournament = parser.get_tournament_from_txt(filename)
 #     tournament.dump_to_json(out_folder)
 
-# # Krasnodar data
-# filenames = glob('./RawData/Krasnodar_data/Krasnodar_2024_05_19.txt')
-# for filename in filenames:
-#     parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_Krasnodar, legendary_base)
-#     tournament = parser.get_tournament_from_txt(filename)
-#     print(tournament)
-#     tournament.dump_to_json(out_folder)
+# Krasnodar data
+filenames = glob('./RawData/Krasnodar_data/Krasnodar_2024_05_22.txt')
+for filename in filenames:
+    parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_Krasnodar, legendary_base)
+    tournament = parser.get_tournament_from_txt(filename)
+    print(tournament)
+    tournament.dump_to_json(out_folder)
 
 # # Saratov data
 # filenames = glob('./RawData/Saratov_data/*.txt')
@@ -70,13 +70,13 @@ out_folder = './tournaments_json/'
 #     print(tournament)
 #     tournament.dump_to_json(out_folder)
 
-# Barnaul_data data
-filenames = glob('RawData/Barnaul_data/2024_05_31_Barnaul_Regular.txt')
-for filename in filenames:
-    parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_aetherhub, legendary_base)
-    tournament = parser.get_tournament_from_txt(filename)
-    print(tournament)
-    tournament.dump_to_json(out_folder)
+# # Barnaul_data data
+# filenames = glob('RawData/Barnaul_data/2024_05_31_Barnaul_Regular.txt')
+# for filename in filenames:
+#     parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_aetherhub, legendary_base)
+#     tournament = parser.get_tournament_from_txt(filename)
+#     print(tournament)
+#     tournament.dump_to_json(out_folder)
 
 # # Yekaterinburg data
 # filenames = glob('RawData/Yekaterinburg_data/2024_05_05_Yekaterinburg_Regular.txt')

@@ -1,0 +1,131 @@
+{
+    "date": "2024_05_31",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Коваль Светослав",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Захаренко Вячеслав",
+            "Estrid, the Masked"
+        ],
+        [
+            "Хорьков Никита",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Терновский Михаил",
+            "Lord Windgrace"
+        ],
+        [
+            "Жандосов Карим",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Тищенко Максим",
+            "Meren of Clan Nel Toth"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Коваль Светослав",
+                "Жандосов Карим",
+                "Geist of Saint Traft",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Захаренко Вячеслав",
+                "Терновский Михаил",
+                "Estrid, the Masked",
+                "Lord Windgrace",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Тищенко Максим",
+                "Dihada, Binder of Wills",
+                "Meren of Clan Nel Toth",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Коваль Светослав",
+                "Хорьков Никита",
+                "Geist of Saint Traft",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Захаренко Вячеслав",
+                "Тищенко Максим",
+                "Estrid, the Masked",
+                "Meren of Clan Nel Toth",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Терновский Михаил",
+                "Жандосов Карим",
+                "Lord Windgrace",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Коваль Светослав",
+                "Захаренко Вячеслав",
+                "Geist of Saint Traft",
+                "Estrid, the Masked",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Хорьков Никита",
+                "Жандосов Карим",
+                "Dihada, Binder of Wills",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Терновский Михаил",
+                "Тищенко Максим",
+                "Lord Windgrace",
+                "Meren of Clan Nel Toth",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}
