@@ -1,0 +1,15 @@
+location::RostovOnDon
+level::Regular
+date::2024_06_09
+organizer::Constantin
+players::generals
+Ilya Shubenin :: Malcolm, Alluring Scoundrel
+Constantin Somkin :: Dragonlord Ojutai
+Vadim Lukaynov :: Muxus, Goblin Grandee
+Alexander Kovalev :: Feldon, Ronom Excavator
+Denis Elinskiy :: Drana, Liberator of Malakir
+Hon Syharev :: Light-Paws, Emperor's Voice
+Evgeniy Sutyagin :: Leovold, Emissary of Trest
+Vladislav Merkulov :: The Tenth Doctor :+: Rose Tyler
+Round
+https://aetherhub.com/Tourney/RoundTourney/30760

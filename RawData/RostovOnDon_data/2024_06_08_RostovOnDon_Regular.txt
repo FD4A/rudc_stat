@@ -1,0 +1,17 @@
+location::RostovOnDon
+level::Regular
+date::2024_06_08
+organizer::Constantin
+players::generals
+Ilya Shubenin :: Malcolm, Alluring Scoundrel
+Constantin Somkin :: Dragonlord Ojutai
+Hon Syharev :: Light-Paws, Emperor's Voice
+Denis Elinskiy :: Drana, Liberator of Malakir
+Ilya Snezhkov :: Jadar, Ghoulcaller of Nephalia
+Vladimir Erohin :: Ojer Axonil, Deepest Might // Temple of Power
+Evgeniy Sutyagin :: Leovold, Emissary of Trest
+Alexander Kovalev :: Feldon, Ronom Excavator
+Vladislav Merkulov :: The Tenth Doctor :+: Rose Tyler
+Round
+https://aetherhub.com/Tourney/RoundTourney/30259?p=3
+# 4 - round is fake, only 3

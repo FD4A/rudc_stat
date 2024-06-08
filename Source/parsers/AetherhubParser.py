@@ -34,7 +34,12 @@ class AetherhubParser:
 
         cur_round = self.tr.roundsCount - 1
         while cur_round != 0:
-            round_url = self.url + f"?p={cur_round}"
+            idx_eq = self.url.rfind('=')
+            if -1 == idx_eq:
+                round_url = self.url + f"?p={cur_round}"
+            else:
+                round_url = self.url[:idx_eq] + f"={cur_round}"
+            print(round_url)
             try:
                 driver.get(round_url)
             except TimeoutException:

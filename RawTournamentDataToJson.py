@@ -14,13 +14,13 @@ out_folder = './tournaments_json/'
 #     tournament = parser.get_tournament_from_txt(filename)
 #     tournament.dump_to_json(out_folder)
 
-# Krasnodar data
-filenames = glob('./RawData/Krasnodar_data/Krasnodar_2024_05_22.txt')
-for filename in filenames:
-    parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_Krasnodar, legendary_base)
-    tournament = parser.get_tournament_from_txt(filename)
-    print(tournament)
-    tournament.dump_to_json(out_folder)
+# # Krasnodar data
+# filenames = glob('./RawData/Krasnodar_data/Krasnodar_2024_06_07.txt')
+# for filename in filenames:
+#     parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_Krasnodar, legendary_base)
+#     tournament = parser.get_tournament_from_txt(filename)
+#     print(tournament)
+#     tournament.dump_to_json(out_folder)
 
 # # Saratov data
 # filenames = glob('./RawData/Saratov_data/*.txt')
@@ -31,7 +31,7 @@ for filename in filenames:
 #     tournament.dump_to_json(out_folder)
 
 # # Spb data
-# filenames = glob('RawData/Spb_data/2024_05_30_Spb_Regular.txt')
+# filenames = glob('RawData/Spb_data/2024_06_06_Spb_Regular.txt')
 # for filename in filenames:
 #     parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_aetherhub, legendary_base)
 #     tournament = parser.get_tournament_from_txt(filename)
@@ -62,13 +62,13 @@ for filename in filenames:
 #     print(tournament)
 #     tournament.dump_to_json(out_folder)
 
-# # RostovOnDon_data data
-# filenames = glob('RawData/RostovOnDon_data/2024_05_10_RostovOnDon_RegularTop.txt')
-# for filename in filenames:
-#     parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_aetherhub, legendary_base)
-#     tournament = parser.get_tournament_from_txt(filename)
-#     print(tournament)
-#     tournament.dump_to_json(out_folder)
+# RostovOnDon_data data
+filenames = glob('RawData/RostovOnDon_data/2024_06_09_RostovOnDon_Regular.txt')
+for filename in filenames:
+    parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_aetherhub, legendary_base)
+    tournament = parser.get_tournament_from_txt(filename)
+    print(tournament)
+    tournament.dump_to_json(out_folder)
 
 # # Barnaul_data data
 # filenames = glob('RawData/Barnaul_data/2024_05_31_Barnaul_Regular.txt')

@@ -28,6 +28,7 @@ class RequestFrom:
         self.loc_Krasnodar = ''
         self.loc_Moscow = ''
         self.loc_Online = ''
+        self.loc_RostovOnDon = ''
         self.loc_Saratov = ''
         self.loc_Spb = ''
         self.loc_Ussuriysk = ''
@@ -95,6 +96,7 @@ class RequestFrom:
         self.loc_Krasnodar = ''
         self.loc_Moscow = ''
         self.loc_Online = ''
+        self.loc_RostovOnDon = ''
         self.loc_Saratov = ''
         self.loc_Spb = ''
         self.loc_Ussuriysk = ''
@@ -144,6 +146,8 @@ class RequestFrom:
                     self.loc_Moscow = 'selected'
                 if self.location == 'Online':
                     self.loc_Online = 'selected'
+                if self.location == 'RostovOnDon':
+                    self.loc_RostovOnDon = 'selected'
                 if self.location == 'Saratov':
                     self.loc_Saratov = 'selected'
                 if self.location == 'Spb':
@@ -189,6 +193,7 @@ class RequestFrom:
             self.loc_Krasnodar = ''
             self.loc_Moscow = ''
             self.loc_Online = ''
+            self.loc_RostovOnDon = ''
             self.loc_Saratov = ''
             self.loc_Spb = ''
             self.loc_Ussuriysk = ''
@@ -250,6 +255,7 @@ class RequestFrom:
                    f'<option {self.loc_Krasnodar} value="Krasnodar">Krasnodar</option>' \
                    f'<option {self.loc_Moscow} value="Moscow">Moscow</option>' \
                    f'<option {self.loc_Online} value="Online">Online</option>' \
+                   f'<option {self.loc_RostovOnDon} value="RostovOnDon">RostovOnDon</option>' \
                    f'<option {self.loc_Saratov} value="Saratov">Saratov</option>' \
                    f'<option {self.loc_Spb} value="Spb">Spb</option>' \
                    f'<option {self.loc_Ussuriysk} value="Ussuriysk">Ussuriysk</option>' \

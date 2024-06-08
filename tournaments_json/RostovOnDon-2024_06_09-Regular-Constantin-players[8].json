@@ -1,0 +1,169 @@
+{
+    "date": "2024_06_09",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Ilya Shubenin",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Constantin Somkin",
+            "Dragonlord Ojutai"
+        ],
+        [
+            "Vadim Lukaynov",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Alexander Kovalev",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Denis Elinskiy",
+            "Drana, Liberator of Malakir"
+        ],
+        [
+            "Hon Syharev",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Evgeniy Sutyagin",
+            "Leovold, Emissary of Trest"
+        ],
+        [
+            "Vladislav Merkulov",
+            "The Tenth Doctor :+: Rose Tyler"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Constantin Somkin",
+                "Vladislav Merkulov",
+                "Dragonlord Ojutai",
+                "The Tenth Doctor :+: Rose Tyler",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ilya Shubenin",
+                "Vadim Lukaynov",
+                "Malcolm, Alluring Scoundrel",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Hon Syharev",
+                "Alexander Kovalev",
+                "Light-Paws, Emperor's Voice",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Denis Elinskiy",
+                "Evgeniy Sutyagin",
+                "Drana, Liberator of Malakir",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Alexander Kovalev",
+                "Denis Elinskiy",
+                "Feldon, Ronom Excavator",
+                "Drana, Liberator of Malakir",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Constantin Somkin",
+                "Ilya Shubenin",
+                "Dragonlord Ojutai",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Evgeniy Sutyagin",
+                "Vadim Lukaynov",
+                "Leovold, Emissary of Trest",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Hon Syharev",
+                "Vladislav Merkulov",
+                "Light-Paws, Emperor's Voice",
+                "The Tenth Doctor :+: Rose Tyler",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Ilya Shubenin",
+                "Alexander Kovalev",
+                "Malcolm, Alluring Scoundrel",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Hon Syharev",
+                "Constantin Somkin",
+                "Light-Paws, Emperor's Voice",
+                "Dragonlord Ojutai",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Denis Elinskiy",
+                "Vadim Lukaynov",
+                "Drana, Liberator of Malakir",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Evgeniy Sutyagin",
+                "Vladislav Merkulov",
+                "Leovold, Emissary of Trest",
+                "The Tenth Doctor :+: Rose Tyler",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "date": "2024_06_08",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Ilya Shubenin",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Constantin Somkin",
+            "Dragonlord Ojutai"
+        ],
+        [
+            "Hon Syharev",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Denis Elinskiy",
+            "Drana, Liberator of Malakir"
+        ],
+        [
+            "Ilya Snezhkov",
+            "Jadar, Ghoulcaller of Nephalia"
+        ],
+        [
+            "Vladimir Erohin",
+            "Ojer Axonil, Deepest Might"
+        ],
+        [
+            "Evgeniy Sutyagin",
+            "Leovold, Emissary of Trest"
+        ],
+        [
+            "Alexander Kovalev",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Vladislav Merkulov",
+            "The Tenth Doctor :+: Rose Tyler"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Constantin Somkin",
+                "Ilya Shubenin",
+                "Dragonlord Ojutai",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Evgeniy Sutyagin",
+                "Hon Syharev",
+                "Leovold, Emissary of Trest",
+                "Light-Paws, Emperor's Voice",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Vladislav Merkulov",
+                "Denis Elinskiy",
+                "The Tenth Doctor :+: Rose Tyler",
+                "Drana, Liberator of Malakir",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Alexander Kovalev",
+                "Ilya Snezhkov",
+                "Feldon, Ronom Excavator",
+                "Jadar, Ghoulcaller of Nephalia",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Hon Syharev",
+                "Denis Elinskiy",
+                "Light-Paws, Emperor's Voice",
+                "Drana, Liberator of Malakir",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ilya Shubenin",
+                "Vladimir Erohin",
+                "Malcolm, Alluring Scoundrel",
+                "Ojer Axonil, Deepest Might",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ilya Snezhkov",
+                "Constantin Somkin",
+                "Jadar, Ghoulcaller of Nephalia",
+                "Dragonlord Ojutai",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Vladislav Merkulov",
+                "Alexander Kovalev",
+                "The Tenth Doctor :+: Rose Tyler",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Hon Syharev",
+                "Ilya Shubenin",
+                "Light-Paws, Emperor's Voice",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ilya Snezhkov",
+                "Evgeniy Sutyagin",
+                "Jadar, Ghoulcaller of Nephalia",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Alexander Kovalev",
+                "Denis Elinskiy",
+                "Feldon, Ronom Excavator",
+                "Drana, Liberator of Malakir",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Constantin Somkin",
+                "Vladimir Erohin",
+                "Dragonlord Ojutai",
+                "Ojer Axonil, Deepest Might",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}
