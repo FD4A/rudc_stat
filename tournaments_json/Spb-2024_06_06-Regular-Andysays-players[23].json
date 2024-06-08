@@ -1,0 +1,531 @@
+{
+    "date": "2024_06_06",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Федоров Дмитрий",
+            "Amalia Benavides Aguirre"
+        ],
+        [
+            "Протасов Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Поляков Герман",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Цюра Максим",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Барабаш Валентин",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Брук Роман",
+            "Urabrask"
+        ],
+        [
+            "Чжан Цзяи",
+            "Sisay, Weatherlight Captain :++: Jegantha, the Wellspring"
+        ],
+        [
+            "Ульянов Алексей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Грабовой Филипп",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Саушкин Андрей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Мартынов Влад",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Яковлев Николай",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Богданов Сергей",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Артемьев Александр Сергеевич",
+            "Mizzix of the Izmagnus"
+        ],
+        [
+            "Вахитов Ривкат",
+            "The Reality Chip"
+        ],
+        [
+            "Горячев Григорий",
+            "Olivia, Mobilized for War"
+        ],
+        [
+            "Таловер Артем",
+            "Dihada, Binder of Wills"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Яковлев Николай",
+                "Богатырев Александр",
+                "Dihada, Binder of Wills",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Саушкин Андрей",
+                "Eris, Roar of the Storm",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Чжан Цзяи",
+                "Aminatou, the Fateshifter",
+                "Sisay, Weatherlight Captain :++: Jegantha, the Wellspring",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Богданов Сергей",
+                "Kinnan, Bonder Prodigy",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Протасов Михаил",
+                "The Reality Chip",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Иванов Максим",
+                "Dihada, Binder of Wills",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Мартынов Яков",
+                "Amalia Benavides Aguirre",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артемьев Александр Сергеевич",
+                "Брук Роман",
+                "Mizzix of the Izmagnus",
+                "Urabrask",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Горячев Григорий",
+                "Родюков Федор",
+                "Olivia, Mobilized for War",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Тяпайкин Максим",
+                "Omnath, Locus of Creation",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Поляков Герман",
+                "Juri, Master of the Revue",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Цюра Максим",
+                "Ульянов Алексей",
+                "Eris, Roar of the Storm",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Федоров Дмитрий",
+                "Geist of Saint Traft",
+                "Amalia Benavides Aguirre",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Чжан Цзяи",
+                "Ghyrson Starn, Kelermorph",
+                "Sisay, Weatherlight Captain :++: Jegantha, the Wellspring",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Грабовой Филипп",
+                "Aminatou, the Fateshifter",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Артемьев Александр Сергеевич",
+                "Omnath, Locus of Creation",
+                "Mizzix of the Izmagnus",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Барабаш Валентин",
+                "Indoraptor, the Perfect Hybrid",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Богданов Сергей",
+                "Dihada, Binder of Wills",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Брук Роман",
+                "Муравьев Никита",
+                "Urabrask",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Вахитов Ривкат",
+                "Omnath, Locus of Creation",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Горячев Григорий",
+                "Тяпайкин Максим",
+                "Olivia, Mobilized for War",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Мартынов Влад",
+                "Dihada, Binder of Wills",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Цюра Максим",
+                "Чжан Цзяи",
+                "Eris, Roar of the Storm",
+                "Sisay, Weatherlight Captain :++: Jegantha, the Wellspring",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Протасов Михаил",
+                "Amalia Benavides Aguirre",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Брук Роман",
+                "Indoraptor, the Perfect Hybrid",
+                "Urabrask",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Поляков Герман",
+                "Dihada, Binder of Wills",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Родюков Федор",
+                "Omnath, Locus of Creation",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Мартынов Яков",
+                "Eris, Roar of the Storm",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Мартынов Влад",
+                "Geist of Saint Traft",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Муравьев Никита",
+                "Asmoranomardicadaistinaculdacar",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Артемьев Александр Сергеевич",
+                "Omnath, Locus of Creation",
+                "Mizzix of the Izmagnus",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Таловер Артем",
+                "Kinnan, Bonder Prodigy",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Горячев Григорий",
+                "Kroxa, Titan of Death's Hunger",
+                "Olivia, Mobilized for War",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Цюра Максим",
+                "Поляков Герман",
+                "Eris, Roar of the Storm",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Федоров Дмитрий",
+                "Indoraptor, the Perfect Hybrid",
+                "Amalia Benavides Aguirre",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Чжан Цзяи",
+                "Aminatou, the Fateshifter",
+                "Sisay, Weatherlight Captain :++: Jegantha, the Wellspring",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Тяпайкин Максим",
+                "Geist of Saint Traft",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Ульянов Алексей",
+                "Ghyrson Starn, Kelermorph",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Барабаш Валентин",
+                "Eris, Roar of the Storm",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Брук Роман",
+                "Kroxa, Titan of Death's Hunger",
+                "Urabrask",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Мартынов Яков",
+                "Aminatou, the Fateshifter",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Артемьев Александр Сергеевич",
+                "Omnath, Locus of Creation",
+                "Mizzix of the Izmagnus",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

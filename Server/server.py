@@ -69,7 +69,7 @@ class MyServer(BaseHTTPRequestHandler):
 
 if __name__ == "__main__":
     hostName = "localhost"
-    serverPort = 8080
+    serverPort = 30080
     MyServer.init()
     webServer = HTTPServer((hostName, serverPort), MyServer)
     print("Server started http://%s:%s" % (hostName, serverPort))

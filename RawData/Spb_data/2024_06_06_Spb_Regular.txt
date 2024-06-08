@@ -1,0 +1,30 @@
+location::Spb
+level::Regular
+date::2024_06_06
+organizer::Andysays
+players::generals
+Федоров Дмитрий :: Amalia Benavides Aguirre
+Протасов Михаил :: Aminatou, the Fateshifter
+Поляков Герман :: Omnath, Locus of Creation
+Цюра Максим :: Eris, Roar of the Storm
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Тяпайкин Максим :: Asmoranomardicadaistinaculdacar
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Брук Роман :: Urabrask
+Чжан Цзяи :: Sisay, Weatherlight Captain :++: Jegantha, the Wellspring
+Ульянов Алексей :: Omnath, Locus of Creation
+Иванов Максим :: Geist of Saint Traft
+Грабовой Филипп :: Eris, Roar of the Storm
+Саушкин Андрей :: Omnath, Locus of Creation
+Мартынов Влад :: Aminatou, the Fateshifter
+Муравьев Никита :: Juri, Master of the Revue
+Яковлев Николай :: Dihada, Binder of Wills
+Богданов Сергей :: Kroxa, Titan of Death's Hunger
+Мартынов Яков :: The Reality Chip
+Артемьев Александр Сергеевич :: Mizzix of the Izmagnus
+Вахитов Ривкат :: The Reality Chip
+Горячев Григорий :: Olivia, Mobilized for War
+Таловер Артем :: Dihada, Binder of Wills
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/30689

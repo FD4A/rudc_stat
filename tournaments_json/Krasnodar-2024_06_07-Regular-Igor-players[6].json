@@ -1,0 +1,131 @@
+{
+    "date": "2024_06_07",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Коваль Светослав",
+            "Yoshimaru, Ever Faithful"
+        ],
+        [
+            "Омельченко Виктор",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Захаренко Вячеслав",
+            "Estrid, the Masked"
+        ],
+        [
+            "Жуковский Андрей",
+            "Oloro, Ageless Ascetic"
+        ],
+        [
+            "Помогайлов Максим",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Бабичев Фёдор",
+            "Shorikai, Genesis Engine"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Коваль Светослав",
+                "Жуковский Андрей",
+                "Yoshimaru, Ever Faithful",
+                "Oloro, Ageless Ascetic",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Омельченко Виктор",
+                "Помогайлов Максим",
+                "Kinnan, Bonder Prodigy",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Захаренко Вячеслав",
+                "Бабичев Фёдор",
+                "Estrid, the Masked",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Коваль Светослав",
+                "Бабичев Фёдор",
+                "Yoshimaru, Ever Faithful",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Омельченко Виктор",
+                "Захаренко Вячеслав",
+                "Kinnan, Bonder Prodigy",
+                "Estrid, the Masked",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Жуковский Андрей",
+                "Помогайлов Максим",
+                "Oloro, Ageless Ascetic",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Коваль Светослав",
+                "Омельченко Виктор",
+                "Yoshimaru, Ever Faithful",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Захаренко Вячеслав",
+                "Жуковский Андрей",
+                "Estrid, the Masked",
+                "Oloro, Ageless Ascetic",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Помогайлов Максим",
+                "Бабичев Фёдор",
+                "Winota, Joiner of Forces",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}
