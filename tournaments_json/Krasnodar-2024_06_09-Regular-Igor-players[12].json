@@ -1,0 +1,297 @@
+{
+    "date": "2024_06_09",
+    "location": "Krasnodar",
+    "level": "Regular",
+    "organizer": "Igor",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Омельченко Виктор",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Коваль Светослав",
+            "Yoshimaru, Ever Faithful :+: Jeska, Thrice Reborn"
+        ],
+        [
+            "Безрученко Дмитрий",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Тарасенко Никита",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Зайцев Даниил",
+            "Marchesa, Dealer of Death"
+        ],
+        [
+            "Еремеев Александр",
+            "The Reality Chip"
+        ],
+        [
+            "Кириченко Евгений",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Захаренко Вячеслав",
+            "Ivy, Gleeful Spellthief"
+        ],
+        [
+            "Арушанян Тигран",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Сажин Юрий",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Берзегов Рамазан",
+            "Trelasarra, Moon Dancer"
+        ],
+        [
+            "Иванько Альберт",
+            "Jodah, the Unifier"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Омельченко Виктор",
+                "Иванько Альберт",
+                "Kinnan, Bonder Prodigy",
+                "Jodah, the Unifier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Захаренко Вячеслав",
+                "Yoshimaru, Ever Faithful :+: Jeska, Thrice Reborn",
+                "Ivy, Gleeful Spellthief",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Сажин Юрий",
+                "Raffine, Scheming Seer",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тарасенко Никита",
+                "Кириченко Евгений",
+                "Winota, Joiner of Forces",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Арушанян Тигран",
+                "Marchesa, Dealer of Death",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Еремеев Александр",
+                "Берзегов Рамазан",
+                "The Reality Chip",
+                "Trelasarra, Moon Dancer",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Омельченко Виктор",
+                "Коваль Светослав",
+                "Kinnan, Bonder Prodigy",
+                "Yoshimaru, Ever Faithful :+: Jeska, Thrice Reborn",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Тарасенко Никита",
+                "Raffine, Scheming Seer",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Еремеев Александр",
+                "Marchesa, Dealer of Death",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Арушанян Тигран",
+                "Juri, Master of the Revue",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Захаренко Вячеслав",
+                "Иванько Альберт",
+                "Ivy, Gleeful Spellthief",
+                "Jodah, the Unifier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сажин Юрий",
+                "Берзегов Рамазан",
+                "Slimefoot and Squee",
+                "Trelasarra, Moon Dancer",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Омельченко Виктор",
+                "Зайцев Даниил",
+                "Kinnan, Bonder Prodigy",
+                "Marchesa, Dealer of Death",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Сажин Юрий",
+                "Yoshimaru, Ever Faithful :+: Jeska, Thrice Reborn",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Еремеев Александр",
+                "Raffine, Scheming Seer",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тарасенко Никита",
+                "Иванько Альберт",
+                "Winota, Joiner of Forces",
+                "Jodah, the Unifier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кириченко Евгений",
+                "Захаренко Вячеслав",
+                "Juri, Master of the Revue",
+                "Ivy, Gleeful Spellthief",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Берзегов Рамазан",
+                "Aminatou, the Fateshifter",
+                "Trelasarra, Moon Dancer",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Омельченко Виктор",
+                "Тарасенко Никита",
+                "Kinnan, Bonder Prodigy",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Коваль Светослав",
+                "Еремеев Александр",
+                "Yoshimaru, Ever Faithful :+: Jeska, Thrice Reborn",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безрученко Дмитрий",
+                "Кириченко Евгений",
+                "Raffine, Scheming Seer",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Зайцев Даниил",
+                "Захаренко Вячеслав",
+                "Marchesa, Dealer of Death",
+                "Ivy, Gleeful Spellthief",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Иванько Альберт",
+                "Aminatou, the Fateshifter",
+                "Jodah, the Unifier",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

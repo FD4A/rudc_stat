@@ -73,6 +73,7 @@ Krasnodar-2024_05_26-Regular-Igor-players[17]
 Krasnodar-2024_05_31-Regular-Igor-players[6]
 Krasnodar-2024_06_02-Regular-Igor-players[14]
 Krasnodar-2024_06_07-Regular-Igor-players[6]
+Krasnodar-2024_06_09-Regular-Igor-players[12]
 Moscow-2024_03_24-Open-GALL-players[8]
 Online-2023_10_24-League-AlexSmirnov-players[50]
 Online-2023_12_31-League-AlexSmirnov-players[38]
@@ -156,7 +157,7 @@ Aesi, Tyrant of Gyre Strait      matches:18   WM: 22.22%  LM: 72.22%  DM:  5.56%
 Akiri, Line-Slinger              matches:25   WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:10  lm:15  dm:0)  games:58   WG: 44.83% LG: 55.17% (wg:  26 lg:  32) pick: 6    Spb(3), Online(3), 
   + Silas Renn, Seeker Adept    
 Amalia Benavides Aguirre         matches:21   WM: 52.38%  LM: 33.33%  DM: 14.29% (wm:11  lm:7   dm:3)  games:52   WG: 57.69% LG: 42.31% (wg:  30 lg:  22) pick: 5    Spb(4), Krasnodar(1), 
-Aminatou, the Fateshifter        matches:191  WM: 51.83%  LM: 32.46%  DM: 15.71% (wm:99  lm:62  dm:30) games:436  WG: 57.11% LG: 42.89% (wg: 249 lg: 187) pick: 49   Spb(23), Krasnodar(9), Online(6), Ussuriysk(4), Volgograd(3), Yekaterinburg(3), Moscow(1), 
+Aminatou, the Fateshifter        matches:195  WM: 51.79%  LM: 32.82%  DM: 15.38% (wm:101 lm:64  dm:30) games:445  WG: 57.08% LG: 42.92% (wg: 254 lg: 191) pick: 50   Spb(23), Krasnodar(10), Online(6), Ussuriysk(4), Volgograd(3), Yekaterinburg(3), Moscow(1), 
 Anafenza, the Foremost           matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:14   WG: 50.00% LG: 50.00% (wg:   7 lg:   7) pick: 1    Krasnodar(1), 
 Anhelo, the Painter              matches:8    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:8   dm:0)  games:17   WG:  5.88% LG: 94.12% (wg:   1 lg:  16) pick: 2    Barnaul(2), 
 Animar, Soul of Elements         matches:10   WM: 30.00%  LM: 70.00%  DM:  0.00% (wm:3   lm:7   dm:0)  games:23   WG: 39.13% LG: 60.87% (wg:   9 lg:  14) pick: 3    Krasnodar(2), Spb(1), 
@@ -230,13 +231,13 @@ Hogaak, Arisen Necropolis        matches:155  WM: 57.42%  LM: 36.13%  DM:  6.45%
 Inalla, Archmage Ritualist       matches:19   WM: 52.63%  LM: 47.37%  DM:  0.00% (wm:10  lm:9   dm:0)  games:43   WG: 53.49% LG: 46.51% (wg:  23 lg:  20) pick: 5    Spb(2), Krasnodar(2), Online(1), 
 Indoraptor, the Perfect Hybrid   matches:71   WM: 47.89%  LM: 47.89%  DM:  4.23% (wm:34  lm:34  dm:3)  games:178  WG: 47.75% LG: 52.25% (wg:  85 lg:  93) pick: 24   Spb(12), Krasnodar(10), Moscow(1), Online(1), 
 Inti, Seneschal of the Sun       matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:9    WG: 44.44% LG: 55.56% (wg:   4 lg:   5) pick: 1    Krasnodar(1), 
-Ivy, Gleeful Spellthief          matches:6    WM: 16.67%  LM: 66.67%  DM: 16.67% (wm:1   lm:4   dm:1)  games:13   WG: 30.77% LG: 69.23% (wg:   4 lg:   9) pick: 2    Spb(2), 
+Ivy, Gleeful Spellthief          matches:10   WM: 40.00%  LM: 50.00%  DM: 10.00% (wm:4   lm:5   dm:1)  games:23   WG: 43.48% LG: 56.52% (wg:  10 lg:  13) pick: 3    Spb(2), Krasnodar(1), 
 Ixhel, Scion of Atraxa           matches:9    WM: 44.44%  LM: 55.56%  DM:  0.00% (wm:4   lm:5   dm:0)  games:20   WG: 50.00% LG: 50.00% (wg:  10 lg:  10) pick: 2    Ussuriysk(2), 
 Jadar, Ghoulcaller of Nephalia   matches:7    WM: 28.57%  LM: 14.29%  DM: 57.14% (wm:2   lm:1   dm:4)  games:15   WG: 46.67% LG: 46.67% (wg:   7 lg:   7) pick: 2    RostovOnDon(2), 
 Jan Jansen, Chaos Crafter        matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:10   WG: 20.00% LG: 80.00% (wg:   2 lg:   8) pick: 1    Krasnodar(1), 
-Jodah, the Unifier               matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:7    WG: 42.86% LG: 57.14% (wg:   3 lg:   4) pick: 1    Krasnodar(1), 
+Jodah, the Unifier               matches:7    WM: 14.29%  LM: 85.71%  DM:  0.00% (wm:1   lm:6   dm:0)  games:15   WG: 20.00% LG: 80.00% (wg:   3 lg:  12) pick: 2    Krasnodar(2), 
 Judith, the Scourge Diva         matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:8    WG: 37.50% LG: 62.50% (wg:   3 lg:   5) pick: 1    Krasnodar(1), 
-Juri, Master of the Revue        matches:90   WM: 57.78%  LM: 33.33%  DM:  8.89% (wm:52  lm:30  dm:8)  games:220  WG: 55.91% LG: 44.09% (wg: 123 lg:  97) pick: 23   Spb(13), Krasnodar(5), Yekaterinburg(2), RostovOnDon(2), Online(1), 
+Juri, Master of the Revue        matches:94   WM: 56.38%  LM: 35.11%  DM:  8.51% (wm:53  lm:33  dm:8)  games:230  WG: 55.22% LG: 44.78% (wg: 127 lg: 103) pick: 24   Spb(13), Krasnodar(6), Yekaterinburg(2), RostovOnDon(2), Online(1), 
 K'rrik, Son of Yawgmoth          matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:7    WG: 14.29% LG: 85.71% (wg:   1 lg:   6) pick: 1    Spb(1), 
 Karador, Ghost Chieftain         matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:11   WG: 54.55% LG: 45.45% (wg:   6 lg:   5) pick: 1    Ussuriysk(1), 
 Kari Zev, Skyship Raider         matches:51   WM: 35.29%  LM: 64.71%  DM:  0.00% (wm:18  lm:33  dm:0)  games:125  WG: 38.40% LG: 61.60% (wg:  48 lg:  77) pick: 14   Krasnodar(12), Spb(2), 
@@ -248,7 +249,7 @@ Kellan, the Fae-Blooded          matches:10   WM: 40.00%  LM: 60.00%  DM:  0.00%
 Kellan, the Kid                  matches:5    WM: 20.00%  LM: 60.00%  DM: 20.00% (wm:1   lm:3   dm:1)  games:12   WG: 41.67% LG: 58.33% (wg:   5 lg:   7) pick: 1    Ussuriysk(1), 
 Keranos, God of Storms           matches:4    WM:  0.00%  LM: 75.00%  DM: 25.00% (wm:0   lm:3   dm:1)  games:10   WG: 30.00% LG: 70.00% (wg:   3 lg:   7) pick: 1    Spb(1), 
 Kess, Dissident Mage             matches:41   WM: 29.27%  LM: 56.10%  DM: 14.63% (wm:12  lm:23  dm:6)  games:92   WG: 41.30% LG: 58.70% (wg:  38 lg:  54) pick: 12   Krasnodar(6), Spb(3), Ussuriysk(2), Online(1), 
-Kinnan, Bonder Prodigy           matches:216  WM: 53.70%  LM: 36.57%  DM:  9.72% (wm:116 lm:79  dm:21) games:514  WG: 57.98% LG: 41.83% (wg: 298 lg: 215) pick: 53   Spb(24), Krasnodar(15), Online(8), Barnaul(3), Yekaterinburg(1), Volgograd(1), Saratov(1), 
+Kinnan, Bonder Prodigy           matches:220  WM: 54.55%  LM: 35.91%  DM:  9.55% (wm:120 lm:79  dm:21) games:523  WG: 58.51% LG: 41.30% (wg: 306 lg: 216) pick: 54   Spb(24), Krasnodar(16), Online(8), Barnaul(3), Yekaterinburg(1), Volgograd(1), Saratov(1), 
 Krark, the Thumbless             matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 50.00% LG: 50.00% (wg:   5 lg:   5) pick: 1    RostovOnDon(1), 
 Krenko, Mob Boss                 matches:12   WM: 16.67%  LM: 83.33%  DM:  0.00% (wm:2   lm:10  dm:0)  games:29   WG: 24.14% LG: 75.86% (wg:   7 lg:  22) pick: 4    Barnaul(3), Ussuriysk(1), 
 Kroxa, Titan of Death's Hunger   matches:48   WM: 45.83%  LM: 45.83%  DM:  8.33% (wm:22  lm:22  dm:4)  games:117  WG: 52.14% LG: 47.86% (wg:  61 lg:  56) pick: 11   Spb(7), Online(2), Ussuriysk(2), 
@@ -267,7 +268,7 @@ Magda, Brazen Outlaw             matches:43   WM: 55.81%  LM: 39.53%  DM:  4.65%
 Malcolm, Alluring Scoundrel      matches:70   WM: 50.00%  LM: 41.43%  DM:  8.57% (wm:35  lm:29  dm:6)  games:164  WG: 54.88% LG: 45.12% (wg:  90 lg:  74) pick: 18   Krasnodar(6), RostovOnDon(5), Online(3), Saratov(2), Volgograd(2), 
 Malik, Grim Manipulator          matches:8    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:4   lm:4   dm:0)  games:18   WG: 50.00% LG: 50.00% (wg:   9 lg:   9) pick: 2    Yekaterinburg(1), Krasnodar(1), 
 Marath, Will of the Wild         matches:24   WM: 58.33%  LM: 20.83%  DM: 20.83% (wm:14  lm:5   dm:5)  games:54   WG: 64.81% LG: 35.19% (wg:  35 lg:  19) pick: 5    Krasnodar(2), Moscow(1), Spb(1), Yekaterinburg(1), 
-Marchesa, Dealer of Death        matches:9    WM: 55.56%  LM: 44.44%  DM:  0.00% (wm:5   lm:4   dm:0)  games:25   WG: 52.00% LG: 48.00% (wg:  13 lg:  12) pick: 2    Online(1), Spb(1), 
+Marchesa, Dealer of Death        matches:13   WM: 53.85%  LM: 46.15%  DM:  0.00% (wm:7   lm:6   dm:0)  games:36   WG: 50.00% LG: 50.00% (wg:  18 lg:  18) pick: 3    Online(1), Krasnodar(1), Spb(1), 
 Marchesa, the Black Rose         matches:9    WM: 22.22%  LM: 77.78%  DM:  0.00% (wm:2   lm:7   dm:0)  games:23   WG: 34.78% LG: 65.22% (wg:   8 lg:  15) pick: 2    Ussuriysk(1), Online(1), 
 Marisi, Breaker of the Coil      matches:4    WM: 25.00%  LM: 50.00%  DM: 25.00% (wm:1   lm:2   dm:1)  games:9    WG: 33.33% LG: 66.67% (wg:   3 lg:   6) pick: 1    Spb(1), 
 Melira, the Living Cure          matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:15   WG: 33.33% LG: 66.67% (wg:   5 lg:  10) pick: 1    Spb(1), 
@@ -298,7 +299,7 @@ Prosper, Tome-Bound              matches:24   WM: 54.17%  LM: 45.83%  DM:  0.00%
 Prossh, Skyraider of Kher        matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:12   WG: 50.00% LG: 50.00% (wg:   6 lg:   6) pick: 1    Online(1), 
 Queen Marchesa                   matches:17   WM: 35.29%  LM: 58.82%  DM:  5.88% (wm:6   lm:10  dm:1)  games:39   WG: 43.59% LG: 56.41% (wg:  17 lg:  22) pick: 5    Ussuriysk(2), Spb(2), Krasnodar(1), 
 Radha, Heart of Keld             matches:16   WM: 43.75%  LM: 56.25%  DM:  0.00% (wm:7   lm:9   dm:0)  games:42   WG: 42.86% LG: 57.14% (wg:  18 lg:  24) pick: 4    Krasnodar(4), 
-Raffine, Scheming Seer           matches:96   WM: 52.08%  LM: 38.54%  DM:  9.38% (wm:50  lm:37  dm:9)  games:235  WG: 54.47% LG: 45.53% (wg: 128 lg: 107) pick: 23   Ussuriysk(9), Krasnodar(3), Online(3), Volgograd(3), Yekaterinburg(3), Moscow(1), Spb(1), 
+Raffine, Scheming Seer           matches:100  WM: 53.00%  LM: 38.00%  DM:  9.00% (wm:53  lm:38  dm:9)  games:244  WG: 54.92% LG: 45.08% (wg: 134 lg: 110) pick: 24   Ussuriysk(9), Krasnodar(4), Online(3), Volgograd(3), Yekaterinburg(3), Moscow(1), Spb(1), 
 Ranar the Ever-Watchful          matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:6    WG:  0.00% LG:100.00% (wg:   0 lg:   6) pick: 1    Ussuriysk(1), 
 Rashmi, Eternities Crafter       matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:9    WG: 11.11% LG: 88.89% (wg:   1 lg:   8) pick: 1    Krasnodar(1), 
 Ratadrabik of Urborg             matches:8    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:2   lm:6   dm:0)  games:17   WG: 29.41% LG: 70.59% (wg:   5 lg:  12) pick: 2    Online(1), Krasnodar(1), 
@@ -322,7 +323,7 @@ Sidar Jabari of Zhalfir          matches:3    WM:  0.00%  LM:100.00%  DM:  0.00%
 Sidisi, Undead Vizier            matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:6    WG:  0.00% LG:100.00% (wg:   0 lg:   6) pick: 1    Krasnodar(1), 
 Sisay, Weatherlight Captain      matches:16   WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:8   lm:8   dm:0)  games:37   WG: 45.95% LG: 54.05% (wg:  17 lg:  20) pick: 4    Spb(4), 
   + Jegantha, the Wellspring    
-Slimefoot and Squee              matches:147  WM: 53.74%  LM: 40.14%  DM:  6.12% (wm:79  lm:59  dm:9)  games:355  WG: 55.21% LG: 44.79% (wg: 196 lg: 159) pick: 39   Spb(19), Krasnodar(14), Online(5), Volgograd(1), 
+Slimefoot and Squee              matches:150  WM: 53.33%  LM: 40.67%  DM:  6.00% (wm:80  lm:61  dm:9)  games:363  WG: 54.82% LG: 45.18% (wg: 199 lg: 164) pick: 40   Spb(19), Krasnodar(15), Online(5), Volgograd(1), 
 Slogurk, the Overslime           matches:4    WM: 50.00%  LM: 25.00%  DM: 25.00% (wm:2   lm:1   dm:1)  games:11   WG: 54.55% LG: 45.45% (wg:   6 lg:   5) pick: 1    Ussuriysk(1), 
 Soul of Windgrace                matches:8    WM: 12.50%  LM: 75.00%  DM: 12.50% (wm:1   lm:6   dm:1)  games:19   WG: 26.32% LG: 73.68% (wg:   5 lg:  14) pick: 2    Krasnodar(2), 
 Squee, Dubious Monarch           matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:6    WG:  0.00% LG:100.00% (wg:   0 lg:   6) pick: 1    Spb(1), 
@@ -338,7 +339,7 @@ Teysa, Orzhov Scion              matches:22   WM: 27.27%  LM: 68.18%  DM:  4.55%
 Thalia and The Gitrog Monster    matches:23   WM: 52.17%  LM: 39.13%  DM:  8.70% (wm:12  lm:9   dm:2)  games:56   WG: 55.36% LG: 44.64% (wg:  31 lg:  25) pick: 6    RostovOnDon(3), Online(2), Yekaterinburg(1), 
 The Beamtown Bullies             matches:13   WM: 53.85%  LM: 38.46%  DM:  7.69% (wm:7   lm:5   dm:1)  games:34   WG: 55.88% LG: 44.12% (wg:  19 lg:  15) pick: 3    Volgograd(2), Online(1), 
 The Gitrog Monster               matches:10   WM: 20.00%  LM: 50.00%  DM: 30.00% (wm:2   lm:5   dm:3)  games:21   WG: 38.10% LG: 61.90% (wg:   8 lg:  13) pick: 3    Spb(3), 
-The Reality Chip                 matches:264  WM: 52.27%  LM: 39.02%  DM:  8.71% (wm:138 lm:103 dm:23) games:623  WG: 54.57% LG: 45.43% (wg: 340 lg: 283) pick: 68   Krasnodar(36), Spb(23), Online(3), Yekaterinburg(3), Volgograd(2), Moscow(1), 
+The Reality Chip                 matches:268  WM: 52.24%  LM: 39.18%  DM:  8.58% (wm:140 lm:105 dm:23) games:633  WG: 54.50% LG: 45.50% (wg: 345 lg: 288) pick: 69   Krasnodar(37), Spb(23), Online(3), Yekaterinburg(3), Volgograd(2), Moscow(1), 
 The Tenth Doctor                 matches:5    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:5   dm:0)  games:11   WG:  9.09% LG: 90.91% (wg:   1 lg:  10) pick: 2    RostovOnDon(2), 
   + Rose Tyler                  
 Thrasios, Triton Hero            matches:7    WM: 14.29%  LM: 71.43%  DM: 14.29% (wm:1   lm:5   dm:1)  games:15   WG: 33.33% LG: 66.67% (wg:   5 lg:  10) pick: 2    Spb(2), 
@@ -348,7 +349,7 @@ Tivit, Seller of Secrets         matches:24   WM: 45.83%  LM: 54.17%  DM:  0.00%
 Torbran, Thane of Red Fell       matches:11   WM: 45.45%  LM: 45.45%  DM:  9.09% (wm:5   lm:5   dm:1)  games:27   WG: 44.44% LG: 55.56% (wg:  12 lg:  15) pick: 3    Spb(3), 
 Torens, Fist of the Angels       matches:12   WM: 41.67%  LM: 58.33%  DM:  0.00% (wm:5   lm:7   dm:0)  games:32   WG: 46.88% LG: 53.12% (wg:  15 lg:  17) pick: 2    Volgograd(1), Online(1), 
 Tovolar, Dire Overlord           matches:2    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:2   dm:0)  games:4    WG:  0.00% LG:100.00% (wg:   0 lg:   4) pick: 1    Spb(1), 
-Trelasarra, Moon Dancer          matches:8    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:4   lm:4   dm:0)  games:20   WG: 50.00% LG: 50.00% (wg:  10 lg:  10) pick: 2    Krasnodar(2), 
+Trelasarra, Moon Dancer          matches:11   WM: 36.36%  LM: 63.64%  DM:  0.00% (wm:4   lm:7   dm:0)  games:28   WG: 42.86% LG: 57.14% (wg:  12 lg:  16) pick: 3    Krasnodar(3), 
 Tymaret, the Murder King         matches:23   WM: 21.74%  LM: 73.91%  DM:  4.35% (wm:5   lm:17  dm:1)  games:52   WG: 26.92% LG: 73.08% (wg:  14 lg:  38) pick: 6    Ussuriysk(5), Spb(1), 
 Urabrask                         matches:26   WM: 46.15%  LM: 50.00%  DM:  3.85% (wm:12  lm:13  dm:1)  games:67   WG: 46.27% LG: 53.73% (wg:  31 lg:  36) pick: 6    Spb(5), Volgograd(1), 
 Uro, Titan of Nature's Wrath     matches:134  WM: 58.21%  LM: 29.85%  DM: 11.94% (wm:78  lm:40  dm:16) games:308  WG: 60.39% LG: 39.61% (wg: 186 lg: 122) pick: 30   Krasnodar(17), Spb(7), Online(6), 
@@ -361,15 +362,14 @@ Wilson, Refined Grizzly          matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00%
   + Guild Artisan               
 Wilson, Refined Grizzly          matches:2    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:1   lm:1   dm:0)  games:5    WG: 40.00% LG: 60.00% (wg:   2 lg:   3) pick: 1    Saratov(1), 
   + Tavern Brawler              
-Winota, Joiner of Forces         matches:136  WM: 55.88%  LM: 38.97%  DM:  5.15% (wm:76  lm:53  dm:7)  games:334  WG: 54.79% LG: 45.21% (wg: 183 lg: 151) pick: 38   Krasnodar(36), Volgograd(2), 
+Winota, Joiner of Forces         matches:140  WM: 55.71%  LM: 39.29%  DM:  5.00% (wm:78  lm:55  dm:7)  games:343  WG: 54.81% LG: 45.19% (wg: 188 lg: 155) pick: 39   Krasnodar(37), Volgograd(2), 
 Wylie Duke, Atiin Hero           matches:19   WM: 57.89%  LM: 31.58%  DM: 10.53% (wm:11  lm:6   dm:2)  games:44   WG: 59.09% LG: 40.91% (wg:  26 lg:  18) pick: 4    Volgograd(3), Online(1), 
 Xavier Sal, Infested Captain     matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:6    WG: 33.33% LG: 66.67% (wg:   2 lg:   4) pick: 1    Ussuriysk(1), 
-Yoshimaru, Ever Faithful         matches:3    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:3   lm:0   dm:0)  games:7    WG: 85.71% LG: 14.29% (wg:   6 lg:   1) pick: 1    Krasnodar(1), 
 Yoshimaru, Ever Faithful         matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:12   WG: 50.00% LG: 50.00% (wg:   6 lg:   6) pick: 1    Online(1), 
   + Kydele, Chosen of Kruphix   
 Yoshimaru, Ever Faithful         matches:12   WM: 58.33%  LM: 25.00%  DM: 16.67% (wm:7   lm:3   dm:2)  games:28   WG: 60.71% LG: 39.29% (wg:  17 lg:  11) pick: 3    Yekaterinburg(3), 
   + Bruse Tarl, Boorish Herder  
-Yoshimaru, Ever Faithful         matches:2    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:2   lm:0   dm:0)  games:5    WG: 80.00% LG: 20.00% (wg:   4 lg:   1) pick: 1    RostovOnDon(1), 
+Yoshimaru, Ever Faithful         matches:9    WM: 88.89%  LM: 11.11%  DM:  0.00% (wm:8   lm:1   dm:0)  games:21   WG: 76.19% LG: 23.81% (wg:  16 lg:   5) pick: 3    Krasnodar(2), RostovOnDon(1), 
   + Jeska, Thrice Reborn        
 Yoshimaru, Ever Faithful         matches:14   WM: 57.14%  LM: 35.71%  DM:  7.14% (wm:8   lm:5   dm:1)  games:35   WG: 54.29% LG: 45.71% (wg:  19 lg:  16) pick: 4    Saratov(3), Volgograd(1), 
   + Kydele, Chosen of Kruphix   
