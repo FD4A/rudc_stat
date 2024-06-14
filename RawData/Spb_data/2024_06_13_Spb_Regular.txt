@@ -1,0 +1,34 @@
+location::Spb
+level::Regular
+date::2024_06_13
+organizer::Andysays
+players::generals
+Кеворков Артур :: Eris, Roar of the Storm
+Муравьев Никита :: Juri, Master of the Revue
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Ламзин Сергей :: Nadu, Winged Wisdom
+Ульянов Алексей :: Omnath, Locus of Creation
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Соловьев Валентин :: Nadu, Winged Wisdom
+Мартынов Влад :: Aminatou, the Fateshifter
+Грабовой Филипп :: Eris, Roar of the Storm
+Мартынов Яков :: The Reality Chip
+Фукин Дмитрий :: Kinnan, Bonder Prodigy
+Брук Роман :: Urabrask
+Бутринов Виктор :: Eris, Roar of the Storm
+Семенов Дмитрий :: Nadu, Winged Wisdom
+Протасов Михаил :: Aminatou, the Fateshifter
+Поляков Герман :: Omnath, Locus of Creation
+Иванов Максим :: Geist of Saint Traft
+Фиткулин Антон :: Feldon, Ronom Excavator
+Тагильцев Андрей :: Asmoranomardicadaistinaculdacar
+Цюра Максим :: Eris, Roar of the Storm
+Котляр Богдан :: Geist of Saint Traft
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Яковлев Николай :: Dihada, Binder of Wills
+Семенов Павел :: The Necrobloom
+Саушкин Андрей :: Omnath, Locus of Creation
+Тяпайкин Максим :: Asmoranomardicadaistinaculdacar
+Хорьков Аркадий :: Eris, Roar of the Storm
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/30887

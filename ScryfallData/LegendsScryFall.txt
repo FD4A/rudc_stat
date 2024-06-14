@@ -166,6 +166,7 @@ Arlinn Kord
 Arlinn, the Pack's Hope
 Arlinn, Voice of the Pack
 Armix, Filigree Thrasher
+Arna Kennerüd, Skycaptain
 Arni Brokenbrow
 Arni Metalbrow
 Aron, Benalia's Ruin
@@ -190,6 +191,7 @@ Ashiok, Nightmare Muse
 Ashiok, Nightmare Weaver
 Ashiok, Sculptor of Fears
 Ashiok, Wicked Manipulator
+Ashling, Flame Dancer
 Ashling, the Extinguisher
 Ashling the Pilgrim
 Ashnod, Flesh Mechanist
@@ -242,6 +244,7 @@ Ayula, Queen Among Bears
 Ayumi, the Last Visitor
 Azami, Lady of Scrolls
 A-Zar Ojanen, Scion of Efrava
+Azlask, the Swelling Scourge
 Azor's Gateway
 Azor, the Lawbringer
 Azusa, Lost but Seeking
@@ -387,6 +390,7 @@ Carmen, Cruel Skymarcher
 Carth the Lion
 Cass, Hand of Vengeance
 Catti-brie of Mithral Hall
+Cayth, Famed Mechanist
 Cazur, Ruthless Stalker
 Cecily, Haunted Mage
 Celeborn the Wise
@@ -451,6 +455,7 @@ Commander Mustard
 Commander Sofia Daguerre
 Commissar Severina Raine
 Commodore Guff
+Coram, the Undertaker
 Cormela, Glamour Thief
 Cosima, God of the Voyage
 Craig Boone, Novac Guard
@@ -511,6 +516,7 @@ Devil K. Nevil
 Diaochan, Artful Beauty
 Dihada, Binder of Wills
 Dina, Soul Steeper
+Disa the Restless
 Djeru and Hazoret
 Djeru, With Eyes Open
 Doc Aurlock, Grizzled Genius
@@ -573,6 +579,7 @@ Eiganjo Castle
 Eiganjo, Seat of the Empire
 Eight-and-a-Half-Tails
 Eivor, Battle-Ready
+Eladamri, Korvecdal
 Eladamri, Lord of Leaves
 Elanor Gardner
 Elas il-Kor, Sadistic Pilgrim
@@ -763,6 +770,7 @@ General Kudro of Drannith
 General Marhault Elsdragon
 General Tazri
 Genju of the Realm
+Genku, Future Shaper
 Geralf, the Fleshwright
 Geralf, Visionary Stitcher
 Gerrard Capashen
@@ -880,6 +888,7 @@ Griselbrand
 Grishnákh, Brash Instigator
 Grismold, the Dreadsower
 Grist, the Hunger Tide
+Grist, Voracious Larva
 Grolnok, the Omnivore
 Grond, the Gatebreaker
 Grothama, All-Devouring
@@ -1021,6 +1030,7 @@ Imoen, Mystic Trickster
 Imoen, Trickster Friend
 Imotekh the Stormlord
 Imoti, Celebrant of Bounty
+Imskir Iron-Eater
 Inalla, Archmage Ritualist
 Iname as One
 Iname, Death Aspect
@@ -1172,6 +1182,7 @@ Jugan, the Rising Star
 Junji, the Midnight Sky
 Juri, Master of the Revue
 Jushi Apprentice
+Jyoti, Moag Ancient
 K-9, Mark I
 Kaalia of the Vast
 Kaalia, Zenith Seeker
@@ -1232,6 +1243,7 @@ Kasimir the Lone Wolf
 Kasla, the Broken Halo
 Kasmina, Enigma Sage
 Kasmina, Enigmatic Mentor
+Kassandra, Eagle Bearer
 Kataki, War's Wage
 Katerina of Myra's Marvels
 Kate Stewart
@@ -1335,6 +1347,7 @@ Kothophed, Soul Hoarder
 Kotori, Pilot Prodigy
 Kotose, the Silent Spider
 Kozilek, Butcher of Truth
+Kozilek, the Broken Reality
 Kozilek, the Great Distortion
 Krark's Other Thumb
 Krark's Thumb
@@ -1655,6 +1668,7 @@ Mythweaver Poq
 Naban, Dean of Iteration
 Nadaar, Selfless Paladin
 Nadier, Agent of the Duskenel
+Nadu, Winged Wisdom
 Nael, Avizoa Aeronaut
 Nagao, Bound by Honor
 Nahiri, Forged in Fury
@@ -1682,6 +1696,7 @@ Nashi, Moon's Legacy
 Nath of the Gilt-Leaf
 Nazahn, Revered Bladesmith
 Nebuchadnezzar
+Necrodominance
 Neera, Wild Mage
 Nefarox, Overlord of Grixis
 Neheb, Dreadhorde Champion
@@ -1813,6 +1828,7 @@ Omnath, Locus of Creation
 Omnath, Locus of Mana
 Omnath, Locus of Rage
 Omnath, Locus of the Roil
+Omo, Queen of Vesuva
 On Serra's Wings
 Oona, Queen of the Fae
 Opal-Eye, Konda's Yojimbo
@@ -1864,6 +1880,7 @@ Patron of the Moon
 Patron of the Nezumi
 Patron of the Orochi
 Pavel Maliki
+Pearl-Ear, Imperial Advisor
 Pendelhaven
 Peregrin Took
 Peri Brown
@@ -1875,6 +1892,7 @@ Phelddagrif
 Phelia, Exuberant Shepherd
 Phenax, God of Deception
 Phial of Galadriel
+Phlage, Titan of Fire's Fury
 Phoebe, Head of S.N.E.A.K.
 Phylath, World Sculptor
 Phyrexian Tower
@@ -1954,6 +1972,7 @@ Rakka Mar
 Raksha Golden Cub
 Ral, Caller of Storms
 Ral, Izzet Viceroy
+Ral, Monsoon Mage
 Ral, Storm Conduit
 Ral Zarek
 Ramirez DePietro
@@ -2049,6 +2068,7 @@ Rose, Cutthroat Raider
 Rose Noble
 Rose Tyler
 Rosheen Meanderer
+Rosheen, Roaring Prophet
 Rosie Cotton of South Lane
 Rosnakht, Heir of Rohgahh
 Rothga, Bonded Engulfer
@@ -2124,6 +2144,7 @@ Saskia the Unyielding
 Satoru, the Infiltrator
 Satoru Umezawa
 Satsuki, the Living Lore
+Satya, Aetherflux Genius
 Sauron, Lord of the Rings
 Sauron, the Dark Lord
 Sauron, the Lidless Eye
@@ -2184,6 +2205,7 @@ Sheoldred, Whispering One
 Shessra, Death's Whisper
 Shield of Kaldra
 Shigeki, Jukai Visionary
+Shilgengar, Sire of Famine
 Shimatsu the Bloodcloaked
 Shinka, the Bloodsoaked Keep
 Shirei, Shizo's Caretaker
@@ -2218,10 +2240,12 @@ Sisters of Stone Death
 Sivitri, Dragon Master
 Sivitri Scarzam
 Sivriss, Nightmare Speaker
+Six
 Skanos Dragonheart
 Skanos, Dragon Vassal
 Skeleton Ship
 Skithiryx, the Blight Dragon
+Skoa, Embermage
 Skrelv, Defector Mite
 Skullbriar, the Walking Grave
 Skyfire Kirin
@@ -2257,6 +2281,7 @@ Sorin, Grim Nemesis
 Sorin, Imperious Bloodlord
 Sorin, Lord of Innistrad
 Sorin Markov
+Sorin of House Markov
 Sorin, Solemn Visitor
 Sorin the Mirthless
 Sorin, Vampire Lord
@@ -2345,6 +2370,7 @@ Tameshi, Reality Architect
 Tamiyo, Collector of Tales
 Tamiyo, Compleated Sage
 Tamiyo, Field Researcher
+Tamiyo, Inquisitive Student
 Tamiyo's Journal
 Tamiyo, the Moon Sage
 Tana, the Bloodsower
@@ -2500,6 +2526,7 @@ The Most Dangerous Gamer
 The Motherlode, Excavator
 The Mouth of Sauron
 The Mycotyrant
+The Necrobloom
 The Ninth Doctor
 Théoden, King of Rohan
 The One Ring
@@ -2523,6 +2550,7 @@ The Shire
 The Sixth Doctor
 The Skullspore Nexus
 The Space Family Goblinson
+The Spear of Leonidas
 The Stasis Coffin
 The Stone Brain
 The Swarmlord
@@ -2615,7 +2643,6 @@ Toxrill, the Corrosive
 Traxos, Scourge of Kroog
 Trazyn the Infinite
 Treebeard, Gracious Host
-Treizeci, Sun of Serra
 Trelasarra, Moon Dancer
 Trenzalore Clocktower
 Treva, the Renewer
@@ -2646,7 +2673,9 @@ Ugin, the Ineffable
 Ugin, the Spirit Dragon
 Uglúk of the White Hand
 Ukkima, Stalking Shadow
+Ulalek, Fused Atrocity
 Ulamog, the Ceaseless Hunger
+Ulamog, the Defiler
 Ulamog, the Infinite Gyre
 Ulasht, the Hate Seed
 Ulder Ravengard, Marshal
@@ -2749,7 +2778,7 @@ Volrath's Stronghold
 Volrath the Fallen
 Volrath, the Shapestealer
 Vona, Butcher of Magan
-Vona de ledo, the Antifex
+Vona de Iedo, the Antifex
 Vorel of the Hull Clade
 Vorinclex, Monstrous Raider
 Vorinclex

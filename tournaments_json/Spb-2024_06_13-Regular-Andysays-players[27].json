@@ -1,0 +1,617 @@
+{
+    "date": "2024_06_13",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Кеворков Артур",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Ламзин Сергей",
+            "Nadu, Winged Wisdom"
+        ],
+        [
+            "Ульянов Алексей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Соловьев Валентин",
+            "Nadu, Winged Wisdom"
+        ],
+        [
+            "Мартынов Влад",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Грабовой Филипп",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Фукин Дмитрий",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Брук Роман",
+            "Urabrask"
+        ],
+        [
+            "Бутринов Виктор",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Nadu, Winged Wisdom"
+        ],
+        [
+            "Протасов Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Поляков Герман",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Фиткулин Антон",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Тагильцев Андрей",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Цюра Максим",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Котляр Богдан",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Барабаш Валентин",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Яковлев Николай",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Семенов Павел",
+            "The Necrobloom"
+        ],
+        [
+            "Саушкин Андрей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Хорьков Аркадий",
+            "Eris, Roar of the Storm"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Семенов Павел",
+                "Иванов Максим",
+                "The Necrobloom",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Котляр Богдан",
+                "Хорьков Аркадий",
+                "Geist of Saint Traft",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Брук Роман",
+                "Кеворков Артур",
+                "Urabrask",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Барабаш Валентин",
+                "Nadu, Winged Wisdom",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ламзин Сергей",
+                "Тагильцев Андрей",
+                "Nadu, Winged Wisdom",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Родюков Федор",
+                "Eris, Roar of the Storm",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Муравьев Никита",
+                "Eris, Roar of the Storm",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Фиткулин Антон",
+                "Яковлев Николай",
+                "Feldon, Ronom Excavator",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Фукин Дмитрий",
+                "Omnath, Locus of Creation",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Соловьев Валентин",
+                "Omnath, Locus of Creation",
+                "Nadu, Winged Wisdom",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Мартынов Яков",
+                "Aminatou, the Fateshifter",
+                "The Reality Chip",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Ульянов Алексей",
+                "Asmoranomardicadaistinaculdacar",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Бутринов Виктор",
+                "Aminatou, the Fateshifter",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Ульянов Алексей",
+                "Кеворков Артур",
+                "Omnath, Locus of Creation",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Фиткулин Антон",
+                "Муравьев Никита",
+                "Feldon, Ronom Excavator",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Ламзин Сергей",
+                "Ghyrson Starn, Kelermorph",
+                "Nadu, Winged Wisdom",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Котляр Богдан",
+                "Бутринов Виктор",
+                "Geist of Saint Traft",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Соловьев Валентин",
+                "Фукин Дмитрий",
+                "Nadu, Winged Wisdom",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Богатырев Александр",
+                "Nadu, Winged Wisdom",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Мартынов Влад",
+                "Geist of Saint Traft",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Семенов Павел",
+                "Мартынов Яков",
+                "The Necrobloom",
+                "The Reality Chip",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Поляков Герман",
+                "Eris, Roar of the Storm",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Протасов Михаил",
+                "Asmoranomardicadaistinaculdacar",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Тагильцев Андрей",
+                "Dihada, Binder of Wills",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Брук Роман",
+                "Хорьков Аркадий",
+                "Urabrask",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Барабаш Валентин",
+                "Eris, Roar of the Storm",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Ламзин Сергей",
+                "Муравьев Никита",
+                "Nadu, Winged Wisdom",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Фукин Дмитрий",
+                "Кеворков Артур",
+                "Kinnan, Bonder Prodigy",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Бутринов Виктор",
+                "Богатырев Александр",
+                "Eris, Roar of the Storm",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Протасов Михаил",
+                "The Reality Chip",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Тагильцев Андрей",
+                "Aminatou, the Fateshifter",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Котляр Богдан",
+                "Родюков Федор",
+                "Geist of Saint Traft",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Брук Роман",
+                "Соловьев Валентин",
+                "Urabrask",
+                "Nadu, Winged Wisdom",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Фиткулин Антон",
+                "Ульянов Алексей",
+                "Feldon, Ronom Excavator",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Грабовой Филипп",
+                "Kinnan, Bonder Prodigy",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Поляков Герман",
+                "Nadu, Winged Wisdom",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Семенов Павел",
+                "Яковлев Николай",
+                "The Necrobloom",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Тяпайкин Максим",
+                "Geist of Saint Traft",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Аркадий",
+                "Цюра Максим",
+                "Eris, Roar of the Storm",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Богатырев Александр",
+                "Муравьев Никита",
+                "Indoraptor, the Perfect Hybrid",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кеворков Артур",
+                "Мартынов Влад",
+                "Eris, Roar of the Storm",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Соловьев Валентин",
+                "Протасов Михаил",
+                "Nadu, Winged Wisdom",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Бутринов Виктор",
+                "Ульянов Алексей",
+                "Eris, Roar of the Storm",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Фукин Дмитрий",
+                "Ghyrson Starn, Kelermorph",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Ламзин Сергей",
+                "Nadu, Winged Wisdom",
+                "Nadu, Winged Wisdom",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Иванов Максим",
+                "Eris, Roar of the Storm",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Яковлев Николай",
+                "The Reality Chip",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Брук Роман",
+                "Барабаш Валентин",
+                "Urabrask",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Хорьков Аркадий",
+                "Omnath, Locus of Creation",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}
