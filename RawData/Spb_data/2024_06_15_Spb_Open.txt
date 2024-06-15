@@ -1,0 +1,51 @@
+location::Spb
+level::Open
+date::2024_06_15
+organizer::Paranoidream
+players::generals
+Соловьев Валенин :: Nadu, Winged Wisdom
+Фридман Виталий :: Raffine, Scheming Seer
+Ламзин Сергей :: Nadu, Winged Wisdom
+Семенов Дмитрий :: Hogaak, Arisen Necropolis
+Фиткулин Антон :: Feldon, Ronom Excavator
+Бутримов Виктор :: Eris, Roar of the Storm
+Долганов Матвей :: Ajani, Nacatl Pariah
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Фридман Сергей :: The Reality Chip
+Костин Андрей :: Kinnan, Bonder Prodigy
+Кеворков Артур :: Eris, Roar of the Storm
+Тяпайкин Максим :: Golos, Tireless Pilgrim
+Серпутько Вячеслав :: Selvala, Explorer Returned
+Падве Владимир :: Geist of Saint Traft
+Поляков Герман :: Omnath, Locus of Creation
+Саушкин Андрей :: Omnath, Locus of Creation
+Воронцов Иван :: Rafiq of the Many
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Тагильцев Андрей :: Asmoranomardicadaistinaculdacar
+Гаврилов Никита :: Malcolm, Alluring Scoundrel
+Грабовой Филипп :: Eris, Roar of the Storm
+Протасов Михаил :: Aminatou, the Fateshifter
+Шабалов Михаил :: Sygg, River Cutthroat
+Котляр Богдан :: Geist of Saint Traft
+Цюра Максим :: Eris, Roar of the Storm
+Мартынов Яков :: The Reality Chip
+Путилов Сергей :: Geist of Saint Traft
+Муравьев Никита :: Juri, Master of the Revue
+Таловер Артем :: Kinnan, Bonder Prodigy
+Ульянов Алексей :: Omnath, Locus of Creation
+Вахитов Ривкат :: The Reality Chip
+Иванов Максим :: Geist of Saint Traft
+Брук Роман :: Urabrask
+Байков Аркадий :: Vial Smasher the Fierce
+Хорьков Аркадий :: Arahbo
+Мартынов Влад :: Aminatou, the Fateshifter
+Чжан Цзяи :: Sisay, Weatherlight Captain :++: Jegantha, the Wellspring
+Фукин Дмитрий :: Golos, Tireless Pilgrim
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Карманов Иван :: Melira, the Living Cure
+Лузаков Петр :: Teysa, Orzhov Scion
+Федоров Дмитрий :: Amalia Benavides Aguirre
+Яковлев Николай :: Dihada, Binder of Wills
+Кузенкин Александр :: Arahbo
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/30936
