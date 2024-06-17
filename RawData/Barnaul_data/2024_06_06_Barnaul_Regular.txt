@@ -1,0 +1,13 @@
+location::Barnaul
+level::Regular
+date::2024_06_06
+organizer::
+players::generals
+Андрей Студеникин (384155255) :: Shorikai, Genesis Engine
+Влад Гладышев :: Hogaak, Arisen Necropolis
+Иван Послухов :: Feldon, Ronom Excavator
+Дмитрий Лисин :: Kytheon, Hero of Akros
+Михаил Старостенков :: Ghyrson Starn, Kelermorph
+Илья Гесин :: Old Stickfingers
+Round
+https://aetherhub.com/Tourney/RoundTourney/30682

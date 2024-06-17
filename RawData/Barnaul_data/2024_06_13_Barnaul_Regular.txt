@@ -1,0 +1,15 @@
+location::Barnaul
+level::Regular
+date::2024_05_31
+organizer::
+players::generals
+Александр Самусенко :: Omnath, Locus of Creation
+Иван Послухов :: Balmor, Battlemage Captain
+Дмитрий Лисин :: Kytheon, Hero of Akros
+Илья Гесин :: Old Stickfingers
+Андрей Студеникин (384155255) :: Shorikai, Genesis Engine
+Влад Гладышев :: Hogaak, Arisen Necropolis
+Достияр Амержаев :: Baral and Kari Zev
+Григорий Малыхин :: Krenko, Mob Boss
+Round
+https://aetherhub.com/Tourney/RoundTourney/30885

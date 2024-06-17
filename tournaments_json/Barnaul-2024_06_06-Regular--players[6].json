@@ -1,0 +1,131 @@
+{
+    "date": "2024_06_06",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Андрей Студеникин (384155255)",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Влад Гладышев",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Иван Послухов",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Дмитрий Лисин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Михаил Старостенков",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Илья Гесин",
+            "Old Stickfingers"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Илья Гесин",
+                "Михаил Старостенков",
+                "Old Stickfingers",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Иван Послухов",
+                "Hogaak, Arisen Necropolis",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Андрей Студеникин (384155255)",
+                "Дмитрий Лисин",
+                "Shorikai, Genesis Engine",
+                "Kytheon, Hero of Akros",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Влад Гладышев",
+                "Андрей Студеникин (384155255)",
+                "Hogaak, Arisen Necropolis",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Михаил Старостенков",
+                "Дмитрий Лисин",
+                "Ghyrson Starn, Kelermorph",
+                "Kytheon, Hero of Akros",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Иван Послухов",
+                "Old Stickfingers",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Андрей Студеникин (384155255)",
+                "Иван Послухов",
+                "Shorikai, Genesis Engine",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Михаил Старостенков",
+                "Hogaak, Arisen Necropolis",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дмитрий Лисин",
+                "Илья Гесин",
+                "Kytheon, Hero of Akros",
+                "Old Stickfingers",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

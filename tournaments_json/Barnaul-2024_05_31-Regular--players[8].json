@@ -1,0 +1,169 @@
+{
+    "date": "2024_05_31",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Александр Самусенко",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Иван Послухов",
+            "Balmor, Battlemage Captain"
+        ],
+        [
+            "Дмитрий Лисин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Илья Гесин",
+            "Old Stickfingers"
+        ],
+        [
+            "Андрей Студеникин (384155255)",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Влад Гладышев",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Достияр Амержаев",
+            "Baral and Kari Zev"
+        ],
+        [
+            "Григорий Малыхин",
+            "Krenko, Mob Boss"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Илья Гесин",
+                "Дмитрий Лисин",
+                "Old Stickfingers",
+                "Kytheon, Hero of Akros",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Достияр Амержаев",
+                "Иван Послухов",
+                "Baral and Kari Zev",
+                "Balmor, Battlemage Captain",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Григорий Малыхин",
+                "Omnath, Locus of Creation",
+                "Krenko, Mob Boss",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Андрей Студеникин (384155255)",
+                "Влад Гладышев",
+                "Shorikai, Genesis Engine",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Лисин",
+                "Александр Самусенко",
+                "Kytheon, Hero of Akros",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Иван Послухов",
+                "Hogaak, Arisen Necropolis",
+                "Balmor, Battlemage Captain",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Достияр Амержаев",
+                "Андрей Студеникин (384155255)",
+                "Baral and Kari Zev",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Григорий Малыхин",
+                "Илья Гесин",
+                "Krenko, Mob Boss",
+                "Old Stickfingers",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Иван Послухов",
+                "Александр Самусенко",
+                "Balmor, Battlemage Captain",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Дмитрий Лисин",
+                "Влад Гладышев",
+                "Kytheon, Hero of Akros",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Достияр Амержаев",
+                "Old Stickfingers",
+                "Baral and Kari Zev",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Андрей Студеникин (384155255)",
+                "Григорий Малыхин",
+                "Shorikai, Genesis Engine",
+                "Krenko, Mob Boss",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}
