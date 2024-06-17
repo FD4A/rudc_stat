@@ -1,0 +1,97 @@
+{
+    "date": "2024_06_09",
+    "location": "Ussuriysk",
+    "level": "Regular",
+    "organizer": "Usstiger",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Алексей Ж",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Кирилл С",
+            "Kellan, the Kid"
+        ],
+        [
+            "Дмитрий С",
+            "Tymaret, the Murder King"
+        ],
+        [
+            "Матвей Б",
+            "Leovold, Emissary of Trest"
+        ],
+        [
+            "Вячеслав Ш",
+            "Sisay, Weatherlight Captain"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Кирилл С",
+                "Матвей Б",
+                "Kellan, the Kid",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Вячеслав Ш",
+                "Grist, the Hunger Tide",
+                "Sisay, Weatherlight Captain",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей Ж",
+                "Матвей Б",
+                "Grist, the Hunger Tide",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дмитрий С",
+                "Кирилл С",
+                "Tymaret, the Murder King",
+                "Kellan, the Kid",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей Ж",
+                "Кирилл С",
+                "Grist, the Hunger Tide",
+                "Kellan, the Kid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Дмитрий С",
+                "Sisay, Weatherlight Captain",
+                "Tymaret, the Murder King",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

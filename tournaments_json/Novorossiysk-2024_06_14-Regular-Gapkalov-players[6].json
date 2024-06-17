@@ -1,0 +1,131 @@
+{
+    "date": "2024_06_14",
+    "location": "Novorossiysk",
+    "level": "Regular",
+    "organizer": "Gapkalov",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Константин Антипин",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Дмитрий Гапкалов",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Николай Шумихин",
+            "Selvala, Explorer Returned"
+        ],
+        [
+            "Александр Мамылин",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Василий Домашек",
+            "Kari Zev, Skyship Raider"
+        ],
+        [
+            "Кирилл Иманов",
+            "Nine-Fingers Keene"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Василий Домашек",
+                "Дмитрий Гапкалов",
+                "Kari Zev, Skyship Raider",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кирилл Иманов",
+                "Константин Антипин",
+                "Nine-Fingers Keene",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Мамылин",
+                "Николай Шумихин",
+                "Winota, Joiner of Forces",
+                "Selvala, Explorer Returned",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Гапкалов",
+                "Николай Шумихин",
+                "Grist, the Hunger Tide",
+                "Selvala, Explorer Returned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Василий Домашек",
+                "Константин Антипин",
+                "Kari Zev, Skyship Raider",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Мамылин",
+                "Кирилл Иманов",
+                "Winota, Joiner of Forces",
+                "Nine-Fingers Keene",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Гапкалов",
+                "Константин Антипин",
+                "Grist, the Hunger Tide",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Василий Домашек",
+                "Александр Мамылин",
+                "Kari Zev, Skyship Raider",
+                "Winota, Joiner of Forces",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Николай Шумихин",
+                "Кирилл Иманов",
+                "Selvala, Explorer Returned",
+                "Nine-Fingers Keene",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

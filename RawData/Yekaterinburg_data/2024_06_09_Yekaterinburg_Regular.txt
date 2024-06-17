@@ -1,0 +1,12 @@
+location::Yekaterinburg
+level::Regular
+date::2024_06_09
+organizer::EDINOROG_EKB
+players::generals
+Разумов Артем :: Nadu, Winged Wisdom
+Согомонян Сергей :: Raffine, Scheming Seer
+Кригер Владислав :: Omnath, Locus of Creation
+Панкрашин Святослав :: Eris, Roar of the Storm
+Антипов Артём :: Aminatou, the Fateshifter
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/30800

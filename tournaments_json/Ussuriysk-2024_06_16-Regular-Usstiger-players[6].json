@@ -1,0 +1,163 @@
+{
+    "date": "2024_06_16",
+    "location": "Ussuriysk",
+    "level": "Regular",
+    "organizer": "Usstiger",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Алексей Ж",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Матвей К",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Кирилл С",
+            "Sauron, the Dark Lord"
+        ],
+        [
+            "Кирилл К",
+            "Urza, Chief Artificer"
+        ],
+        [
+            "Матвей Б",
+            "Atraxa, Grand Unifier"
+        ],
+        [
+            "Дмитрий С",
+            "Tymaret, the Murder King"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Дмитрий С",
+                "Матвей Б",
+                "Tymaret, the Murder King",
+                "Atraxa, Grand Unifier",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кирилл К",
+                "Матвей К",
+                "Urza, Chief Artificer",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Кирилл С",
+                "Grist, the Hunger Tide",
+                "Sauron, the Dark Lord",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Матвей К",
+                "Алексей Ж",
+                "Asmoranomardicadaistinaculdacar",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Матвей Б",
+                "Кирилл С",
+                "Atraxa, Grand Unifier",
+                "Sauron, the Dark Lord",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий С",
+                "Кирилл К",
+                "Tymaret, the Murder King",
+                "Urza, Chief Artificer",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей Ж",
+                "Матвей Б",
+                "Grist, the Hunger Tide",
+                "Atraxa, Grand Unifier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Кирилл К",
+                "Sauron, the Dark Lord",
+                "Urza, Chief Artificer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Матвей К",
+                "Дмитрий С",
+                "Asmoranomardicadaistinaculdacar",
+                "Tymaret, the Murder King",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей Ж",
+                "Кирилл К",
+                "Grist, the Hunger Tide",
+                "Urza, Chief Artificer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Матвей К",
+                "Матвей Б",
+                "Asmoranomardicadaistinaculdacar",
+                "Atraxa, Grand Unifier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Дмитрий С",
+                "Sauron, the Dark Lord",
+                "Tymaret, the Murder King",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

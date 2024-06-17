@@ -1,0 +1,13 @@
+location::Yekaterinburg
+level::Regular
+date::2024_06_09
+organizer::EDINOROG_EKB
+players::generals
+Панкрашин Святослав :: Eris, Roar of the Storm
+Планков Борис :: Nadu, Winged Wisdom
+Казайкин Матвей :: Yoshimaru, Ever Faithful :+: Jeska, Thrice Reborn
+Разумов Артем ::
+Согомонян Сергей :: Raffine, Scheming Seer
+Шатрова Валерия :: Yoshimaru, Ever Faithful :++: Bruse Tarl, Boorish Herder
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/30974

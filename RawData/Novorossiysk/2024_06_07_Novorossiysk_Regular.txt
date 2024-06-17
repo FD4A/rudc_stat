@@ -1,0 +1,11 @@
+location::Novorossiysk
+level::Regular
+date::2024_06_07
+organizer::Gapkalov
+players::generals
+Николай Шумихин :: Selvala, Explorer Returned
+Дмитрий Гапкалов :: Grist, the Hunger Tide
+Кирилл Темнов :: Sythis, Harvest's Hand
+Василий Домашек :: Wilson, Refined Grizzly
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/30721

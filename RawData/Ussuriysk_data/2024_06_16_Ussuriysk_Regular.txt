@@ -1,0 +1,13 @@
+location::Ussuriysk
+level::Regular
+date::2024_06_16
+organizer::Usstiger
+players::generals
+Алексей Ж :: Grist, the Hunger Tide
+Матвей К :: Asmoranomardicadaistinaculdacar
+Кирилл С :: Sauron, the Dark Lord
+Кирилл К :: Urza, Chief Artificer
+Матвей Б :: Atraxa, Grand Unifier
+Дмитрий С :: Tymaret, the Murder King
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/30966

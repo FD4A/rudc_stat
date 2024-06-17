@@ -1,0 +1,135 @@
+{
+    "date": "2024_06_15",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Ilya Shubenin",
+            "Atraxa, Praetors' Voice"
+        ],
+        [
+            "Pavel Burmistrov",
+            "Lagrella, the Magpie"
+        ],
+        [
+            "Vadim Lukaynov",
+            "Atraxa, Grand Unifier"
+        ],
+        [
+            "Constantin Somkin",
+            "Dragonlord Ojutai"
+        ],
+        [
+            "Vladimir Erohin",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Ilya Snezhkov",
+            "Wilhelt, the Rotcleaver"
+        ],
+        [
+            "Vasiliy Mishin",
+            "God-Eternal Kefnet"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Vadim Lukaynov",
+                "Constantin Somkin",
+                "Atraxa, Grand Unifier",
+                "Dragonlord Ojutai",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Ilya Snezhkov",
+                "Ilya Shubenin",
+                "Wilhelt, the Rotcleaver",
+                "Atraxa, Praetors' Voice",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Vladimir Erohin",
+                "Pavel Burmistrov",
+                "Kroxa, Titan of Death's Hunger",
+                "Lagrella, the Magpie",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Ilya Shubenin",
+                "Pavel Burmistrov",
+                "Atraxa, Praetors' Voice",
+                "Lagrella, the Magpie",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Vasiliy Mishin",
+                "Constantin Somkin",
+                "God-Eternal Kefnet",
+                "Dragonlord Ojutai",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Vadim Lukaynov",
+                "Vladimir Erohin",
+                "Atraxa, Grand Unifier",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Ilya Shubenin",
+                "Constantin Somkin",
+                "Atraxa, Praetors' Voice",
+                "Dragonlord Ojutai",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ilya Snezhkov",
+                "Pavel Burmistrov",
+                "Wilhelt, the Rotcleaver",
+                "Lagrella, the Magpie",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Vasiliy Mishin",
+                "Vadim Lukaynov",
+                "God-Eternal Kefnet",
+                "Atraxa, Grand Unifier",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

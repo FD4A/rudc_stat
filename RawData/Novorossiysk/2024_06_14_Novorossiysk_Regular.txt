@@ -1,0 +1,13 @@
+location::Novorossiysk
+level::Regular
+date::2024_06_14
+organizer::Gapkalov
+players::generals
+Константин Антипин :: Feldon, Ronom Excavator
+Дмитрий Гапкалов :: Grist, the Hunger Tide
+Николай Шумихин :: Selvala, Explorer Returned
+Александр Мамылин :: Winota, Joiner of Forces
+Василий Домашек :: Kari Zev, Skyship Raider
+Кирилл Иманов :: Nine-Fingers Keene
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/30910

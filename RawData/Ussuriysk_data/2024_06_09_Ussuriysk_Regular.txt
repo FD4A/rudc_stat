@@ -1,0 +1,12 @@
+location::Ussuriysk
+level::Regular
+date::2024_06_09
+organizer::Usstiger
+players::generals
+Алексей Ж :: Grist, the Hunger Tide
+Кирилл С :: Kellan, the Kid
+Дмитрий С :: Tymaret, the Murder King
+Матвей Б :: Leovold, Emissary of Trest
+Вячеслав Ш :: Sisay, Weatherlight Captain
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/30786

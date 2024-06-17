@@ -1,0 +1,14 @@
+location::RostovOnDon
+level::Regular
+date::2024_06_15
+organizer::Constantin
+players::generals
+Ilya Shubenin :: Atraxa, Praetors' Voice
+Pavel Burmistrov :: Lagrella, the Magpie
+Vadim Lukaynov :: Atraxa, Grand Unifier
+Constantin Somkin :: Dragonlord Ojutai
+Vladimir Erohin :: Kroxa, Titan of Death's Hunger
+Ilya Snezhkov :: Wilhelt, the Rotcleaver
+Vasiliy Mishin :: God-Eternal Kefnet
+Round
+https://aetherhub.com/Tourney/RoundTourney/30944

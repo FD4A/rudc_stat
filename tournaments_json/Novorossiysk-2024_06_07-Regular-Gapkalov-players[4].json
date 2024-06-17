@@ -1,0 +1,93 @@
+{
+    "date": "2024_06_07",
+    "location": "Novorossiysk",
+    "level": "Regular",
+    "organizer": "Gapkalov",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Николай Шумихин",
+            "Selvala, Explorer Returned"
+        ],
+        [
+            "Дмитрий Гапкалов",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Кирилл Темнов",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Василий Домашек",
+            "Wilson, Refined Grizzly"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Василий Домашек",
+                "Дмитрий Гапкалов",
+                "Wilson, Refined Grizzly",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кирилл Темнов",
+                "Николай Шумихин",
+                "Sythis, Harvest's Hand",
+                "Selvala, Explorer Returned",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Николай Шумихин",
+                "Дмитрий Гапкалов",
+                "Selvala, Explorer Returned",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Василий Домашек",
+                "Кирилл Темнов",
+                "Wilson, Refined Grizzly",
+                "Sythis, Harvest's Hand",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Гапкалов",
+                "Кирилл Темнов",
+                "Grist, the Hunger Tide",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Василий Домашек",
+                "Николай Шумихин",
+                "Wilson, Refined Grizzly",
+                "Selvala, Explorer Returned",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

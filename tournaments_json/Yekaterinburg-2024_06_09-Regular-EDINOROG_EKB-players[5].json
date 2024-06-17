@@ -1,0 +1,97 @@
+{
+    "date": "2024_06_09",
+    "location": "Yekaterinburg",
+    "level": "Regular",
+    "organizer": "EDINOROG_EKB",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Разумов Артем",
+            "Nadu, Winged Wisdom"
+        ],
+        [
+            "Согомонян Сергей",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Кригер Владислав",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Панкрашин Святослав",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Антипов Артём",
+            "Aminatou, the Fateshifter"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Панкрашин Святослав",
+                "Разумов Артем",
+                "Eris, Roar of the Storm",
+                "Nadu, Winged Wisdom",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Антипов Артём",
+                "Кригер Владислав",
+                "Aminatou, the Fateshifter",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Согомонян Сергей",
+                "Кригер Владислав",
+                "Raffine, Scheming Seer",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Разумов Артем",
+                "Антипов Артём",
+                "Nadu, Winged Wisdom",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Согомонян Сергей",
+                "Разумов Артем",
+                "Raffine, Scheming Seer",
+                "Nadu, Winged Wisdom",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Панкрашин Святослав",
+                "Кригер Владислав",
+                "Eris, Roar of the Storm",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}
