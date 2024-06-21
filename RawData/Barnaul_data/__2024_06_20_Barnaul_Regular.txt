@@ -1,0 +1,17 @@
+location::Barnaul
+level::Regular
+date::2024_06_20
+organizer::
+players::generals
+Илья Гесин
+Влад Гладышев
+Дмитрий Лисин
+Дмитрий Разумовский
+Алексей Петрыкин
+Иван Послухов
+Денис Напалков
+Валерий Охлопков
+Достияр Амержаев
+Никита Жерелин
+Round
+https://aetherhub.com/Tourney/RoundTourney/31035

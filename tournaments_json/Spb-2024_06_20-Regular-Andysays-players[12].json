@@ -1,0 +1,307 @@
+{
+    "date": "2024_06_20",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Фукин Дмитрий",
+            "Nadu, Winged Wisdom"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Соловьев Валентин",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Барабаш Валентин",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Грабовой Филипп",
+            "Nadu, Winged Wisdom"
+        ],
+        [
+            "Хорьков Аркадий",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Зубакин Егор",
+            "Sythis, Harvest's Hand"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Поляков Герман",
+                "Барабаш Валентин",
+                "Tamiyo, Inquisitive Student",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Соловьев Валентин",
+                "Vial Smasher the Fierce",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Хорьков Аркадий",
+                "Фукин Дмитрий",
+                "Arahbo, Roar of the World",
+                "Nadu, Winged Wisdom",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Иванов Максим",
+                "The Reality Chip",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Семенов Дмитрий",
+                "Nadu, Winged Wisdom",
+                "Ajani, Nacatl Pariah",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Зубакин Егор",
+                "Juri, Master of the Revue",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Соловьев Валентин",
+                "Tamiyo, Inquisitive Student",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Семенов Дмитрий",
+                "Juri, Master of the Revue",
+                "Ajani, Nacatl Pariah",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Фукин Дмитрий",
+                "Иванов Максим",
+                "Nadu, Winged Wisdom",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Мартынов Яков",
+                "Vial Smasher the Fierce",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Аркадий",
+                "Грабовой Филипп",
+                "Arahbo, Roar of the World",
+                "Nadu, Winged Wisdom",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Зубакин Егор",
+                "Kinnan, Bonder Prodigy",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Фукин Дмитрий",
+                "Семенов Дмитрий",
+                "Nadu, Winged Wisdom",
+                "Ajani, Nacatl Pariah",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Муравьев Никита",
+                "Tamiyo, Inquisitive Student",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Грабовой Филипп",
+                "Geist of Saint Traft",
+                "Nadu, Winged Wisdom",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Барабаш Валентин",
+                "Vial Smasher the Fierce",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Соловьев Валентин",
+                "Мартынов Яков",
+                "Tamiyo, Inquisitive Student",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Зубакин Егор",
+                "Хорьков Аркадий",
+                "Sythis, Harvest's Hand",
+                "Arahbo, Roar of the World",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Фукин Дмитрий",
+                "Tamiyo, Inquisitive Student",
+                "Nadu, Winged Wisdom",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Барабаш Валентин",
+                "Ajani, Nacatl Pariah",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Соловьев Валентин",
+                "Иванов Максим",
+                "Tamiyo, Inquisitive Student",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Муравьев Никита",
+                "Nadu, Winged Wisdom",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Хорьков Аркадий",
+                "Vial Smasher the Fierce",
+                "Arahbo, Roar of the World",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Зубакин Егор",
+                "Мартынов Яков",
+                "Sythis, Harvest's Hand",
+                "The Reality Chip",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

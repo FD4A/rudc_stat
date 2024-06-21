@@ -1,0 +1,19 @@
+location::Spb
+level::Regular
+date::2024_06_20
+organizer::Andysays
+players::generals
+Поляков Герман :: Tamiyo, Inquisitive Student
+Фукин Дмитрий :: Nadu, Winged Wisdom
+Семенов Дмитрий :: Ajani, Nacatl Pariah
+Соловьев Валентин :: Tamiyo, Inquisitive Student
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Муравьев Никита :: Juri, Master of the Revue
+Иванов Максим :: Geist of Saint Traft
+Грабовой Филипп :: Nadu, Winged Wisdom
+Хорьков Аркадий :: Arahbo, Roar of the World
+Байков Аркадий :: Vial Smasher the Fierce
+Мартынов Яков :: The Reality Chip
+Зубакин Егор :: Sythis, Harvest's Hand
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/31039
