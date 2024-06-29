@@ -1,0 +1,195 @@
+{
+    "date": "2024_06_23",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Alexander Isaev",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Burmistrov_Pavel",
+            "Lagrella, the Magpie"
+        ],
+        [
+            "Alexander Kovalev",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Constantin Somkin",
+            "Dragonlord Ojutai"
+        ],
+        [
+            "Hon Syharev",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Alexey Maugli",
+            "Gonti, Canny Acquisitor"
+        ],
+        [
+            "Vladimir Erohin",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Vladislav Merkulov",
+            "Zabaz, the Glimmerwasp"
+        ],
+        [
+            "Vasily Mishin",
+            "Toxrill, the Corrosive"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Vladimir Erohin",
+                "Vladislav Merkulov",
+                "Kroxa, Titan of Death's Hunger",
+                "Zabaz, the Glimmerwasp",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Constantin Somkin",
+                "Alexander Kovalev",
+                "Dragonlord Ojutai",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Burmistrov_Pavel",
+                "Alexander Isaev",
+                "Lagrella, the Magpie",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Alexey Maugli",
+                "Hon Syharev",
+                "Gonti, Canny Acquisitor",
+                "Light-Paws, Emperor's Voice",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Hon Syharev",
+                "Alexander Isaev",
+                "Light-Paws, Emperor's Voice",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Constantin Somkin",
+                "Vladislav Merkulov",
+                "Dragonlord Ojutai",
+                "Zabaz, the Glimmerwasp",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Vladimir Erohin",
+                "Burmistrov_Pavel",
+                "Kroxa, Titan of Death's Hunger",
+                "Lagrella, the Magpie",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Vasily Mishin",
+                "Alexander Kovalev",
+                "Toxrill, the Corrosive",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Alexander Isaev",
+                "Constantin Somkin",
+                "Omnath, Locus of Creation",
+                "Dragonlord Ojutai",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Alexander Kovalev",
+                "Vladimir Erohin",
+                "Feldon, Ronom Excavator",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Burmistrov_Pavel",
+                "Vladislav Merkulov",
+                "Lagrella, the Magpie",
+                "Zabaz, the Glimmerwasp",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Constantin Somkin",
+                "Burmistrov_Pavel",
+                "Dragonlord Ojutai",
+                "Lagrella, the Magpie",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Alexander Kovalev",
+                "Vladislav Merkulov",
+                "Feldon, Ronom Excavator",
+                "Zabaz, the Glimmerwasp",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Alexander Isaev",
+                "Vladimir Erohin",
+                "Omnath, Locus of Creation",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

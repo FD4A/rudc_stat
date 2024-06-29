@@ -1,0 +1,14 @@
+location::Saratov
+level::Regular
+date::2024_06_24
+organizer::Fragin
+players::generals
+1 место: Богдан Кузьмин - Winota, Joiner of Forces (9)
+2 место: Дима Александров - Eris, Roar of the Storm (7)
+3 место: Иван Кузьменко - Dihada, Binder of Wills (7)
+4 место: Егор Волков - Light-Paws, Emperor's Voice (4)
+5 место: Евгений Сафаргалиев - Urabrask / The Great Work (4)
+6 место: Евгений Зитев - Kinnan, Bonder Prodigy (3)
+7 место: Роман А. - Errant and Giada (1)
+8 место: Анатолий Вэллери - Riku of Many Paths (1)
+Rounds

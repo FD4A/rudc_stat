@@ -1,0 +1,141 @@
+{
+    "date": "2024_06_23",
+    "location": "Ussuriysk",
+    "level": "Regular",
+    "organizer": "Usstiger",
+    "roundsCount": 5,
+    "players": [
+        [
+            "Вячеслав Ш",
+            "Satoru, the Infiltrator"
+        ],
+        [
+            "Кирилл К",
+            "Urza, Chief Artificer"
+        ],
+        [
+            "Алексей К",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Матвей Б",
+            "Thalia and The Gitrog Monster"
+        ],
+        [
+            "Кирилл С",
+            "Sauron, the Dark Lord"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Матвей Б",
+                "Кирилл К",
+                "Thalia and The Gitrog Monster",
+                "Urza, Chief Artificer",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Алексей К",
+                "Кирилл С",
+                "Kroxa, Titan of Death's Hunger",
+                "Sauron, the Dark Lord",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Вячеслав Ш",
+                "Кирилл С",
+                "Satoru, the Infiltrator",
+                "Sauron, the Dark Lord",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Алексей К",
+                "Кирилл К",
+                "Kroxa, Titan of Death's Hunger",
+                "Urza, Chief Artificer",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Кирилл С",
+                "Матвей Б",
+                "Sauron, the Dark Lord",
+                "Thalia and The Gitrog Monster",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Алексей К",
+                "Вячеслав Ш",
+                "Kroxa, Titan of Death's Hunger",
+                "Satoru, the Infiltrator",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Кирилл К",
+                "Кирилл С",
+                "Urza, Chief Artificer",
+                "Sauron, the Dark Lord",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Матвей Б",
+                "Satoru, the Infiltrator",
+                "Thalia and The Gitrog Monster",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Вячеслав Ш",
+                "Кирилл К",
+                "Satoru, the Infiltrator",
+                "Urza, Chief Artificer",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Алексей К",
+                "Матвей Б",
+                "Kroxa, Titan of Death's Hunger",
+                "Thalia and The Gitrog Monster",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

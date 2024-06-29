@@ -1,0 +1,12 @@
+location::Ussuriysk
+level::Regular
+date::2024_06_23
+organizer::Usstiger
+players::generals
+Вячеслав Ш :: Satoru, the Infiltrator
+Кирилл К :: Urza, Chief Artificer
+Алексей К :: Kroxa, Titan of Death's Hunger
+Матвей Б :: Thalia and the Gitrog Monster
+Кирилл С :: Sauron, the Dark Lord
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/31120

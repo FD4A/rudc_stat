@@ -1,0 +1,16 @@
+location::RostovOnDon
+level::Regular
+date::2024_06_23
+organizer::Constantin
+players::generals
+Alexander Isaev :: Omnath, Locus of Creation
+Burmistrov_Pavel :: Lagrella, the Magpie
+Alexander Kovalev :: Feldon, Ronom Excavator
+Constantin Somkin :: Dragonlord Ojutai
+Hon Syharev :: Light-Paws, Emperor's Voice
+Alexey Maugli :: Gonti, Canny Acquisitor
+Vladimir Erohin :: Kroxa, Titan of Death's Hunger
+Vladislav Merkulov :: Zabaz, the Glimmerwasp
+Vasily Mishin :: Toxrill, the Corrosive
+Round
+https://aetherhub.com/Tourney/RoundTourney/31123

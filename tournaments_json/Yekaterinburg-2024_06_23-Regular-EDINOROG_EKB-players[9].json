@@ -1,0 +1,173 @@
+{
+    "date": "2024_06_23",
+    "location": "Yekaterinburg",
+    "level": "Regular",
+    "organizer": "EDINOROG_EKB",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Шатрова Валерия",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Курсанов Александр",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Печников Владислав",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Разумов Артем",
+            "Nadu, Winged Wisdom"
+        ],
+        [
+            "Согомонян Сергей",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Безногов Дмитрий",
+            "Rograkh, Son of Rohgahh :++: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Панкрашин Святослав",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Кузницын Артем",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Планков Борис",
+            "Leovold, Emissary of Trest"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Согомонян Сергей",
+                "Безногов Дмитрий",
+                "Raffine, Scheming Seer",
+                "Rograkh, Son of Rohgahh :++: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Панкрашин Святослав",
+                "Курсанов Александр",
+                "Eris, Roar of the Storm",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Планков Борис",
+                "Разумов Артем",
+                "Leovold, Emissary of Trest",
+                "Nadu, Winged Wisdom",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Печников Владислав",
+                "Шатрова Валерия",
+                "Omnath, Locus of Creation",
+                "Ajani, Nacatl Pariah",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Шатрова Валерия",
+                "Безногов Дмитрий",
+                "Ajani, Nacatl Pariah",
+                "Rograkh, Son of Rohgahh :++: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Разумов Артем",
+                "Курсанов Александр",
+                "Nadu, Winged Wisdom",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кузницын Артем",
+                "Согомонян Сергей",
+                "Grist, the Hunger Tide",
+                "Raffine, Scheming Seer",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Планков Борис",
+                "Печников Владислав",
+                "Leovold, Emissary of Trest",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Шатрова Валерия",
+                "Курсанов Александр",
+                "Ajani, Nacatl Pariah",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Панкрашин Святослав",
+                "Разумов Артем",
+                "Eris, Roar of the Storm",
+                "Nadu, Winged Wisdom",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Печников Владислав",
+                "Кузницын Артем",
+                "Omnath, Locus of Creation",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Согомонян Сергей",
+                "Планков Борис",
+                "Raffine, Scheming Seer",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

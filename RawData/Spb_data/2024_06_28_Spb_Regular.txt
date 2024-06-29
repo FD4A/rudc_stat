@@ -1,0 +1,27 @@
+location::Spb
+level::Regular
+date::2024_06_28
+organizer::Andysays
+players::generals
+Семенов Дмитрий :: Ajani, Nacatl Pariah
+Муравьев Никита :: Juri, Master of the Revue
+Булочко Михаил :: Ertai Resurrected
+Поляков Герман :: Tamiyo, Inquisitive Student
+Цюра Максим :: Eris, Roar of the Storm
+Мартынов Влад :: Ajani, Nacatl Pariah
+Федоров Дмитрий :: Amalia Benavides Aguirre
+Богданов Сергей :: Kroxa, Titan of Death's Hunger
+Ульянов Алексей :: Omnath, Locus of Creation
+Грабовой Филипп :: Eris, Roar of the Storm
+Мартынов Яков :: The Reality Chip
+Саушкин Андрей :: Eris, Roar of the Storm
+Зелянин Дмитрий :: Golos, Tireless Pilgrim
+Тяпайкин Максим :: Golos, Tireless Pilgrim
+Истомин Евгений :: Raffine, Scheming Seer
+Фукин Дмитрий :: Kinnan, Bonder Prodigy
+Воронцов Александр :: Golos, Tireless Pilgrim
+Глазков Константин :: Prime Speaker Zegana
+Черебедов Влад :: Aesi, Tyrant of Gyre Strait
+Яковлев Николай :: The Wise Mothman
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/31209
