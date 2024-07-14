@@ -1,0 +1,16 @@
+location::Volgograd
+level::Regular
+date::2024_07_14
+organizer::Rombik34rus
+players::generals
+Никита Сухов :: Tamiyo, Inquisitive Student
+Дмитрий Орешкин :: Feldon, Ronom Excavator
+Александр Смирнов :: Amalia Benavides Aguirre
+Тимур Сайфутдинов :: Omnath, Locus of Creation
+Артём Ангурцов :: Feldon, Ronom Excavator
+Александр Токарев :: Hogaak, Arisen Necropolis
+Тигран Тигран :: Aminatou, the Fateshifter
+Максим Мещеряков :: Geist of Saint Traft
+Михаил Козлов :: Winota, Joiner of Forces
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/31605

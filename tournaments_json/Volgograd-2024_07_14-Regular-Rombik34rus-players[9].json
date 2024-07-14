@@ -1,0 +1,215 @@
+{
+    "date": "2024_07_14",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Никита Сухов",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Дмитрий Орешкин",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Александр Смирнов",
+            "Amalia Benavides Aguirre"
+        ],
+        [
+            "Тимур Сайфутдинов",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Артём Ангурцов",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Александр Токарев",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Тигран Тигран",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Максим Мещеряков",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Михаил Козлов",
+            "Winota, Joiner of Forces"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Дмитрий Орешкин",
+                "Михаил Козлов",
+                "Feldon, Ronom Excavator",
+                "Winota, Joiner of Forces",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Тигран Тигран",
+                "Feldon, Ronom Excavator",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Никита Сухов",
+                "Hogaak, Arisen Necropolis",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Тимур Сайфутдинов",
+                "Geist of Saint Traft",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Михаил Козлов",
+                "Александр Смирнов",
+                "Winota, Joiner of Forces",
+                "Amalia Benavides Aguirre",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Никита Сухов",
+                "Feldon, Ronom Excavator",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Александр Токарев",
+                "Omnath, Locus of Creation",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тигран Тигран",
+                "Максим Мещеряков",
+                "Aminatou, the Fateshifter",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Тимур Сайфутдинов",
+                "Александр Смирнов",
+                "Omnath, Locus of Creation",
+                "Amalia Benavides Aguirre",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Никита Сухов",
+                "Максим Мещеряков",
+                "Tamiyo, Inquisitive Student",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Артём Ангурцов",
+                "Feldon, Ronom Excavator",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Михаил Козлов",
+                "Тигран Тигран",
+                "Winota, Joiner of Forces",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Никита Сухов",
+                "Александр Смирнов",
+                "Tamiyo, Inquisitive Student",
+                "Amalia Benavides Aguirre",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Дмитрий Орешкин",
+                "Omnath, Locus of Creation",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Максим Мещеряков",
+                "Hogaak, Arisen Necropolis",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Михаил Козлов",
+                "Feldon, Ronom Excavator",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}
