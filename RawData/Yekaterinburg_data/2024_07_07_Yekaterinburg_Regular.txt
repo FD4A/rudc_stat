@@ -1,0 +1,19 @@
+location::Yekaterinburg
+level::Regular
+date::2024_07_07
+organizer::EDINOROG_EKB
+players::generals
+Планков Борис :: Eris, Roar of the Storm;
+Шатрова Валерия :: Ajani, Nacatl Pariah
+Разумов Артем :: Ajani, Nacatl Pariah
+Панкрашин Святослав :: Eris, Roar of the Storm
+Сигов Иван :: Hogaak, Arisen Necropolis
+Кузницын Артем :: Grist, the Hunger Tide
+Курсанов Александр :: Slimefoot and Squee
+Кокорин Иван :: Marath, Will of the Wild
+Безногов Дмитрий :: Rograkh, Son of Rohgahh :++: Silas Renn, Seeker Adept
+Печников Владислав :: Omnath, Locus of Creation
+Трапезников Дмитрий :: Slimefoot and Squee
+Согомонян Сергей :: Raffine, Scheming Seer
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/31451

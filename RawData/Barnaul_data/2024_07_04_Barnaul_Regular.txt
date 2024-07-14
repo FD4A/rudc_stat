@@ -1,0 +1,15 @@
+location::Barnaul
+level::Regular
+date::2024_07_04
+organizer::
+players::generals
+Дмитрий Лисин :: Kytheon, Hero of Akros
+Влад Гладышев :: Tamiyo, Inquisitive Student
+Петрыкин Алексей :: Eris, Roar of the Storm
+Дмитрий Разумовский :: Asmoranomardicadaistinaculdacar
+Александр Самусенко :: Omnath, Locus of Creation
+Гесин Илья :: Old Stickfingers
+Послухов Иван :: Niv-Mizzet, Parun
+Андрей Студеникин (384155255) :: Shorikai, Genesis Engine
+Round
+https://aetherhub.com/Tourney/RoundTourney/31372

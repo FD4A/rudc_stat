@@ -1,0 +1,7 @@
+location::Online
+level::League
+date::2024_XX_XX
+organizer::AlexSmirnov
+players::generals
+Round1
+

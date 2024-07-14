@@ -1,0 +1,373 @@
+{
+    "date": "2024_07_11",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Грабовой Филипп",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Булочко Михаил",
+            "Ertai Resurrected"
+        ],
+        [
+            "Цюра Максим",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Саушкин Андрей",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Поздняков Андрей",
+            "Wilson, Refined Grizzly :+: Candlekeep Sage"
+        ],
+        [
+            "Истомин Евгений",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Фукин Дмитрий",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Олепир Андрей",
+            "Pantlaza, Sun-Favored"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Поздняков Андрей",
+                "Булочко Михаил",
+                "Wilson, Refined Grizzly :+: Candlekeep Sage",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Олепир Андрей",
+                "Истомин Евгений",
+                "Pantlaza, Sun-Favored",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Муравьев Никита",
+                "Golos, Tireless Pilgrim",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Ульянов Алексей",
+                "Eris, Roar of the Storm",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Семенов Дмитрий",
+                "Eris, Roar of the Storm",
+                "Ajani, Nacatl Pariah",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Фукин Дмитрий",
+                "Tamiyo, Inquisitive Student",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Богатырев Александр",
+                "Vial Smasher the Fierce",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Мартынов Яков",
+                "Eris, Roar of the Storm",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Байков Аркадий",
+                "Саушкин Андрей",
+                "Vial Smasher the Fierce",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Истомин Евгений",
+                "Семенов Дмитрий",
+                "Aminatou, the Fateshifter",
+                "Ajani, Nacatl Pariah",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Поляков Герман",
+                "Eris, Roar of the Storm",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Поздняков Андрей",
+                "Juri, Master of the Revue",
+                "Wilson, Refined Grizzly :+: Candlekeep Sage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Тяпайкин Максим",
+                "Ertai Resurrected",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Олепир Андрей",
+                "Мартынов Яков",
+                "Pantlaza, Sun-Favored",
+                "The Reality Chip",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Ульянов Алексей",
+                "Eris, Roar of the Storm",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Фукин Дмитрий",
+                "Indoraptor, the Perfect Hybrid",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Муравьев Никита",
+                "Поляков Герман",
+                "Juri, Master of the Revue",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Семенов Дмитрий",
+                "Eris, Roar of the Storm",
+                "Ajani, Nacatl Pariah",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Поздняков Андрей",
+                "The Reality Chip",
+                "Wilson, Refined Grizzly :+: Candlekeep Sage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Грабовой Филипп",
+                "Indoraptor, the Perfect Hybrid",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Истомин Евгений",
+                "Eris, Roar of the Storm",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Байков Аркадий",
+                "Ertai Resurrected",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Фукин Дмитрий",
+                "Golos, Tireless Pilgrim",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Олепир Андрей",
+                "Тяпайкин Максим",
+                "Pantlaza, Sun-Favored",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Семенов Дмитрий",
+                "Поляков Герман",
+                "Ajani, Nacatl Pariah",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Саушкин Андрей",
+                "Eris, Roar of the Storm",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Муравьев Никита",
+                "Eris, Roar of the Storm",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Булочко Михаил",
+                "The Reality Chip",
+                "Ertai Resurrected",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Байков Аркадий",
+                "Golos, Tireless Pilgrim",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

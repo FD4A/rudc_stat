@@ -1,0 +1,23 @@
+location::Spb
+level::Regular
+date::2024_07_04
+organizer::Andysays
+players::generals
+Поляков Герман :: Tamiyo, Inquisitive Student
+Семенов Дмитрий :: Hogaak, Arisen Necropolis
+Булочко Михаил :: Ertai Resurrected
+Пятыгин Андрей :: Tamiyo, Inquisitive Student
+Цюра Максим :: Eris, Roar of the Storm
+Иванов Дмитрий :: Eris, Roar of the Storm
+Муравьев Никита :: Juri, Master of the Revue
+Грабовой Филипп :: Eris, Roar of the Storm
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Юферов Владимир :: Ertai Resurrected
+Истомин Евгений :: Aminatou, the Fateshifter
+Яковлев Николай :: The Wise Mothman
+Мартынов Яков :: The Reality Chip
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Саушкин Андрей :: Omnath, Locus of Creation
+Фукин Дмитрий :: Kinnan, Bonder Prodigy
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/31374

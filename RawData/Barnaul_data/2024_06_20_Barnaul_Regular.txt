@@ -1,0 +1,17 @@
+location::Barnaul
+level::Regular
+date::2024_06_20
+organizer::
+players::generals
+Илья Гесин :: Old Stickfingers
+Влад Гладышев :: Shorikai, Genesis Engine
+Дмитрий Лисин :: Kytheon, Hero of Akros
+Дмитрий Разумовский :: Asmoranomardicadaistinaculdacar
+Алексей Петрыкин :: Ghyrson Starn, Kelermorph
+Иван Послухов :: Niv-Mizzet, Parun
+Денис Напалков :: Ghyrson Starn, Kelermorph
+Валерий Охлопков :: Raffine, Scheming Seer
+Достияр Амержаев :: Baral and Kari Zev
+Никита Жерелин :: Arahbo, Roar of the World
+Round
+https://aetherhub.com/Tourney/RoundTourney/31035

@@ -1,0 +1,363 @@
+{
+    "date": "2024_07_04",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Булочко Михаил",
+            "Ertai Resurrected"
+        ],
+        [
+            "Пятыгин Андрей",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Цюра Максим",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Грабовой Филипп",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Юферов Владимир",
+            "Ertai Resurrected"
+        ],
+        [
+            "Истомин Евгений",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Яковлев Николай",
+            "The Wise Mothman"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Саушкин Андрей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Фукин Дмитрий",
+            "Kinnan, Bonder Prodigy"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Саушкин Андрей",
+                "Цюра Максим",
+                "Omnath, Locus of Creation",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Муравьев Никита",
+                "The Reality Chip",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Фукин Дмитрий",
+                "Юферов Владимир",
+                "Kinnan, Bonder Prodigy",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Пятыгин Андрей",
+                "Eris, Roar of the Storm",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Истомин Евгений",
+                "Ульянов Алексей",
+                "Aminatou, the Fateshifter",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Яковлев Николай",
+                "Tamiyo, Inquisitive Student",
+                "The Wise Mothman",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Богатырев Александр",
+                "Eris, Roar of the Storm",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Семенов Дмитрий",
+                "Ertai Resurrected",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Истомин Евгений",
+                "Пятыгин Андрей",
+                "Aminatou, the Fateshifter",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Юферов Владимир",
+                "Eris, Roar of the Storm",
+                "Ertai Resurrected",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Поляков Герман",
+                "Eris, Roar of the Storm",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Муравьев Никита",
+                "Hogaak, Arisen Necropolis",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Булочко Михаил",
+                "The Reality Chip",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Богатырев Александр",
+                "Eris, Roar of the Storm",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Яковлев Николай",
+                "Golos, Tireless Pilgrim",
+                "The Wise Mothman",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Семенов Дмитрий",
+                "Поляков Герман",
+                "Hogaak, Arisen Necropolis",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Пятыгин Андрей",
+                "Цюра Максим",
+                "Tamiyo, Inquisitive Student",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Юферов Владимир",
+                "Грабовой Филипп",
+                "Ertai Resurrected",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Иванов Дмитрий",
+                "Ertai Resurrected",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Истомин Евгений",
+                "Муравьев Никита",
+                "Aminatou, the Fateshifter",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Богатырев Александр",
+                "Golos, Tireless Pilgrim",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Яковлев Николай",
+                "The Reality Chip",
+                "The Wise Mothman",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Пятыгин Андрей",
+                "Tamiyo, Inquisitive Student",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Грабовой Филипп",
+                "Hogaak, Arisen Necropolis",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Булочко Михаил",
+                "Juri, Master of the Revue",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Цюра Максим",
+                "Golos, Tireless Pilgrim",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Иванов Дмитрий",
+                "The Wise Mothman",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Юферов Владимир",
+                "Богатырев Александр",
+                "Ertai Resurrected",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

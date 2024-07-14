@@ -1,0 +1,141 @@
+{
+    "date": "2024_07_07",
+    "location": "Ussuriysk",
+    "level": "Regular",
+    "organizer": "Usstiger",
+    "roundsCount": 5,
+    "players": [
+        [
+            "Алексей Ж ",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Владислав М",
+            "Narset, Enlightened Master"
+        ],
+        [
+            "Матвей Б",
+            "Thalia and The Gitrog Monster"
+        ],
+        [
+            "Кирилл С",
+            "Coram, the Undertaker"
+        ],
+        [
+            "Вячеслав Ш",
+            "Satoru, the Infiltrator"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Владислав М",
+                "Вячеслав Ш",
+                "Narset, Enlightened Master",
+                "Satoru, the Infiltrator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Кирилл С",
+                "unknown",
+                "Coram, the Undertaker",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Владислав М",
+                "Матвей Б",
+                "Narset, Enlightened Master",
+                "Thalia and The Gitrog Monster",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Вячеслав Ш",
+                "unknown",
+                "Satoru, the Infiltrator",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Вячеслав Ш",
+                "Матвей Б",
+                "Satoru, the Infiltrator",
+                "Thalia and The Gitrog Monster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Владислав М",
+                "Кирилл С",
+                "Narset, Enlightened Master",
+                "Coram, the Undertaker",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей Ж",
+                "Владислав М",
+                "unknown",
+                "Narset, Enlightened Master",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кирилл С",
+                "Матвей Б",
+                "Coram, the Undertaker",
+                "Thalia and The Gitrog Monster",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Вячеслав Ш",
+                "Кирилл С",
+                "Satoru, the Infiltrator",
+                "Coram, the Undertaker",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Матвей Б",
+                "unknown",
+                "Thalia and The Gitrog Monster",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

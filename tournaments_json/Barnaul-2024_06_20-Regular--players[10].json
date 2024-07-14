@@ -1,0 +1,259 @@
+{
+    "date": "2024_06_20",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Илья Гесин",
+            "Old Stickfingers"
+        ],
+        [
+            "Влад Гладышев",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Дмитрий Лисин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Дмитрий Разумовский",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Алексей Петрыкин",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Иван Послухов",
+            "Niv-Mizzet, Parun"
+        ],
+        [
+            "Денис Напалков",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Валерий Охлопков",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Достияр Амержаев",
+            "Baral and Kari Zev"
+        ],
+        [
+            "Никита Жерелин",
+            "Arahbo, Roar of the World"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Дмитрий Разумовский",
+                "Иван Послухов",
+                "Asmoranomardicadaistinaculdacar",
+                "Niv-Mizzet, Parun",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дмитрий Лисин",
+                "Достияр Амержаев",
+                "Kytheon, Hero of Akros",
+                "Baral and Kari Zev",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Денис Напалков",
+                "Никита Жерелин",
+                "Ghyrson Starn, Kelermorph",
+                "Arahbo, Roar of the World",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Алексей Петрыкин",
+                "Илья Гесин",
+                "Ghyrson Starn, Kelermorph",
+                "Old Stickfingers",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Валерий Охлопков",
+                "Shorikai, Genesis Engine",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Влад Гладышев",
+                "Илья Гесин",
+                "Shorikai, Genesis Engine",
+                "Old Stickfingers",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Лисин",
+                "Никита Жерелин",
+                "Kytheon, Hero of Akros",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дмитрий Разумовский",
+                "Достияр Амержаев",
+                "Asmoranomardicadaistinaculdacar",
+                "Baral and Kari Zev",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Денис Напалков",
+                "Алексей Петрыкин",
+                "Ghyrson Starn, Kelermorph",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Валерий Охлопков",
+                "Иван Послухов",
+                "Raffine, Scheming Seer",
+                "Niv-Mizzet, Parun",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Разумовский",
+                "Илья Гесин",
+                "Asmoranomardicadaistinaculdacar",
+                "Old Stickfingers",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Лисин",
+                "Влад Гладышев",
+                "Kytheon, Hero of Akros",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Денис Напалков",
+                "Валерий Охлопков",
+                "Ghyrson Starn, Kelermorph",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Никита Жерелин",
+                "Иван Послухов",
+                "Arahbo, Roar of the World",
+                "Niv-Mizzet, Parun",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Алексей Петрыкин",
+                "Достияр Амержаев",
+                "Ghyrson Starn, Kelermorph",
+                "Baral and Kari Zev",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Илья Гесин",
+                "Дмитрий Лисин",
+                "Old Stickfingers",
+                "Kytheon, Hero of Akros",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Дмитрий Разумовский",
+                "Shorikai, Genesis Engine",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Денис Напалков",
+                "Иван Послухов",
+                "Ghyrson Starn, Kelermorph",
+                "Niv-Mizzet, Parun",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Алексей Петрыкин",
+                "Валерий Охлопков",
+                "Ghyrson Starn, Kelermorph",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Никита Жерелин",
+                "Достияр Амержаев",
+                "Arahbo, Roar of the World",
+                "Baral and Kari Zev",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

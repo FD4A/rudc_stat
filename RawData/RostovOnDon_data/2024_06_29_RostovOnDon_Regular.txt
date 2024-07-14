@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2024_06_29
+organizer::Constantin
+players::generals
+Alexander Isaev :: Omnath, Locus of Creation
+Artem Posidaylo :: Grist, the Hunger Tide
+Vadim Lukaynov :: Atraxa, Grand Unifier
+Alexander Kovalev :: Eris, Roar of the Storm
+Vladislav Merkulov :: Zabaz, the Glimmerwasp
+Constantin Somkin :: Dragonlord Ojutai
+Round
+https://aetherhub.com/Tourney/RoundTourney/31281

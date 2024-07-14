@@ -1,0 +1,23 @@
+location::Spb
+level::Regular
+date::2024_07_11
+organizer::Andysays
+players::generals
+Поляков Герман :: Tamiyo, Inquisitive Student
+Грабовой Филипп :: Eris, Roar of the Storm
+Семенов Дмитрий :: Ajani, Nacatl Pariah
+Муравьев Никита :: Juri, Master of the Revue
+Мартынов Яков :: The Reality Chip
+Булочко Михаил :: Ertai Resurrected
+Цюра Максим :: Eris, Roar of the Storm
+Саушкин Андрей :: Eris, Roar of the Storm
+Тяпайкин Максим :: Golos, Tireless Pilgrim
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Поздняков Андрей :: Wilson, Refined Grizzly :+: Candlekeep Sage
+Истомин Евгений :: Aminatou, the Fateshifter
+Байков Аркадий :: Vial Smasher the Fierce
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Фукин Дмитрий :: Kinnan, Bonder Prodigy
+Олепир Андрей :: Pantlaza, Sun-Favored
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/31522

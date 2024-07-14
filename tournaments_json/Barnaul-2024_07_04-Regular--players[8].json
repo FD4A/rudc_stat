@@ -1,0 +1,159 @@
+{
+    "date": "2024_07_04",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Дмитрий Лисин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Влад Гладышев",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Петрыкин Алексей",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Дмитрий Разумовский",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Александр Самусенко",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Гесин Илья",
+            "Old Stickfingers"
+        ],
+        [
+            "Послухов Иван",
+            "Niv-Mizzet, Parun"
+        ],
+        [
+            "Андрей Студеникин (384155255)",
+            "Shorikai, Genesis Engine"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Дмитрий Лисин",
+                "Дмитрий Разумовский",
+                "Kytheon, Hero of Akros",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Гесин Илья",
+                "Послухов Иван",
+                "Old Stickfingers",
+                "Niv-Mizzet, Parun",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Влад Гладышев",
+                "Omnath, Locus of Creation",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Петрыкин Алексей",
+                "Андрей Студеникин (384155255)",
+                "Eris, Roar of the Storm",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Лисин",
+                "Петрыкин Алексей",
+                "Kytheon, Hero of Akros",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Гесин Илья",
+                "Влад Гладышев",
+                "Old Stickfingers",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Разумовский",
+                "Послухов Иван",
+                "Asmoranomardicadaistinaculdacar",
+                "Niv-Mizzet, Parun",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Андрей Студеникин (384155255)",
+                "Omnath, Locus of Creation",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Лисин",
+                "Влад Гладышев",
+                "Kytheon, Hero of Akros",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Петрыкин Алексей",
+                "Omnath, Locus of Creation",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Разумовский",
+                "Гесин Илья",
+                "Asmoranomardicadaistinaculdacar",
+                "Old Stickfingers",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}
