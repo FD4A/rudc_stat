@@ -1,0 +1,15 @@
+location::Spb
+level::Regular
+date::2024_07_25
+organizer::Andysays
+players::generals
+Барабаш Валентин :: Tamiyo, Inquisitive Student
+Поляков Герман :: Tamiyo, Inquisitive Student
+Булочко Михаил :: Ertai Resurrected
+Саушкин Андрей :: Omnath, Locus of Creation
+Яковлев Николай :: The Wise Mothman
+Тяпайкин Максим :: Aminatou, the Fateshifter
+Мартынов Яков :: The Reality Chip
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/31927

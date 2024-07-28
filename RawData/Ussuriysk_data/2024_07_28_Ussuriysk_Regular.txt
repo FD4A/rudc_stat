@@ -1,0 +1,13 @@
+location::Ussuriysk
+level::Regular
+date::2024_07_28
+organizer::Usstiger
+players::generals
+Кирилл С :: Raffine, Scheming Seer
+Матвей Б :: Kinnan, Bonder Prodigy
+Вячеслав Ш :: Commodore Guff
+Данил П :: Shorikai, Genesis Engine
+Владимир С :: Strefan, Maurer Progenitor
+Максим Ф :: Gaddock Teeg
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/32019

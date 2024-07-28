@@ -1,0 +1,21 @@
+location::Spb
+level::Regular
+date::2024_07_18
+organizer::Andysays
+players::generals
+Грабовой Филипп :: Eris, Roar of the Storm
+Семенов Дмитрий :: Hogaak, Arisen Necropolis
+Поляков Герман :: Tamiyo, Inquisitive Student
+Мартынов Влад :: Aminatou, the Fateshifter
+Щербаков Евгений :: Klothys, God of Destiny
+Таловер Артем :: Feldon, Ronom Excavator
+Барабаш Валентин :: Tamiyo, Inquisitive Student
+Булочко Михаил :: Ertai Resurrected
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Тяпайкин Максим :: Aminatou, the Fateshifter
+Байков Аркадий :: Vial Smasher the Fierce
+Андреев Антон :: Acererak the Archlich
+Яковлев Николай :: The Wise Mothman
+Мартынов Яков :: Tasigur, the Golden Fang
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/31672

@@ -1,0 +1,135 @@
+{
+    "date": "2024_07_13",
+    "location": "Saratov",
+    "level": "Regular",
+    "organizer": "Fragin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "scamontenoq - Dihada, Binder of Wills",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "M9IKYIIIKA - Omnath, Locus of Creation",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Alexxs25",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Armadale - Errant and Giada",
+            "Errant and Giada"
+        ],
+        [
+            "eudgenescorpse",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Objvachvalsya - Eris, Roar of the Storm",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "MadOtacu",
+            "Arahbo, Roar of the World"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "M9IKYIIIKA - Omnath, Locus of Creation",
+                "Armadale - Errant and Giada",
+                "Omnath, Locus of Creation",
+                "Errant and Giada",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "scamontenoq - Dihada, Binder of Wills",
+                "eudgenescorpse",
+                "Dihada, Binder of Wills",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Objvachvalsya - Eris, Roar of the Storm",
+                "MadOtacu",
+                "Eris, Roar of the Storm",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "M9IKYIIIKA - Omnath, Locus of Creation",
+                "scamontenoq - Dihada, Binder of Wills",
+                "Omnath, Locus of Creation",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Alexxs25",
+                "Objvachvalsya - Eris, Roar of the Storm",
+                "Hogaak, Arisen Necropolis",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "MadOtacu",
+                "Armadale - Errant and Giada",
+                "Arahbo, Roar of the World",
+                "Errant and Giada",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Alexxs25",
+                "scamontenoq - Dihada, Binder of Wills",
+                "Hogaak, Arisen Necropolis",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "M9IKYIIIKA - Omnath, Locus of Creation",
+                "Objvachvalsya - Eris, Roar of the Storm",
+                "Omnath, Locus of Creation",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "eudgenescorpse",
+                "Armadale - Errant and Giada",
+                "Kinnan, Bonder Prodigy",
+                "Errant and Giada",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

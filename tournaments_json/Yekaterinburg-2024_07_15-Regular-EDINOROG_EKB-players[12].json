@@ -1,0 +1,245 @@
+{
+    "date": "2024_07_15",
+    "location": "Yekaterinburg",
+    "level": "Regular",
+    "organizer": "EDINOROG_EKB",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Согомонян Сергей",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Планков Борис",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Арестов Михаил",
+            "Sisay, Weatherlight Captain"
+        ],
+        [
+            "Сычев Никита",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Печников Владислав",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Разумов Артем",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Безногов Дмитрий",
+            "Rograkh, Son of Rohgahh :++: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Кокорин Иван",
+            "Marath, Will of the Wild"
+        ],
+        [
+            "Прошин Станислав",
+            "Yoshimaru, Ever Faithful :++: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Курсанов Александр",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Власов Максим",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Трапезников Дмитрий",
+            "Slimefoot and Squee"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Прошин Станислав",
+                "Курсанов Александр",
+                "Yoshimaru, Ever Faithful :++: Silas Renn, Seeker Adept",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Согомонян Сергей",
+                "Кокорин Иван",
+                "Ajani, Nacatl Pariah",
+                "Marath, Will of the Wild",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Планков Борис",
+                "Печников Владислав",
+                "Eris, Roar of the Storm",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Разумов Артем",
+                "Арестов Михаил",
+                "Omnath, Locus of Creation",
+                "Sisay, Weatherlight Captain",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Трапезников Дмитрий",
+                "Безногов Дмитрий",
+                "Slimefoot and Squee",
+                "Rograkh, Son of Rohgahh :++: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сычев Никита",
+                "Власов Максим",
+                "Aminatou, the Fateshifter",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Арестов Михаил",
+                "Согомонян Сергей",
+                "Sisay, Weatherlight Captain",
+                "Ajani, Nacatl Pariah",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Прошин Станислав",
+                "Сычев Никита",
+                "Yoshimaru, Ever Faithful :++: Silas Renn, Seeker Adept",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Планков Борис",
+                "Безногов Дмитрий",
+                "Eris, Roar of the Storm",
+                "Rograkh, Son of Rohgahh :++: Silas Renn, Seeker Adept",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Курсанов Александр",
+                "Власов Максим",
+                "Slimefoot and Squee",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Печников Владислав",
+                "Трапезников Дмитрий",
+                "Omnath, Locus of Creation",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кокорин Иван",
+                "Разумов Артем",
+                "Marath, Will of the Wild",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Сычев Никита",
+                "Согомонян Сергей",
+                "Aminatou, the Fateshifter",
+                "Ajani, Nacatl Pariah",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Планков Борис",
+                "Прошин Станислав",
+                "Eris, Roar of the Storm",
+                "Yoshimaru, Ever Faithful :++: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безногов Дмитрий",
+                "Арестов Михаил",
+                "Rograkh, Son of Rohgahh :++: Silas Renn, Seeker Adept",
+                "Sisay, Weatherlight Captain",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Печников Владислав",
+                "Курсанов Александр",
+                "Omnath, Locus of Creation",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Разумов Артем",
+                "Власов Максим",
+                "Omnath, Locus of Creation",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кокорин Иван",
+                "Трапезников Дмитрий",
+                "Marath, Will of the Wild",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

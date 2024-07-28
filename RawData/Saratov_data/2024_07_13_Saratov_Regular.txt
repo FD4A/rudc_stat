@@ -1,0 +1,14 @@
+location::Saratov
+level::Regular
+date::2024_07_13
+organizer::Fragin
+players::generals
+scamontenoq - Dihada, Binder of Wills :: Dihada, Binder of Wills
+M9IKYIIIKA - Omnath, Locus of Creation :: Omnath, Locus of Creation
+Alexxs25 :: Hogaak, Arisen Necropolis
+Armadale - Errant and Giada :: Errant and Giada
+eudgenescorpse :: Kinnan, Bonder Prodigy
+Objvachvalsya - Eris, Roar of the Storm :: Eris, Roar of the Storm
+MadOtacu :: Arahbo, Roar of the World
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/31574

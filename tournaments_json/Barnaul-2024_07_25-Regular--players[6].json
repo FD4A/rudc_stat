@@ -1,0 +1,131 @@
+{
+    "date": "2024_07_25",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Дмитрий Лисин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Достияр Амержаев",
+            "Baral and Kari Zev"
+        ],
+        [
+            "Влад Гладышев",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Александр Самусенко",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Михаил Старостенков",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Дмитрий Разумовский",
+            "Asmoranomardicadaistinaculdacar"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Достияр Амержаев",
+                "Дмитрий Разумовский",
+                "Baral and Kari Zev",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дмитрий Лисин",
+                "Александр Самусенко",
+                "Kytheon, Hero of Akros",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Михаил Старостенков",
+                "Tamiyo, Inquisitive Student",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Лисин",
+                "Достияр Амержаев",
+                "Kytheon, Hero of Akros",
+                "Baral and Kari Zev",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Александр Самусенко",
+                "Tamiyo, Inquisitive Student",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Михаил Старостенков",
+                "Дмитрий Разумовский",
+                "Ghyrson Starn, Kelermorph",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Лисин",
+                "Влад Гладышев",
+                "Kytheon, Hero of Akros",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Достияр Амержаев",
+                "Михаил Старостенков",
+                "Baral and Kari Zev",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Дмитрий Разумовский",
+                "Omnath, Locus of Creation",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

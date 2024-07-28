@@ -1,0 +1,13 @@
+location::Ussuriysk
+level::Regular
+date::2024_07_28
+organizer::Usstiger
+players::generals
+Алексей Ж :: Grist, the Hunger Tide
+Вячеслав Ш :: Satoru, the Infiltrator
+Кирилл К :: Urza, Chief Artificer
+Матвей Б :: Thalia and the Gitrog Monster
+Дмитрий С :: Tymaret, the Murder King
+Кирилл С :: Coram, the Undertaker
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/31757

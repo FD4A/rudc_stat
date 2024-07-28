@@ -1,0 +1,345 @@
+{
+    "date": "2024_07_18",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Грабовой Филипп",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Мартынов Влад",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Щербаков Евгений",
+            "Klothys, God of Destiny"
+        ],
+        [
+            "Таловер Артем",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Барабаш Валентин",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Булочко Михаил",
+            "Ertai Resurrected"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Андреев Антон",
+            "Acererak the Archlich"
+        ],
+        [
+            "Яковлев Николай",
+            "The Wise Mothman"
+        ],
+        [
+            "Мартынов Яков",
+            "Tasigur, the Golden Fang"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Мартынов Влад",
+                "Тяпайкин Максим",
+                "Aminatou, the Fateshifter",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Поляков Герман",
+                "Vial Smasher the Fierce",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Барабаш Валентин",
+                "Eris, Roar of the Storm",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Мартынов Яков",
+                "Ertai Resurrected",
+                "Tasigur, the Golden Fang",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Таловер Артем",
+                "Golos, Tireless Pilgrim",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Семенов Дмитрий",
+                "The Wise Mothman",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Андреев Антон",
+                "Щербаков Евгений",
+                "Acererak the Archlich",
+                "Klothys, God of Destiny",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Булочко Михаил",
+                "Поляков Герман",
+                "Ertai Resurrected",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Таловер Артем",
+                "Eris, Roar of the Storm",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Андреев Антон",
+                "Hogaak, Arisen Necropolis",
+                "Acererak the Archlich",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Байков Аркадий",
+                "Aminatou, the Fateshifter",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Щербаков Евгений",
+                "Aminatou, the Fateshifter",
+                "Klothys, God of Destiny",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Барабаш Валентин",
+                "The Wise Mothman",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Ульянов Алексей",
+                "Tasigur, the Golden Fang",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Грабовой Филипп",
+                "Семенов Дмитрий",
+                "Eris, Roar of the Storm",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Мартынов Влад",
+                "Tamiyo, Inquisitive Student",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Андреев Антон",
+                "Golos, Tireless Pilgrim",
+                "Acererak the Archlich",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Барабаш Валентин",
+                "Ertai Resurrected",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Тяпайкин Максим",
+                "Feldon, Ronom Excavator",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Щербаков Евгений",
+                "Байков Аркадий",
+                "Klothys, God of Destiny",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Мартынов Яков",
+                "The Wise Mothman",
+                "Tasigur, the Golden Fang",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Грабовой Филипп",
+                "Мартынов Влад",
+                "Eris, Roar of the Storm",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Поляков Герман",
+                "Feldon, Ronom Excavator",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Ульянов Алексей",
+                "Hogaak, Arisen Necropolis",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Щербаков Евгений",
+                "Ertai Resurrected",
+                "Klothys, God of Destiny",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Барабаш Валентин",
+                "Tasigur, the Golden Fang",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Яковлев Николай",
+                "Aminatou, the Fateshifter",
+                "The Wise Mothman",
+                [
+                    1,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

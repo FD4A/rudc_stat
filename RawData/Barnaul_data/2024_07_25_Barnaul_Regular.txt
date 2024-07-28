@@ -1,0 +1,13 @@
+location::Barnaul
+level::Regular
+date::2024_07_25
+organizer::
+players::generals
+Дмитрий Лисин :: Kytheon, Hero of Akros
+Достияр Амержаев :: Baral and Kari Zev
+Влад Гладышев :: Tamiyo, Inquisitive Student
+Александр Самусенко :: Omnath, Locus of Creation
+Михаил Старостенков :: Ghyrson Starn, Kelermorph
+Дмитрий Разумовский :: Asmoranomardicadaistinaculdacar
+Round
+https://aetherhub.com/Tourney/RoundTourney/31920

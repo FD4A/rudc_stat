@@ -1,0 +1,131 @@
+{
+    "date": "2024_07_28",
+    "location": "Ussuriysk",
+    "level": "Regular",
+    "organizer": "Usstiger",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Кирилл С",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Матвей Б",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Вячеслав Ш",
+            "Commodore Guff"
+        ],
+        [
+            "Данил П",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Владимир С",
+            "Strefan, Maurer Progenitor"
+        ],
+        [
+            "Максим Ф",
+            "Gaddock Teeg"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Владимир С",
+                "Матвей Б",
+                "Strefan, Maurer Progenitor",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Максим Ф",
+                "Кирилл С",
+                "Gaddock Teeg",
+                "Raffine, Scheming Seer",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Данил П",
+                "Вячеслав Ш",
+                "Shorikai, Genesis Engine",
+                "Commodore Guff",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Кирилл С",
+                "Вячеслав Ш",
+                "Raffine, Scheming Seer",
+                "Commodore Guff",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Матвей Б",
+                "Данил П",
+                "Kinnan, Bonder Prodigy",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Владимир С",
+                "Максим Ф",
+                "Strefan, Maurer Progenitor",
+                "Gaddock Teeg",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Матвей Б",
+                "Кирилл С",
+                "Kinnan, Bonder Prodigy",
+                "Raffine, Scheming Seer",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Владимир С",
+                "Commodore Guff",
+                "Strefan, Maurer Progenitor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Максим Ф",
+                "Данил П",
+                "Gaddock Teeg",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

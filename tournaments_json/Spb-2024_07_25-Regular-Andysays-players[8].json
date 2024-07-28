@@ -1,0 +1,169 @@
+{
+    "date": "2024_07_25",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Барабаш Валентин",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Булочко Михаил",
+            "Ertai Resurrected"
+        ],
+        [
+            "Саушкин Андрей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Яковлев Николай",
+            "The Wise Mothman"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Барабаш Валентин",
+                "Тяпайкин Максим",
+                "Tamiyo, Inquisitive Student",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Яковлев Николай",
+                "Omnath, Locus of Creation",
+                "The Wise Mothman",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Поляков Герман",
+                "Golos, Tireless Pilgrim",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Булочко Михаил",
+                "The Reality Chip",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Барабаш Валентин",
+                "Tamiyo, Inquisitive Student",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Яковлев Николай",
+                "Ertai Resurrected",
+                "The Wise Mothman",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Тяпайкин Максим",
+                "Omnath, Locus of Creation",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Ульянов Алексей",
+                "The Reality Chip",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Булочко Михаил",
+                "Барабаш Валентин",
+                "Ertai Resurrected",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Саушкин Андрей",
+                "Tamiyo, Inquisitive Student",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Яковлев Николай",
+                "The Reality Chip",
+                "The Wise Mothman",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Ульянов Алексей",
+                "Aminatou, the Fateshifter",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}
