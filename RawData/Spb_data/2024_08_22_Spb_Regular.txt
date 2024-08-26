@@ -1,0 +1,25 @@
+location::Spb
+level::Regular
+date::2024_08_22
+organizer::Andysays
+players::generals
+Токарев Александр :: Eris, Roar of the Storm
+Грабовой Филипп :: Ajani, Nacatl Pariah
+Ульянов Алексей :: Omnath, Locus of Creation
+Иванов Дмитрий :: Ajani, Nacatl Pariah
+Поляков Герман :: Tamiyo, Inquisitive Student
+Муравьев Никита :: Juri, Master of the Revue
+Михайлов Марат :: Eris, Roar of the Storm
+Булочко Михаил :: Ertai Resurrected
+Семенов Дмитрий :: Satya, Aetherflux Genius
+Яковлев Николай :: The Wise Mothman
+Тяпайкин Максим :: Golos, Tireless Pilgrim
+Чжан Цзяи :: Azusa, Lost but Seeking
+Корняков Евгений :: Animar, Soul of Elements
+Хорьков Аркадий :: Arahbo, Roar of the World
+Иванов Максим :: Geist of Saint Traft
+Саушкин Андрей :: Eris, Roar of the Storm
+Олифер Егор :: Asmoranomardicadaistinaculdacar
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/32625

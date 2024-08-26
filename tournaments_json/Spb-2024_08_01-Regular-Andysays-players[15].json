@@ -1,0 +1,339 @@
+{
+    "date": "2024_08_01",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Грабовой Филипп",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Булочко Михаил",
+            "Ertai Resurrected"
+        ],
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Олифер Егор",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Барабаш Валентин",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Яковлев Николай",
+            "The Wise Mothman"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Кузьмичев Андрей",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Фукин Дмитрий",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Петров Никита",
+            "Jace, Vryn's Prodigy"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Олифер Егор",
+                "Ульянов Алексей",
+                "Asmoranomardicadaistinaculdacar",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Иванов Максим",
+                "Vial Smasher the Fierce",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Тяпайкин Максим",
+                "Tamiyo, Inquisitive Student",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кузьмичев Андрей",
+                "Семенов Дмитрий",
+                "Eris, Roar of the Storm",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Петров Никита",
+                "The Reality Chip",
+                "Jace, Vryn's Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Фукин Дмитрий",
+                "Поляков Герман",
+                "Asmoranomardicadaistinaculdacar",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Булочко Михаил",
+                "The Wise Mothman",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Мартынов Яков",
+                "Tamiyo, Inquisitive Student",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Грабовой Филипп",
+                "Vial Smasher the Fierce",
+                "Ajani, Nacatl Pariah",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Барабаш Валентин",
+                "Ertai Resurrected",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Олифер Егор",
+                "Hogaak, Arisen Necropolis",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Петров Никита",
+                "Golos, Tireless Pilgrim",
+                "Jace, Vryn's Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Тяпайкин Максим",
+                "Geist of Saint Traft",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Фукин Дмитрий",
+                "The Wise Mothman",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Грабовой Филипп",
+                "Булочко Михаил",
+                "Ajani, Nacatl Pariah",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Олифер Егор",
+                "Tamiyo, Inquisitive Student",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Кузьмичев Андрей",
+                "Golos, Tireless Pilgrim",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Барабаш Валентин",
+                "The Wise Mothman",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Мартынов Яков",
+                "Hogaak, Arisen Necropolis",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Тяпайкин Максим",
+                "Vial Smasher the Fierce",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Грабовой Филипп",
+                "Олифер Егор",
+                "Ajani, Nacatl Pariah",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Булочко Михаил",
+                "Golos, Tireless Pilgrim",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Яковлев Николай",
+                "Tamiyo, Inquisitive Student",
+                "The Wise Mothman",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Тяпайкин Максим",
+                "The Reality Chip",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Семенов Дмитрий",
+                "Tamiyo, Inquisitive Student",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Кузьмичев Андрей",
+                "Vial Smasher the Fierce",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

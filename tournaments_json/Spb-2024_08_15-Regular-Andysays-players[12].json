@@ -1,0 +1,287 @@
+{
+    "date": "2024_08_15",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Ульянов Алексей",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Гавриленко Валентин",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Яковлев Николай",
+            "The Wise Mothman"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Манжуров Александр",
+            "Eladamri, Korvecdal"
+        ],
+        [
+            "Корсаков Алексей",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Грабовой Филипп",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Барабаш Валентин",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Хорьков Аркадий",
+            "Arahbo, Roar of the World"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Поляков Герман",
+                "Ульянов Алексей",
+                "Tamiyo, Inquisitive Student",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Гавриленко Валентин",
+                "Хорьков Аркадий",
+                "Ajani, Nacatl Pariah",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Барабаш Валентин",
+                "Geist of Saint Traft",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Корсаков Алексей",
+                "Golos, Tireless Pilgrim",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Яковлев Николай",
+                "Juri, Master of the Revue",
+                "The Wise Mothman",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Манжуров Александр",
+                "Ajani, Nacatl Pariah",
+                "Eladamri, Korvecdal",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Гавриленко Валентин",
+                "Иванов Максим",
+                "Ajani, Nacatl Pariah",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Тяпайкин Максим",
+                "Juri, Master of the Revue",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Грабовой Филипп",
+                "Tamiyo, Inquisitive Student",
+                "Ajani, Nacatl Pariah",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Аркадий",
+                "Корсаков Алексей",
+                "Arahbo, Roar of the World",
+                "Sythis, Harvest's Hand",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Ульянов Алексей",
+                "Tamiyo, Inquisitive Student",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Манжуров Александр",
+                "Яковлев Николай",
+                "Eladamri, Korvecdal",
+                "The Wise Mothman",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Муравьев Никита",
+                "Гавриленко Валентин",
+                "Juri, Master of the Revue",
+                "Ajani, Nacatl Pariah",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Манжуров Александр",
+                "Tamiyo, Inquisitive Student",
+                "Eladamri, Korvecdal",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Грабовой Филипп",
+                "Geist of Saint Traft",
+                "Ajani, Nacatl Pariah",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Хорьков Аркадий",
+                "Golos, Tireless Pilgrim",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Корсаков Алексей",
+                "Hogaak, Arisen Necropolis",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Яковлев Николай",
+                "Tamiyo, Inquisitive Student",
+                "The Wise Mothman",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Муравьев Никита",
+                "Поляков Герман",
+                "Juri, Master of the Revue",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Гавриленко Валентин",
+                "Тяпайкин Максим",
+                "Ajani, Nacatl Pariah",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Манжуров Александр",
+                "Hogaak, Arisen Necropolis",
+                "Eladamri, Korvecdal",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Яковлев Николай",
+                "Geist of Saint Traft",
+                "The Wise Mothman",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

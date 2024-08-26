@@ -1,0 +1,20 @@
+location::RostovOnDon
+level::Regular
+date::2024_06_29
+organizer::Constantin
+players::generals
+Александр Исаев :: Omnath, Locus of Creation
+RomanCherepovskiy :: Asmoranomardicadaistinaculdacar
+Constantin Somkin :: Dragonlord Ojutai
+Владислав Меркулов :: Zabaz, the Glimmerwasp
+Ratato :: Feldon, Ronom Excavator
+ZulaXao :: Magda, Brazen Outlaw
+Василий Мишин :: Tatyova, Benthic Druid
+Владимир Ероних :: Kroxa, Titan of Death's Hunger
+Prydwen :: Sythis, Harvest's Hand
+Сергей Малый :: Tatyova, Benthic Druid
+Жока Крысюк :: Nekusar, the Mindrazer
+Евгений Мищук :: Kinnan, Bonder Prodigy
+Vadim :: Kenrith, the Returned King
+Round
+https://aetherhub.com/Tourney/RoundTourney/32197

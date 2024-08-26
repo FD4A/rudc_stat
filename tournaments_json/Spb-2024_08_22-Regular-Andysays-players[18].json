@@ -1,0 +1,411 @@
+{
+    "date": "2024_08_22",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Токарев Александр",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Грабовой Филипп",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Ульянов Алексей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Михайлов Марат",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Булочко Михаил",
+            "Ertai Resurrected"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Яковлев Николай",
+            "The Wise Mothman"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Чжан Цзяи",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Корняков Евгений",
+            "Animar, Soul of Elements"
+        ],
+        [
+            "Хорьков Аркадий",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Саушкин Андрей",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Олифер Егор",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Иванов Дмитрий",
+                "Саушкин Андрей",
+                "Ajani, Nacatl Pariah",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Михайлов Марат",
+                "Golos, Tireless Pilgrim",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Олифер Егор",
+                "Tamiyo, Inquisitive Student",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Ульянов Алексей",
+                "Indoraptor, the Perfect Hybrid",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Корняков Евгений",
+                "The Wise Mothman",
+                "Animar, Soul of Elements",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Хорьков Аркадий",
+                "Juri, Master of the Revue",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Токарев Александр",
+                "Булочко Михаил",
+                "Eris, Roar of the Storm",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Чжан Цзяи",
+                "Ajani, Nacatl Pariah",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Иванов Максим",
+                "Satya, Aetherflux Genius",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Семенов Дмитрий",
+                "Грабовой Филипп",
+                "Satya, Aetherflux Genius",
+                "Ajani, Nacatl Pariah",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Корняков Евгений",
+                "Поляков Герман",
+                "Animar, Soul of Elements",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Ульянов Алексей",
+                "Juri, Master of the Revue",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Токарев Александр",
+                "Иванов Дмитрий",
+                "Eris, Roar of the Storm",
+                "Ajani, Nacatl Pariah",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Михайлов Марат",
+                "Хорьков Аркадий",
+                "Eris, Roar of the Storm",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Чжан Цзяи",
+                "Golos, Tireless Pilgrim",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Олифер Егор",
+                "Geist of Saint Traft",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Саушкин Андрей",
+                "Ertai Resurrected",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Богатырев Александр",
+                "The Wise Mothman",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Грабовой Филипп",
+                "Ульянов Алексей",
+                "Ajani, Nacatl Pariah",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Токарев Александр",
+                "Поляков Герман",
+                "Eris, Roar of the Storm",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Михайлов Марат",
+                "Корняков Евгений",
+                "Eris, Roar of the Storm",
+                "Animar, Soul of Elements",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Яковлев Николай",
+                "Golos, Tireless Pilgrim",
+                "The Wise Mothman",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Иванов Дмитрий",
+                "Satya, Aetherflux Genius",
+                "Ajani, Nacatl Pariah",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Булочко Михаил",
+                "Geist of Saint Traft",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Чжан Цзяи",
+                "Juri, Master of the Revue",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Аркадий",
+                "Богатырев Александр",
+                "Arahbo, Roar of the World",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Токарев Александр",
+                "Грабовой Филипп",
+                "Eris, Roar of the Storm",
+                "Ajani, Nacatl Pariah",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Михайлов Марат",
+                "Поляков Герман",
+                "Eris, Roar of the Storm",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Булочко Михаил",
+                "Ajani, Nacatl Pariah",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Яковлев Николай",
+                "Omnath, Locus of Creation",
+                "The Wise Mothman",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Тяпайкин Максим",
+                "Juri, Master of the Revue",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Корняков Евгений",
+                "Satya, Aetherflux Genius",
+                "Animar, Soul of Elements",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

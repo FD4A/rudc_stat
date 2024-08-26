@@ -1,0 +1,169 @@
+{
+    "date": "2024_08_08",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Скляров Филипп",
+            "Oloro, Ageless Ascetic"
+        ],
+        [
+            "Булочко Михаил",
+            "Ertai Resurrected"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Esika, God of the Tree"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Корсаков Алексей",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Саушкин Андрей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Яковлев Николай",
+            "The Wise Mothman"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Корсаков Алексей",
+                "Яковлев Николай",
+                "Kinnan, Bonder Prodigy",
+                "The Wise Mothman",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Скляров Филипп",
+                "Esika, God of the Tree",
+                "Oloro, Ageless Ascetic",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Булочко Михаил",
+                "Omnath, Locus of Creation",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Богатырев Александр",
+                "Tamiyo, Inquisitive Student",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Корсаков Алексей",
+                "Поляков Герман",
+                "Kinnan, Bonder Prodigy",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Тяпайкин Максим",
+                "Ertai Resurrected",
+                "Esika, God of the Tree",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Скляров Филипп",
+                "Богатырев Александр",
+                "Oloro, Ageless Ascetic",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Яковлев Николай",
+                "Omnath, Locus of Creation",
+                "The Wise Mothman",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Булочко Михаил",
+                "Tamiyo, Inquisitive Student",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Скляров Филипп",
+                "Корсаков Алексей",
+                "Oloro, Ageless Ascetic",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Тяпайкин Максим",
+                "Omnath, Locus of Creation",
+                "Esika, God of the Tree",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Яковлев Николай",
+                "Indoraptor, the Perfect Hybrid",
+                "The Wise Mothman",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

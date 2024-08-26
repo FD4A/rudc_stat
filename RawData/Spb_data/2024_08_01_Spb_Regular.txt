@@ -1,0 +1,22 @@
+location::Spb
+level::Regular
+date::2024_08_01
+organizer::Andysays
+players::generals
+Грабовой Филипп :: Ajani, Nacatl Pariah
+Булочко Михаил :: Ertai Resurrected
+Поляков Герман :: Tamiyo, Inquisitive Student
+Тяпайкин Максим :: Aminatou, the Fateshifter
+Олифер Егор :: Asmoranomardicadaistinaculdacar
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Барабаш Валентин :: Tamiyo, Inquisitive Student
+Яковлев Николай :: The Wise Mothman
+Мартынов Яков :: The Reality Chip
+Кузьмичев Андрей :: Eris, Roar of the Storm
+Байков Аркадий :: Vial Smasher the Fierce
+Иванов Максим :: Geist of Saint Traft
+Семенов Дмитрий :: Hogaak, Arisen Necropolis
+Фукин Дмитрий :: Asmoranomardicadaistinaculdacar
+Петров Никита :: Jace, Vryn's Prodigy
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/32094

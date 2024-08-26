@@ -1,0 +1,19 @@
+location::Spb
+level::Regular
+date::2024_08_15
+organizer::Andysays
+players::generals
+Поляков Герман :: Tamiyo, Inquisitive Student
+Муравьев Никита :: Juri, Master of the Revue
+Тяпайкин Максим :: Golos, Tireless Pilgrim
+Ульянов Алексей :: Hogaak, Arisen Necropolis
+Гавриленко Валентин :: Ajani, Nacatl Pariah
+Яковлев Николай :: The Wise Mothman
+Иванов Максим :: Geist of Saint Traft
+Манжуров Александр :: Eladamri, Korvecdal
+Корсаков Алексей :: Sythis, Harvest's Hand
+Грабовой Филипп :: Ajani, Nacatl Pariah
+Барабаш Валентин :: Tamiyo, Inquisitive Student
+Хорьков Аркадий :: Arahbo, Roar of the World
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/32460

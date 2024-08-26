@@ -1,0 +1,15 @@
+location::Spb
+level::Regular
+date::2024_08_08
+organizer::Andysays
+players::generals
+Поляков Герман :: Tamiyo, Inquisitive Student
+Скляров Филипп :: Oloro, Ageless Ascetic
+Булочко Михаил :: Ertai Resurrected
+Тяпайкин Максим :: Esika, God of the Tree
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Корсаков Алексей :: Kinnan, Bonder Prodigy
+Саушкин Андрей :: Omnath, Locus of Creation
+Яковлев Николай :: The Wise Mothman
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/32310

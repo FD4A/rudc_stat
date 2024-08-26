@@ -1,0 +1,1477 @@
+{
+    "date": "2024_08_01",
+    "location": "Online",
+    "level": "League",
+    "organizer": "AlexSmirnov",
+    "roundsCount": 9,
+    "players": [
+        [
+            "Акишев, Константин",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Александров, Дмитрий",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Антипин, Константин",
+            "Phlage, Titan of Fire's Fury"
+        ],
+        [
+            "Байкалов, Антон",
+            "Leovold, Emissary of Trest"
+        ],
+        [
+            "Байков, Аркадий",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Богатырев, Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Богданов, Сергей",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Булочко, Михаил",
+            "Ertai Resurrected"
+        ],
+        [
+            "Бурмистров, Павел",
+            "Lagrella, the Magpie"
+        ],
+        [
+            "Воронцов, Иван",
+            "Hakbal of the Surging Soul"
+        ],
+        [
+            "Давыдов, Александр",
+            "Magda, Brazen Outlaw"
+        ],
+        [
+            "Долганов, Матвей",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Козлов, Максим",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Костин, Андрей",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Кузьменко, Иван",
+            "Kassandra, Eagle Bearer"
+        ],
+        [
+            "Ламзин, Сережа",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Ломасов, Дмитрий",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Марченко, Олег",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Мещеряков, Максим",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Мозоля, Алексей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Муравьев, Роман",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Орешкин, Дмитрий",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Палачев, Константин",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Плотников, Александр",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Поляков, Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Поспелов, Александр",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Редько, Павел",
+            "Karlov of the Ghost Council :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Руденко, Олег",
+            "Ertai Resurrected"
+        ],
+        [
+            "Сайфутдинов, Тимур",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Сафаргалиев, Евгений",
+            "Kassandra, Eagle Bearer"
+        ],
+        [
+            "Семенов, Дмитрий",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Серпутько, Слава",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Сильчев, Никита",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Скляренко, Сергей",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Сомкин, Константин",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Стрельцов, Артем",
+            "Selvala, Explorer Returned"
+        ],
+        [
+            "Сухов, Никита",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Токарев, Александр",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Третьяков, Дмитрий",
+            "Rofellos, Llanowar Emissary"
+        ],
+        [
+            "Циулин, Иван",
+            "Rigo, Streetwise Mentor"
+        ],
+        [
+            "Череповский, Роман",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Шубенин, Илья",
+            "Tamiyo, Inquisitive Student"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Давыдов, Александр",
+                "Сайфутдинов, Тимур",
+                "Magda, Brazen Outlaw",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Семенов, Дмитрий",
+                "Воронцов, Иван",
+                "Satya, Aetherflux Genius",
+                "Hakbal of the Surging Soul",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Плотников, Александр",
+                "Александров, Дмитрий",
+                "Malcolm, Alluring Scoundrel",
+                "Ajani, Nacatl Pariah",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кузьменко, Иван",
+                "Акишев, Константин",
+                "Kassandra, Eagle Bearer",
+                "Ajani, Nacatl Pariah",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поспелов, Александр",
+                "Богданов, Сергей",
+                "Ral, Monsoon Mage",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богатырев, Александр",
+                "Сафаргалиев, Евгений",
+                "Indoraptor, the Perfect Hybrid",
+                "Kassandra, Eagle Bearer",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков, Герман",
+                "Байкалов, Антон",
+                "Tamiyo, Inquisitive Student",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Костин, Андрей",
+                "Антипин, Константин",
+                "Imskir Iron-Eater",
+                "Phlage, Titan of Fire's Fury",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Череповский, Роман",
+                "Марченко, Олег",
+                "Imskir Iron-Eater",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сомкин, Константин",
+                "Мозоля, Алексей",
+                "Ral, Monsoon Mage",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ламзин, Сережа",
+                "Токарев, Александр",
+                "Golos, Tireless Pilgrim",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев, Роман",
+                "Байков, Аркадий",
+                "Juri, Master of the Revue",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ломасов, Дмитрий",
+                "Долганов, Матвей",
+                "Hogaak, Arisen Necropolis",
+                "Ajani, Nacatl Pariah",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шубенин, Илья",
+                "Козлов, Максим",
+                "Tamiyo, Inquisitive Student",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сильчев, Никита",
+                "Мещеряков, Максим",
+                "Imskir Iron-Eater",
+                "Ajani, Nacatl Pariah",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Орешкин, Дмитрий",
+                "Сухов, Никита",
+                "Satya, Aetherflux Genius",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Скляренко, Сергей",
+                "Циулин, Иван",
+                "Phelia, Exuberant Shepherd",
+                "Rigo, Streetwise Mentor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Третьяков, Дмитрий",
+                "Редько, Павел",
+                "Rofellos, Llanowar Emissary",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Стрельцов, Артем",
+                "Серпутько, Слава",
+                "Selvala, Explorer Returned",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Булочко, Михаил",
+                "Руденко, Олег",
+                "Ertai Resurrected",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Палачев, Константин",
+                "Бурмистров, Павел",
+                "Raffine, Scheming Seer",
+                "Lagrella, the Magpie",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Серпутько, Слава",
+                "Палачев, Константин",
+                "Omnath, Locus of Creation",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ламзин, Сережа",
+                "Сильчев, Никита",
+                "Golos, Tireless Pilgrim",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко, Михаил",
+                "Александров, Дмитрий",
+                "Ertai Resurrected",
+                "Ajani, Nacatl Pariah",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев, Роман",
+                "Кузьменко, Иван",
+                "Juri, Master of the Revue",
+                "Kassandra, Eagle Bearer",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сомкин, Константин",
+                "Ломасов, Дмитрий",
+                "Ral, Monsoon Mage",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сафаргалиев, Евгений",
+                "Орешкин, Дмитрий",
+                "Kassandra, Eagle Bearer",
+                "Satya, Aetherflux Genius",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сайфутдинов, Тимур",
+                "Поспелов, Александр",
+                "Omnath, Locus of Creation",
+                "Ral, Monsoon Mage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков, Герман",
+                "Череповский, Роман",
+                "Tamiyo, Inquisitive Student",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шубенин, Илья",
+                "Костин, Андрей",
+                "Tamiyo, Inquisitive Student",
+                "Imskir Iron-Eater",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Редько, Павел",
+                "Семенов, Дмитрий",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Satya, Aetherflux Genius",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Скляренко, Сергей",
+                "Козлов, Максим",
+                "Phelia, Exuberant Shepherd",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Долганов, Матвей",
+                "Токарев, Александр",
+                "Ajani, Nacatl Pariah",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Третьяков, Дмитрий",
+                "Стрельцов, Артем",
+                "Rofellos, Llanowar Emissary",
+                "Selvala, Explorer Returned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков, Аркадий",
+                "Давыдов, Александр",
+                "Imskir Iron-Eater",
+                "Magda, Brazen Outlaw",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сухов, Никита",
+                "Антипин, Константин",
+                "Tamiyo, Inquisitive Student",
+                "Phlage, Titan of Fire's Fury",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Циулин, Иван",
+                "Мещеряков, Максим",
+                "Rigo, Streetwise Mentor",
+                "Ajani, Nacatl Pariah",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мозоля, Алексей",
+                "Плотников, Александр",
+                "Omnath, Locus of Creation",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богатырев, Александр",
+                "Руденко, Олег",
+                "Indoraptor, the Perfect Hybrid",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богданов, Сергей",
+                "Воронцов, Иван",
+                "Kroxa, Titan of Death's Hunger",
+                "Hakbal of the Surging Soul",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Акишев, Константин",
+                "Байкалов, Антон",
+                "Ajani, Nacatl Pariah",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Бурмистров, Павел",
+                "Марченко, Олег",
+                "Lagrella, the Magpie",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Серпутько, Слава",
+                "Сайфутдинов, Тимур",
+                "Omnath, Locus of Creation",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кузьменко, Иван",
+                "Ламзин, Сережа",
+                "Kassandra, Eagle Bearer",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Костин, Андрей",
+                "Скляренко, Сергей",
+                "Imskir Iron-Eater",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков, Герман",
+                "Орешкин, Дмитрий",
+                "Tamiyo, Inquisitive Student",
+                "Satya, Aetherflux Genius",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Семенов, Дмитрий",
+                "Александров, Дмитрий",
+                "Satya, Aetherflux Genius",
+                "Ajani, Nacatl Pariah",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ломасов, Дмитрий",
+                "Циулин, Иван",
+                "Hogaak, Arisen Necropolis",
+                "Rigo, Streetwise Mentor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сафаргалиев, Евгений",
+                "Сомкин, Константин",
+                "Kassandra, Eagle Bearer",
+                "Ral, Monsoon Mage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Третьяков, Дмитрий",
+                "Давыдов, Александр",
+                "Rofellos, Llanowar Emissary",
+                "Magda, Brazen Outlaw",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богатырев, Александр",
+                "Бурмистров, Павел",
+                "Indoraptor, the Perfect Hybrid",
+                "Lagrella, the Magpie",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Череповский, Роман",
+                "Мозоля, Алексей",
+                "Imskir Iron-Eater",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Акишев, Константин",
+                "Долганов, Матвей",
+                "Ajani, Nacatl Pariah",
+                "Ajani, Nacatl Pariah",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поспелов, Александр",
+                "Сильчев, Никита",
+                "Ral, Monsoon Mage",
+                "Imskir Iron-Eater",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Палачев, Константин",
+                "Муравьев, Роман",
+                "Raffine, Scheming Seer",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Булочко, Михаил",
+                "Богданов, Сергей",
+                "Ertai Resurrected",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Редько, Павел",
+                "Сухов, Никита",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Шубенин, Илья",
+                "Токарев, Александр",
+                "Tamiyo, Inquisitive Student",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Плотников, Александр",
+                "Козлов, Максим",
+                "Malcolm, Alluring Scoundrel",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мещеряков, Максим",
+                "Антипин, Константин",
+                "Ajani, Nacatl Pariah",
+                "Phlage, Titan of Fire's Fury",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Руденко, Олег",
+                "Воронцов, Иван",
+                "Ertai Resurrected",
+                "Hakbal of the Surging Soul",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Байкалов, Антон",
+                "Стрельцов, Артем",
+                "Leovold, Emissary of Trest",
+                "Selvala, Explorer Returned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Марченко, Олег",
+                "Байков, Аркадий",
+                "Imskir Iron-Eater",
+                "Imskir Iron-Eater",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Орешкин, Дмитрий",
+                "Александров, Дмитрий",
+                "Satya, Aetherflux Genius",
+                "Ajani, Nacatl Pariah",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ломасов, Дмитрий",
+                "Костин, Андрей",
+                "Hogaak, Arisen Necropolis",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ламзин, Сережа",
+                "Сайфутдинов, Тимур",
+                "Golos, Tireless Pilgrim",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Серпутько, Слава",
+                "Сухов, Никита",
+                "Omnath, Locus of Creation",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Долганов, Матвей",
+                "Поляков, Герман",
+                "Ajani, Nacatl Pariah",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Семенов, Дмитрий",
+                "Скляренко, Сергей",
+                "Satya, Aetherflux Genius",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сильчев, Никита",
+                "Кузьменко, Иван",
+                "Imskir Iron-Eater",
+                "Kassandra, Eagle Bearer",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сафаргалиев, Евгений",
+                "Череповский, Роман",
+                "Kassandra, Eagle Bearer",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев, Роман",
+                "Давыдов, Александр",
+                "Juri, Master of the Revue",
+                "Magda, Brazen Outlaw",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Бурмистров, Павел",
+                "Богданов, Сергей",
+                "Lagrella, the Magpie",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Третьяков, Дмитрий",
+                "Руденко, Олег",
+                "Rofellos, Llanowar Emissary",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поспелов, Александр",
+                "Палачев, Константин",
+                "Ral, Monsoon Mage",
+                "Raffine, Scheming Seer",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шубенин, Илья",
+                "Редько, Павел",
+                "Tamiyo, Inquisitive Student",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Токарев, Александр",
+                "Булочко, Михаил",
+                "Eris, Roar of the Storm",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Циулин, Иван",
+                "Антипин, Константин",
+                "Rigo, Streetwise Mentor",
+                "Phlage, Titan of Fire's Fury",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Байков, Аркадий",
+                "Богатырев, Александр",
+                "Imskir Iron-Eater",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сомкин, Константин",
+                "Акишев, Константин",
+                "Ral, Monsoon Mage",
+                "Ajani, Nacatl Pariah",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Стрельцов, Артем",
+                "Воронцов, Иван",
+                "Selvala, Explorer Returned",
+                "Hakbal of the Surging Soul",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Марченко, Олег",
+                "Плотников, Александр",
+                "Imskir Iron-Eater",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мещеряков, Максим",
+                "Козлов, Максим",
+                "Ajani, Nacatl Pariah",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Ломасов, Дмитрий",
+                "Орешкин, Дмитрий",
+                "Hogaak, Arisen Necropolis",
+                "Satya, Aetherflux Genius",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сайфутдинов, Тимур",
+                "Семенов, Дмитрий",
+                "Omnath, Locus of Creation",
+                "Satya, Aetherflux Genius",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кузьменко, Иван",
+                "Александров, Дмитрий",
+                "Kassandra, Eagle Bearer",
+                "Ajani, Nacatl Pariah",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сафаргалиев, Евгений",
+                "Бурмистров, Павел",
+                "Kassandra, Eagle Bearer",
+                "Lagrella, the Magpie",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ламзин, Сережа",
+                "Костин, Андрей",
+                "Golos, Tireless Pilgrim",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев, Роман",
+                "Сухов, Никита",
+                "Juri, Master of the Revue",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков, Герман",
+                "Токарев, Александр",
+                "Tamiyo, Inquisitive Student",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сильчев, Никита",
+                "Давыдов, Александр",
+                "Imskir Iron-Eater",
+                "Magda, Brazen Outlaw",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Антипин, Константин",
+                "Третьяков, Дмитрий",
+                "Phlage, Titan of Fire's Fury",
+                "Rofellos, Llanowar Emissary",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сомкин, Константин",
+                "Козлов, Максим",
+                "Ral, Monsoon Mage",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Долганов, Матвей",
+                "Серпутько, Слава",
+                "Ajani, Nacatl Pariah",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богатырев, Александр",
+                "Шубенин, Илья",
+                "Indoraptor, the Perfect Hybrid",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Палачев, Константин",
+                "Череповский, Роман",
+                "Raffine, Scheming Seer",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богданов, Сергей",
+                "Скляренко, Сергей",
+                "Kroxa, Titan of Death's Hunger",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Булочко, Михаил",
+                "Воронцов, Иван",
+                "Ertai Resurrected",
+                "Hakbal of the Surging Soul",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Марченко, Олег",
+                "Мозоля, Алексей",
+                "Imskir Iron-Eater",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Редько, Павел",
+                "Байкалов, Антон",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Leovold, Emissary of Trest",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поспелов, Александр",
+                "Байков, Аркадий",
+                "Ral, Monsoon Mage",
+                "Imskir Iron-Eater",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Циулин, Иван",
+                "Плотников, Александр",
+                "Rigo, Streetwise Mentor",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мещеряков, Максим",
+                "Стрельцов, Артем",
+                "Ajani, Nacatl Pariah",
+                "Selvala, Explorer Returned",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Орешкин, Дмитрий",
+                "Сайфутдинов, Тимур",
+                "Satya, Aetherflux Genius",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ламзин, Сережа",
+                "Сафаргалиев, Евгений",
+                "Golos, Tireless Pilgrim",
+                "Kassandra, Eagle Bearer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ломасов, Дмитрий",
+                "Сухов, Никита",
+                "Hogaak, Arisen Necropolis",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Александров, Дмитрий",
+                "Поляков, Герман",
+                "Ajani, Nacatl Pariah",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кузьменко, Иван",
+                "Костин, Андрей",
+                "Kassandra, Eagle Bearer",
+                "Imskir Iron-Eater",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Семенов, Дмитрий",
+                "Бурмистров, Павел",
+                "Satya, Aetherflux Genius",
+                "Lagrella, the Magpie",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев, Роман",
+                "Токарев, Александр",
+                "Juri, Master of the Revue",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Долганов, Матвей",
+                "Богатырев, Александр",
+                "Ajani, Nacatl Pariah",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Антипин, Константин",
+                "Сильчев, Никита",
+                "Phlage, Titan of Fire's Fury",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Палачев, Константин",
+                "Богданов, Сергей",
+                "Raffine, Scheming Seer",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Козлов, Максим",
+                "Серпутько, Слава",
+                "Feldon, Ronom Excavator",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сомкин, Константин",
+                "Шубенин, Илья",
+                "Ral, Monsoon Mage",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Череповский, Роман",
+                "Скляренко, Сергей",
+                "Imskir Iron-Eater",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков, Аркадий",
+                "Воронцов, Иван",
+                "Imskir Iron-Eater",
+                "Hakbal of the Surging Soul",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мозоля, Алексей",
+                "Поспелов, Александр",
+                "Omnath, Locus of Creation",
+                "Ral, Monsoon Mage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Стрельцов, Артем",
+                "Булочко, Михаил",
+                "Selvala, Explorer Returned",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Плотников, Александр",
+                "Мещеряков, Максим",
+                "Malcolm, Alluring Scoundrel",
+                "Ajani, Nacatl Pariah",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Циулин, Иван",
+                "Марченко, Олег",
+                "Rigo, Streetwise Mentor",
+                "Imskir Iron-Eater",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Орешкин, Дмитрий",
+                "Костин, Андрей",
+                "Satya, Aetherflux Genius",
+                "Imskir Iron-Eater",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Александров, Дмитрий",
+                "Сухов, Никита",
+                "Ajani, Nacatl Pariah",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сайфутдинов, Тимур",
+                "Ломасов, Дмитрий",
+                "Omnath, Locus of Creation",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сафаргалиев, Евгений",
+                "Ламзин, Сережа",
+                "Kassandra, Eagle Bearer",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Ламзин, Сережа",
+                "Ломасов, Дмитрий",
+                "Golos, Tireless Pilgrim",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Костин, Андрей",
+                "Сухов, Никита",
+                "Imskir Iron-Eater",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Костин, Андрей",
+                "Ломасов, Дмитрий",
+                "Imskir Iron-Eater",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

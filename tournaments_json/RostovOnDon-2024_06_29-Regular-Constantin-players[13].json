@@ -1,0 +1,311 @@
+{
+    "date": "2024_06_29",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Александр Исаев",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "RomanCherepovskiy",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Constantin Somkin",
+            "Dragonlord Ojutai"
+        ],
+        [
+            "Владислав Меркулов",
+            "Zabaz, the Glimmerwasp"
+        ],
+        [
+            "Ratato",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "ZulaXao",
+            "Magda, Brazen Outlaw"
+        ],
+        [
+            "Василий Мишин",
+            "Tatyova, Benthic Druid"
+        ],
+        [
+            "Владимир Ероних",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Prydwen",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Сергей Малый",
+            "Tatyova, Benthic Druid"
+        ],
+        [
+            "Жока Крысюк",
+            "Nekusar, the Mindrazer"
+        ],
+        [
+            "Евгений Мищук",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Vadim",
+            "Kenrith, the Returned King"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Евгений Мищук",
+                "Сергей Малый",
+                "Kinnan, Bonder Prodigy",
+                "Tatyova, Benthic Druid",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Александр Исаев",
+                "Vadim",
+                "Omnath, Locus of Creation",
+                "Kenrith, the Returned King",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "RomanCherepovskiy",
+                "Жока Крысюк",
+                "Asmoranomardicadaistinaculdacar",
+                "Nekusar, the Mindrazer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ratato",
+                "Constantin Somkin",
+                "Feldon, Ronom Excavator",
+                "Dragonlord Ojutai",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Владислав Меркулов",
+                "Владимир Ероних",
+                "Zabaz, the Glimmerwasp",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "ZulaXao",
+                "Василий Мишин",
+                "Magda, Brazen Outlaw",
+                "Tatyova, Benthic Druid",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Владислав Меркулов",
+                "Ratato",
+                "Zabaz, the Glimmerwasp",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "ZulaXao",
+                "Александр Исаев",
+                "Magda, Brazen Outlaw",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "RomanCherepovskiy",
+                "Сергей Малый",
+                "Asmoranomardicadaistinaculdacar",
+                "Tatyova, Benthic Druid",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Constantin Somkin",
+                "Vadim",
+                "Dragonlord Ojutai",
+                "Kenrith, the Returned King",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Prydwen",
+                "Владимир Ероних",
+                "Sythis, Harvest's Hand",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Жока Крысюк",
+                "Василий Мишин",
+                "Nekusar, the Mindrazer",
+                "Tatyova, Benthic Druid",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Владислав Меркулов",
+                "Александр Исаев",
+                "Zabaz, the Glimmerwasp",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "RomanCherepovskiy",
+                "ZulaXao",
+                "Asmoranomardicadaistinaculdacar",
+                "Magda, Brazen Outlaw",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Василий Мишин",
+                "Евгений Мищук",
+                "Tatyova, Benthic Druid",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Constantin Somkin",
+                "Сергей Малый",
+                "Dragonlord Ojutai",
+                "Tatyova, Benthic Druid",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ratato",
+                "Владимир Ероних",
+                "Feldon, Ronom Excavator",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Prydwen",
+                "Жока Крысюк",
+                "Sythis, Harvest's Hand",
+                "Nekusar, the Mindrazer",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "RomanCherepovskiy",
+                "Владислав Меркулов",
+                "Asmoranomardicadaistinaculdacar",
+                "Zabaz, the Glimmerwasp",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Александр Исаев",
+                "Ratato",
+                "Omnath, Locus of Creation",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Constantin Somkin",
+                "Василий Мишин",
+                "Dragonlord Ojutai",
+                "Tatyova, Benthic Druid",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "ZulaXao",
+                "Сергей Малый",
+                "Magda, Brazen Outlaw",
+                "Tatyova, Benthic Druid",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Владимир Ероних",
+                "Жока Крысюк",
+                "Kroxa, Titan of Death's Hunger",
+                "Nekusar, the Mindrazer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Евгений Мищук",
+                "Prydwen",
+                "Kinnan, Bonder Prodigy",
+                "Sythis, Harvest's Hand",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

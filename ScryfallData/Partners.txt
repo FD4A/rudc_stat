@@ -15,6 +15,7 @@ Cazur, Ruthless Stalker :: G
 Dargo, the Shipwrecker :: R
 Eligeth, Crossroads Augur :: U
 Esior, Wardwing Familiar :: U
+Evie Frye :: U
 Falthis, Shadowcat Familiar :: B
 Fluros of Myra's Marvels :: U
 Francisco, Fowl Marauder :: B
@@ -30,6 +31,7 @@ Ich-Tekik, Salvage Splicer :: G
 Ignacio of Myra's Marvels :: R
 Ikra Shidiqi, the Usurper :: BG
 Ishai, Ojutai Dragonspeaker :: UW
+Jacob Frye :: B
 Jenny Flint :: RU
 Jeska, Thrice Reborn :: R
 Kamahl, Heart of Krosa :: G
