@@ -1,0 +1,282 @@
+Ajani, Nacatl Pariah             matches:21   WM: 52.38%  LM: 47.62%  DM:  0.00% (wm:11  lm:10  dm:0)  games:52   WG: 50.00% LG: 50.00% (wg:  26 lg:  26) pick: 4    Online(4), 
+       vs Malcolm, Alluring Scoundrel      (w:2 l:0 d:0), (4/1)
+       vs Kassandra, Eagle Bearer          (w:1 l:1 d:0), (2/3)
+       vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (0/2)
+       vs Imskir Iron-Eater                (w:0 l:1 d:0), (1/2)
+       vs Ertai Resurrected                (w:1 l:0 d:0), (2/1)
+       vs Eris, Roar of the Storm          (w:1 l:0 d:0), (2/1)
+       vs Rigo, Streetwise Mentor          (w:0 l:1 d:0), (1/2)
+       vs Leovold, Emissary of Trest       (w:1 l:0 d:0), (2/0)
+       vs Satya, Aetherflux Genius         (w:1 l:1 d:0), (2/2)
+       vs Phlage, Titan of Fire's Fury     (w:0 l:1 d:0), (0/2)
+       vs Tamiyo, Inquisitive Student      (w:1 l:2 d:0), (4/4)
+       vs Ral, Monsoon Mage                (w:0 l:1 d:0), (0/2)
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (0/2)
+       vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/1)
+       vs Selvala, Explorer Returned       (w:1 l:0 d:0), (2/1)
+       vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/0)
+
+
+Eris, Roar of the Storm          matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:16   WG: 62.50% LG: 37.50% (wg:  10 lg:   6) pick: 1    Online(1), 
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (1/2)
+       vs Ajani, Nacatl Pariah             (w:0 l:1 d:0), (1/2)
+       vs Tamiyo, Inquisitive Student      (w:2 l:0 d:0), (4/1)
+       vs Ertai Resurrected                (w:1 l:0 d:0), (2/1)
+       vs Juri, Master of the Revue        (w:1 l:0 d:0), (2/0)
+
+
+Ertai Resurrected                matches:8    WM: 12.50%  LM: 87.50%  DM:  0.00% (wm:1   lm:7   dm:0)  games:22   WG: 31.82% LG: 68.18% (wg:   7 lg:  15) pick: 2    Online(2), 
+       vs Ajani, Nacatl Pariah             (w:0 l:1 d:0), (1/2)
+       vs Indoraptor, the Perfect Hybrid   (w:0 l:1 d:0), (0/2)
+       vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (1/2)
+       vs Hakbal of the Surging Soul       (w:1 l:1 d:0), (3/3)
+       vs Rofellos, Llanowar Emissary      (w:0 l:1 d:0), (0/2)
+       vs Eris, Roar of the Storm          (w:0 l:1 d:0), (1/2)
+       vs Selvala, Explorer Returned       (w:0 l:1 d:0), (1/2)
+
+
+Feldon, Ronom Excavator          matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:14   WG: 71.43% LG: 28.57% (wg:  10 lg:   4) pick: 1    Online(1), 
+       vs Tamiyo, Inquisitive Student      (w:0 l:1 d:0), (1/2)
+       vs Phelia, Exuberant Shepherd       (w:0 l:1 d:0), (1/2)
+       vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/0)
+       vs Ajani, Nacatl Pariah             (w:1 l:0 d:0), (2/0)
+       vs Ral, Monsoon Mage                (w:1 l:0 d:0), (2/0)
+       vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/0)
+
+
+Golos, Tireless Pilgrim          matches:8    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:6   lm:2   dm:0)  games:19   WG: 73.68% LG: 26.32% (wg:  14 lg:   5) pick: 1    Online(1), 
+       vs Eris, Roar of the Storm          (w:1 l:0 d:0), (2/1)
+       vs Imskir Iron-Eater                (w:2 l:0 d:0), (4/0)
+       vs Kassandra, Eagle Bearer          (w:3 l:0 d:0), (6/0)
+       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (1/2)
+       vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (1/2)
+
+
+Hakbal of the Surging Soul       matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:15   WG: 40.00% LG: 60.00% (wg:   6 lg:   9) pick: 1    Online(1), 
+       vs Satya, Aetherflux Genius         (w:0 l:1 d:0), (0/2)
+       vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (1/2)
+       vs Ertai Resurrected                (w:1 l:1 d:0), (3/3)
+       vs Selvala, Explorer Returned       (w:1 l:0 d:0), (2/0)
+       vs Imskir Iron-Eater                (w:0 l:1 d:0), (0/2)
+
+
+Hogaak, Arisen Necropolis        matches:9    WM: 77.78%  LM: 22.22%  DM:  0.00% (wm:7   lm:2   dm:0)  games:21   WG: 71.43% LG: 28.57% (wg:  15 lg:   6) pick: 1    Online(1), 
+       vs Ajani, Nacatl Pariah             (w:1 l:0 d:0), (2/0)
+       vs Ral, Monsoon Mage                (w:1 l:0 d:0), (2/0)
+       vs Rigo, Streetwise Mentor          (w:1 l:0 d:0), (2/0)
+       vs Imskir Iron-Eater                (w:2 l:0 d:0), (4/1)
+       vs Satya, Aetherflux Genius         (w:0 l:1 d:0), (0/2)
+       vs Tamiyo, Inquisitive Student      (w:0 l:1 d:0), (1/2)
+       vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/0)
+       vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/1)
+
+
+Imskir Iron-Eater                matches:29   WM: 51.72%  LM: 48.28%  DM:  0.00% (wm:15  lm:14  dm:0)  games:71   WG: 50.70% LG: 49.30% (wg:  36 lg:  35) pick: 5    Online(5), 
+       vs Phlage, Titan of Fire's Fury     (w:1 l:1 d:0), (3/3)
+       vs Juri, Master of the Revue        (w:0 l:1 d:0), (0/2)
+       vs Ajani, Nacatl Pariah             (w:1 l:0 d:0), (2/1)
+       vs Golos, Tireless Pilgrim          (w:0 l:2 d:0), (0/4)
+       vs Tamiyo, Inquisitive Student      (w:2 l:1 d:0), (4/3)
+       vs Magda, Brazen Outlaw             (w:1 l:1 d:0), (3/2)
+       vs Lagrella, the Magpie             (w:0 l:1 d:0), (0/2)
+       vs Phelia, Exuberant Shepherd       (w:2 l:0 d:0), (4/0)
+       vs Omnath, Locus of Creation        (w:1 l:1 d:0), (3/2)
+       vs Ral, Monsoon Mage                (w:2 l:0 d:0), (4/1)
+       vs Hogaak, Arisen Necropolis        (w:0 l:2 d:0), (1/4)
+       vs Kassandra, Eagle Bearer          (w:1 l:2 d:0), (3/4)
+       vs Indoraptor, the Perfect Hybrid   (w:0 l:1 d:0), (1/2)
+       vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/1)
+       vs Raffine, Scheming Seer           (w:0 l:1 d:0), (0/2)
+       vs Hakbal of the Surging Soul       (w:1 l:0 d:0), (2/0)
+       vs Rigo, Streetwise Mentor          (w:1 l:0 d:0), (2/1)
+       vs Satya, Aetherflux Genius         (w:1 l:0 d:0), (2/1)
+
+
+Indoraptor, the Perfect Hybrid   matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:14   WG: 42.86% LG: 57.14% (wg:   6 lg:   8) pick: 1    Online(1), 
+       vs Kassandra, Eagle Bearer          (w:0 l:1 d:0), (0/2)
+       vs Ertai Resurrected                (w:1 l:0 d:0), (2/0)
+       vs Lagrella, the Magpie             (w:0 l:1 d:0), (0/2)
+       vs Imskir Iron-Eater                (w:1 l:0 d:0), (2/1)
+       vs Tamiyo, Inquisitive Student      (w:1 l:0 d:0), (2/1)
+       vs Ajani, Nacatl Pariah             (w:0 l:1 d:0), (0/2)
+
+
+Juri, Master of the Revue        matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:13   WG: 46.15% LG: 53.85% (wg:   6 lg:   7) pick: 1    Online(1), 
+       vs Imskir Iron-Eater                (w:1 l:0 d:0), (2/0)
+       vs Kassandra, Eagle Bearer          (w:0 l:1 d:0), (0/2)
+       vs Raffine, Scheming Seer           (w:1 l:0 d:0), (2/0)
+       vs Magda, Brazen Outlaw             (w:1 l:0 d:0), (2/1)
+       vs Tamiyo, Inquisitive Student      (w:0 l:1 d:0), (0/2)
+       vs Eris, Roar of the Storm          (w:0 l:1 d:0), (0/2)
+
+
+Karlov of the Ghost Council      matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:1   lm:4   dm:0)  games:11   WG: 27.27% LG: 72.73% (wg:   3 lg:   8) pick: 1    Online(1), 
+  + Lurrus of the Dream-Den     
+       vs Rofellos, Llanowar Emissary      (w:1 l:0 d:0), (2/0)
+       vs Satya, Aetherflux Genius         (w:0 l:1 d:0), (0/2)
+       vs Tamiyo, Inquisitive Student      (w:0 l:2 d:0), (1/4)
+       vs Leovold, Emissary of Trest       (w:0 l:1 d:0), (0/2)
+
+
+Kassandra, Eagle Bearer          matches:13   WM: 53.85%  LM: 46.15%  DM:  0.00% (wm:7   lm:6   dm:0)  games:29   WG: 55.17% LG: 44.83% (wg:  16 lg:  13) pick: 2    Online(2), 
+       vs Ajani, Nacatl Pariah             (w:1 l:1 d:0), (3/2)
+       vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/0)
+       vs Juri, Master of the Revue        (w:1 l:0 d:0), (2/0)
+       vs Satya, Aetherflux Genius         (w:0 l:1 d:0), (1/2)
+       vs Golos, Tireless Pilgrim          (w:0 l:3 d:0), (0/6)
+       vs Ral, Monsoon Mage                (w:1 l:0 d:0), (2/0)
+       vs Imskir Iron-Eater                (w:2 l:1 d:0), (4/3)
+       vs Lagrella, the Magpie             (w:1 l:0 d:0), (2/0)
+
+
+Kroxa, Titan of Death's Hunger   matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:16   WG: 43.75% LG: 56.25% (wg:   7 lg:   9) pick: 1    Online(1), 
+       vs Ral, Monsoon Mage                (w:0 l:1 d:0), (1/2)
+       vs Hakbal of the Surging Soul       (w:1 l:0 d:0), (2/1)
+       vs Ertai Resurrected                (w:1 l:0 d:0), (2/1)
+       vs Lagrella, the Magpie             (w:0 l:1 d:0), (0/2)
+       vs Phelia, Exuberant Shepherd       (w:1 l:0 d:0), (2/1)
+       vs Raffine, Scheming Seer           (w:0 l:1 d:0), (0/2)
+
+
+Lagrella, the Magpie             matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:13   WG: 53.85% LG: 46.15% (wg:   7 lg:   6) pick: 1    Online(1), 
+       vs Raffine, Scheming Seer           (w:0 l:1 d:0), (0/2)
+       vs Imskir Iron-Eater                (w:1 l:0 d:0), (2/0)
+       vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/0)
+       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/0)
+       vs Kassandra, Eagle Bearer          (w:0 l:1 d:0), (0/2)
+       vs Satya, Aetherflux Genius         (w:0 l:1 d:0), (1/2)
+
+
+Leovold, Emissary of Trest       matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:8    WG: 50.00% LG: 50.00% (wg:   4 lg:   4) pick: 1    Online(1), 
+       vs Tamiyo, Inquisitive Student      (w:0 l:1 d:0), (0/2)
+       vs Ajani, Nacatl Pariah             (w:0 l:1 d:0), (0/2)
+       vs Selvala, Explorer Returned       (w:1 l:0 d:0), (2/0)
+       vs Karlov of the Ghost Council      (w:1 l:0 d:0), (2/0)
+        + Lurrus of the Dream-Den         
+
+
+Magda, Brazen Outlaw             matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:14   WG: 42.86% LG: 57.14% (wg:   6 lg:   8) pick: 1    Online(1), 
+       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (1/2)
+       vs Imskir Iron-Eater                (w:1 l:1 d:0), (2/3)
+       vs Rofellos, Llanowar Emissary      (w:1 l:0 d:0), (2/1)
+       vs Juri, Master of the Revue        (w:0 l:1 d:0), (1/2)
+
+
+Malcolm, Alluring Scoundrel      matches:6    WM: 16.67%  LM: 83.33%  DM:  0.00% (wm:1   lm:5   dm:0)  games:14   WG: 28.57% LG: 71.43% (wg:   4 lg:  10) pick: 1    Online(1), 
+       vs Ajani, Nacatl Pariah             (w:0 l:2 d:0), (1/4)
+       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (0/2)
+       vs Imskir Iron-Eater                (w:0 l:1 d:0), (1/2)
+       vs Rigo, Streetwise Mentor          (w:1 l:0 d:0), (2/0)
+
+
+Omnath, Locus of Creation        matches:16   WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:8   lm:8   dm:0)  games:41   WG: 46.34% LG: 53.66% (wg:  19 lg:  22) pick: 3    Online(3), 
+       vs Magda, Brazen Outlaw             (w:1 l:0 d:0), (2/1)
+       vs Ral, Monsoon Mage                (w:1 l:2 d:0), (4/5)
+       vs Selvala, Explorer Returned       (w:1 l:0 d:0), (2/1)
+       vs Raffine, Scheming Seer           (w:1 l:0 d:0), (2/0)
+       vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/0)
+       vs Imskir Iron-Eater                (w:1 l:1 d:0), (2/3)
+       vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/1)
+       vs Tamiyo, Inquisitive Student      (w:0 l:1 d:0), (0/2)
+       vs Satya, Aetherflux Genius         (w:1 l:1 d:0), (2/3)
+       vs Ajani, Nacatl Pariah             (w:0 l:1 d:0), (1/2)
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (0/2)
+       vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (0/2)
+
+
+Phelia, Exuberant Shepherd       matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:15   WG: 33.33% LG: 66.67% (wg:   5 lg:  10) pick: 1    Online(1), 
+       vs Rigo, Streetwise Mentor          (w:1 l:0 d:0), (2/1)
+       vs Feldon, Ronom Excavator          (w:1 l:0 d:0), (2/1)
+       vs Imskir Iron-Eater                (w:0 l:2 d:0), (0/4)
+       vs Satya, Aetherflux Genius         (w:0 l:1 d:0), (0/2)
+       vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (1/2)
+
+
+Phlage, Titan of Fire's Fury     matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:16   WG: 62.50% LG: 37.50% (wg:  10 lg:   6) pick: 1    Online(1), 
+       vs Imskir Iron-Eater                (w:1 l:1 d:0), (3/3)
+       vs Tamiyo, Inquisitive Student      (w:0 l:1 d:0), (1/2)
+       vs Ajani, Nacatl Pariah             (w:1 l:0 d:0), (2/0)
+       vs Rigo, Streetwise Mentor          (w:1 l:0 d:0), (2/1)
+       vs Rofellos, Llanowar Emissary      (w:1 l:0 d:0), (2/0)
+
+
+Raffine, Scheming Seer           matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:12   WG: 66.67% LG: 33.33% (wg:   8 lg:   4) pick: 1    Online(1), 
+       vs Lagrella, the Magpie             (w:1 l:0 d:0), (2/0)
+       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
+       vs Juri, Master of the Revue        (w:0 l:1 d:0), (0/2)
+       vs Ral, Monsoon Mage                (w:1 l:0 d:0), (2/0)
+       vs Imskir Iron-Eater                (w:1 l:0 d:0), (2/0)
+       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/0)
+
+
+Ral, Monsoon Mage                matches:12   WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:4   lm:8   dm:0)  games:29   WG: 34.48% LG: 65.52% (wg:  10 lg:  19) pick: 2    Online(2), 
+       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/1)
+       vs Omnath, Locus of Creation        (w:2 l:1 d:0), (5/4)
+       vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (0/2)
+       vs Kassandra, Eagle Bearer          (w:0 l:1 d:0), (0/2)
+       vs Imskir Iron-Eater                (w:0 l:2 d:0), (1/4)
+       vs Raffine, Scheming Seer           (w:0 l:1 d:0), (0/2)
+       vs Ajani, Nacatl Pariah             (w:1 l:0 d:0), (2/0)
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (0/2)
+       vs Tamiyo, Inquisitive Student      (w:0 l:1 d:0), (0/2)
+
+
+Rigo, Streetwise Mentor          matches:6    WM: 16.67%  LM: 83.33%  DM:  0.00% (wm:1   lm:5   dm:0)  games:16   WG: 31.25% LG: 68.75% (wg:   5 lg:  11) pick: 1    Online(1), 
+       vs Phelia, Exuberant Shepherd       (w:0 l:1 d:0), (1/2)
+       vs Ajani, Nacatl Pariah             (w:1 l:0 d:0), (2/1)
+       vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (0/2)
+       vs Phlage, Titan of Fire's Fury     (w:0 l:1 d:0), (1/2)
+       vs Malcolm, Alluring Scoundrel      (w:0 l:1 d:0), (0/2)
+       vs Imskir Iron-Eater                (w:0 l:1 d:0), (1/2)
+
+
+Rofellos, Llanowar Emissary      matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:11   WG: 45.45% LG: 54.55% (wg:   5 lg:   6) pick: 1    Online(1), 
+       vs Karlov of the Ghost Council      (w:0 l:1 d:0), (0/2)
+        + Lurrus of the Dream-Den         
+       vs Selvala, Explorer Returned       (w:1 l:0 d:0), (2/0)
+       vs Magda, Brazen Outlaw             (w:0 l:1 d:0), (1/2)
+       vs Ertai Resurrected                (w:1 l:0 d:0), (2/0)
+       vs Phlage, Titan of Fire's Fury     (w:0 l:1 d:0), (0/2)
+
+
+Satya, Aetherflux Genius         matches:13   WM: 76.92%  LM: 23.08%  DM:  0.00% (wm:10  lm:3   dm:0)  games:32   WG: 68.75% LG: 31.25% (wg:  22 lg:  10) pick: 2    Online(2), 
+       vs Hakbal of the Surging Soul       (w:1 l:0 d:0), (2/0)
+       vs Tamiyo, Inquisitive Student      (w:2 l:0 d:0), (4/2)
+       vs Kassandra, Eagle Bearer          (w:1 l:0 d:0), (2/1)
+       vs Karlov of the Ghost Council      (w:1 l:0 d:0), (2/0)
+        + Lurrus of the Dream-Den         
+       vs Ajani, Nacatl Pariah             (w:1 l:1 d:0), (2/2)
+       vs Phelia, Exuberant Shepherd       (w:1 l:0 d:0), (2/0)
+       vs Hogaak, Arisen Necropolis        (w:1 l:0 d:0), (2/0)
+       vs Omnath, Locus of Creation        (w:1 l:1 d:0), (3/2)
+       vs Lagrella, the Magpie             (w:1 l:0 d:0), (2/1)
+       vs Imskir Iron-Eater                (w:0 l:1 d:0), (1/2)
+
+
+Selvala, Explorer Returned       matches:6    WM: 16.67%  LM: 83.33%  DM:  0.00% (wm:1   lm:5   dm:0)  games:15   WG: 26.67% LG: 73.33% (wg:   4 lg:  11) pick: 1    Online(1), 
+       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (1/2)
+       vs Rofellos, Llanowar Emissary      (w:0 l:1 d:0), (0/2)
+       vs Leovold, Emissary of Trest       (w:0 l:1 d:0), (0/2)
+       vs Hakbal of the Surging Soul       (w:0 l:1 d:0), (0/2)
+       vs Ajani, Nacatl Pariah             (w:0 l:1 d:0), (1/2)
+       vs Ertai Resurrected                (w:1 l:0 d:0), (2/1)
+
+
+Tamiyo, Inquisitive Student      matches:20   WM: 60.00%  LM: 40.00%  DM:  0.00% (wm:12  lm:8   dm:0)  games:51   WG: 56.86% LG: 43.14% (wg:  29 lg:  22) pick: 3    Online(3), 
+       vs Leovold, Emissary of Trest       (w:1 l:0 d:0), (2/0)
+       vs Feldon, Ronom Excavator          (w:1 l:0 d:0), (2/1)
+       vs Satya, Aetherflux Genius         (w:0 l:2 d:0), (2/4)
+       vs Imskir Iron-Eater                (w:1 l:2 d:0), (3/4)
+       vs Phlage, Titan of Fire's Fury     (w:1 l:0 d:0), (2/1)
+       vs Karlov of the Ghost Council      (w:2 l:0 d:0), (4/1)
+        + Lurrus of the Dream-Den         
+       vs Eris, Roar of the Storm          (w:0 l:2 d:0), (1/4)
+       vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/0)
+       vs Ajani, Nacatl Pariah             (w:2 l:1 d:0), (4/4)
+       vs Juri, Master of the Revue        (w:1 l:0 d:0), (2/0)
+       vs Indoraptor, the Perfect Hybrid   (w:0 l:1 d:0), (1/2)
+       vs Hogaak, Arisen Necropolis        (w:1 l:0 d:0), (2/1)
+       vs Ral, Monsoon Mage                (w:1 l:0 d:0), (2/0)
+
+
