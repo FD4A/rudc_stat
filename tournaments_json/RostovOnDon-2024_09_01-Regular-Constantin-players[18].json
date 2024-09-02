@@ -1,0 +1,523 @@
+{
+    "date": "2024_09_01",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 5,
+    "players": [
+        [
+            "Исаев Александр",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Антипин Константин",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Давыдов Александр",
+            "Magda, Brazen Outlaw"
+        ],
+        [
+            "Елинский Денис",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Вишневский Василий",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Шубенин Илья",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Сутягин Евгений",
+            "Tasigur, the Golden Fang"
+        ],
+        [
+            "Сомкин Константин",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Сухобок Юрий",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Гурьев Денис",
+            "Lurrus of the Dream-Den"
+        ],
+        [
+            "Череповский Роман",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Лукьянов Вадим",
+            "Rocco, Street Chef"
+        ],
+        [
+            "Ковалёв Александр",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Зинковский Сергей",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Любомищенко Никита",
+            "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower"
+        ],
+        [
+            "Кулёмин Дмитрий",
+            "Svyelun of Sea and Sky"
+        ],
+        [
+            "Мережко Мирослав",
+            "Soul of Windgrace"
+        ],
+        [
+            "Посидайло Артём",
+            "Thalia and The Gitrog Monster"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Гурьев Денис",
+                "Сутягин Евгений",
+                "Lurrus of the Dream-Den",
+                "Tasigur, the Golden Fang",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Елинский Денис",
+                "Мережко Мирослав",
+                "Ajani, Nacatl Pariah",
+                "Soul of Windgrace",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Любомищенко Никита",
+                "Сомкин Константин",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Давыдов Александр",
+                "Зинковский Сергей",
+                "Magda, Brazen Outlaw",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кулёмин Дмитрий",
+                "Исаев Александр",
+                "Svyelun of Sea and Sky",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сухобок Юрий",
+                "Лукьянов Вадим",
+                "Tamiyo, Inquisitive Student",
+                "Rocco, Street Chef",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Антипин Константин",
+                "Череповский Роман",
+                "Feldon, Ronom Excavator",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вишневский Василий",
+                "Ковалёв Александр",
+                "Juri, Master of the Revue",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Посидайло Артём",
+                "Malcolm, Alluring Scoundrel",
+                "Thalia and The Gitrog Monster",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Шубенин Илья",
+                "Антипин Константин",
+                "Malcolm, Alluring Scoundrel",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Исаев Александр",
+                "Сухобок Юрий",
+                "Omnath, Locus of Creation",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Елинский Денис",
+                "Давыдов Александр",
+                "Ajani, Nacatl Pariah",
+                "Magda, Brazen Outlaw",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Вишневский Василий",
+                "Сутягин Евгений",
+                "Juri, Master of the Revue",
+                "Tasigur, the Golden Fang",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Гурьев Денис",
+                "Любомищенко Никита",
+                "Lurrus of the Dream-Den",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сомкин Константин",
+                "Зинковский Сергей",
+                "Shorikai, Genesis Engine",
+                "Sythis, Harvest's Hand",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Мережко Мирослав",
+                "Кулёмин Дмитрий",
+                "Soul of Windgrace",
+                "Svyelun of Sea and Sky",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Посидайло Артём",
+                "Череповский Роман",
+                "Thalia and The Gitrog Monster",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лукьянов Вадим",
+                "Ковалёв Александр",
+                "Rocco, Street Chef",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Исаев Александр",
+                "Антипин Константин",
+                "Omnath, Locus of Creation",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вишневский Василий",
+                "Гурьев Денис",
+                "Juri, Master of the Revue",
+                "Lurrus of the Dream-Den",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Елинский Денис",
+                "Череповский Роман",
+                "Ajani, Nacatl Pariah",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Давыдов Александр",
+                "Мережко Мирослав",
+                "Magda, Brazen Outlaw",
+                "Soul of Windgrace",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сухобок Юрий",
+                "Ковалёв Александр",
+                "Tamiyo, Inquisitive Student",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Сомкин Константин",
+                "Malcolm, Alluring Scoundrel",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Любомищенко Никита",
+                "Сутягин Евгений",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Tasigur, the Golden Fang",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Зинковский Сергей",
+                "Лукьянов Вадим",
+                "Sythis, Harvest's Hand",
+                "Rocco, Street Chef",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Посидайло Артём",
+                "Кулёмин Дмитрий",
+                "Thalia and The Gitrog Monster",
+                "Svyelun of Sea and Sky",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Исаев Александр",
+                "Вишневский Василий",
+                "Omnath, Locus of Creation",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Давыдов Александр",
+                "Шубенин Илья",
+                "Magda, Brazen Outlaw",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Елинский Денис",
+                "Антипин Константин",
+                "Ajani, Nacatl Pariah",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ковалёв Александр",
+                "Сутягин Евгений",
+                "Eris, Roar of the Storm",
+                "Tasigur, the Golden Fang",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Гурьев Денис",
+                "Сухобок Юрий",
+                "Lurrus of the Dream-Den",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лукьянов Вадим",
+                "Череповский Роман",
+                "Rocco, Street Chef",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сомкин Константин",
+                "Посидайло Артём",
+                "Shorikai, Genesis Engine",
+                "Thalia and The Gitrog Monster",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кулёмин Дмитрий",
+                "Любомищенко Никита",
+                "Svyelun of Sea and Sky",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Исаев Александр",
+                "Давыдов Александр",
+                "Omnath, Locus of Creation",
+                "Magda, Brazen Outlaw",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Антипин Константин",
+                "Вишневский Василий",
+                "Feldon, Ronom Excavator",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Елинский Денис",
+                "Сухобок Юрий",
+                "Ajani, Nacatl Pariah",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Череповский Роман",
+                "Malcolm, Alluring Scoundrel",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ковалёв Александр",
+                "Сомкин Константин",
+                "Eris, Roar of the Storm",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сутягин Евгений",
+                "Зинковский Сергей",
+                "Tasigur, the Golden Fang",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Гурьев Денис",
+                "Кулёмин Дмитрий",
+                "Lurrus of the Dream-Den",
+                "Svyelun of Sea and Sky",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лукьянов Вадим",
+                "Посидайло Артём",
+                "Rocco, Street Chef",
+                "Thalia and The Gitrog Monster",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

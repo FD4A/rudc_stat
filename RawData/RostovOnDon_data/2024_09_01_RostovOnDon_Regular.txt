@@ -1,0 +1,25 @@
+location::RostovOnDon
+level::Regular
+date::2024_09_01
+organizer::Constantin
+players::generals
+Исаев Александр :: Omnath, Locus of Creation
+Антипин Константин :: Feldon, Ronom Excavator
+Давыдов Александр :: Magda, Brazen Outlaw
+Елинский Денис :: Ajani, Nacatl Pariah
+Вишневский Василий :: Juri, Master of the Revue
+Шубенин Илья :: Malcolm, Alluring Scoundrel
+Сутягин Евгений :: Tasigur, the Golden Fang
+Сомкин Константин :: Shorikai, Genesis Engine
+Сухобок Юрий :: Tamiyo, Inquisitive Student
+Гурьев Денис :: Lurrus of the Dream-Den
+Череповский Роман :: Asmoranomardicadaistinaculdacar
+Лукьянов Вадим :: Rocco, Street Chef
+Ковалёв Александр :: Eris, Roar of the Storm
+Зинковский Сергей :: Sythis, Harvest's Hand
+Любомищенко Никита :: Yoshimaru, Ever Faithful :+: Tana, the Bloodsower
+Кулёмин Дмитрий :: Svyelun of Sea and Sky
+Мережко Мирослав :: Soul of Windgrace
+Посидайло Артём :: Thalia and The Gitrog Monster
+Round
+https://aetherhub.com/Tourney/RoundTourney/32871

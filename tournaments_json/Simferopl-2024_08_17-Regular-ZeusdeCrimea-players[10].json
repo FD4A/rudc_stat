@@ -1,0 +1,259 @@
+{
+    "date": "2024_08_17",
+    "location": "Simferopl",
+    "level": "Regular",
+    "organizer": "ZeusdeCrimea",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Сергей Кочегаров",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Сейдамет Билялов",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Александр Гладун",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Фенрис Нина",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Всеволод Пивненко",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Виталий Чайкин",
+            "The Ancient One"
+        ],
+        [
+            "Лаура Розлин",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Дмитрий Новохацкий",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Владимир Данилов",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Алексей Кириллов",
+            "Aminatou, the Fateshifter"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Виталий Чайкин",
+                "Фенрис Нина",
+                "The Ancient One",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сейдамет Билялов",
+                "Всеволод Пивненко",
+                "Raffine, Scheming Seer",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Алексей Кириллов",
+                "Лаура Розлин",
+                "Aminatou, the Fateshifter",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Гладун",
+                "Владимир Данилов",
+                "Tamiyo, Inquisitive Student",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дмитрий Новохацкий",
+                "Сергей Кочегаров",
+                "Ghyrson Starn, Kelermorph",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Гладун",
+                "Лаура Розлин",
+                "Tamiyo, Inquisitive Student",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сергей Кочегаров",
+                "Фенрис Нина",
+                "Feldon, Ronom Excavator",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сейдамет Билялов",
+                "Владимир Данилов",
+                "Raffine, Scheming Seer",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Виталий Чайкин",
+                "Алексей Кириллов",
+                "The Ancient One",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Всеволод Пивненко",
+                "Дмитрий Новохацкий",
+                "Dihada, Binder of Wills",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Гладун",
+                "Сергей Кочегаров",
+                "Tamiyo, Inquisitive Student",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сейдамет Билялов",
+                "Виталий Чайкин",
+                "Raffine, Scheming Seer",
+                "The Ancient One",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лаура Розлин",
+                "Фенрис Нина",
+                "Feldon, Ronom Excavator",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Всеволод Пивненко",
+                "Алексей Кириллов",
+                "Dihada, Binder of Wills",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Владимир Данилов",
+                "Дмитрий Новохацкий",
+                "Omnath, Locus of Creation",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Сергей Кочегаров",
+                "Сейдамет Билялов",
+                "Feldon, Ronom Excavator",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Гладун",
+                "Всеволод Пивненко",
+                "Tamiyo, Inquisitive Student",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Фенрис Нина",
+                "Дмитрий Новохацкий",
+                "Asmoranomardicadaistinaculdacar",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лаура Розлин",
+                "Виталий Чайкин",
+                "Feldon, Ronom Excavator",
+                "The Ancient One",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Владимир Данилов",
+                "Алексей Кириллов",
+                "Omnath, Locus of Creation",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

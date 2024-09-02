@@ -1,0 +1,17 @@
+location::Simferopl
+level::Regular
+date::2024_08_17
+organizer::ZeusdeCrimea
+players::generals
+Сергей Кочегаров :: Feldon, Ronom Excavator
+Сейдамет Билялов :: Raffine, Scheming Seer
+Александр Гладун :: Tamiyo, Inquisitive Student
+Фенрис Нина :: Asmoranomardicadaistinaculdacar
+Всеволод Пивненко :: Dihada, Binder of Wills
+Виталий Чайкин :: The Ancient One
+Лаура Розлин :: Feldon, Ronom Excavator
+Дмитрий Новохацкий :: Ghyrson Starn, Kelermorph
+Владимир Данилов :: Omnath, Locus of Creation
+Алексей Кириллов :: Aminatou, the Fateshifter
+Round
+https://aetherhub.com/Tourney/RoundTourney/32517
