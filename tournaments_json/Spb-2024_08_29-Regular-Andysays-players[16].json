@@ -1,0 +1,373 @@
+{
+    "date": "2024_08_29",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Олифер Егор",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Грабовой Филипп",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Богданов Сергей",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Ульянов Алексей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Булочко Михаил",
+            "Ertai Resurrected"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Тарасенко Никита",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Истомин Евгений",
+            "Edric, Spymaster of Trest"
+        ],
+        [
+            "Лузаков Петр",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Вахитов Ривкат",
+            "Kari Zev, Skyship Raider"
+        ],
+        [
+            "Манжуров Александр",
+            "Eladamri, Lord of Leaves"
+        ],
+        [
+            "Саушкин Андрей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Яковлев Николай",
+            "The Wise Mothman"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Поляков Герман",
+                "Тарасенко Никита",
+                "Tamiyo, Inquisitive Student",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Вахитов Ривкат",
+                "Hogaak, Arisen Necropolis",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лузаков Петр",
+                "Манжуров Александр",
+                "Imskir Iron-Eater",
+                "Eladamri, Lord of Leaves",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Ульянов Алексей",
+                "The Wise Mothman",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Истомин Евгений",
+                "Иванов Максим",
+                "Edric, Spymaster of Trest",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Грабовой Филипп",
+                "Ertai Resurrected",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Муравьев Никита",
+                "Satya, Aetherflux Genius",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Олифер Егор",
+                "Omnath, Locus of Creation",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Грабовой Филипп",
+                "Ульянов Алексей",
+                "Eris, Roar of the Storm",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Семенов Дмитрий",
+                "Tamiyo, Inquisitive Student",
+                "Satya, Aetherflux Genius",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лузаков Петр",
+                "Богданов Сергей",
+                "Imskir Iron-Eater",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Истомин Евгений",
+                "Asmoranomardicadaistinaculdacar",
+                "Edric, Spymaster of Trest",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Манжуров Александр",
+                "Kari Zev, Skyship Raider",
+                "Eladamri, Lord of Leaves",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Тарасенко Никита",
+                "Omnath, Locus of Creation",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Яковлев Николай",
+                "Geist of Saint Traft",
+                "The Wise Mothman",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Булочко Михаил",
+                "Juri, Master of the Revue",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Олифер Егор",
+                "Грабовой Филипп",
+                "Asmoranomardicadaistinaculdacar",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Поляков Герман",
+                "Hogaak, Arisen Necropolis",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Семенов Дмитрий",
+                "Kari Zev, Skyship Raider",
+                "Satya, Aetherflux Genius",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лузаков Петр",
+                "Муравьев Никита",
+                "Imskir Iron-Eater",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Иванов Максим",
+                "Omnath, Locus of Creation",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Истомин Евгений",
+                "Тарасенко Никита",
+                "Edric, Spymaster of Trest",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Манжуров Александр",
+                "Ertai Resurrected",
+                "Eladamri, Lord of Leaves",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Олифер Егор",
+                "Tamiyo, Inquisitive Student",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Грабовой Филипп",
+                "Satya, Aetherflux Genius",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Муравьев Никита",
+                "Hogaak, Arisen Necropolis",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Тарасенко Никита",
+                "Omnath, Locus of Creation",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Лузаков Петр",
+                "Ertai Resurrected",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Иванов Максим",
+                "Kari Zev, Skyship Raider",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

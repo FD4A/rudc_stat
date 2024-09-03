@@ -1,0 +1,23 @@
+location::Spb
+level::Regular
+date::2024_08_29
+organizer::Andysays
+players::generals
+Поляков Герман :: Tamiyo, Inquisitive Student
+Олифер Егор :: Asmoranomardicadaistinaculdacar
+Грабовой Филипп :: Eris, Roar of the Storm
+Богданов Сергей :: Hogaak, Arisen Necropolis
+Ульянов Алексей :: Omnath, Locus of Creation
+Семенов Дмитрий :: Satya, Aetherflux Genius
+Муравьев Никита :: Juri, Master of the Revue
+Булочко Михаил :: Ertai Resurrected
+Иванов Максим :: Geist of Saint Traft
+Тарасенко Никита :: Shorikai, Genesis Engine
+Истомин Евгений :: Edric, Spymaster of Trest
+Лузаков Петр :: Imskir Iron-Eater
+Вахитов Ривкат :: Kari Zev, Skyship Raider
+Манжуров Александр :: Eladamri, Lord of Leaves
+Саушкин Андрей :: Omnath, Locus of Creation
+Яковлев Николай :: The Wise Mothman
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/32789
