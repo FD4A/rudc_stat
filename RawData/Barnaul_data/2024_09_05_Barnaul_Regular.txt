@@ -1,0 +1,17 @@
+location::Barnaul
+level::Regular
+date::2024_09_05
+organizer::
+players::generals
+Влад Гладышев :: Hogaak, Arisen Necropolis
+Алексей Петрыкин :: Eris, Roar of the Storm
+Иван Послухов :: Balmor, Battlemage Captain
+Андрей Студеникин (384155255) :: Eris, Roar of the Storm
+Дмитрий Лисин :: Kytheon, Hero of Akros
+Егор Костенко :: Asmoranomardicadaistinaculdacar
+Илья Гесин :: Old Stickfingers
+Александр Самусенко :: Omnath, Locus of Creation
+Дмитрий Разумовский :: Kinnan, Bonder Prodigy
+Никита Смехнев :: Asmoranomardicadaistinaculdacar
+Round
+https://aetherhub.com/Tourney/RoundTourney/32942

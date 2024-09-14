@@ -1,0 +1,297 @@
+{
+    "date": "2024_09_05",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Ульянов Алексей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Мартынов Влад",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Барабаш Валентин",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Олифер Егор",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Яковлев Николай",
+            "The Wise Mothman"
+        ],
+        [
+            "Булочко Михаил",
+            "Ertai Resurrected"
+        ],
+        [
+            "Корсаков Алексей",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Лузаков Петр",
+            "Imskir Iron-Eater"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Мартынов Влад",
+                "Олифер Егор",
+                "Slimefoot and Squee",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Корсаков Алексей",
+                "Tamiyo, Inquisitive Student",
+                "Sythis, Harvest's Hand",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Булочко Михаил",
+                "Juri, Master of the Revue",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Тяпайкин Максим",
+                "Omnath, Locus of Creation",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Мартынов Яков",
+                "Tamiyo, Inquisitive Student",
+                "The Reality Chip",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Лузаков Петр",
+                "The Wise Mothman",
+                "Imskir Iron-Eater",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Барабаш Валентин",
+                "Мартынов Влад",
+                "Tamiyo, Inquisitive Student",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Ульянов Алексей",
+                "Tamiyo, Inquisitive Student",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Яковлев Николай",
+                "Ertai Resurrected",
+                "The Wise Mothman",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лузаков Петр",
+                "Мартынов Яков",
+                "Imskir Iron-Eater",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Корсаков Алексей",
+                "Juri, Master of the Revue",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Олифер Егор",
+                "Golos, Tireless Pilgrim",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Мартынов Влад",
+                "Поляков Герман",
+                "Slimefoot and Squee",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Ульянов Алексей",
+                "Tamiyo, Inquisitive Student",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Муравьев Никита",
+                "The Wise Mothman",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Булочко Михаил",
+                "The Reality Chip",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лузаков Петр",
+                "Тяпайкин Максим",
+                "Imskir Iron-Eater",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Корсаков Алексей",
+                "Aminatou, the Fateshifter",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Муравьев Никита",
+                "Tamiyo, Inquisitive Student",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Ульянов Алексей",
+                "The Reality Chip",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Тяпайкин Максим",
+                "Tamiyo, Inquisitive Student",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Яковлев Николай",
+                "Slimefoot and Squee",
+                "The Wise Mothman",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Булочко Михаил",
+                "Aminatou, the Fateshifter",
+                "Ertai Resurrected",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

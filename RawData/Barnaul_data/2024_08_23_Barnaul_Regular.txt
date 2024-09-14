@@ -1,0 +1,15 @@
+location::Barnaul
+level::Regular
+date::2024_08_23
+organizer::
+players::generals
+Александр Самусенко :: Omnath, Locus of Creation
+Влад Гладышев :: Tamiyo, Inquisitive Student
+Дмитрий Лисин :: Kytheon, Hero of Akros
+Егор Костенко :: Asmoranomardicadaistinaculdacar
+Иван Послухов :: Niv-Mizzet, Parun
+Александр Акимочкин :: Kytheon, Hero of Akros
+Евгения Пилёвина :: Feldon, Ronom Excavator
+Евгений Кузнецов :: Old Stickfingers
+Round
+https://aetherhub.com/Tourney/RoundTourney/32645

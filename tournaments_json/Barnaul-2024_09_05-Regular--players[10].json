@@ -1,0 +1,259 @@
+{
+    "date": "2024_09_05",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Влад Гладышев",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Алексей Петрыкин",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Иван Послухов",
+            "Balmor, Battlemage Captain"
+        ],
+        [
+            "Андрей Студеникин (384155255)",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Дмитрий Лисин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Егор Костенко",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Илья Гесин",
+            "Old Stickfingers"
+        ],
+        [
+            "Александр Самусенко",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Дмитрий Разумовский",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Никита Смехнев",
+            "Asmoranomardicadaistinaculdacar"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Дмитрий Разумовский",
+                "Егор Костенко",
+                "Kinnan, Bonder Prodigy",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Дмитрий Лисин",
+                "Omnath, Locus of Creation",
+                "Kytheon, Hero of Akros",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Алексей Петрыкин",
+                "Андрей Студеникин (384155255)",
+                "Eris, Roar of the Storm",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Илья Гесин",
+                "Hogaak, Arisen Necropolis",
+                "Old Stickfingers",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иван Послухов",
+                "Никита Смехнев",
+                "Balmor, Battlemage Captain",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Влад Гладышев",
+                "Егор Костенко",
+                "Hogaak, Arisen Necropolis",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Алексей Петрыкин",
+                "Дмитрий Лисин",
+                "Eris, Roar of the Storm",
+                "Kytheon, Hero of Akros",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дмитрий Разумовский",
+                "Иван Послухов",
+                "Kinnan, Bonder Prodigy",
+                "Balmor, Battlemage Captain",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Никита Смехнев",
+                "Omnath, Locus of Creation",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Андрей Студеникин (384155255)",
+                "Илья Гесин",
+                "Eris, Roar of the Storm",
+                "Old Stickfingers",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Влад Гладышев",
+                "Иван Послухов",
+                "Hogaak, Arisen Necropolis",
+                "Balmor, Battlemage Captain",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Алексей Петрыкин",
+                "Omnath, Locus of Creation",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Лисин",
+                "Егор Костенко",
+                "Kytheon, Hero of Akros",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Андрей Студеникин (384155255)",
+                "Дмитрий Разумовский",
+                "Eris, Roar of the Storm",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Никита Смехнев",
+                "Old Stickfingers",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей Петрыкин",
+                "Влад Гладышев",
+                "Eris, Roar of the Storm",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Лисин",
+                "Иван Послухов",
+                "Kytheon, Hero of Akros",
+                "Balmor, Battlemage Captain",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Андрей Студеникин (384155255)",
+                "Omnath, Locus of Creation",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Егор Костенко",
+                "Илья Гесин",
+                "Asmoranomardicadaistinaculdacar",
+                "Old Stickfingers",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дмитрий Разумовский",
+                "Никита Смехнев",
+                "Kinnan, Bonder Prodigy",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

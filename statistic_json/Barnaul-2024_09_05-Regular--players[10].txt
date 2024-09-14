@@ -1,0 +1,56 @@
+Asmoranomardicadaistinaculdacar  matches:8    WM: 25.00%  LM: 62.50%  DM: 12.50% (wm:2   lm:5   dm:1)  games:18   WG: 33.33% LG: 61.11% (wg:   6 lg:  11) pick: 2    Barnaul(2), 
+       vs Kinnan, Bonder Prodigy           (w:1 l:0 d:1), (2/1)
+       vs Balmor, Battlemage Captain       (w:0 l:1 d:0), (0/2)
+       vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (1/2)
+       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
+       vs Kytheon, Hero of Akros           (w:0 l:1 d:0), (0/2)
+       vs Old Stickfingers                 (w:1 l:1 d:0), (3/2)
+
+
+Balmor, Battlemage Captain       matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:10   WG: 60.00% LG: 40.00% (wg:   6 lg:   4) pick: 1    Barnaul(1), 
+       vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/0)
+       vs Kinnan, Bonder Prodigy           (w:1 l:0 d:0), (2/1)
+       vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (0/2)
+       vs Kytheon, Hero of Akros           (w:1 l:0 d:0), (2/1)
+
+
+Eris, Roar of the Storm          matches:6    WM: 83.33%  LM: 16.67%  DM:  0.00% (wm:5   lm:1   dm:0)  games:16   WG: 68.75% LG: 31.25% (wg:  11 lg:   5) pick: 2    Barnaul(2), 
+       vs Kytheon, Hero of Akros           (w:1 l:0 d:0), (2/1)
+       vs Old Stickfingers                 (w:1 l:0 d:0), (2/0)
+       vs Omnath, Locus of Creation        (w:2 l:0 d:0), (4/1)
+       vs Kinnan, Bonder Prodigy           (w:1 l:0 d:0), (2/1)
+       vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (1/2)
+
+
+Hogaak, Arisen Necropolis        matches:4    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:4   lm:0   dm:0)  games:10   WG: 80.00% LG: 20.00% (wg:   8 lg:   2) pick: 1    Barnaul(1), 
+       vs Old Stickfingers                 (w:1 l:0 d:0), (2/0)
+       vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/1)
+       vs Balmor, Battlemage Captain       (w:1 l:0 d:0), (2/0)
+       vs Eris, Roar of the Storm          (w:1 l:0 d:0), (2/1)
+
+
+Kinnan, Bonder Prodigy           matches:4    WM:  0.00%  LM: 75.00%  DM: 25.00% (wm:0   lm:3   dm:1)  games:10   WG: 30.00% LG: 60.00% (wg:   3 lg:   6) pick: 1    Barnaul(1), 
+       vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:1), (1/2)
+       vs Balmor, Battlemage Captain       (w:0 l:1 d:0), (1/2)
+       vs Eris, Roar of the Storm          (w:0 l:1 d:0), (1/2)
+
+
+Kytheon, Hero of Akros           matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:11   WG: 54.55% LG: 45.45% (wg:   6 lg:   5) pick: 1    Barnaul(1), 
+       vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/1)
+       vs Eris, Roar of the Storm          (w:0 l:1 d:0), (1/2)
+       vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/0)
+       vs Balmor, Battlemage Captain       (w:0 l:1 d:0), (1/2)
+
+
+Old Stickfingers                 matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:9    WG: 22.22% LG: 77.78% (wg:   2 lg:   7) pick: 1    Barnaul(1), 
+       vs Hogaak, Arisen Necropolis        (w:0 l:1 d:0), (0/2)
+       vs Eris, Roar of the Storm          (w:0 l:1 d:0), (0/2)
+       vs Asmoranomardicadaistinaculdacar  (w:1 l:1 d:0), (2/3)
+
+
+Omnath, Locus of Creation        matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:10   WG: 40.00% LG: 60.00% (wg:   4 lg:   6) pick: 1    Barnaul(1), 
+       vs Kytheon, Hero of Akros           (w:0 l:1 d:0), (1/2)
+       vs Asmoranomardicadaistinaculdacar  (w:1 l:0 d:0), (2/0)
+       vs Eris, Roar of the Storm          (w:0 l:2 d:0), (1/4)
+
+
