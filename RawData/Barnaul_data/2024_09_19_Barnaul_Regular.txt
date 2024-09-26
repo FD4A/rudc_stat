@@ -1,0 +1,15 @@
+location::Barnaul
+level::Regular
+date::2024_09_19
+organizer::
+players::generals
+Влад Гладышев :: Tamiyo, Inquisitive Student
+Дмитрий Лисин :: Kytheon, Hero of Akros
+Андрей Студеникин (384155255) :: Eris, Roar of the Storm
+Александр Самусенко :: Omnath, Locus of Creation
+Илья Гесин :: Old Stickfingers
+Александр Юртаев :: Balmor, Battlemage Captain
+Иван Послухов :: Shorikai, Genesis Engine
+Леонид Носов :: Sliver Legion
+Round
+https://aetherhub.com/Tourney/RoundTourney/33311

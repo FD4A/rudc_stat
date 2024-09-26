@@ -1,0 +1,267 @@
+{
+    "date": "2024_09_19",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Ульянов Алексей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Мартынов Влад",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Барабаш Валентин",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Олифер Егор",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Яковлев Николай",
+            "The Wise Mothman"
+        ],
+        [
+            "Булочко Михаил",
+            "Ertai Resurrected"
+        ],
+        [
+            "Корсаков Алексей",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Лузаков Петр",
+            "Imskir Iron-Eater"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Корсаков Алексей",
+                "Мартынов Влад",
+                "Sythis, Harvest's Hand",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Булочко Михаил",
+                "Juri, Master of the Revue",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Грабовой Филипп",
+                "Tamiyo, Inquisitive Student",
+                "unknown",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Яковлев Николай",
+                "Golos, Tireless Pilgrim",
+                "The Wise Mothman",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Ульянов Алексей",
+                "unknown",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Грабовой Филипп",
+                "Корсаков Алексей",
+                "unknown",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Муравьев Никита",
+                "The Wise Mothman",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Булочко Михаил",
+                "Omnath, Locus of Creation",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Барабаш Валентин",
+                "unknown",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Тяпайкин Максим",
+                "Slimefoot and Squee",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Муравьев Никита",
+                "Грабовой Филипп",
+                "Juri, Master of the Revue",
+                "unknown",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Мартынов Влад",
+                "Ertai Resurrected",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Барабаш Валентин",
+                "The Wise Mothman",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Богданов Сергей",
+                "Sythis, Harvest's Hand",
+                "unknown",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Тяпайкин Максим",
+                "Omnath, Locus of Creation",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Грабовой Филипп",
+                "Мартынов Влад",
+                "unknown",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Муравьев Никита",
+                "Tamiyo, Inquisitive Student",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Ульянов Алексей",
+                "Sythis, Harvest's Hand",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Яковлев Николай",
+                "Ertai Resurrected",
+                "The Wise Mothman",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Тяпайкин Максим",
+                "unknown",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

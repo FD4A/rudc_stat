@@ -1,0 +1,253 @@
+{
+    "date": "2024_09_26",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Булочко Михаил",
+            "Vial Smasher the Fierce :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Amalia Benavides Aguirre"
+        ],
+        [
+            "Николаев Богдан",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Корсаков Алексей",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Байков Аркадий",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Vial Smasher the Fierce :+: The Prismatic Piper"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Фиткулин Антон",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Богданов Сергей",
+            "Kroxa, Titan of Death's Hunger"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Булочко Михаил",
+                "Богданов Сергей",
+                "Vial Smasher the Fierce :+: Thrasios, Triton Hero",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Николаев Богдан",
+                "Федоров Дмитрий",
+                "Omnath, Locus of Creation",
+                "Amalia Benavides Aguirre",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Иванов Максим",
+                "Geist of Saint Traft",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Корсаков Алексей",
+                "Vial Smasher the Fierce :+: The Prismatic Piper",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Фиткулин Антон",
+                "Поляков Герман",
+                "Feldon, Ronom Excavator",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Булочко Михаил",
+                "Муравьев Никита",
+                "Vial Smasher the Fierce :+: Thrasios, Triton Hero",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Поляков Герман",
+                "Eris, Roar of the Storm",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Николаев Богдан",
+                "Иванов Максим",
+                "Omnath, Locus of Creation",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Федоров Дмитрий",
+                "Vial Smasher the Fierce :+: The Prismatic Piper",
+                "Amalia Benavides Aguirre",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Фиткулин Антон",
+                "Kroxa, Titan of Death's Hunger",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Муравьев Никита",
+                "Николаев Богдан",
+                "Juri, Master of the Revue",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Иванов Максим",
+                "Tamiyo, Inquisitive Student",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Федоров Дмитрий",
+                "Eris, Roar of the Storm",
+                "Amalia Benavides Aguirre",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Фиткулин Антон",
+                "Geist of Saint Traft",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Тяпайкин Максим",
+                "Vial Smasher the Fierce :+: Thrasios, Triton Hero",
+                "Vial Smasher the Fierce :+: The Prismatic Piper",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Муравьев Никита",
+                "Поляков Герман",
+                "Juri, Master of the Revue",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Николаев Богдан",
+                "Булочко Михаил",
+                "Omnath, Locus of Creation",
+                "Vial Smasher the Fierce :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Байков Аркадий",
+                "Amalia Benavides Aguirre",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Фиткулин Антон",
+                "Корсаков Алексей",
+                "Feldon, Ronom Excavator",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

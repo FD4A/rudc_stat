@@ -1,0 +1,169 @@
+{
+    "date": "2024_09_19",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Влад Гладышев",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Дмитрий Лисин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Андрей Студеникин (384155255)",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Александр Самусенко",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Илья Гесин",
+            "Old Stickfingers"
+        ],
+        [
+            "Александр Юртаев",
+            "Balmor, Battlemage Captain"
+        ],
+        [
+            "Иван Послухов",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Леонид Носов",
+            "Sliver Legion"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Иван Послухов",
+                "Дмитрий Лисин",
+                "Shorikai, Genesis Engine",
+                "Kytheon, Hero of Akros",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Андрей Студеникин (384155255)",
+                "Александр Самусенко",
+                "Eris, Roar of the Storm",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Юртаев",
+                "Леонид Носов",
+                "Balmor, Battlemage Captain",
+                "Sliver Legion",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Илья Гесин",
+                "Tamiyo, Inquisitive Student",
+                "Old Stickfingers",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Андрей Студеникин (384155255)",
+                "Дмитрий Лисин",
+                "Eris, Roar of the Storm",
+                "Kytheon, Hero of Akros",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Александр Юртаев",
+                "Tamiyo, Inquisitive Student",
+                "Balmor, Battlemage Captain",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иван Послухов",
+                "Леонид Носов",
+                "Shorikai, Genesis Engine",
+                "Sliver Legion",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Илья Гесин",
+                "Omnath, Locus of Creation",
+                "Old Stickfingers",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Лисин",
+                "Влад Гладышев",
+                "Kytheon, Hero of Akros",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Андрей Студеникин (384155255)",
+                "Иван Послухов",
+                "Eris, Roar of the Storm",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Юртаев",
+                "Александр Самусенко",
+                "Balmor, Battlemage Captain",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Леонид Носов",
+                "Old Stickfingers",
+                "Sliver Legion",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

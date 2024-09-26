@@ -1,0 +1,19 @@
+location::Spb
+level::Regular
+date::2024_09_19
+organizer::Andysays
+players::generals
+Поляков Герман :: Tamiyo, Inquisitive Student
+Ульянов Алексей :: Omnath, Locus of Creation
+Тяпайкин Максим :: Golos, Tireless Pilgrim
+Мартынов Яков :: The Reality Chip
+Муравьев Никита :: Juri, Master of the Revue
+Мартынов Влад :: Slimefoot and Squee
+Барабаш Валентин :: Tamiyo, Inquisitive Student
+Олифер Егор :: Aminatou, the Fateshifter
+Яковлев Николай :: The Wise Mothman
+Булочко Михаил :: Ertai Resurrected
+Корсаков Алексей :: Sythis, Harvest's Hand
+Лузаков Петр :: Imskir Iron-Eater
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/33313

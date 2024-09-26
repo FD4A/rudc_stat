@@ -1,0 +1,18 @@
+location::Spb
+level::Regular
+date::2024_09_26
+organizer::Andysays
+players::generals
+Поляков Герман :: Tamiyo, Inquisitive Student
+Муравьев Никита :: Juri, Master of the Revue
+Булочко Михаил :: Vial Smasher the Fierce :+: Thrasios, Triton Hero
+Федоров Дмитрий :: Amalia Benavides Aguirre
+Николаев Богдан :: Omnath, Locus of Creation
+Корсаков Алексей :: Eris, Roar of the Storm
+Байков Аркадий :: Geist of Saint Traft
+Тяпайкин Максим :: Vial Smasher the Fierce :+: The Prismatic Piper U
+Иванов Максим :: Geist of Saint Traft
+Фиткулин Антон :: Feldon, Ronom Excavator
+Богданов Сергей :: Kroxa, Titan of Death's Hunger
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/33489

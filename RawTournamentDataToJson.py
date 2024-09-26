@@ -7,12 +7,12 @@ from Source.LegendaryBase import LegendaryBase
 legendary_base = LegendaryBase('./ScryfallData')
 out_folder = './tournaments_json/'
 
-# online league
-filenames = glob('RawData/OnlineLeague/Summer_League_2024.txt')
-for filename in filenames:
-    parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_league, legendary_base)
-    tournament = parser.get_tournament_from_txt(filename)
-    tournament.dump_to_json(out_folder)
+# # online league
+# filenames = glob('RawData/OnlineLeague/Summer_League_2024.txt')
+# for filename in filenames:
+#     parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_league, legendary_base)
+#     tournament = parser.get_tournament_from_txt(filename)
+#     tournament.dump_to_json(out_folder)
 
 # # Krasnodar data
 # filenames = glob('./RawData/Krasnodar_data/Krasnodar_2024_06_09.txt')
@@ -31,7 +31,7 @@ for filename in filenames:
 #     tournament.dump_to_json(out_folder)
 
 # Spb data
-filenames = glob('RawData/Spb_data/2024_08_29_Spb_Regular.txt')
+filenames = glob('RawData/Spb_data/2024_09_26_Spb_Regular.txt')
 for filename in filenames:
     parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_aetherhub, legendary_base)
     tournament = parser.get_tournament_from_txt(filename)
@@ -79,7 +79,7 @@ for filename in filenames:
 #     tournament.dump_to_json(out_folder)
 
 # # Barnaul_data data
-# filenames = glob('RawData/Barnaul_data/2024_07_25_Barnaul_Regular.txt')
+# filenames = glob('RawData/Barnaul_data/2024_09_19_Barnaul_Regular.txt')
 # for filename in filenames:
 #     parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_aetherhub, legendary_base)
 #     tournament = parser.get_tournament_from_txt(filename)

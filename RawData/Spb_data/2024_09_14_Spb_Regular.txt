@@ -1,0 +1,21 @@
+location::Spb
+level::Regular
+date::2024_09_14
+organizer::Andysays
+players::generals
+Поляков Герман :: Tamiyo, Inquisitive Student
+Вахитов Ривкат :: Kari Zev, Skyship Raider
+Олифер Егор :: Aminatou, the Fateshifter
+Богданов Сергей :: Hogaak, Arisen Necropolis
+Истомин Евгений :: Tamiyo, Inquisitive Student
+Ульянов Алексей :: Omnath, Locus of Creation
+Семенов Дмитрий :: Satya, Aetherflux Genius
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Михайлов Марат :: Ajani, Nacatl Pariah
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Смирнов Александр :: Asmoranomardicadaistinaculdacar
+Тяпайкин Максим :: Golos, Tireless Pilgrim
+Булочко Михаил :: Ertai Resurrected
+Иванов Дмитрий :: Hogaak, Arisen Necropolis
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/33163
