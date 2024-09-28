@@ -1,25 +1,25 @@
-Aminatou, the Fateshifter        matches:3    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:3   lm:0   dm:0)  games:6    WG:100.00% LG:  0.00% (wg:   6 lg:   0) pick: 1    Krasnodar(1), 
+= Aminatou, the Fateshifter        matches:3    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:3   lm:0   dm:0)  games:6    WG:100.00% LG:  0.00% (wg:   6 lg:   0) pick: 1    Krasnodar(1), 
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
         + Tana, the Bloodsower            
        vs Vadrik, Astral Archmage          (w:1 l:0 d:0), (2/0)
        vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (2/0)
 
 
-Sythis, Harvest's Hand           matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:6    WG:  0.00% LG:100.00% (wg:   0 lg:   6) pick: 1    Krasnodar(1), 
+= Sythis, Harvest's Hand           matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:6    WG:  0.00% LG:100.00% (wg:   0 lg:   6) pick: 1    Krasnodar(1), 
        vs Vadrik, Astral Archmage          (w:0 l:1 d:0), (0/2)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
         + Tana, the Bloodsower            
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
 
 
-Vadrik, Astral Archmage          matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:6    WG: 33.33% LG: 66.67% (wg:   2 lg:   4) pick: 1    Krasnodar(1), 
+= Vadrik, Astral Archmage          matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:6    WG: 33.33% LG: 66.67% (wg:   2 lg:   4) pick: 1    Krasnodar(1), 
        vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (2/0)
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
         + Tana, the Bloodsower            
 
 
-Yoshimaru, Ever Faithful         matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:6    WG: 66.67% LG: 33.33% (wg:   4 lg:   2) pick: 1    Krasnodar(1), 
+= Yoshimaru, Ever Faithful         matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:6    WG: 66.67% LG: 33.33% (wg:   4 lg:   2) pick: 1    Krasnodar(1), 
   + Tana, the Bloodsower        
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
        vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (2/0)

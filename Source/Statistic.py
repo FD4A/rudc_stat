@@ -97,7 +97,10 @@ class GeneralStat:
         cz_plain = self.general.replace(' :++: ', '+')
         cz_plain = cz_plain.replace(' :+: ', '+')
         cz_plain = cz_plain.split('+')
-        str_ = f"{(cz_plain[0]).ljust(magic_len)[:magic_len]} "
+        str_ = ''
+        if full:
+            str_ += "= "
+        str_ += f"{(cz_plain[0]).ljust(magic_len)[:magic_len]} "
         str_ += f"matches:{str(self.matches_total).ljust(4):<4} "
         str_ += f"WM:{self.match_wrate:>6.2f}%  LM:{self.match_lrate:>6.2f}%  DM:{self.match_drate:>6.2f}% "
         str_ += f"(wm:{str(self.win).ljust(3)} lm:{str(self.lose).ljust(3)} dm:{(str(self.draw)+')').ljust(3)} "

@@ -1,4 +1,4 @@
-Geist of Saint Traft             matches:5    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:5   dm:0)  games:10   WG:  0.00% LG:100.00% (wg:   0 lg:  10) pick: 1    Ussuriysk(1), 
+= Geist of Saint Traft             matches:5    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:5   dm:0)  games:10   WG:  0.00% LG:100.00% (wg:   0 lg:  10) pick: 1    Ussuriysk(1), 
        vs Grist, the Hunger Tide           (w:0 l:1 d:0), (0/2)
        vs Kellan, the Kid                  (w:0 l:1 d:0), (0/2)
        vs Ixhel, Scion of Atraxa           (w:0 l:1 d:0), (0/2)
@@ -6,7 +6,7 @@ Geist of Saint Traft             matches:5    WM:  0.00%  LM:100.00%  DM:  0.00%
        vs Satoru, the Infiltrator          (w:0 l:1 d:0), (0/2)
 
 
-Grist, the Hunger Tide           matches:5    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:5   lm:0   dm:0)  games:11   WG: 90.91% LG:  9.09% (wg:  10 lg:   1) pick: 1    Ussuriysk(1), 
+= Grist, the Hunger Tide           matches:5    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:5   lm:0   dm:0)  games:11   WG: 90.91% LG:  9.09% (wg:  10 lg:   1) pick: 1    Ussuriysk(1), 
        vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
        vs Satoru, the Infiltrator          (w:1 l:0 d:0), (2/0)
        vs Kellan, the Kid                  (w:1 l:0 d:0), (2/1)
@@ -14,7 +14,7 @@ Grist, the Hunger Tide           matches:5    WM:100.00%  LM:  0.00%  DM:  0.00%
        vs Leovold, Emissary of Trest       (w:1 l:0 d:0), (2/0)
 
 
-Ixhel, Scion of Atraxa           matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:10   WG: 40.00% LG: 60.00% (wg:   4 lg:   6) pick: 1    Ussuriysk(1), 
+= Ixhel, Scion of Atraxa           matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:10   WG: 40.00% LG: 60.00% (wg:   4 lg:   6) pick: 1    Ussuriysk(1), 
        vs Satoru, the Infiltrator          (w:0 l:1 d:0), (0/2)
        vs Leovold, Emissary of Trest       (w:0 l:1 d:0), (0/1)
        vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
@@ -22,7 +22,7 @@ Ixhel, Scion of Atraxa           matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00%
        vs Kellan, the Kid                  (w:1 l:0 d:0), (2/1)
 
 
-Kellan, the Kid                  matches:5    WM: 20.00%  LM: 60.00%  DM: 20.00% (wm:1   lm:3   dm:1)  games:12   WG: 41.67% LG: 58.33% (wg:   5 lg:   7) pick: 1    Ussuriysk(1), 
+= Kellan, the Kid                  matches:5    WM: 20.00%  LM: 60.00%  DM: 20.00% (wm:1   lm:3   dm:1)  games:12   WG: 41.67% LG: 58.33% (wg:   5 lg:   7) pick: 1    Ussuriysk(1), 
        vs Leovold, Emissary of Trest       (w:0 l:1 d:0), (0/2)
        vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
        vs Grist, the Hunger Tide           (w:0 l:1 d:0), (1/2)
@@ -30,7 +30,7 @@ Kellan, the Kid                  matches:5    WM: 20.00%  LM: 60.00%  DM: 20.00%
        vs Ixhel, Scion of Atraxa           (w:0 l:1 d:0), (1/2)
 
 
-Leovold, Emissary of Trest       matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00% (wm:3   lm:2   dm:0)  games:10   WG: 60.00% LG: 40.00% (wg:   6 lg:   4) pick: 1    Ussuriysk(1), 
+= Leovold, Emissary of Trest       matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00% (wm:3   lm:2   dm:0)  games:10   WG: 60.00% LG: 40.00% (wg:   6 lg:   4) pick: 1    Ussuriysk(1), 
        vs Kellan, the Kid                  (w:1 l:0 d:0), (2/0)
        vs Ixhel, Scion of Atraxa           (w:1 l:0 d:0), (1/0)
        vs Satoru, the Infiltrator          (w:0 l:1 d:0), (1/2)
@@ -38,7 +38,7 @@ Leovold, Emissary of Trest       matches:5    WM: 60.00%  LM: 40.00%  DM:  0.00%
        vs Grist, the Hunger Tide           (w:0 l:1 d:0), (0/2)
 
 
-Satoru, the Infiltrator          matches:5    WM: 60.00%  LM: 20.00%  DM: 20.00% (wm:3   lm:1   dm:1)  games:11   WG: 63.64% LG: 36.36% (wg:   7 lg:   4) pick: 1    Ussuriysk(1), 
+= Satoru, the Infiltrator          matches:5    WM: 60.00%  LM: 20.00%  DM: 20.00% (wm:3   lm:1   dm:1)  games:11   WG: 63.64% LG: 36.36% (wg:   7 lg:   4) pick: 1    Ussuriysk(1), 
        vs Ixhel, Scion of Atraxa           (w:1 l:0 d:0), (2/0)
        vs Grist, the Hunger Tide           (w:0 l:1 d:0), (0/2)
        vs Leovold, Emissary of Trest       (w:1 l:0 d:0), (2/1)

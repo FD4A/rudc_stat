@@ -1,17 +1,17 @@
-Admiral Brass, Unsinkable        matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:7    WG: 14.29% LG: 85.71% (wg:   1 lg:   6) pick: 1    Barnaul(1), 
+= Admiral Brass, Unsinkable        matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:7    WG: 14.29% LG: 85.71% (wg:   1 lg:   6) pick: 1    Barnaul(1), 
        vs Shorikai, Genesis Engine         (w:0 l:1 d:0), (0/2)
        vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (0/2)
        vs Balmor, Battlemage Captain       (w:0 l:1 d:0), (1/2)
 
 
-Anhelo, the Painter              matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:9    WG: 11.11% LG: 88.89% (wg:   1 lg:   8) pick: 1    Barnaul(1), 
+= Anhelo, the Painter              matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:9    WG: 11.11% LG: 88.89% (wg:   1 lg:   8) pick: 1    Barnaul(1), 
        vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (1/2)
        vs Baral and Kari Zev               (w:0 l:1 d:0), (0/2)
        vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (0/2)
        vs Balmor, Battlemage Captain       (w:0 l:1 d:0), (0/2)
 
 
-Balmor, Battlemage Captain       matches:8    WM: 62.50%  LM: 25.00%  DM: 12.50% (wm:5   lm:2   dm:1)  games:21   WG: 57.14% LG: 38.10% (wg:  12 lg:   8) pick: 2    Barnaul(2), 
+= Balmor, Battlemage Captain       matches:8    WM: 62.50%  LM: 25.00%  DM: 12.50% (wm:5   lm:2   dm:1)  games:21   WG: 57.14% LG: 38.10% (wg:  12 lg:   8) pick: 2    Barnaul(2), 
        vs Baral and Kari Zev               (w:1 l:0 d:0), (2/1)
        vs Kytheon, Hero of Akros           (w:0 l:1 d:0), (1/2)
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
@@ -22,7 +22,7 @@ Balmor, Battlemage Captain       matches:8    WM: 62.50%  LM: 25.00%  DM: 12.50%
        vs Anhelo, the Painter              (w:1 l:0 d:0), (2/0)
 
 
-Baral and Kari Zev               matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 55.56% LG: 44.44% (wg:   5 lg:   4) pick: 1    Barnaul(1), 
+= Baral and Kari Zev               matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 55.56% LG: 44.44% (wg:   5 lg:   4) pick: 1    Barnaul(1), 
        vs Balmor, Battlemage Captain       (w:0 l:1 d:0), (1/2)
        vs Anhelo, the Painter              (w:1 l:0 d:0), (2/0)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
@@ -30,13 +30,13 @@ Baral and Kari Zev               matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00%
        vs Old Stickfingers                 (w:1 l:0 d:0), (2/0)
 
 
-Feldon, Ronom Excavator          matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:8    WG: 37.50% LG: 62.50% (wg:   3 lg:   5) pick: 1    Barnaul(1), 
+= Feldon, Ronom Excavator          matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:8    WG: 37.50% LG: 62.50% (wg:   3 lg:   5) pick: 1    Barnaul(1), 
        vs Anhelo, the Painter              (w:1 l:0 d:0), (2/1)
        vs Shorikai, Genesis Engine         (w:0 l:1 d:0), (1/2)
        vs Kytheon, Hero of Akros           (w:0 l:1 d:0), (0/2)
 
 
-Ghyrson Starn, Kelermorph        matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:10   WG: 70.00% LG: 30.00% (wg:   7 lg:   3) pick: 1    Barnaul(1), 
+= Ghyrson Starn, Kelermorph        matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:10   WG: 70.00% LG: 30.00% (wg:   7 lg:   3) pick: 1    Barnaul(1), 
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
         + Tana, the Bloodsower            
        vs Admiral Brass, Unsinkable        (w:1 l:0 d:0), (2/0)
@@ -44,27 +44,27 @@ Ghyrson Starn, Kelermorph        matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00%
        vs Kytheon, Hero of Akros           (w:1 l:0 d:0), (2/1)
 
 
-Kytheon, Hero of Akros           matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:11   WG: 54.55% LG: 45.45% (wg:   6 lg:   5) pick: 1    Barnaul(1), 
+= Kytheon, Hero of Akros           matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:11   WG: 54.55% LG: 45.45% (wg:   6 lg:   5) pick: 1    Barnaul(1), 
        vs Balmor, Battlemage Captain       (w:1 l:0 d:0), (2/1)
        vs Tasigur, the Golden Fang         (w:0 l:1 d:0), (1/2)
        vs Feldon, Ronom Excavator          (w:1 l:0 d:0), (2/0)
        vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (1/2)
 
 
-Old Stickfingers                 matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:11   WG: 36.36% LG: 63.64% (wg:   4 lg:   7) pick: 1    Barnaul(1), 
+= Old Stickfingers                 matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:11   WG: 36.36% LG: 63.64% (wg:   4 lg:   7) pick: 1    Barnaul(1), 
        vs Tasigur, the Golden Fang         (w:0 l:1 d:0), (1/2)
        vs Balmor, Battlemage Captain       (w:1 l:1 d:0), (3/3)
        vs Baral and Kari Zev               (w:0 l:1 d:0), (0/2)
 
 
-Shorikai, Genesis Engine         matches:4    WM: 75.00%  LM:  0.00%  DM: 25.00% (wm:3   lm:0   dm:1)  games:8    WG: 75.00% LG: 12.50% (wg:   6 lg:   1) pick: 1    Barnaul(1), 
+= Shorikai, Genesis Engine         matches:4    WM: 75.00%  LM:  0.00%  DM: 25.00% (wm:3   lm:0   dm:1)  games:8    WG: 75.00% LG: 12.50% (wg:   6 lg:   1) pick: 1    Barnaul(1), 
        vs Admiral Brass, Unsinkable        (w:1 l:0 d:0), (2/0)
        vs Feldon, Ronom Excavator          (w:1 l:0 d:0), (2/1)
        vs Tasigur, the Golden Fang         (w:1 l:0 d:0), (2/0)
        vs Balmor, Battlemage Captain       (w:0 l:0 d:1), (0/0)
 
 
-Tasigur, the Golden Fang         matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 40.00% LG: 60.00% (wg:   4 lg:   6) pick: 1    Barnaul(1), 
+= Tasigur, the Golden Fang         matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 40.00% LG: 60.00% (wg:   4 lg:   6) pick: 1    Barnaul(1), 
        vs Old Stickfingers                 (w:1 l:0 d:0), (2/1)
        vs Kytheon, Hero of Akros           (w:1 l:0 d:0), (2/1)
        vs Shorikai, Genesis Engine         (w:0 l:1 d:0), (0/2)
@@ -72,7 +72,7 @@ Tasigur, the Golden Fang         matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00%
         + Tana, the Bloodsower            
 
 
-Yoshimaru, Ever Faithful         matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:10   WG: 70.00% LG: 30.00% (wg:   7 lg:   3) pick: 1    Barnaul(1), 
+= Yoshimaru, Ever Faithful         matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:10   WG: 70.00% LG: 30.00% (wg:   7 lg:   3) pick: 1    Barnaul(1), 
   + Tana, the Bloodsower        
        vs Ghyrson Starn, Kelermorph        (w:1 l:0 d:0), (2/1)
        vs Balmor, Battlemage Captain       (w:0 l:1 d:0), (1/2)

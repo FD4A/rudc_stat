@@ -1,22 +1,22 @@
-Gallia of the Endless Dance      matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:6    WG: 33.33% LG: 66.67% (wg:   2 lg:   4) pick: 1    Krasnodar(1), 
+= Gallia of the Endless Dance      matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:6    WG: 33.33% LG: 66.67% (wg:   2 lg:   4) pick: 1    Krasnodar(1), 
        vs The Reality Chip                 (w:0 l:1 d:0), (0/2)
        vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/0)
        vs Winota, Joiner of Forces         (w:0 l:1 d:0), (0/2)
 
 
-Golos, Tireless Pilgrim          matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:6    WG:  0.00% LG:100.00% (wg:   0 lg:   6) pick: 1    Krasnodar(1), 
+= Golos, Tireless Pilgrim          matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:6    WG:  0.00% LG:100.00% (wg:   0 lg:   6) pick: 1    Krasnodar(1), 
        vs Winota, Joiner of Forces         (w:0 l:1 d:0), (0/2)
        vs Gallia of the Endless Dance      (w:0 l:1 d:0), (0/2)
        vs The Reality Chip                 (w:0 l:1 d:0), (0/2)
 
 
-The Reality Chip                 matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:7    WG: 71.43% LG: 28.57% (wg:   5 lg:   2) pick: 1    Krasnodar(1), 
+= The Reality Chip                 matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:7    WG: 71.43% LG: 28.57% (wg:   5 lg:   2) pick: 1    Krasnodar(1), 
        vs Gallia of the Endless Dance      (w:1 l:0 d:0), (2/0)
        vs Winota, Joiner of Forces         (w:0 l:1 d:0), (1/2)
        vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/0)
 
 
-Winota, Joiner of Forces         matches:3    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:3   lm:0   dm:0)  games:7    WG: 85.71% LG: 14.29% (wg:   6 lg:   1) pick: 1    Krasnodar(1), 
+= Winota, Joiner of Forces         matches:3    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:3   lm:0   dm:0)  games:7    WG: 85.71% LG: 14.29% (wg:   6 lg:   1) pick: 1    Krasnodar(1), 
        vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/0)
        vs The Reality Chip                 (w:1 l:0 d:0), (2/1)
        vs Gallia of the Endless Dance      (w:1 l:0 d:0), (2/0)

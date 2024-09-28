@@ -1,25 +1,25 @@
-Gut, True Soul Zealot            matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:7    WG: 42.86% LG: 57.14% (wg:   3 lg:   4) pick: 1    Krasnodar(1), 
+= Gut, True Soul Zealot            matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:7    WG: 42.86% LG: 57.14% (wg:   3 lg:   4) pick: 1    Krasnodar(1), 
   + Acolyte of Bahamut          
        vs The Reality Chip                 (w:0 l:1 d:0), (0/2)
        vs Oloro, Ageless Ascetic           (w:0 l:1 d:0), (1/2)
        vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/0)
 
 
-Oloro, Ageless Ascetic           matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:7    WG: 28.57% LG: 71.43% (wg:   2 lg:   5) pick: 1    Krasnodar(1), 
+= Oloro, Ageless Ascetic           matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:7    WG: 28.57% LG: 71.43% (wg:   2 lg:   5) pick: 1    Krasnodar(1), 
        vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
        vs Gut, True Soul Zealot            (w:1 l:0 d:0), (2/1)
         + Acolyte of Bahamut              
        vs The Reality Chip                 (w:0 l:1 d:0), (0/2)
 
 
-Omnath, Locus of Creation        matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:7    WG: 42.86% LG: 57.14% (wg:   3 lg:   4) pick: 1    Krasnodar(1), 
+= Omnath, Locus of Creation        matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:7    WG: 42.86% LG: 57.14% (wg:   3 lg:   4) pick: 1    Krasnodar(1), 
        vs Oloro, Ageless Ascetic           (w:1 l:0 d:0), (2/0)
        vs The Reality Chip                 (w:0 l:1 d:0), (1/2)
        vs Gut, True Soul Zealot            (w:0 l:1 d:0), (0/2)
         + Acolyte of Bahamut              
 
 
-The Reality Chip                 matches:3    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:3   lm:0   dm:0)  games:7    WG: 85.71% LG: 14.29% (wg:   6 lg:   1) pick: 1    Krasnodar(1), 
+= The Reality Chip                 matches:3    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:3   lm:0   dm:0)  games:7    WG: 85.71% LG: 14.29% (wg:   6 lg:   1) pick: 1    Krasnodar(1), 
        vs Gut, True Soul Zealot            (w:1 l:0 d:0), (2/0)
         + Acolyte of Bahamut              
        vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/1)

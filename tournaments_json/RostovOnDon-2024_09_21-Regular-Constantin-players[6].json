@@ -1,0 +1,111 @@
+{
+    "date": "2024_09_21",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Vadim Lukaynov",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Constantin Somkin",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Taras Bespalov",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Pavel Burmistrov",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Alexander Kovalev",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Roman Cherepovskiy",
+            "Asmoranomardicadaistinaculdacar"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Vadim Lukaynov",
+                "Pavel Burmistrov",
+                "Satya, Aetherflux Genius",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Taras Bespalov",
+                "Alexander Kovalev",
+                "Hogaak, Arisen Necropolis",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Constantin Somkin",
+                "Roman Cherepovskiy",
+                "Shorikai, Genesis Engine",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Roman Cherepovskiy",
+                "Taras Bespalov",
+                "Asmoranomardicadaistinaculdacar",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Vadim Lukaynov",
+                "Alexander Kovalev",
+                "Satya, Aetherflux Genius",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Vadim Lukaynov",
+                "Roman Cherepovskiy",
+                "Satya, Aetherflux Genius",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Taras Bespalov",
+                "Constantin Somkin",
+                "Hogaak, Arisen Necropolis",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

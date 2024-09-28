@@ -1,48 +1,48 @@
 
-Ertai Resurrected                matches:4    WM: 25.00%  LM: 50.00%  DM: 25.00% (wm:1   lm:2   dm:1)  games:10   WG: 50.00% LG: 50.00% (wg:   5 lg:   5) pick: 1    Spb(1), 
+= Ertai Resurrected                matches:4    WM: 25.00%  LM: 50.00%  DM: 25.00% (wm:1   lm:2   dm:1)  games:10   WG: 50.00% LG: 50.00% (wg:   5 lg:   5) pick: 1    Spb(1), 
        vs Juri, Master of the Revue        (w:0 l:1 d:0), (1/2)
        vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/0)
        vs Slimefoot and Squee              (w:0 l:1 d:0), (1/2)
        vs The Wise Mothman                 (w:0 l:0 d:1), (1/1)
 
 
-Golos, Tireless Pilgrim          matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:7    WG: 14.29% LG: 85.71% (wg:   1 lg:   6) pick: 1    Spb(1), 
+= Golos, Tireless Pilgrim          matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:7    WG: 14.29% LG: 85.71% (wg:   1 lg:   6) pick: 1    Spb(1), 
        vs The Wise Mothman                 (w:0 l:1 d:0), (1/2)
        vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
        vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
 
 
 
-Juri, Master of the Revue        matches:3    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:3   lm:0   dm:0)  games:9    WG: 66.67% LG: 33.33% (wg:   6 lg:   3) pick: 1    Spb(1), 
+= Juri, Master of the Revue        matches:3    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:3   lm:0   dm:0)  games:9    WG: 66.67% LG: 33.33% (wg:   6 lg:   3) pick: 1    Spb(1), 
        vs Ertai Resurrected                (w:1 l:0 d:0), (2/1)
        vs The Wise Mothman                 (w:1 l:0 d:0), (2/1)
        vs Tamiyo, Inquisitive Student      (w:1 l:0 d:0), (2/1)
 
 
-Omnath, Locus of Creation        matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:6    WG: 33.33% LG: 66.67% (wg:   2 lg:   4) pick: 1    Spb(1), 
+= Omnath, Locus of Creation        matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:6    WG: 33.33% LG: 66.67% (wg:   2 lg:   4) pick: 1    Spb(1), 
        vs Ertai Resurrected                (w:0 l:1 d:0), (0/2)
        vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/0)
        vs Sythis, Harvest's Hand           (w:0 l:1 d:0), (0/2)
 
 
-Slimefoot and Squee              matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:7    WG: 57.14% LG: 42.86% (wg:   4 lg:   3) pick: 1    Spb(1), 
+= Slimefoot and Squee              matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:7    WG: 57.14% LG: 42.86% (wg:   4 lg:   3) pick: 1    Spb(1), 
        vs Sythis, Harvest's Hand           (w:0 l:1 d:0), (0/2)
        vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/0)
        vs Ertai Resurrected                (w:1 l:0 d:0), (2/1)
 
 
-Sythis, Harvest's Hand           matches:2    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:2   lm:0   dm:0)  games:4    WG:100.00% LG:  0.00% (wg:   4 lg:   0) pick: 1    Spb(1), 
+= Sythis, Harvest's Hand           matches:2    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:2   lm:0   dm:0)  games:4    WG:100.00% LG:  0.00% (wg:   4 lg:   0) pick: 1    Spb(1), 
        vs Slimefoot and Squee              (w:1 l:0 d:0), (2/0)
        vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/0)
 
 
-Tamiyo, Inquisitive Student      matches:2    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:1   lm:1   dm:0)  games:5    WG: 60.00% LG: 40.00% (wg:   3 lg:   2) pick: 2    Spb(2), 
+= Tamiyo, Inquisitive Student      matches:2    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:1   lm:1   dm:0)  games:5    WG: 60.00% LG: 40.00% (wg:   3 lg:   2) pick: 2    Spb(2), 
        vs The Wise Mothman                 (w:1 l:0 d:0), (2/0)
        vs Juri, Master of the Revue        (w:0 l:1 d:0), (1/2)
 
 
 
-The Wise Mothman                 matches:4    WM: 25.00%  LM: 50.00%  DM: 25.00% (wm:1   lm:2   dm:1)  games:10   WG: 40.00% LG: 60.00% (wg:   4 lg:   6) pick: 1    Spb(1), 
+= The Wise Mothman                 matches:4    WM: 25.00%  LM: 50.00%  DM: 25.00% (wm:1   lm:2   dm:1)  games:10   WG: 40.00% LG: 60.00% (wg:   4 lg:   6) pick: 1    Spb(1), 
        vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/1)
        vs Juri, Master of the Revue        (w:0 l:1 d:0), (1/2)
        vs Tamiyo, Inquisitive Student      (w:0 l:1 d:0), (0/2)

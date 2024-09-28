@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2024_09_21
+organizer::Constantin
+players::generals
+Vadim Lukaynov :: Satya, Aetherflux Genius
+Constantin Somkin :: Shorikai, Genesis Engine
+Taras Bespalov :: Hogaak, Arisen Necropolis
+Pavel Burmistrov :: Phelia, Exuberant Shepherd
+Alexander Kovalev :: Feldon, Ronom Excavator
+Roman Cherepovskiy :: Asmoranomardicadaistinaculdacar
+Round
+https://aetherhub.com/Tourney/RoundTourney/33381

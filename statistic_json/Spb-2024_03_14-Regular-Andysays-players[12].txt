@@ -1,4 +1,4 @@
-Aminatou, the Fateshifter        matches:8    WM: 37.50%  LM: 37.50%  DM: 25.00% (wm:3   lm:3   dm:2)  games:15   WG: 46.67% LG: 53.33% (wg:   7 lg:   8) pick: 2    Spb(2), 
+= Aminatou, the Fateshifter        matches:8    WM: 37.50%  LM: 37.50%  DM: 25.00% (wm:3   lm:3   dm:2)  games:15   WG: 46.67% LG: 53.33% (wg:   7 lg:   8) pick: 2    Spb(2), 
        vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (0/2)
        vs Geist of Saint Traft             (w:0 l:0 d:1), (1/1)
        vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/0)
@@ -10,7 +10,7 @@ Aminatou, the Fateshifter        matches:8    WM: 37.50%  LM: 37.50%  DM: 25.00%
        vs Keranos, God of Storms           (w:1 l:0 d:0), (2/1)
 
 
-Bjorna, Nightfall Alchemist      matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:8    WG: 25.00% LG: 75.00% (wg:   2 lg:   6) pick: 1    Spb(1), 
+= Bjorna, Nightfall Alchemist      matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:8    WG: 25.00% LG: 75.00% (wg:   2 lg:   6) pick: 1    Spb(1), 
   + Wernog, Rider's Chaplain    
   + Lurrus of the Dream-Den     
        vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (0/2)
@@ -19,7 +19,7 @@ Bjorna, Nightfall Alchemist      matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00%
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/1)
 
 
-Geist of Saint Traft             matches:4    WM: 25.00%  LM: 25.00%  DM: 50.00% (wm:1   lm:1   dm:2)  games:8    WG: 50.00% LG: 50.00% (wg:   4 lg:   4) pick: 1    Spb(1), 
+= Geist of Saint Traft             matches:4    WM: 25.00%  LM: 25.00%  DM: 50.00% (wm:1   lm:1   dm:2)  games:8    WG: 50.00% LG: 50.00% (wg:   4 lg:   4) pick: 1    Spb(1), 
        vs Aminatou, the Fateshifter        (w:0 l:0 d:1), (1/1)
        vs Karlov of the Ghost Council      (w:0 l:0 d:1), (1/1)
         + Lurrus of the Dream-Den         
@@ -27,7 +27,7 @@ Geist of Saint Traft             matches:4    WM: 25.00%  LM: 25.00%  DM: 50.00%
        vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (0/2)
 
 
-Ghyrson Starn, Kelermorph        matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:10   WG: 60.00% LG: 40.00% (wg:   6 lg:   4) pick: 1    Spb(1), 
+= Ghyrson Starn, Kelermorph        matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:10   WG: 60.00% LG: 40.00% (wg:   6 lg:   4) pick: 1    Spb(1), 
        vs Bjorna, Nightfall Alchemist      (w:1 l:0 d:0), (2/0)
         + Wernog, Rider's Chaplain        
         + Lurrus of the Dream-Den         
@@ -36,7 +36,7 @@ Ghyrson Starn, Kelermorph        matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00%
        vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
 
 
-Golos, Tireless Pilgrim          matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:9    WG: 77.78% LG: 22.22% (wg:   7 lg:   2) pick: 1    Spb(1), 
+= Golos, Tireless Pilgrim          matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:9    WG: 77.78% LG: 22.22% (wg:   7 lg:   2) pick: 1    Spb(1), 
        vs The Reality Chip                 (w:1 l:0 d:0), (2/0)
        vs Kinnan, Bonder Prodigy           (w:1 l:0 d:0), (2/0)
        vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (1/2)
@@ -44,7 +44,7 @@ Golos, Tireless Pilgrim          matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00%
         + Lurrus of the Dream-Den         
 
 
-Karlov of the Ghost Council      matches:4    WM: 25.00%  LM: 25.00%  DM: 50.00% (wm:1   lm:1   dm:2)  games:8    WG: 50.00% LG: 50.00% (wg:   4 lg:   4) pick: 1    Spb(1), 
+= Karlov of the Ghost Council      matches:4    WM: 25.00%  LM: 25.00%  DM: 50.00% (wm:1   lm:1   dm:2)  games:8    WG: 50.00% LG: 50.00% (wg:   4 lg:   4) pick: 1    Spb(1), 
   + Lurrus of the Dream-Den     
        vs Slimefoot and Squee              (w:0 l:0 d:1), (1/1)
        vs Geist of Saint Traft             (w:0 l:0 d:1), (1/1)
@@ -52,7 +52,7 @@ Karlov of the Ghost Council      matches:4    WM: 25.00%  LM: 25.00%  DM: 50.00%
        vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
 
 
-Keranos, God of Storms           matches:4    WM:  0.00%  LM: 75.00%  DM: 25.00% (wm:0   lm:3   dm:1)  games:10   WG: 30.00% LG: 70.00% (wg:   3 lg:   7) pick: 1    Spb(1), 
+= Keranos, God of Storms           matches:4    WM:  0.00%  LM: 75.00%  DM: 25.00% (wm:0   lm:3   dm:1)  games:10   WG: 30.00% LG: 70.00% (wg:   3 lg:   7) pick: 1    Spb(1), 
        vs Light-Paws, Emperor's Voice      (w:0 l:0 d:1), (1/1)
        vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (1/2)
        vs Karlov of the Ghost Council      (w:0 l:1 d:0), (0/2)
@@ -60,7 +60,7 @@ Keranos, God of Storms           matches:4    WM:  0.00%  LM: 75.00%  DM: 25.00%
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (1/2)
 
 
-Kinnan, Bonder Prodigy           matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:8    WG: 75.00% LG: 25.00% (wg:   6 lg:   2) pick: 1    Spb(1), 
+= Kinnan, Bonder Prodigy           matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:8    WG: 75.00% LG: 25.00% (wg:   6 lg:   2) pick: 1    Spb(1), 
        vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/0)
        vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
        vs Bjorna, Nightfall Alchemist      (w:1 l:0 d:0), (2/0)
@@ -69,21 +69,21 @@ Kinnan, Bonder Prodigy           matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00%
        vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
 
 
-Light-Paws, Emperor's Voice      matches:4    WM:  0.00%  LM: 75.00%  DM: 25.00% (wm:0   lm:3   dm:1)  games:8    WG: 12.50% LG: 87.50% (wg:   1 lg:   7) pick: 1    Spb(1), 
+= Light-Paws, Emperor's Voice      matches:4    WM:  0.00%  LM: 75.00%  DM: 25.00% (wm:0   lm:3   dm:1)  games:8    WG: 12.50% LG: 87.50% (wg:   1 lg:   7) pick: 1    Spb(1), 
        vs Keranos, God of Storms           (w:0 l:0 d:1), (1/1)
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
        vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
        vs The Reality Chip                 (w:0 l:1 d:0), (0/2)
 
 
-Slimefoot and Squee              matches:4    WM: 75.00%  LM:  0.00%  DM: 25.00% (wm:3   lm:0   dm:1)  games:7    WG: 85.71% LG: 14.29% (wg:   6 lg:   1) pick: 1    Spb(1), 
+= Slimefoot and Squee              matches:4    WM: 75.00%  LM:  0.00%  DM: 25.00% (wm:3   lm:0   dm:1)  games:7    WG: 85.71% LG: 14.29% (wg:   6 lg:   1) pick: 1    Spb(1), 
        vs Karlov of the Ghost Council      (w:0 l:0 d:1), (1/1)
         + Lurrus of the Dream-Den         
        vs Aminatou, the Fateshifter        (w:2 l:0 d:0), (3/0)
        vs Ghyrson Starn, Kelermorph        (w:1 l:0 d:0), (2/0)
 
 
-The Reality Chip                 matches:4    WM: 25.00%  LM: 50.00%  DM: 25.00% (wm:1   lm:2   dm:1)  games:9    WG: 44.44% LG: 55.56% (wg:   4 lg:   5) pick: 1    Spb(1), 
+= The Reality Chip                 matches:4    WM: 25.00%  LM: 50.00%  DM: 25.00% (wm:1   lm:2   dm:1)  games:9    WG: 44.44% LG: 55.56% (wg:   4 lg:   5) pick: 1    Spb(1), 
        vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
        vs Bjorna, Nightfall Alchemist      (w:0 l:1 d:0), (1/2)
         + Wernog, Rider's Chaplain        

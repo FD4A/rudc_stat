@@ -1,22 +1,22 @@
-Aminatou, the Fateshifter        matches:3    WM: 33.33%  LM: 33.33%  DM: 33.33% (wm:1   lm:1   dm:1)  games:8    WG: 50.00% LG: 50.00% (wg:   4 lg:   4) pick: 1    Krasnodar(1), 
+= Aminatou, the Fateshifter        matches:3    WM: 33.33%  LM: 33.33%  DM: 33.33% (wm:1   lm:1   dm:1)  games:8    WG: 50.00% LG: 50.00% (wg:   4 lg:   4) pick: 1    Krasnodar(1), 
        vs The Reality Chip                 (w:1 l:0 d:0), (2/1)
        vs Ertai Resurrected                (w:0 l:0 d:1), (1/1)
        vs Juri, Master of the Revue        (w:0 l:1 d:0), (1/2)
 
 
-Ertai Resurrected                matches:3    WM: 66.67%  LM:  0.00%  DM: 33.33% (wm:2   lm:0   dm:1)  games:7    WG: 71.43% LG: 28.57% (wg:   5 lg:   2) pick: 1    Krasnodar(1), 
+= Ertai Resurrected                matches:3    WM: 66.67%  LM:  0.00%  DM: 33.33% (wm:2   lm:0   dm:1)  games:7    WG: 71.43% LG: 28.57% (wg:   5 lg:   2) pick: 1    Krasnodar(1), 
        vs Juri, Master of the Revue        (w:1 l:0 d:0), (2/1)
        vs Aminatou, the Fateshifter        (w:0 l:0 d:1), (1/1)
        vs The Reality Chip                 (w:1 l:0 d:0), (2/0)
 
 
-Juri, Master of the Revue        matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:9    WG: 55.56% LG: 44.44% (wg:   5 lg:   4) pick: 1    Krasnodar(1), 
+= Juri, Master of the Revue        matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:9    WG: 55.56% LG: 44.44% (wg:   5 lg:   4) pick: 1    Krasnodar(1), 
        vs Ertai Resurrected                (w:0 l:1 d:0), (1/2)
        vs The Reality Chip                 (w:1 l:0 d:0), (2/1)
        vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/1)
 
 
-The Reality Chip                 matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:8    WG: 25.00% LG: 75.00% (wg:   2 lg:   6) pick: 1    Krasnodar(1), 
+= The Reality Chip                 matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:8    WG: 25.00% LG: 75.00% (wg:   2 lg:   6) pick: 1    Krasnodar(1), 
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (1/2)
        vs Juri, Master of the Revue        (w:0 l:1 d:0), (1/2)
        vs Ertai Resurrected                (w:0 l:1 d:0), (0/2)
