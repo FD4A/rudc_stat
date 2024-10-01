@@ -1,0 +1,215 @@
+{
+    "date": "2024_09_28",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "FDA",
+    "roundsCount": 4,
+    "players": [
+        [
+            "p2 Feldon",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "p3 Eris",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "p1 Arcades",
+            "Arcades, the Strategist"
+        ],
+        [
+            "p6 Gut",
+            "Gut, True Soul Zealot :+: Agent of the Iron Throne"
+        ],
+        [
+            "p7 Azusa",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "p4 Slimefoot",
+            "Slimefoot and Squee"
+        ],
+        [
+            "p5 Malcolm",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "p9 Asmorano",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "p8 Tamiyo",
+            "Tamiyo, Inquisitive Student"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "p2 Feldon",
+                "p4 Slimefoot",
+                "Feldon, Ronom Excavator",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "p6 Gut",
+                "p9 Asmorano",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "p5 Malcolm",
+                "p8 Tamiyo",
+                "Malcolm, Alluring Scoundrel",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "p3 Eris",
+                "p7 Azusa",
+                "Eris, Roar of the Storm",
+                "Azusa, Lost but Seeking",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "p2 Feldon",
+                "p7 Azusa",
+                "Feldon, Ronom Excavator",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "p1 Arcades",
+                "p6 Gut",
+                "Arcades, the Strategist",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "p5 Malcolm",
+                "p9 Asmorano",
+                "Malcolm, Alluring Scoundrel",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "p3 Eris",
+                "p8 Tamiyo",
+                "Eris, Roar of the Storm",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "p1 Arcades",
+                "p2 Feldon",
+                "Arcades, the Strategist",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "p4 Slimefoot",
+                "p7 Azusa",
+                "Slimefoot and Squee",
+                "Azusa, Lost but Seeking",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "p3 Eris",
+                "p9 Asmorano",
+                "Eris, Roar of the Storm",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "p6 Gut",
+                "p8 Tamiyo",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "p1 Arcades",
+                "p3 Eris",
+                "Arcades, the Strategist",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "p2 Feldon",
+                "p6 Gut",
+                "Feldon, Ronom Excavator",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "p5 Malcolm",
+                "p7 Azusa",
+                "Malcolm, Alluring Scoundrel",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "p4 Slimefoot",
+                "p9 Asmorano",
+                "Slimefoot and Squee",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

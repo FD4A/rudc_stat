@@ -1,0 +1,16 @@
+location::Samara
+level::Regular
+date::2024_09_28
+organizer::FDA
+players::generals
+p2 Feldon :: Feldon, Ronom Excavator
+p3 Eris :: Eris, Roar of the Storm
+p1 Arcades :: Arcades, the Strategist
+p6 Gut :: Gut, True Soul Zealot :+: Agent of the Iron Throne
+p7 Azusa :: Azusa, Lost but Seeking
+p4 Slimefoot :: Slimefoot and Squee
+p5 Malcolm :: Malcolm, Alluring Scoundrel
+p9 Asmorano :: Asmoranomardicadaistinaculdacar
+p8 Tamiyo :: Tamiyo, Inquisitive Student
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/33657
