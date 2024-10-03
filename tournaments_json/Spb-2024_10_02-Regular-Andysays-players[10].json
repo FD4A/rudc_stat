@@ -1,0 +1,249 @@
+{
+    "date": "2024_10_02",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Цюра Максим",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Amalia Benavides Aguirre"
+        ],
+        [
+            "Коростелев Илья",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower"
+        ],
+        [
+            "Тяпайкин Максим ",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Богданов Сергей",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Булочко Михаил",
+            "Vial Smasher the Fierce :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Барабаш Валентин",
+            "Kinnan, Bonder Prodigy"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Барабаш Валентин",
+                "Богданов Сергей",
+                "Kinnan, Bonder Prodigy",
+                "Hogaak, Arisen Necropolis",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Богатырев Александр",
+                "Satya, Aetherflux Genius",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Тяпайкин Максим",
+                "Vial Smasher the Fierce :+: Thrasios, Triton Hero",
+                "unknown",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Федоров Дмитрий",
+                "Eris, Roar of the Storm",
+                "Amalia Benavides Aguirre",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Семенов Дмитрий",
+                "Tamiyo, Inquisitive Student",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Коростелев Илья",
+                "Семенов Дмитрий",
+                "Satya, Aetherflux Genius",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Богданов Сергей",
+                "unknown",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Барабаш Валентин",
+                "Eris, Roar of the Storm",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Богатырев Александр",
+                "Tamiyo, Inquisitive Student",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Федоров Дмитрий",
+                "Vial Smasher the Fierce :+: Thrasios, Triton Hero",
+                "Amalia Benavides Aguirre",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Цюра Максим",
+                "Семенов Дмитрий",
+                "Eris, Roar of the Storm",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Поляков Герман",
+                "unknown",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Богданов Сергей",
+                "Satya, Aetherflux Genius",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Богатырев Александр",
+                "Amalia Benavides Aguirre",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Булочко Михаил",
+                "Kinnan, Bonder Prodigy",
+                "Vial Smasher the Fierce :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Цюра Максим",
+                "Поляков Герман",
+                "Eris, Roar of the Storm",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Федоров Дмитрий",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Amalia Benavides Aguirre",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Коростелев Илья",
+                "unknown",
+                "Satya, Aetherflux Genius",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Богатырев Александр",
+                "Vial Smasher the Fierce :+: Thrasios, Triton Hero",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,17 @@
+location::Spb
+level::Regular
+date::2024_10_02
+organizer::Andysays
+players::generals
+Цюра Максим :: Eris, Roar of the Storm
+Поляков Герман :: Tamiyo, Inquisitive Student
+Федоров Дмитрий :: Amalia Benavides Aguirre
+Коростелев Илья :: Satya, Aetherflux Genius
+Семенов Дмитрий ::  Yoshimaru, Ever Faithful :+: Tana, the Bloodsower
+Тяпайкин Максим  :: Ajani, Nacatl Pariah
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Богданов Сергей :: Hogaak, Arisen Necropolis
+Булочко Михаил :: Vial Smasher the Fierce :+: Thrasios, Triton Hero
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/33702
