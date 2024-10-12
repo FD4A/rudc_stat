@@ -1,0 +1,15 @@
+location::Spb
+level::Regular
+date::2024_10_10
+organizer::Andysays
+players::generals
+Поляков Герман :: Tamiyo, Inquisitive Student
+Булочко Михаил :: Vial Smasher the Fierce :+: Thrasios, Triton Hero
+Коростелев Илья :: Satya, Aetherflux Genius
+Байков Аркадий :: Slimefoot and Squee
+Шестаков Игорь :: Tamiyo, Inquisitive Student
+Корсаков Алексей :: Eris, Roar of the Storm
+Цюра Максим :: Eris, Roar of the Storm
+Мартынов Яков :: Tamiyo, Inquisitive Student
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/33873

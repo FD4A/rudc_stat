@@ -1,0 +1,169 @@
+{
+    "date": "2024_10_10",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Булочко Михаил",
+            "Vial Smasher the Fierce :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Коростелев Илья",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Байков Аркадий",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Шестаков Игорь",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Корсаков Алексей",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Цюра Максим",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Мартынов Яков",
+            "Tamiyo, Inquisitive Student"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Корсаков Алексей",
+                "Цюра Максим",
+                "Eris, Roar of the Storm",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Коростелев Илья",
+                "Slimefoot and Squee",
+                "Satya, Aetherflux Genius",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Шестаков Игорь",
+                "Tamiyo, Inquisitive Student",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Мартынов Яков",
+                "Vial Smasher the Fierce :+: Thrasios, Triton Hero",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Корсаков Алексей",
+                "Tamiyo, Inquisitive Student",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Булочко Михаил",
+                "Satya, Aetherflux Genius",
+                "Vial Smasher the Fierce :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Байков Аркадий",
+                "Tamiyo, Inquisitive Student",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Цюра Максим",
+                "Tamiyo, Inquisitive Student",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Булочко Михаил",
+                "Tamiyo, Inquisitive Student",
+                "Vial Smasher the Fierce :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Коростелев Илья",
+                "Eris, Roar of the Storm",
+                "Satya, Aetherflux Genius",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Цюра Максим",
+                "Slimefoot and Squee",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Шестаков Игорь",
+                "Tamiyo, Inquisitive Student",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}
