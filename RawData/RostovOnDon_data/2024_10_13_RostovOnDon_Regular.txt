@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2024_10_13
+organizer::Constantin
+players::generals
+Alexander Kovalev :: Tamiyo, Inquisitive Student
+Vadim Lukaynov :: Satya, Aetherflux Genius
+Alexander Isaev :: Omnath, Locus of Creation
+Roman Cherepovskiy :: Asmoranomardicadaistinaculdacar
+Constantin Somkin :: Elminster
+Vladimir Erohin :: Slimefoot and Squee
+Round
+https://aetherhub.com/Tourney/RoundTourney/33985

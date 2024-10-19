@@ -1,0 +1,131 @@
+{
+    "date": "2024_10_13",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Alexander Kovalev",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Vadim Lukaynov",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Alexander Isaev",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Roman Cherepovskiy",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Constantin Somkin",
+            "Elminster"
+        ],
+        [
+            "Vladimir Erohin",
+            "Slimefoot and Squee"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Vadim Lukaynov",
+                "Alexander Isaev",
+                "Satya, Aetherflux Genius",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Constantin Somkin",
+                "Roman Cherepovskiy",
+                "Elminster",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Vladimir Erohin",
+                "Alexander Kovalev",
+                "Slimefoot and Squee",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Alexander Isaev",
+                "Alexander Kovalev",
+                "Omnath, Locus of Creation",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Constantin Somkin",
+                "Vadim Lukaynov",
+                "Elminster",
+                "Satya, Aetherflux Genius",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Roman Cherepovskiy",
+                "Vladimir Erohin",
+                "Asmoranomardicadaistinaculdacar",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Alexander Kovalev",
+                "Roman Cherepovskiy",
+                "Tamiyo, Inquisitive Student",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Alexander Isaev",
+                "Constantin Somkin",
+                "Omnath, Locus of Creation",
+                "Elminster",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Vadim Lukaynov",
+                "Vladimir Erohin",
+                "Satya, Aetherflux Genius",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

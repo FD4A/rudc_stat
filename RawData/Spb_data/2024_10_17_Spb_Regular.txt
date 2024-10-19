@@ -1,0 +1,16 @@
+location::Spb
+level::Regular
+date::2024_10_17
+organizer::Andysays
+players::generals
+Булочко Михаил :: Vial Smasher the Fierce :+: Thrasios, Triton Hero
+Мартынов Яков :: Tamiyo, Inquisitive Student
+Поляков Герман :: Tamiyo, Inquisitive Student
+Коростелев Илья :: Satya, Aetherflux Genius
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Байков Аркадий :: Phelia, Exuberant Shepherd
+Шестаков Игорь :: Ertai Resurrected
+Федоров Дмитрий :: Amalia Benavides Aguirre
+Андреев Антон :: Arcades, the Strategist
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/34071

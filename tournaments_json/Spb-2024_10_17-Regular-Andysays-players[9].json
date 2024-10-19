@@ -1,0 +1,215 @@
+{
+    "date": "2024_10_17",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Булочко Михаил",
+            "Vial Smasher the Fierce :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Мартынов Яков",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Коростелев Илья",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Байков Аркадий",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Шестаков Игорь",
+            "Ertai Resurrected"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Amalia Benavides Aguirre"
+        ],
+        [
+            "Андреев Антон",
+            "Arcades, the Strategist"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Поляков Герман",
+                "Андреев Антон",
+                "Tamiyo, Inquisitive Student",
+                "Arcades, the Strategist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Мартынов Яков",
+                "Vial Smasher the Fierce :+: Thrasios, Triton Hero",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Байков Аркадий",
+                "Indoraptor, the Perfect Hybrid",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Коростелев Илья",
+                "Ertai Resurrected",
+                "Satya, Aetherflux Genius",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Булочко Михаил",
+                "Байков Аркадий",
+                "Vial Smasher the Fierce :+: Thrasios, Triton Hero",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Поляков Герман",
+                "Amalia Benavides Aguirre",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Мартынов Яков",
+                "Satya, Aetherflux Genius",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Андреев Антон",
+                "Indoraptor, the Perfect Hybrid",
+                "Arcades, the Strategist",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Булочко Михаил",
+                "Tamiyo, Inquisitive Student",
+                "Vial Smasher the Fierce :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Богатырев Александр",
+                "Tamiyo, Inquisitive Student",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Шестаков Игорь",
+                "Amalia Benavides Aguirre",
+                "Ertai Resurrected",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Коростелев Илья",
+                "Phelia, Exuberant Shepherd",
+                "Satya, Aetherflux Genius",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Булочко Михаил",
+                "Федоров Дмитрий",
+                "Vial Smasher the Fierce :+: Thrasios, Triton Hero",
+                "Amalia Benavides Aguirre",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Мартынов Яков",
+                "Tamiyo, Inquisitive Student",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Шестаков Игорь",
+                "Phelia, Exuberant Shepherd",
+                "Ertai Resurrected",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Андреев Антон",
+                "Satya, Aetherflux Genius",
+                "Arcades, the Strategist",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}
