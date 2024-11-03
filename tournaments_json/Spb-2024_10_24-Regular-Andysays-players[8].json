@@ -1,0 +1,169 @@
+{
+    "date": "2024_10_24",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Цюра Максим",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Wilson, Refined Grizzly :+: Tavern Brawler"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Мартынов Яков",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Баранов Константин",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Булочко Михаил",
+            "Vial Smasher the Fierce :+: Thrasios, Triton Hero"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Булочко Михаил",
+                "Цюра Максим",
+                "Vial Smasher the Fierce :+: Thrasios, Triton Hero",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Поляков Герман",
+                "Wilson, Refined Grizzly :+: Tavern Brawler",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Мартынов Яков",
+                "Indoraptor, the Perfect Hybrid",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Баранов Константин",
+                "Ульянов Алексей",
+                "Satya, Aetherflux Genius",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Цюра Максим",
+                "Ульянов Алексей",
+                "Eris, Roar of the Storm",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Поляков Герман",
+                "Indoraptor, the Perfect Hybrid",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Федоров Дмитрий",
+                "Tamiyo, Inquisitive Student",
+                "Wilson, Refined Grizzly :+: Tavern Brawler",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Баранов Константин",
+                "Vial Smasher the Fierce :+: Thrasios, Triton Hero",
+                "Satya, Aetherflux Genius",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Цюра Максим",
+                "Федоров Дмитрий",
+                "Eris, Roar of the Storm",
+                "Wilson, Refined Grizzly :+: Tavern Brawler",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Ульянов Алексей",
+                "Tamiyo, Inquisitive Student",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Баранов Константин",
+                "Мартынов Яков",
+                "Satya, Aetherflux Genius",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Булочко Михаил",
+                "Indoraptor, the Perfect Hybrid",
+                "Vial Smasher the Fierce :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

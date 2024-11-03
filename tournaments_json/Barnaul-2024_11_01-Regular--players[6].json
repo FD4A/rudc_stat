@@ -1,0 +1,131 @@
+{
+    "date": "2024_11_01",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Андрей Студеникин (384155255)",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Дмитрий Лисин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Влад Гладышев",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Иван Послухов",
+            "Balmor, Battlemage Captain"
+        ],
+        [
+            "Александр Самусенко",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Александр Акимочкин",
+            "Kytheon, Hero of Akros"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Дмитрий Лисин",
+                "Александр Самусенко",
+                "Kytheon, Hero of Akros",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иван Послухов",
+                "Андрей Студеникин (384155255)",
+                "Balmor, Battlemage Captain",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Александр Акимочкин",
+                "Tamiyo, Inquisitive Student",
+                "Kytheon, Hero of Akros",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Влад Гладышев",
+                "Дмитрий Лисин",
+                "Tamiyo, Inquisitive Student",
+                "Kytheon, Hero of Akros",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Андрей Студеникин (384155255)",
+                "Александр Акимочкин",
+                "Eris, Roar of the Storm",
+                "Kytheon, Hero of Akros",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Иван Послухов",
+                "Omnath, Locus of Creation",
+                "Balmor, Battlemage Captain",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Лисин",
+                "Андрей Студеникин (384155255)",
+                "Kytheon, Hero of Akros",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Александр Самусенко",
+                "Tamiyo, Inquisitive Student",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иван Послухов",
+                "Александр Акимочкин",
+                "Balmor, Battlemage Captain",
+                "Kytheon, Hero of Akros",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+location::Spb
+level::Regular
+date::2024_10_24
+organizer::Andysays
+players::generals
+Цюра Максим :: Eris, Roar of the Storm
+Поляков Герман :: Tamiyo, Inquisitive Student
+Федоров Дмитрий :: Wilson, Refined Grizzly :+: Tavern Brawler
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Мартынов Яков :: Tamiyo, Inquisitive Student
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Баранов Константин :: Satya, Aetherflux Genius
+Булочко Михаил :: Vial Smasher the Fierce :+: Thrasios, Triton Hero
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/34283

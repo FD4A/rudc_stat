@@ -1,0 +1,13 @@
+location::Barnaul
+level::Regular
+date::2024_11_01
+organizer::
+players::generals
+Андрей Студеникин (384155255) :: Eris, Roar of the Storm
+Дмитрий Лисин :: Kytheon, Hero of Akros
+Влад Гладышев :: Tamiyo, Inquisitive Student
+Иван Послухов :: Balmor, Battlemage Captain
+Александр Самусенко :: Omnath, Locus of Creation
+Александр Акимочкин :: Kytheon, Hero of Akros
+Round
+https://aetherhub.com/Tourney/RoundTourney/34514

@@ -1,0 +1,301 @@
+{
+    "date": "2024_10_31",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Корсаков Алексей",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Звягин Георгий",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Красников Александр",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Коростелев Илья",
+            "The Gitrog Monster"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Wilson, Refined Grizzly :+: Tavern Brawler"
+        ],
+        [
+            "Шестаков Игорь",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Яковлев Николай",
+            "The Wise Mothman"
+        ],
+        [
+            "Мартынов Яков",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Барабаш Валентин",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Шулиженко Роман",
+            "Blex, Vexing Pest"
+        ],
+        [
+            "Цюра Максим",
+            "Eris, Roar of the Storm"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Звягин Георгий",
+                "Яковлев Николай",
+                "Asmoranomardicadaistinaculdacar",
+                "The Wise Mothman",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Шестаков Игорь",
+                "Eris, Roar of the Storm",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Барабаш Валентин",
+                "Eris, Roar of the Storm",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Шулиженко Роман",
+                "Богатырев Александр",
+                "Blex, Vexing Pest",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Федоров Дмитрий",
+                "The Gitrog Monster",
+                "Wilson, Refined Grizzly :+: Tavern Brawler",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Мартынов Яков",
+                "Tamiyo, Inquisitive Student",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Шестаков Игорь",
+                "Tamiyo, Inquisitive Student",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Красников Александр",
+                "Eris, Roar of the Storm",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Звягин Георгий",
+                "Wilson, Refined Grizzly :+: Tavern Brawler",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Барабаш Валентин",
+                "Indoraptor, the Perfect Hybrid",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Коростелев Илья",
+                "Eris, Roar of the Storm",
+                "The Gitrog Monster",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Шулиженко Роман",
+                "Мартынов Яков",
+                "Blex, Vexing Pest",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Корсаков Алексей",
+                "Звягин Георгий",
+                "Eris, Roar of the Storm",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Яковлев Николай",
+                "Tamiyo, Inquisitive Student",
+                "The Wise Mothman",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Шестаков Игорь",
+                "Kinnan, Bonder Prodigy",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Федоров Дмитрий",
+                "Eris, Roar of the Storm",
+                "Wilson, Refined Grizzly :+: Tavern Brawler",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Цюра Максим",
+                "Indoraptor, the Perfect Hybrid",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Коростелев Илья",
+                "Tamiyo, Inquisitive Student",
+                "The Gitrog Monster",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Звягин Георгий",
+                "Tamiyo, Inquisitive Student",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Шестаков Игорь",
+                "Eris, Roar of the Storm",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Богатырев Александр",
+                "Eris, Roar of the Storm",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Шулиженко Роман",
+                "The Gitrog Monster",
+                "Blex, Vexing Pest",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Мартынов Яков",
+                "Wilson, Refined Grizzly :+: Tavern Brawler",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}
