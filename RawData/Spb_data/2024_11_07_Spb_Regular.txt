@@ -1,0 +1,15 @@
+location::Spb
+level::Regular
+date::2024_07_11
+organizer::Andysays
+players::generals
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Мартынов Яков :: Tamiyo, Inquisitive Student
+Муравьев Никита :: Juri, Master of the Revue
+Коростелев Илья :: Satya, Aetherflux Genius
+Звягин Георгий :: Asmoranomardicadaistinaculdacar
+Шестаков Игорь :: Aragorn, King of Gondor
+Булочко Михаил :: Vial Smasher the Fierce :+: Thrasios, Triton Hero
+Красников Александр :: Eris, Roar of the Storm
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/34686

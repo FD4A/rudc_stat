@@ -1,0 +1,29 @@
+location::Online
+level::Regular
+date::2024_11_13
+organizer::AlexSmirnov
+players::generals
+Прохоров Владос :: Oloro, Ageless Ascetic
+Поляков Герман :: Tamiyo, Inquisitive Student
+Матюнин Антон :: Gut, True Soul Zealot :+: Agent of the Iron Throne
+Павликов Владислав :: Inalla, Archmage Ritualist
+Коростелев Илья :: Satya, Aetherflux Genius
+Булочко Михаил :: Vial Smasher the Fierce :+: Ishai, Ojutai Dragonspeaker
+Овсянников Дмитрий :: Ajani, Nacatl Pariah
+Антипин Костя :: Tamiyo, Inquisitive Student
+Циулин Иван :: Thrasios, Triton Hero :+: Tymna the Weaver
+Кузьменко Иван :: Omnath, Locus of Creation
+Сафаргалиев Евгений :: Omnath, Locus of Сreation
+Семенов Дима :: Yoshimaru, Ever Faithful :+: Tana, the Bloodsower
+Дартау Сергей :: Kellan, Planar Trailblazer
+Сайфутдинов Тимур :: Tamiyo, Inquisitive Student
+Костин Андрей :: Imskir Iron-Eater
+Третьяков Дмитрий :: Rofellos, Llanowar Emissary
+Стрельцов Артем :: Tumna the Weaver :+: Thrasios, Triton Hero
+Марченко Олег :: Slimefoot and Squee
+Редько Павел :: Ajani, Nacatl Pariah
+Бурмистров Павел :: Aminatou, the Fateshifter
+Козлов Максим :: Feldon, Ronom Excavator
+Давыдов Александр :: Vial Smasher the Fierce :+: Esior, Wardwing Familiar
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/34688
