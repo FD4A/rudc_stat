@@ -1,0 +1,263 @@
+{
+    "date": "2024_11_16",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Isaev Alexander",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Somkin Constantin",
+            "Elminster"
+        ],
+        [
+            "Burmistrov Pavel",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Marchenko Oleg",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Akishev Constantin",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Davidov Alexander",
+            "Magda, Brazen Outlaw"
+        ],
+        [
+            "Syharev Hon",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Kovalev Alexander",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Cherepovskiy Roman",
+            "Inti, Seneschal of the Sun"
+        ],
+        [
+            "Lukaynov Vadim",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Merkulov Vladislav",
+            "Zabaz, the Glimmerwasp"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Kovalev Alexander",
+                "Akishev Constantin",
+                "Tamiyo, Inquisitive Student",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Syharev Hon",
+                "Merkulov Vladislav",
+                "Light-Paws, Emperor's Voice",
+                "Zabaz, the Glimmerwasp",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Marchenko Oleg",
+                "Satya, Aetherflux Genius",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Cherepovskiy Roman",
+                "Elminster",
+                "Inti, Seneschal of the Sun",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Isaev Alexander",
+                "Burmistrov Pavel",
+                "Omnath, Locus of Creation",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Marchenko Oleg",
+                "Davidov Alexander",
+                "Slimefoot and Squee",
+                "Magda, Brazen Outlaw",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Syharev Hon",
+                "Somkin Constantin",
+                "Light-Paws, Emperor's Voice",
+                "Elminster",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Kovalev Alexander",
+                "Isaev Alexander",
+                "Tamiyo, Inquisitive Student",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Akishev Constantin",
+                "Burmistrov Pavel",
+                "Eris, Roar of the Storm",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Lukaynov Vadim",
+                "Inti, Seneschal of the Sun",
+                "Satya, Aetherflux Genius",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Davidov Alexander",
+                "Somkin Constantin",
+                "Magda, Brazen Outlaw",
+                "Elminster",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Burmistrov Pavel",
+                "Marchenko Oleg",
+                "Phelia, Exuberant Shepherd",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Isaev Alexander",
+                "Merkulov Vladislav",
+                "Omnath, Locus of Creation",
+                "Zabaz, the Glimmerwasp",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Kovalev Alexander",
+                "Inti, Seneschal of the Sun",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Syharev Hon",
+                "Akishev Constantin",
+                "Light-Paws, Emperor's Voice",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Somkin Constantin",
+                "Isaev Alexander",
+                "Elminster",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Davidov Alexander",
+                "Burmistrov Pavel",
+                "Magda, Brazen Outlaw",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Marchenko Oleg",
+                "Kovalev Alexander",
+                "Slimefoot and Squee",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Syharev Hon",
+                "Satya, Aetherflux Genius",
+                "Light-Paws, Emperor's Voice",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Akishev Constantin",
+                "Merkulov Vladislav",
+                "Eris, Roar of the Storm",
+                "Zabaz, the Glimmerwasp",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

@@ -8,7 +8,7 @@ players::generals
 Звягин Георгий :: Asmoranomardicadaistinaculdacar
 Красников Александр :: Eris, Roar of the Storm
 Коростелев Илья :: The Gitrog Monster
-Федоров Дмитрий ::  Wilson, Refined Grizzly :+: Tavern Brawler(R)
+Федоров Дмитрий ::  Wilson, Refined Grizzly :+: Tavern Brawler
 Шестаков Игорь :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
 Богатырев Александр :: Indoraptor, the Perfect Hybrid
 Яковлев Николай :: The Wise Mothman

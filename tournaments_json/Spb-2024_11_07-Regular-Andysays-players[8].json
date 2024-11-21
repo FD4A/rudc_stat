@@ -1,0 +1,169 @@
+{
+    "date": "2024_11_07",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Мартынов Яков",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Коростелев Илья",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Звягин Георгий",
+            "Asmoranomardicadaistinaculdacar"
+        ],
+        [
+            "Шестаков Игорь",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Булочко Михаил",
+            "Vial Smasher the Fierce :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Красников Александр",
+            "Eris, Roar of the Storm"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Коростелев Илья",
+                "Мартынов Яков",
+                "Satya, Aetherflux Genius",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Булочко Михаил",
+                "Asmoranomardicadaistinaculdacar",
+                "Vial Smasher the Fierce :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Шестаков Игорь",
+                "Juri, Master of the Revue",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Богатырев Александр",
+                "Eris, Roar of the Storm",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Богатырев Александр",
+                "Звягин Георгий",
+                "Indoraptor, the Perfect Hybrid",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Коростелев Илья",
+                "Juri, Master of the Revue",
+                "Satya, Aetherflux Genius",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Красников Александр",
+                "Tamiyo, Inquisitive Student",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Булочко Михаил",
+                "Aragorn, King of Gondor",
+                "Vial Smasher the Fierce :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Богатырев Александр",
+                "Коростелев Илья",
+                "Indoraptor, the Perfect Hybrid",
+                "Satya, Aetherflux Genius",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Звягин Георгий",
+                "Tamiyo, Inquisitive Student",
+                "Asmoranomardicadaistinaculdacar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Булочко Михаил",
+                "Juri, Master of the Revue",
+                "Vial Smasher the Fierce :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Шестаков Игорь",
+                "Eris, Roar of the Storm",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

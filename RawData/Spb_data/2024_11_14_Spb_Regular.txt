@@ -1,0 +1,21 @@
+location::Spb
+level::Regular
+date::2024_11_14
+organizer::Andysays
+players::generals
+Поляков Герман :: Tamiyo, Inquisitive Student
+Шестаков Игорь :: Slimefoot and Squee
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Булочко Михаил :: Omnath, Locus of Creation
+Муравьев Никита :: Juri, Master of the Revue
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Михайлов Марат :: Tamiyo, Inquisitive Student
+Мартынов Яков :: Tamiyo, Inquisitive Student
+Звягин Георгий :: Asmoranomardicadaistinaculdacar
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Цюра Максим :: Eris, Roar of the Storm
+Красников Александр :: Eris, Roar of the Storm
+Тяпайкин Максим :: Golos, Tireless Pilgrim
+Федоров Дмитрий :: Wilson, Refined Grizzly :+: Tavern Brawler(R)
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/34902

@@ -1,0 +1,109 @@
+= Aesi, Tyrant of Gyre Strait      matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:6    WG:  0.00% LG:100.00% (wg:   0 lg:   6) pick: 1    Spb(1), 
+       vs Juri, Master of the Revue        (w:0 l:1 d:0), (0/2)
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
+       vs Eris, Roar of the Storm          (w:0 l:1 d:0), (0/2)
+
+
+= Ajani, Nacatl Pariah             matches:8    WM: 87.50%  LM: 12.50%  DM:  0.00% (wm:7   lm:1   dm:0)  games:21   WG: 71.43% LG: 28.57% (wg:  15 lg:   6) pick: 2    Spb(2), 
+       vs Raffine, Scheming Seer           (w:1 l:0 d:0), (2/0)
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (1/2)
+       vs Amalia Benavides Aguirre         (w:1 l:0 d:0), (2/1)
+       vs The Wise Mothman                 (w:1 l:0 d:0), (2/1)
+       vs Ertai Resurrected                (w:1 l:0 d:0), (2/0)
+       vs Eris, Roar of the Storm          (w:1 l:0 d:0), (2/1)
+       vs Tamiyo, Inquisitive Student      (w:1 l:0 d:0), (2/1)
+       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/0)
+
+
+= Amalia Benavides Aguirre         matches:4    WM: 50.00%  LM: 25.00%  DM: 25.00% (wm:2   lm:1   dm:1)  games:11   WG: 54.55% LG: 45.45% (wg:   6 lg:   5) pick: 1    Spb(1), 
+       vs Juri, Master of the Revue        (w:0 l:0 d:1), (1/1)
+       vs Ajani, Nacatl Pariah             (w:0 l:1 d:0), (1/2)
+       vs Prime Speaker Zegana             (w:1 l:0 d:0), (2/1)
+       vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/1)
+
+
+= Eris, Roar of the Storm          matches:8    WM: 62.50%  LM: 37.50%  DM:  0.00% (wm:5   lm:3   dm:0)  games:19   WG: 63.16% LG: 36.84% (wg:  12 lg:   7) pick: 3    Spb(3), 
+       vs The Wise Mothman                 (w:1 l:0 d:0), (2/0)
+       vs Ertai Resurrected                (w:0 l:1 d:0), (1/2)
+       vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (0/2)
+       vs Golos, Tireless Pilgrim          (w:2 l:0 d:0), (4/1)
+       vs Ajani, Nacatl Pariah             (w:0 l:1 d:0), (1/2)
+       vs The Reality Chip                 (w:1 l:0 d:0), (2/0)
+       vs Aesi, Tyrant of Gyre Strait      (w:1 l:0 d:0), (2/0)
+
+
+= Ertai Resurrected                matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:10   WG: 60.00% LG: 40.00% (wg:   6 lg:   4) pick: 1    Spb(1), 
+       vs Eris, Roar of the Storm          (w:1 l:0 d:0), (2/1)
+       vs The Reality Chip                 (w:1 l:0 d:0), (2/1)
+       vs Ajani, Nacatl Pariah             (w:0 l:1 d:0), (0/2)
+       vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/0)
+
+
+= Golos, Tireless Pilgrim          matches:10   WM: 30.00%  LM: 70.00%  DM:  0.00% (wm:3   lm:7   dm:0)  games:24   WG: 37.50% LG: 62.50% (wg:   9 lg:  15) pick: 3    Spb(3), 
+       vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (1/2)
+       vs Ajani, Nacatl Pariah             (w:1 l:0 d:0), (2/1)
+       vs Tamiyo, Inquisitive Student      (w:0 l:2 d:0), (0/4)
+       vs Eris, Roar of the Storm          (w:0 l:2 d:0), (1/4)
+       vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (0/2)
+       vs The Wise Mothman                 (w:1 l:0 d:0), (2/0)
+       vs Aesi, Tyrant of Gyre Strait      (w:1 l:0 d:0), (2/0)
+       vs Amalia Benavides Aguirre         (w:0 l:1 d:0), (1/2)
+
+
+= Juri, Master of the Revue        matches:3    WM: 66.67%  LM:  0.00%  DM: 33.33% (wm:2   lm:0   dm:1)  games:6    WG: 83.33% LG: 16.67% (wg:   5 lg:   1) pick: 1    Spb(1), 
+       vs Amalia Benavides Aguirre         (w:0 l:0 d:1), (1/1)
+       vs Aesi, Tyrant of Gyre Strait      (w:1 l:0 d:0), (2/0)
+       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/0)
+
+
+= Kinnan, Bonder Prodigy           matches:2    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:1   lm:1   dm:0)  games:5    WG: 60.00% LG: 40.00% (wg:   3 lg:   2) pick: 1    Spb(1), 
+       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (1/2)
+       vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/0)
+
+
+= Kroxa, Titan of Death's Hunger   matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 44.44% LG: 55.56% (wg:   4 lg:   5) pick: 1    Spb(1), 
+       vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/1)
+       vs Eris, Roar of the Storm          (w:1 l:0 d:0), (2/0)
+       vs Juri, Master of the Revue        (w:0 l:1 d:0), (0/2)
+       vs Ajani, Nacatl Pariah             (w:0 l:1 d:0), (0/2)
+
+
+= Omnath, Locus of Creation        matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:7    WG: 28.57% LG: 71.43% (wg:   2 lg:   5) pick: 1    Spb(1), 
+       vs Kinnan, Bonder Prodigy           (w:1 l:0 d:0), (2/1)
+       vs Tamiyo, Inquisitive Student      (w:0 l:1 d:0), (0/2)
+       vs Ertai Resurrected                (w:0 l:1 d:0), (0/2)
+
+
+= Prime Speaker Zegana             matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:9    WG: 33.33% LG: 66.67% (wg:   3 lg:   6) pick: 1    Spb(1), 
+       vs The Reality Chip                 (w:0 l:1 d:0), (0/2)
+       vs Raffine, Scheming Seer           (w:0 l:1 d:0), (0/2)
+       vs Amalia Benavides Aguirre         (w:0 l:1 d:0), (1/2)
+       vs The Wise Mothman                 (w:1 l:0 d:0), (2/0)
+
+
+= Raffine, Scheming Seer           matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:6    WG: 33.33% LG: 66.67% (wg:   2 lg:   4) pick: 1    Spb(1), 
+       vs Ajani, Nacatl Pariah             (w:0 l:1 d:0), (0/2)
+       vs Prime Speaker Zegana             (w:1 l:0 d:0), (2/0)
+       vs The Reality Chip                 (w:0 l:1 d:0), (0/2)
+
+
+= Tamiyo, Inquisitive Student      matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:9    WG: 77.78% LG: 22.22% (wg:   7 lg:   2) pick: 1    Spb(1), 
+       vs Golos, Tireless Pilgrim          (w:2 l:0 d:0), (4/0)
+       vs Omnath, Locus of Creation        (w:1 l:0 d:0), (2/0)
+       vs Ajani, Nacatl Pariah             (w:0 l:1 d:0), (1/2)
+
+
+= The Reality Chip                 matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 55.56% LG: 44.44% (wg:   5 lg:   4) pick: 1    Spb(1), 
+       vs Prime Speaker Zegana             (w:1 l:0 d:0), (2/0)
+       vs Ertai Resurrected                (w:0 l:1 d:0), (1/2)
+       vs Raffine, Scheming Seer           (w:1 l:0 d:0), (2/0)
+       vs Eris, Roar of the Storm          (w:0 l:1 d:0), (0/2)
+
+
+= The Wise Mothman                 matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:9    WG: 11.11% LG: 88.89% (wg:   1 lg:   8) pick: 1    Spb(1), 
+       vs Eris, Roar of the Storm          (w:0 l:1 d:0), (0/2)
+       vs Ajani, Nacatl Pariah             (w:0 l:1 d:0), (1/2)
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
+       vs Prime Speaker Zegana             (w:0 l:1 d:0), (0/2)
+
+

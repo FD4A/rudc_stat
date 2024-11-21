@@ -1,0 +1,649 @@
+{
+    "date": "2024_11_21",
+    "location": "Online",
+    "level": "Regular",
+    "organizer": "AlexSmirnov",
+    "roundsCount": 5,
+    "players": [
+        [
+            "Прохоров Владос",
+            "Oloro, Ageless Ascetic"
+        ],
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Матюнин Антон",
+            "Gut, True Soul Zealot :+: Agent of the Iron Throne"
+        ],
+        [
+            "Павликов Владислав",
+            "Inalla, Archmage Ritualist"
+        ],
+        [
+            "Коростелев Илья",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Булочко Михаил",
+            "Vial Smasher the Fierce :+: Ishai, Ojutai Dragonspeaker"
+        ],
+        [
+            "Овсянников Дмитрий",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Антипин Костя",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Циулин Иван",
+            "Thrasios, Triton Hero :+: Tymna the Weaver"
+        ],
+        [
+            "Кузьменко Иван",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Сафаргалиев Евгений",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Семенов Дима",
+            "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower"
+        ],
+        [
+            "Дартау Сергей",
+            "Selvala, Eager Trailblazer"
+        ],
+        [
+            "Сайфутдинов Тимур",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Костин Андрей",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Третьяков Дмитрий",
+            "Rofellos, Llanowar Emissary"
+        ],
+        [
+            "Стрельцов Артем",
+            "Tymna the Weaver :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Марченко Олег",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Редько Павел",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Бурмистров Павел",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Козлов Максим",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Давыдов Александр",
+            "Vial Smasher the Fierce :+: Esior, Wardwing Familiar"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Коростелев Илья",
+                "Третьяков Дмитрий",
+                "Satya, Aetherflux Genius",
+                "Rofellos, Llanowar Emissary",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Стрельцов Артем",
+                "Vial Smasher the Fierce :+: Ishai, Ojutai Dragonspeaker",
+                "Tymna the Weaver :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Матюнин Антон",
+                "Ajani, Nacatl Pariah",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Прохоров Владос",
+                "Козлов Максим",
+                "Oloro, Ageless Ascetic",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Семенов Дима",
+                "Антипин Костя",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Давыдов Александр",
+                "Tamiyo, Inquisitive Student",
+                "Vial Smasher the Fierce :+: Esior, Wardwing Familiar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дартау Сергей",
+                "Циулин Иван",
+                "Selvala, Eager Trailblazer",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Кузьменко Иван",
+                "Tamiyo, Inquisitive Student",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Овсянников Дмитрий",
+                "Марченко Олег",
+                "Ajani, Nacatl Pariah",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Костин Андрей",
+                "Сафаргалиев Евгений",
+                "Imskir Iron-Eater",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Бурмистров Павел",
+                "Павликов Владислав",
+                "Aminatou, the Fateshifter",
+                "Inalla, Archmage Ritualist",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Овсянников Дмитрий",
+                "Павликов Владислав",
+                "Ajani, Nacatl Pariah",
+                "Inalla, Archmage Ritualist",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Антипин Костя",
+                "Поляков Герман",
+                "Tamiyo, Inquisitive Student",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кузьменко Иван",
+                "Циулин Иван",
+                "Omnath, Locus of Creation",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Матюнин Антон",
+                "Vial Smasher the Fierce :+: Ishai, Ojutai Dragonspeaker",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Сафаргалиев Евгений",
+                "Satya, Aetherflux Genius",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Прохоров Владос",
+                "Третьяков Дмитрий",
+                "Oloro, Ageless Ascetic",
+                "Rofellos, Llanowar Emissary",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Стрельцов Артем",
+                "Ajani, Nacatl Pariah",
+                "Tymna the Weaver :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Бурмистров Павел",
+                "Семенов Дима",
+                "Aminatou, the Fateshifter",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Давыдов Александр",
+                "Костин Андрей",
+                "Vial Smasher the Fierce :+: Esior, Wardwing Familiar",
+                "Imskir Iron-Eater",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Козлов Максим",
+                "Tamiyo, Inquisitive Student",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дартау Сергей",
+                "Марченко Олег",
+                "Selvala, Eager Trailblazer",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Кузьменко Иван",
+                "Tamiyo, Inquisitive Student",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Павликов Владислав",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Inalla, Archmage Ritualist",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Бурмистров Павел",
+                "Satya, Aetherflux Genius",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Антипин Костя",
+                "Сафаргалиев Евгений",
+                "Tamiyo, Inquisitive Student",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Булочко Михаил",
+                "Ajani, Nacatl Pariah",
+                "Vial Smasher the Fierce :+: Ishai, Ojutai Dragonspeaker",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Костин Андрей",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Марченко Олег",
+                "Сайфутдинов Тимур",
+                "Slimefoot and Squee",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Прохоров Владос",
+                "Овсянников Дмитрий",
+                "Oloro, Ageless Ascetic",
+                "Ajani, Nacatl Pariah",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Третьяков Дмитрий",
+                "Стрельцов Артем",
+                "Rofellos, Llanowar Emissary",
+                "Tymna the Weaver :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дима",
+                "Давыдов Александр",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Vial Smasher the Fierce :+: Esior, Wardwing Familiar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дартау Сергей",
+                "Козлов Максим",
+                "Selvala, Eager Trailblazer",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Павликов Владислав",
+                "Поляков Герман",
+                "Inalla, Archmage Ritualist",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Овсянников Дмитрий",
+                "Satya, Aetherflux Genius",
+                "Ajani, Nacatl Pariah",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Антипин Костя",
+                "Ajani, Nacatl Pariah",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Матюнин Антон",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Сафаргалиев Евгений",
+                "Tamiyo, Inquisitive Student",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кузьменко Иван",
+                "Костин Андрей",
+                "Omnath, Locus of Creation",
+                "Imskir Iron-Eater",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Третьяков Дмитрий",
+                "Семенов Дима",
+                "Rofellos, Llanowar Emissary",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Бурмистров Павел",
+                "Прохоров Владос",
+                "Aminatou, the Fateshifter",
+                "Oloro, Ageless Ascetic",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Стрельцов Артем",
+                "Марченко Олег",
+                "Tymna the Weaver :+: Thrasios, Triton Hero",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Булочко Михаил",
+                "Feldon, Ronom Excavator",
+                "Vial Smasher the Fierce :+: Ishai, Ojutai Dragonspeaker",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Давыдов Александр",
+                "Дартау Сергей",
+                "Vial Smasher the Fierce :+: Esior, Wardwing Familiar",
+                "Selvala, Eager Trailblazer",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Павликов Владислав",
+                "Антипин Костя",
+                "Inalla, Archmage Ritualist",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Овсянников Дмитрий",
+                "Tamiyo, Inquisitive Student",
+                "Ajani, Nacatl Pariah",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Коростелев Илья",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Satya, Aetherflux Genius",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Бурмистров Павел",
+                "Tamiyo, Inquisitive Student",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кузьменко Иван",
+                "Марченко Олег",
+                "Omnath, Locus of Creation",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Циулин Иван",
+                "Ajani, Nacatl Pariah",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Семенов Дима",
+                "Козлов Максим",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Костин Андрей",
+                "Прохоров Владос",
+                "Imskir Iron-Eater",
+                "Oloro, Ageless Ascetic",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Давыдов Александр",
+                "Третьяков Дмитрий",
+                "Vial Smasher the Fierce :+: Esior, Wardwing Familiar",
+                "Rofellos, Llanowar Emissary",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сафаргалиев Евгений",
+                "Стрельцов Артем",
+                "Omnath, Locus of Creation",
+                "Tymna the Weaver :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,6 +1,6 @@
 location::Spb
 level::Regular
-date::2024_07_11
+date::2024_11_07
 organizer::Andysays
 players::generals
 Богатырев Александр :: Indoraptor, the Perfect Hybrid

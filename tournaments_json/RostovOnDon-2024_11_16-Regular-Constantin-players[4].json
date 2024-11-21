@@ -1,0 +1,71 @@
+{
+    "date": "2024_11_16",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 2,
+    "players": [
+        [
+            "Kovalev Alexander",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Burmistrov Pavel",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Isaev Alexander",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Somkin Constantin",
+            "Elminster"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Isaev Alexander",
+                "Kovalev Alexander",
+                "Omnath, Locus of Creation",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Burmistrov Pavel",
+                "Somkin Constantin",
+                "Phelia, Exuberant Shepherd",
+                "Elminster",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Burmistrov Pavel",
+                "Kovalev Alexander",
+                "Phelia, Exuberant Shepherd",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Isaev Alexander",
+                "Somkin Constantin",
+                "Omnath, Locus of Creation",
+                "Elminster",
+                [
+                    0,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

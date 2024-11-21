@@ -1,0 +1,489 @@
+{
+    "date": "2024_06_28",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Семенов Дмитрий",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Булочко Михаил",
+            "Ertai Resurrected"
+        ],
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Цюра Максим",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Мартынов Влад",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Amalia Benavides Aguirre"
+        ],
+        [
+            "Богданов Сергей",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Ульянов Алексей",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Грабовой Филипп",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Мартынов Яков",
+            "The Reality Chip"
+        ],
+        [
+            "Саушкин Андрей",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Зелянин Дмитрий",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Истомин Евгений",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Фукин Дмитрий",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Воронцов Александр",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Глазков Константин",
+            "Prime Speaker Zegana"
+        ],
+        [
+            "Черебедов Влад",
+            "Aesi, Tyrant of Gyre Strait"
+        ],
+        [
+            "Яковлев Николай",
+            "The Wise Mothman"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Воронцов Александр",
+                "Богданов Сергей",
+                "Golos, Tireless Pilgrim",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Глазков Константин",
+                "Мартынов Яков",
+                "Prime Speaker Zegana",
+                "The Reality Chip",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Цюра Максим",
+                "The Wise Mothman",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Фукин Дмитрий",
+                "Omnath, Locus of Creation",
+                "Kinnan, Bonder Prodigy",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Истомин Евгений",
+                "Ajani, Nacatl Pariah",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Тяпайкин Максим",
+                "Ajani, Nacatl Pariah",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Черебедов Влад",
+                "Лузаков Петр",
+                "Aesi, Tyrant of Gyre Strait",
+                "unknown",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Булочко Михаил",
+                "Eris, Roar of the Storm",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Зелянин Дмитрий",
+                "Поляков Герман",
+                "Golos, Tireless Pilgrim",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Муравьев Никита",
+                "Amalia Benavides Aguirre",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Лузаков Петр",
+                "Ульянов Алексей",
+                "unknown",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Цюра Максим",
+                "Kroxa, Titan of Death's Hunger",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Мартынов Яков",
+                "Ertai Resurrected",
+                "The Reality Chip",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Тяпайкин Максим",
+                "Tamiyo, Inquisitive Student",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Федоров Дмитрий",
+                "Ajani, Nacatl Pariah",
+                "Amalia Benavides Aguirre",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Черебедов Влад",
+                "Juri, Master of the Revue",
+                "Aesi, Tyrant of Gyre Strait",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Мартынов Влад",
+                "The Wise Mothman",
+                "Ajani, Nacatl Pariah",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Истомин Евгений",
+                "Глазков Константин",
+                "Raffine, Scheming Seer",
+                "Prime Speaker Zegana",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Воронцов Александр",
+                "Грабовой Филипп",
+                "Golos, Tireless Pilgrim",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Фукин Дмитрий",
+                "Зелянин Дмитрий",
+                "Kinnan, Bonder Prodigy",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Семенов Дмитрий",
+                "Булочко Михаил",
+                "Ajani, Nacatl Pariah",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Ульянов Алексей",
+                "Tamiyo, Inquisitive Student",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Муравьев Никита",
+                "Kroxa, Titan of Death's Hunger",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Мартынов Влад",
+                "Eris, Roar of the Storm",
+                "Ajani, Nacatl Pariah",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Фукин Дмитрий",
+                "Лузаков Петр",
+                "Kinnan, Bonder Prodigy",
+                "unknown",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Тяпайкин Максим",
+                "Eris, Roar of the Storm",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Истомин Евгений",
+                "The Reality Chip",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Глазков Константин",
+                "Amalia Benavides Aguirre",
+                "Prime Speaker Zegana",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Воронцов Александр",
+                "Яковлев Николай",
+                "Golos, Tireless Pilgrim",
+                "The Wise Mothman",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Зелянин Дмитрий",
+                "Черебедов Влад",
+                "Golos, Tireless Pilgrim",
+                "Aesi, Tyrant of Gyre Strait",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Семенов Дмитрий",
+                "Tamiyo, Inquisitive Student",
+                "Ajani, Nacatl Pariah",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Лузаков Петр",
+                "Juri, Master of the Revue",
+                "unknown",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Богданов Сергей",
+                "Ajani, Nacatl Pariah",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Цюра Максим",
+                "The Reality Chip",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Булочко Михаил",
+                "Omnath, Locus of Creation",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Воронцов Александр",
+                "Amalia Benavides Aguirre",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Зелянин Дмитрий",
+                "Golos, Tireless Pilgrim",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Черебедов Влад",
+                "Eris, Roar of the Storm",
+                "Aesi, Tyrant of Gyre Strait",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Глазков Константин",
+                "Яковлев Николай",
+                "Prime Speaker Zegana",
+                "The Wise Mothman",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

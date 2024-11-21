@@ -1,0 +1,407 @@
+{
+    "date": "2024_11_21",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Шестаков Игорь",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Красников Александр",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Булочко Михаил",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Барабаш Валентин",
+            "Kinnan, Bonder Prodigy"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower"
+        ],
+        [
+            "Шейнессон Алексей",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Ertai Resurrected"
+        ],
+        [
+            "Фиткулин Антон",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Звягин Георгий",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Бортникова Анастасия",
+            "Meren of Clan Nel Toth"
+        ],
+        [
+            "Чумаков Федор",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Wilson, Refined Grizzly :+: Tavern Brawler"
+        ],
+        [
+            "Богданов Сергей",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Бортников Ян",
+            "Brago, King Eternal"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Барабаш Валентин",
+                "Муравьев Никита",
+                "Kinnan, Bonder Prodigy",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Семенов Дмитрий",
+                "Wilson, Refined Grizzly :+: Tavern Brawler",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Чумаков Федор",
+                "Фиткулин Антон",
+                "Omnath, Locus of Creation",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Поляков Герман",
+                "Raffine, Scheming Seer",
+                "Tamiyo, Inquisitive Student",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Бортников Ян",
+                "Тяпайкин Максим",
+                "Brago, King Eternal",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Бортникова Анастасия",
+                "Звягин Георгий",
+                "Meren of Clan Nel Toth",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Иванов Дмитрий",
+                "Omnath, Locus of Creation",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Шейнессон  Алексей",
+                "Raffine, Scheming Seer",
+                "unknown",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Булочко Михаил",
+                "Тяпайкин Максим",
+                "Omnath, Locus of Creation",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Шестаков Игорь",
+                "Juri, Master of the Revue",
+                "Raffine, Scheming Seer",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Фиткулин Антон",
+                "Красников Александр",
+                "Feldon, Ronom Excavator",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Муравьев Никита",
+                "Ertai Resurrected",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Барабаш Валентин",
+                "Raffine, Scheming Seer",
+                "Kinnan, Bonder Prodigy",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Чумаков Федор",
+                "Tamiyo, Inquisitive Student",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шейнессон  Алексей",
+                "Бортникова Анастасия",
+                "unknown",
+                "Meren of Clan Nel Toth",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Бортников Ян",
+                "Федоров Дмитрий",
+                "Brago, King Eternal",
+                "Wilson, Refined Grizzly :+: Tavern Brawler",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Булочко Михаил",
+                "Муравьев Никита",
+                "Omnath, Locus of Creation",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Красников Александр",
+                "Raffine, Scheming Seer",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Иванов Дмитрий",
+                "Tamiyo, Inquisitive Student",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Звягин Георгий",
+                "Ertai Resurrected",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Барабаш Валентин",
+                "Wilson, Refined Grizzly :+: Tavern Brawler",
+                "Kinnan, Bonder Prodigy",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Фиткулин Антон",
+                "Golos, Tireless Pilgrim",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шейнессон  Алексей",
+                "Богданов Сергей",
+                "unknown",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Бортников Ян",
+                "Чумаков Федор",
+                "Brago, King Eternal",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Шестаков Игорь",
+                "Муравьев Никита",
+                "Raffine, Scheming Seer",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Семенов Дмитрий",
+                "Tamiyo, Inquisitive Student",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Шейнессон  Алексей",
+                "Omnath, Locus of Creation",
+                "unknown",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Фиткулин Антон",
+                "Kinnan, Bonder Prodigy",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Бортникова Анастасия",
+                "Eris, Roar of the Storm",
+                "Meren of Clan Nel Toth",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чумаков Федор",
+                "Тяпайкин Максим",
+                "Omnath, Locus of Creation",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Федоров Дмитрий",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Wilson, Refined Grizzly :+: Tavern Brawler",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Бортников Ян",
+                "Juri, Master of the Revue",
+                "Brago, King Eternal",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

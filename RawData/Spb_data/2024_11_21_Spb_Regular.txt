@@ -1,0 +1,24 @@
+location::Spb
+level::Regular
+date::2024_11_21
+organizer::Andysays
+players::generals
+Шестаков Игорь :: Raffine, Scheming Seer
+Поляков Герман :: Tamiyo, Inquisitive Student
+Муравьев Никита :: Juri, Master of the Revue
+Красников Александр :: Eris, Roar of the Storm
+Булочко Михаил :: Omnath, Locus of Creation
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Иванов Дмитрий ::  Yoshimaru, Ever Faithful :+: Tana, the Bloodsower
+Шейнессон Алексей :: Eris, Roar of the Storm
+Семенов Дмитрий :: Ertai Resurrected
+Фиткулин Антон :: Feldon, Ronom Excavator
+Звягин Георгий :: Juri, Master of the Revue
+Тяпайкин Максим :: Golos, Tireless Pilgrim
+Бортникова Анастасия :: Meren of Clan Nel Toth
+Чумаков Федор :: Omnath, Locus of Creation
+Федоров Дмитрий :: Wilson, Refined Grizzly :+: Tavern Brawler
+Богданов Сергей :: Raffine, Scheming Seer
+Бортников Ян :: Brago, King Eternal
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/35106

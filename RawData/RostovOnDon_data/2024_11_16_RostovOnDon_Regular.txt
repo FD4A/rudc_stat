@@ -1,0 +1,18 @@
+location::RostovOnDon
+level::Regular
+date::2024_11_16
+organizer::Constantin
+players::generals
+Isaev Alexander :: Omnath, Locus of Creation
+Somkin Constantin :: Elminster
+Burmistrov Pavel :: Phelia, Exuberant Shepherd
+Marchenko Oleg :: Slimefoot and Squee
+Akishev Constantin :: Eris, Roar of the Storm
+Davidov Alexander :: Magda, Brazen Outlaw
+Syharev Hon :: Light-Paws, Emperor's Voice
+Kovalev Alexander :: Tamiyo, Inquisitive Student
+Cherepovskiy Roman :: Inti, Seneschal of the Sun
+Lukaynov Vadim :: Satya, Aetherflux Genius
+Merkulov Vladislav :: Zabaz, the Glimmerwasp
+Round
+https://aetherhub.com/Tourney/RoundTourney/34937

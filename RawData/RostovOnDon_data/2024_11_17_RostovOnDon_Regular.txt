@@ -1,0 +1,11 @@
+location::RostovOnDon
+level::Regular
+date::2024_11_17
+organizer::Constantin
+players::generals
+Kovalev Alexander :: Tamiyo, Inquisitive Student
+Isaev Alexander :: Omnath, Locus of Creation
+Somkin Constantin :: Elminster
+Burmistrov Pavel :: Phelia, Exuberant Shepherd
+Round
+https://aetherhub.com/Tourney/RoundTourney/34974

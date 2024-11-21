@@ -1,6 +1,6 @@
 location::Online
 level::Regular
-date::2024_11_13
+date::2024_11_21
 organizer::AlexSmirnov
 players::generals
 Прохоров Владос :: Oloro, Ageless Ascetic
