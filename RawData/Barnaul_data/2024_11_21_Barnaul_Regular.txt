@@ -1,0 +1,15 @@
+location::Barnaul
+level::Regular
+date::2024_11_21
+organizer::
+players::generals
+Влад Гладышев :: Tamiyo, Inquisitive Student
+Дмитрий Богрецов :: Light-Paws, Emperor's Voice
+Александр Самусенко :: Eris, Roar of the Storm
+Михаил Старостенков :: Eris, Roar of the Storm
+Илья Гесин :: Shorikai, Genesis Engine
+Никита Жерелин :: Arahbo, Roar of the World
+Дмитрий Лисин :: Kytheon, Hero of Akros
+Иван Послухов :: Balmor, Battlemage Captain
+Round
+https://aetherhub.com/Tourney/RoundTourney/35102

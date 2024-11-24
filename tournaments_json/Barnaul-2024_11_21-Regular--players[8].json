@@ -1,0 +1,169 @@
+{
+    "date": "2024_11_21",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Влад Гладышев",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Дмитрий Богрецов",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Александр Самусенко",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Михаил Старостенков",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Илья Гесин",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Никита Жерелин",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Дмитрий Лисин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Иван Послухов",
+            "Balmor, Battlemage Captain"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Михаил Старостенков",
+                "Дмитрий Лисин",
+                "Eris, Roar of the Storm",
+                "Kytheon, Hero of Akros",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Иван Послухов",
+                "Tamiyo, Inquisitive Student",
+                "Balmor, Battlemage Captain",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Александр Самусенко",
+                "Shorikai, Genesis Engine",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Дмитрий Богрецов",
+                "Никита Жерелин",
+                "Light-Paws, Emperor's Voice",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Влад Гладышев",
+                "Михаил Старостенков",
+                "Tamiyo, Inquisitive Student",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Илья Гесин",
+                "Дмитрий Богрецов",
+                "Shorikai, Genesis Engine",
+                "Light-Paws, Emperor's Voice",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Никита Жерелин",
+                "Александр Самусенко",
+                "Arahbo, Roar of the World",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иван Послухов",
+                "Дмитрий Лисин",
+                "Balmor, Battlemage Captain",
+                "Kytheon, Hero of Akros",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Влад Гладышев",
+                "Дмитрий Богрецов",
+                "Tamiyo, Inquisitive Student",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Михаил Старостенков",
+                "Илья Гесин",
+                "Eris, Roar of the Storm",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Александр Самусенко",
+                "Дмитрий Лисин",
+                "Eris, Roar of the Storm",
+                "Kytheon, Hero of Akros",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Никита Жерелин",
+                "Иван Послухов",
+                "Arahbo, Roar of the World",
+                "Balmor, Battlemage Captain",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

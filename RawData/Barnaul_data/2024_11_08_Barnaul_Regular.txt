@@ -1,0 +1,13 @@
+location::Barnaul
+level::Regular
+date::2024_11_08
+organizer::
+players::generals
+Иван Послухов :: Balmor, Battlemage Captain
+Достияр Амержаев :: Baral and Kari Zev
+Дмитрий Лисин :: Kytheon, Hero of Akros
+Александр Акимочкин :: Kytheon, Hero of Akros
+Андрей Студеникин :: Eris, Roar of the Storm
+Влад Гладышев :: Tamiyo, Inquisitive Student
+Round
+https://aetherhub.com/Tourney/RoundTourney/34698

@@ -1,0 +1,131 @@
+{
+    "date": "2024_11_08",
+    "location": "Barnaul",
+    "level": "Regular",
+    "organizer": "",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Иван Послухов",
+            "Balmor, Battlemage Captain"
+        ],
+        [
+            "Достияр Амержаев",
+            "Baral and Kari Zev"
+        ],
+        [
+            "Дмитрий Лисин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Александр Акимочкин",
+            "Kytheon, Hero of Akros"
+        ],
+        [
+            "Андрей Студеникин",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Влад Гладышев",
+            "Tamiyo, Inquisitive Student"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Достияр Амержаев",
+                "Влад Гладышев",
+                "Baral and Kari Zev",
+                "Tamiyo, Inquisitive Student",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Акимочкин",
+                "Иван Послухов",
+                "Kytheon, Hero of Akros",
+                "Balmor, Battlemage Captain",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Лисин",
+                "Андрей Студеникин",
+                "Kytheon, Hero of Akros",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Лисин",
+                "Иван Послухов",
+                "Kytheon, Hero of Akros",
+                "Balmor, Battlemage Captain",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Достияр Амержаев",
+                "Андрей Студеникин",
+                "Baral and Kari Zev",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Александр Акимочкин",
+                "Tamiyo, Inquisitive Student",
+                "Kytheon, Hero of Akros",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Иван Послухов",
+                "Достияр Амержаев",
+                "Balmor, Battlemage Captain",
+                "Baral and Kari Zev",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Акимочкин",
+                "Дмитрий Лисин",
+                "Kytheon, Hero of Akros",
+                "Kytheon, Hero of Akros",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Влад Гладышев",
+                "Андрей Студеникин",
+                "Tamiyo, Inquisitive Student",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}
