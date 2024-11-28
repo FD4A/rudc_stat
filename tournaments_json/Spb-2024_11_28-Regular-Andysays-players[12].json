@@ -1,0 +1,297 @@
+{
+    "date": "2024_11_28",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Поляков Герман",
+            "Tamiyo, Inquisitive Student"
+        ],
+        [
+            "Цюра Максим",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Шестаков Игорь",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Булочко Михаил",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Фиткулин Антон",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Богданов Сергей",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Корсаков Алексей",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Звягин Георгий",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Яковлев Николай",
+            "The Wise Mothman"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Звягин Георгий",
+                "Тяпайкин Максим",
+                "Juri, Master of the Revue",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Булочко Михаил",
+                "Slimefoot and Squee",
+                "Omnath, Locus of Creation",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Фиткулин Антон",
+                "Juri, Master of the Revue",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Цюра Максим",
+                "Eris, Roar of the Storm",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Поляков Герман",
+                "Vial Smasher the Fierce",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Яковлев Николай",
+                "Geist of Saint Traft",
+                "The Wise Mothman",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Тяпайкин Максим",
+                "Tamiyo, Inquisitive Student",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Цюра Максим",
+                "Juri, Master of the Revue",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Богданов Сергей",
+                "Omnath, Locus of Creation",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Яковлев Николай",
+                "Slimefoot and Squee",
+                "The Wise Mothman",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Звягин Георгий",
+                "Eris, Roar of the Storm",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Фиткулин Антон",
+                "Vial Smasher the Fierce",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Цюра Максим",
+                "Поляков Герман",
+                "Eris, Roar of the Storm",
+                "Tamiyo, Inquisitive Student",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Богданов Сергей",
+                "Slimefoot and Squee",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Тяпайкин Максим",
+                "Juri, Master of the Revue",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Фиткулин Антон",
+                "Звягин Георгий",
+                "Feldon, Ronom Excavator",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Булочко Михаил",
+                "The Wise Mothman",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Корсаков Алексей",
+                "Vial Smasher the Fierce",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Шестаков Игорь",
+                "Tamiyo, Inquisitive Student",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Фиткулин Антон",
+                "Eris, Roar of the Storm",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Богданов Сергей",
+                "Juri, Master of the Revue",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Корсаков Алексей",
+                "Geist of Saint Traft",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Звягин Георгий",
+                "Omnath, Locus of Creation",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

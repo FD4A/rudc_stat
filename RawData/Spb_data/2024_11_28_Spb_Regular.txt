@@ -1,0 +1,19 @@
+location::Spb
+level::Regular
+date::2024_11_28
+organizer::Andysays
+players::generals
+Поляков Герман :: Tamiyo, Inquisitive Student
+Цюра Максим :: Eris, Roar of the Storm
+Муравьев Никита :: Juri, Master of the Revue
+Шестаков Игорь :: Slimefoot and Squee
+Булочко Михаил :: Omnath, Locus of Creation
+Тяпайкин Максим :: Geist of Saint Traft
+Фиткулин Антон :: Feldon, Ronom Excavator
+Богданов Сергей :: Geist of Saint Traft
+Байков Аркадий :: Vial Smasher the Fierce
+Корсаков Алексей :: Eris, Roar of the Storm
+Звягин Георгий :: Juri, Master of the Revue
+Яковлев Николай :: The Wise Mothman
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/35298
