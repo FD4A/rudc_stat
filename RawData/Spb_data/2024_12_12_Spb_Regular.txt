@@ -1,0 +1,25 @@
+location::Spb
+level::Regular
+date::2024_12_12
+organizer::Andysays
+players::generals
+Звягин Георгий :: Juri, Master of the Revue
+Федоров Дмитрий :: Amalia Benavides Aguirre
+Таловер Артем :: Winter, Cynical Opportunist
+Богданов Сергей :: Geist of Saint Traft
+Муравьев Роман :: Dihada, Binder of Wills
+Поляков Герман :: Teferi, Temporal Archmage
+Тяпайкин Максим :: Geist of Saint Traft
+Булочко Михаил :: Aminatou, the Fateshifter
+Красников Александр :: Malcolm, Alluring Scoundrel
+Барабаш Валентин :: Iron Man, Titan of Innovation
+Ульянов Алексей :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Байков Аркадий :: Vial Smasher the Fierce
+Саушкин Андрей :: Aragorn, King of Gondor
+Мартынов Яков :: Tasigur, the Golden Fang
+Баранов Константин :: Hidetsugu and Kairi
+Иванов Максим :: Geist of Saint Traft
+Муравьев Никита :: Juri, Master of the Revue
+Яковлев Николай :: Sméagol, Helpful Guide
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/35638

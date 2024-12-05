@@ -1,29 +1,41 @@
 location::Online
 level::Regular
-date::2024_11_21
+date::2024_11_28
 organizer::AlexSmirnov
 players::generals
-Прохоров Владос :: Oloro, Ageless Ascetic
-Поляков Герман :: Tamiyo, Inquisitive Student
+Циулин Иван :: Azusa, Lost but Seeking
+Ламзин Сережа :: Geist of Saint Traft
+Иванов Дмитрий :: Tivit, Seller of Secrets
+Серпутько Слава :: Kellan, Daring traveler
+Барабаш Валентин :: Shorikai, Genesis Engine
 Матюнин Антон :: Gut, True Soul Zealot :+: Agent of the Iron Throne
-Павликов Владислав :: Inalla, Archmage Ritualist
-Коростелев Илья :: Satya, Aetherflux Genius
-Булочко Михаил :: Vial Smasher the Fierce :+: Ishai, Ojutai Dragonspeaker
-Овсянников Дмитрий :: Ajani, Nacatl Pariah
-Антипин Костя :: Tamiyo, Inquisitive Student
-Циулин Иван :: Thrasios, Triton Hero :+: Tymna the Weaver
-Кузьменко Иван :: Omnath, Locus of Creation
-Сафаргалиев Евгений :: Omnath, Locus of Сreation
-Семенов Дима :: Yoshimaru, Ever Faithful :+: Tana, the Bloodsower
-Дартау Сергей :: Kellan, Planar Trailblazer
-Сайфутдинов Тимур :: Tamiyo, Inquisitive Student
+Павликов Владислав :: Tivit, Seller of Secrets
+Сухов Никита :: Dihada, Binder of Wills
+Сайфутдинов Тимур :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Богданов Сергей :: Kroxa, Titan of Death's Hunger
+Шубенин Илья :: Malcolm, Alluring Scoundrel
+Антипин Костя :: Slimefoot and Squee
+Краснов Илья :: Ertai Resurrected
+Мещеряков Максим :: Teferi, Temporal Archmage
+Козлов Максим :: Gornog, the Red Reaper
+Токарев Александр :: Aminatou, The Fateshifter
 Костин Андрей :: Imskir Iron-Eater
-Третьяков Дмитрий :: Rofellos, Llanowar Emissary
-Стрельцов Артем :: Tumna the Weaver :+: Thrasios, Triton Hero
-Марченко Олег :: Slimefoot and Squee
-Редько Павел :: Ajani, Nacatl Pariah
-Бурмистров Павел :: Aminatou, the Fateshifter
-Козлов Максим :: Feldon, Ronom Excavator
-Давыдов Александр :: Vial Smasher the Fierce :+: Esior, Wardwing Familiar
+Стрельцов Артем :: Lonis, Cryptozoologist
+Булочко Михаил :: Ertai Resurrected
+Редько Павел :: Juri, Master of the Revue
+Поспелов Александр :: Ral, Monsoon Mage
+Овсянников Дмитрий :: Shorikai, Genesis Engine
+Бутримов Виктор :: Slimefoot and Squee
+Акишев Константин :: Niv-Mizzet, Parun
+Петровых Дмитрий :: Clement, the Worrywort
+Байков Аркадий :: Vial Smasher the Fierce
+Плотников Александр :: Sai, Master Thopterist
+Бурмистров Павел :: Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools
+Виноградов Артем :: Tuvasa the Sunlit
+Кузьменко Иван :: Dihada, Binder of Wills
+Сафаргалиев Евгений :: The Necrobloom
+Марченко Олег :: Prossh, skyraider of kher
+Поляков Герман :: Teferi, Temporal Archmage
+Давыдов Александр :: Magda, Brazen Outlaw
 Rounds
-https://aetherhub.com/Tourney/RoundTourney/34688
+https://aetherhub.com/Tourney/RoundTourney/35246

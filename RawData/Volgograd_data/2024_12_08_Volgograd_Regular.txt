@@ -1,0 +1,16 @@
+location::Volgograd
+level::Regular
+date::2024_12_08
+organizer::Rombik34rus
+players::generals
+Михаил Козлов :: Winota, Joiner of Forces
+Александр Токарев :: Slimefoot and Squree
+Константин Антипин :: Feldon, Ronom Excavator
+Тимур Сайфутдинов :: Tropical Mustache
+Вячеслав Серпутько :: Kellan, Daring Traveler
+Дмитрий Орешкин :: Ghyrson Starn, Kelermorph
+Артём Ангурцов :: Niv-Mizzet Parun
+Александр Смирнов :: Phlage, Titan of Fire's Fury
+Максим Мещеряков :: Geist of Saint Traft
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/35563

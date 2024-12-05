@@ -1,0 +1,215 @@
+{
+    "date": "2024_12_08",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Михаил Козлов",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Александр Токарев",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Константин Антипин",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Тимур Сайфутдинов",
+            "Eutropia the Twice-Favored"
+        ],
+        [
+            "Вячеслав Серпутько",
+            "Kellan, Daring Traveler"
+        ],
+        [
+            "Дмитрий Орешкин",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Артём Ангурцов",
+            "Niv-Mizzet, Parun"
+        ],
+        [
+            "Александр Смирнов",
+            "Phlage, Titan of Fire's Fury"
+        ],
+        [
+            "Максим Мещеряков",
+            "Geist of Saint Traft"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Максим Мещеряков",
+                "Вячеслав Серпутько",
+                "Geist of Saint Traft",
+                "Kellan, Daring Traveler",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Александр Токарев",
+                "Phlage, Titan of Fire's Fury",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Артём Ангурцов",
+                "Ghyrson Starn, Kelermorph",
+                "Niv-Mizzet, Parun",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Константин Антипин",
+                "Eutropia the Twice-Favored",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Вячеслав Серпутько",
+                "Михаил Козлов",
+                "Kellan, Daring Traveler",
+                "Winota, Joiner of Forces",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Артём Ангурцов",
+                "Slimefoot and Squee",
+                "Niv-Mizzet, Parun",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Константин Антипин",
+                "Максим Мещеряков",
+                "Feldon, Ronom Excavator",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Александр Смирнов",
+                "Eutropia the Twice-Favored",
+                "Phlage, Titan of Fire's Fury",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Константин Антипин",
+                "Александр Токарев",
+                "Feldon, Ronom Excavator",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Михаил Козлов",
+                "Артём Ангурцов",
+                "Winota, Joiner of Forces",
+                "Niv-Mizzet, Parun",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Тимур Сайфутдинов",
+                "Ghyrson Starn, Kelermorph",
+                "Eutropia the Twice-Favored",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Александр Смирнов",
+                "Kellan, Daring Traveler",
+                "Phlage, Titan of Fire's Fury",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Токарев",
+                "Михаил Козлов",
+                "Slimefoot and Squee",
+                "Winota, Joiner of Forces",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Константин Антипин",
+                "Niv-Mizzet, Parun",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Тимур Сайфутдинов",
+                "Kellan, Daring Traveler",
+                "Eutropia the Twice-Favored",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Александр Смирнов",
+                "Ghyrson Starn, Kelermorph",
+                "Phlage, Titan of Fire's Fury",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

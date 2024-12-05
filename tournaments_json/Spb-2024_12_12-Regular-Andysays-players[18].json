@@ -1,0 +1,431 @@
+{
+    "date": "2024_12_12",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Звягин Георгий",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Amalia Benavides Aguirre"
+        ],
+        [
+            "Таловер Артем",
+            "Winter, Cynical Opportunist"
+        ],
+        [
+            "Богданов Сергей",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Булочко Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Красников Александр",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Барабаш Валентин",
+            "Rona, Herald of Invasion"
+        ],
+        [
+            "Ульянов Алексей",
+            "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Саушкин Андрей",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Мартынов Яков",
+            "Tasigur, the Golden Fang"
+        ],
+        [
+            "Баранов Константин",
+            "Hidetsugu and Kairi"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Яковлев Николай",
+            "Sméagol, Helpful Guide"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Красников Александр",
+                "Мартынов Яков",
+                "Malcolm, Alluring Scoundrel",
+                "Tasigur, the Golden Fang",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Саушкин Андрей",
+                "Geist of Saint Traft",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Муравьев Роман",
+                "Juri, Master of the Revue",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Иванов Максим",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Булочко Михаил",
+                "Winter, Cynical Opportunist",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Яковлев Николай",
+                "Vial Smasher the Fierce",
+                "Sméagol, Helpful Guide",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Барабаш Валентин",
+                "Geist of Saint Traft",
+                "Rona, Herald of Invasion",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Федоров Дмитрий",
+                "Juri, Master of the Revue",
+                "Amalia Benavides Aguirre",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Баранов Константин",
+                "Teferi, Temporal Archmage",
+                "Hidetsugu and Kairi",
+                [
+                    1,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Байков Аркадий",
+                "Таловер Артем",
+                "Vial Smasher the Fierce",
+                "Winter, Cynical Opportunist",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Муравьев Роман",
+                "Malcolm, Alluring Scoundrel",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Богданов Сергей",
+                "Geist of Saint Traft",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Ульянов Алексей",
+                "Teferi, Temporal Archmage",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Иванов Максим",
+                "Juri, Master of the Revue",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Муравьев Никита",
+                "Amalia Benavides Aguirre",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Саушкин Андрей",
+                "Tasigur, the Golden Fang",
+                "Aragorn, King of Gondor",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Баранов Константин",
+                "Яковлев Николай",
+                "Hidetsugu and Kairi",
+                "Sméagol, Helpful Guide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Барабаш Валентин",
+                "Aminatou, the Fateshifter",
+                "Rona, Herald of Invasion",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Тяпайкин Максим",
+                "Таловер Артем",
+                "Geist of Saint Traft",
+                "Winter, Cynical Opportunist",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Федоров Дмитрий",
+                "Malcolm, Alluring Scoundrel",
+                "Amalia Benavides Aguirre",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Поляков Герман",
+                "Juri, Master of the Revue",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Муравьев Роман",
+                "Vial Smasher the Fierce",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Булочко Михаил",
+                "Geist of Saint Traft",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Баранов Константин",
+                "Ульянов Алексей",
+                "Hidetsugu and Kairi",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Мартынов Яков",
+                "Geist of Saint Traft",
+                "Tasigur, the Golden Fang",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Муравьев Никита",
+                "Aragorn, King of Gondor",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Барабаш Валентин",
+                "Sméagol, Helpful Guide",
+                "Rona, Herald of Invasion",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Таловер Артем",
+                "Звягин Георгий",
+                "Winter, Cynical Opportunist",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Тяпайкин Максим",
+                "Amalia Benavides Aguirre",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Богданов Сергей",
+                "Malcolm, Alluring Scoundrel",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Ульянов Алексей",
+                "Dihada, Binder of Wills",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Поляков Герман",
+                "Tasigur, the Golden Fang",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Барабаш Валентин",
+                "Aragorn, King of Gondor",
+                "Rona, Herald of Invasion",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Баранов Константин",
+                "Vial Smasher the Fierce",
+                "Hidetsugu and Kairi",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ]
+}
