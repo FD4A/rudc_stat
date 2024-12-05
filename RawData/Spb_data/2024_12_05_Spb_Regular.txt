@@ -1,0 +1,19 @@
+location::Spb
+level::Regular
+date::2024_12_05
+organizer::Andysays
+players::generals
+Мартынов Яков :: Tamiyo, Inquisitive Student
+Федоров Дмитрий :: Feldon, Ronom Excavator
+Барабаш Валентин :: Kinnan, Bonder Prodigy
+Поляков Герман :: Tamiyo, Inquisitive Student
+Муравьев Никита :: Juri, Master of the Revue
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Красников Александр :: Malcolm, Alluring Scoundrel
+Цюра Максим :: Eris, Roar of the Storm
+Тяпайкин Максим :: Golos, Tireless Pilgrim
+Булочко Михаил :: Omnath, Locus of Creation
+Шестаков Игорь :: Ezio Auditore da Firenze
+Звягин Георгий :: Juri, Master of the Revue
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/35474

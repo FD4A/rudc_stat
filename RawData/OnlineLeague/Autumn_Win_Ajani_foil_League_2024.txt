@@ -26,7 +26,7 @@ players::generals
 21 Марченко, Олег
 22 Орешкин, Дмитрий ::  Vial, Smasher the Fierce :+: Thrasios, Triton Hero
 23 Ломасов, Дмитрий :: Hogaak, Arisen Necropolis
-24 Владимиров, Егор :: Gut, True Soul Zealot :+: W
+24 Владимиров, Егор :: Gut, True Soul Zealot :+: Inspiring Leader
 25 Долганов, Матвей :: Thrasios, Triton Hero :+: Tymna the Weaver
 26 Палачев, Константин :: Vial, Smasher the Fierce :+: Thrasios, Triton Hero
 27 Дартау, Сергей
@@ -48,7 +48,7 @@ players::generals
 43 Князев, Андрей
 44 Краснов, Илья :: Eris, Roar of the Storm
 45 Штофов, Арсений :: Basim Ibn Ishaq
-46 Матюнин, Антон :: Gut, True Soul Zealot :+: W
+46 Матюнин, Антон :: Gut, True Soul Zealot :+: Inspiring Leader
 Round1
      1 Матюнин, Антон               Бутримов, Виктор             Lost 0-2
      2 Коростелев, Илья             Давыдов, Александр           Lost 1-2

@@ -183,6 +183,7 @@ Spb-2024_11_07-Regular-Andysays-players[8]
 Spb-2024_11_14-Regular-Andysays-players[14]
 Spb-2024_11_21-Regular-Andysays-players[17]
 Spb-2024_11_28-Regular-Andysays-players[12]
+Spb-2024_12_05-Regular-Andysays-players[12]
 Ussuriysk-2023_11_12-Regular-Usstiger-players[8]
 Ussuriysk-2023_11_26-Regular-Usstiger-players[7]
 Ussuriysk-2024_01_06-Regular-Usstiger-players[6]
@@ -1196,7 +1197,7 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
        vs Errant and Giada                 (w:0 l:0 d:1), (0/0)
 
-= Eris, Roar of the Storm          matches:234  WM: 52.99%  LM: 38.46%  DM:  8.55% (wm:124 lm:90  dm:20) games:560  WG: 55.18% LG: 44.64% (wg: 309 lg: 250) pick: 69   Spb(49), Barnaul(8), Yekaterinburg(6), RostovOnDon(3), Samara(1), Online(1), Saratov(1), 
+= Eris, Roar of the Storm          matches:237  WM: 52.74%  LM: 38.40%  DM:  8.86% (wm:125 lm:91  dm:21) games:567  WG: 55.03% LG: 44.80% (wg: 312 lg: 254) pick: 70   Spb(50), Barnaul(8), Yekaterinburg(6), RostovOnDon(3), Samara(1), Online(1), Saratov(1), 
        vs Balmor, Battlemage Captain       (w:1 l:0 d:0), (2/1)
        vs Kytheon, Hero of Akros           (w:5 l:3 d:0), (12/9)
        vs Ertai Resurrected                (w:4 l:4 d:2), (13/12)
@@ -1221,7 +1222,7 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs Nadu, Winged Wisdom              (w:0 l:3 d:0), (2/6)
        vs Juri, Master of the Revue        (w:3 l:5 d:0), (9/12)
        vs Indoraptor, the Perfect Hybrid   (w:5 l:5 d:0), (13/14)
-       vs Tamiyo, Inquisitive Student      (w:8 l:12 d:3), (19/32)
+       vs Tamiyo, Inquisitive Student      (w:8 l:13 d:4), (20/35)
        vs Aragorn, King of Gondor          (w:0 l:2 d:0), (0/4)
        vs Slimefoot and Squee              (w:0 l:3 d:0), (2/6)
        vs Grist, the Hunger Tide           (w:0 l:2 d:0), (0/4)
@@ -1231,6 +1232,7 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
         + Silas Renn, Seeker Adept        
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
         + Silas Renn, Seeker Adept        
+       vs Ezio Auditore da Firenze         (w:1 l:0 d:0), (2/1)
        vs Vial Smasher the Fierce          (w:1 l:0 d:0), (2/0)
         + Thrasios, Triton Hero           
        vs Wilson, Refined Grizzly          (w:2 l:0 d:0), (4/2)
@@ -1380,6 +1382,11 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
        vs Queen Marchesa                   (w:0 l:1 d:0), (0/2)
 
+= Ezio Auditore da Firenze         matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:8    WG: 25.00% LG: 75.00% (wg:   2 lg:   6) pick: 1    Spb(1), 
+       vs Eris, Roar of the Storm          (w:0 l:1 d:0), (1/2)
+       vs Omnath, Locus of Creation        (w:0 l:1 d:0), (0/2)
+       vs Juri, Master of the Revue        (w:0 l:1 d:0), (1/2)
+
 = Fblthp, Lost on the Range        matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:1   lm:4   dm:0)  games:11   WG: 27.27% LG: 72.73% (wg:   3 lg:   8) pick: 1    Online(1), 
        vs Asmoranomardicadaistinaculdacar  (w:0 l:1 d:0), (0/2)
        vs Laughing Jasper Flint            (w:0 l:1 d:0), (0/2)
@@ -1388,7 +1395,7 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs Aclazotz, Deepest Betrayal       (w:0 l:1 d:0), (1/2)
        vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
 
-= Feldon, Ronom Excavator          matches:185  WM: 57.30%  LM: 38.92%  DM:  3.78% (wm:106 lm:72  dm:7)  games:457  WG: 55.58% LG: 43.98% (wg: 254 lg: 201) pick: 47   Krasnodar(12), RostovOnDon(10), Spb(6), Barnaul(5), Volgograd(5), Online(4), Simferopl(2), Samara(1), Novorossiysk(1), Yekaterinburg(1), 
+= Feldon, Ronom Excavator          matches:189  WM: 57.67%  LM: 38.62%  DM:  3.70% (wm:109 lm:73  dm:7)  games:468  WG: 55.77% LG: 43.80% (wg: 261 lg: 205) pick: 48   Krasnodar(12), RostovOnDon(10), Spb(7), Barnaul(5), Volgograd(5), Online(4), Simferopl(2), Samara(1), Novorossiysk(1), Yekaterinburg(1), 
        vs Omnath, Locus of Creation        (w:7 l:4 d:0), (15/11)
        vs Asmoranomardicadaistinaculdacar  (w:4 l:1 d:2), (10/5)
        vs Geist of Saint Traft             (w:2 l:4 d:0), (6/9)
@@ -1410,7 +1417,7 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs Slimefoot and Squee              (w:2 l:0 d:0), (4/1)
        vs Teysa, Orzhov Scion              (w:1 l:0 d:0), (2/1)
        vs Magda, Brazen Outlaw             (w:2 l:0 d:0), (4/1)
-       vs Golos, Tireless Pilgrim          (w:5 l:0 d:0), (10/3)
+       vs Golos, Tireless Pilgrim          (w:6 l:0 d:0), (12/4)
        vs Ghyrson Starn, Kelermorph        (w:3 l:0 d:0), (6/2)
        vs Shorikai, Genesis Engine         (w:1 l:3 d:0), (5/7)
        vs Old Stickfingers                 (w:3 l:0 d:0), (6/2)
@@ -1427,12 +1434,12 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs Gut, True Soul Zealot            (w:1 l:0 d:0), (2/1)
         + Agent of the Iron Throne        
        vs Saskia the Unyielding            (w:2 l:0 d:0), (4/2)
-       vs Malcolm, Alluring Scoundrel      (w:5 l:2 d:0), (11/5)
+       vs Malcolm, Alluring Scoundrel      (w:6 l:2 d:0), (13/5)
        vs Winota, Joiner of Forces         (w:4 l:3 d:0), (9/7)
        vs Oloro, Ageless Ascetic           (w:0 l:2 d:0), (1/4)
        vs Gallia of the Endless Dance      (w:0 l:1 d:0), (0/2)
        vs Talion, the Kindly Lord          (w:1 l:1 d:0), (2/2)
-       vs Tamiyo, Inquisitive Student      (w:2 l:7 d:0), (6/16)
+       vs Tamiyo, Inquisitive Student      (w:3 l:7 d:0), (8/17)
        vs Selvala, Eager Trailblazer       (w:1 l:0 d:0), (2/0)
        vs Vial Smasher the Fierce          (w:1 l:0 d:0), (2/0)
         + Ishai, Ojutai Dragonspeaker     
@@ -1441,7 +1448,7 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
         + Kydele, Chosen of Kruphix       
        vs Maelstrom Wanderer               (w:1 l:0 d:0), (2/1)
-       vs Kinnan, Bonder Prodigy           (w:0 l:2 d:0), (2/4)
+       vs Kinnan, Bonder Prodigy           (w:0 l:3 d:0), (3/6)
        vs Lord Windgrace                   (w:0 l:1 d:0), (0/2)
        vs Ojer Axonil, Deepest Might       (w:1 l:0 d:0), (2/0)
        vs Elas il-Kor, Sadistic Pilgrim    (w:0 l:0 d:1), (1/1)
@@ -1738,11 +1745,11 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
         + Ludevic, Necro-Alchemist        
        vs Atraxa, Praetors' Voice          (w:0 l:1 d:0), (0/2)
 
-= Golos, Tireless Pilgrim          matches:229  WM: 48.91%  LM: 45.85%  DM:  5.24% (wm:112 lm:105 dm:12) games:535  WG: 52.34% LG: 47.66% (wg: 280 lg: 255) pick: 56   Spb(42), Krasnodar(9), Online(4), Moscow(1), 
+= Golos, Tireless Pilgrim          matches:235  WM: 48.51%  LM: 45.96%  DM:  5.53% (wm:114 lm:108 dm:13) games:549  WG: 52.09% LG: 47.91% (wg: 286 lg: 263) pick: 58   Spb(44), Krasnodar(9), Online(4), Moscow(1), 
        vs Omnath, Locus of Creation        (w:8 l:7 d:0), (17/16)
        vs Aminatou, the Fateshifter        (w:2 l:6 d:4), (13/15)
        vs Imskir Iron-Eater                (w:3 l:0 d:0), (6/1)
-       vs Tamiyo, Inquisitive Student      (w:1 l:5 d:0), (3/11)
+       vs Tamiyo, Inquisitive Student      (w:1 l:6 d:0), (3/13)
        vs Kytheon, Hero of Akros           (w:2 l:0 d:0), (4/1)
        vs The Reality Chip                 (w:5 l:8 d:2), (14/19)
        vs Ghyrson Starn, Kelermorph        (w:1 l:6 d:0), (3/12)
@@ -1757,13 +1764,13 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs Sythis, Harvest's Hand           (w:2 l:0 d:0), (3/0)
        vs Hogaak, Arisen Necropolis        (w:5 l:5 d:0), (12/12)
        vs Vial Smasher the Fierce          (w:3 l:2 d:0), (8/5)
-       vs Juri, Master of the Revue        (w:1 l:4 d:0), (5/8)
+       vs Juri, Master of the Revue        (w:3 l:4 d:0), (9/9)
        vs Tinybones, the Pickpocket        (w:1 l:0 d:0), (2/0)
        vs Marchesa, Dealer of Death        (w:1 l:0 d:0), (2/1)
        vs Slimefoot and Squee              (w:3 l:5 d:0), (7/11)
-       vs Malcolm, Alluring Scoundrel      (w:0 l:1 d:0), (0/2)
+       vs Malcolm, Alluring Scoundrel      (w:0 l:2 d:1), (1/5)
        vs Kroxa, Titan of Death's Hunger   (w:2 l:1 d:0), (5/3)
-       vs Feldon, Ronom Excavator          (w:0 l:5 d:0), (3/10)
+       vs Feldon, Ronom Excavator          (w:0 l:6 d:0), (4/12)
        vs Marath, Will of the Wild         (w:0 l:1 d:0), (1/2)
        vs Wilson, Refined Grizzly          (w:1 l:1 d:0), (2/2)
         + Tavern Brawler                  
@@ -2227,11 +2234,11 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs Kess, Dissident Mage             (w:0 l:1 d:0), (1/2)
        vs Rin and Seri, Inseparable        (w:1 l:0 d:0), (2/1)
 
-= Juri, Master of the Revue        matches:182  WM: 58.24%  LM: 35.71%  DM:  6.04% (wm:106 lm:65  dm:11) games:441  WG: 56.69% LG: 43.31% (wg: 250 lg: 191) pick: 46   Spb(33), Krasnodar(6), RostovOnDon(3), Online(2), Yekaterinburg(2), 
+= Juri, Master of the Revue        matches:190  WM: 56.84%  LM: 36.84%  DM:  6.32% (wm:108 lm:70  dm:12) games:461  WG: 55.97% LG: 44.03% (wg: 258 lg: 203) pick: 48   Spb(35), Krasnodar(6), RostovOnDon(3), Online(2), Yekaterinburg(2), 
        vs Ertai Resurrected                (w:3 l:5 d:0), (9/11)
        vs Sythis, Harvest's Hand           (w:3 l:0 d:0), (6/0)
        vs The Wise Mothman                 (w:3 l:0 d:0), (6/1)
-       vs Tamiyo, Inquisitive Student      (w:2 l:7 d:1), (7/17)
+       vs Tamiyo, Inquisitive Student      (w:2 l:9 d:1), (8/21)
        vs Satya, Aetherflux Genius         (w:0 l:3 d:0), (3/6)
        vs Imskir Iron-Eater                (w:2 l:0 d:0), (4/0)
        vs Hogaak, Arisen Necropolis        (w:0 l:3 d:0), (2/6)
@@ -2239,16 +2246,16 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs Amalia Benavides Aguirre         (w:1 l:0 d:2), (4/3)
        vs Vial Smasher the Fierce          (w:1 l:1 d:0), (3/3)
        vs Arahbo, Roar of the World        (w:2 l:0 d:0), (4/0)
-       vs Kinnan, Bonder Prodigy           (w:3 l:3 d:0), (7/6)
+       vs Kinnan, Bonder Prodigy           (w:3 l:4 d:0), (8/8)
        vs Selvala, Explorer Returned       (w:0 l:1 d:0), (1/2)
        vs Indoraptor, the Perfect Hybrid   (w:2 l:1 d:0), (4/2)
        vs Kroxa, Titan of Death's Hunger   (w:2 l:0 d:1), (5/1)
        vs Eris, Roar of the Storm          (w:5 l:3 d:0), (12/9)
-       vs Golos, Tireless Pilgrim          (w:4 l:1 d:0), (8/5)
+       vs Golos, Tireless Pilgrim          (w:4 l:3 d:0), (9/9)
        vs Feldon, Ronom Excavator          (w:3 l:7 d:0), (6/17)
-       vs Malcolm, Alluring Scoundrel      (w:2 l:0 d:1), (5/1)
+       vs Malcolm, Alluring Scoundrel      (w:2 l:0 d:2), (6/2)
        vs Slimefoot and Squee              (w:3 l:0 d:0), (6/2)
-       vs Omnath, Locus of Creation        (w:12 l:6 d:2), (28/22)
+       vs Omnath, Locus of Creation        (w:13 l:6 d:2), (30/22)
        vs Winota, Joiner of Forces         (w:0 l:2 d:0), (1/4)
        vs Ivy, Gleeful Spellthief          (w:0 l:1 d:0), (1/2)
        vs Raffine, Scheming Seer           (w:2 l:4 d:0), (5/9)
@@ -2265,6 +2272,7 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs Liesa, Shroud of Dusk            (w:1 l:0 d:0), (2/0)
        vs Dihada, Binder of Wills          (w:4 l:1 d:0), (9/3)
        vs Ajani, Nacatl Pariah             (w:1 l:2 d:0), (2/4)
+       vs Ezio Auditore da Firenze         (w:1 l:0 d:0), (2/1)
        vs Eriette of the Charmed Apple     (w:1 l:0 d:0), (2/0)
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
         + Tana, the Bloodsower            
@@ -2467,10 +2475,10 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs Karlov of the Ghost Council      (w:0 l:0 d:1), (1/1)
         + Lurrus of the Dream-Den         
 
-= Kinnan, Bonder Prodigy           matches:290  WM: 50.00%  LM: 42.41%  DM:  7.59% (wm:145 lm:123 dm:22) games:695  WG: 54.10% LG: 45.61% (wg: 376 lg: 317) pick: 74   Spb(40), Krasnodar(16), Online(8), Barnaul(4), Saratov(2), RostovOnDon(1), Ussuriysk(1), Yekaterinburg(1), Volgograd(1), 
+= Kinnan, Bonder Prodigy           matches:294  WM: 50.34%  LM: 42.18%  DM:  7.48% (wm:148 lm:124 dm:22) games:706  WG: 54.25% LG: 45.47% (wg: 383 lg: 321) pick: 75   Spb(41), Krasnodar(16), Online(8), Barnaul(4), Saratov(2), RostovOnDon(1), Ussuriysk(1), Yekaterinburg(1), Volgograd(1), 
        vs Ghyrson Starn, Kelermorph        (w:6 l:6 d:0), (14/15)
        vs Kytheon, Hero of Akros           (w:1 l:2 d:0), (4/4)
-       vs Omnath, Locus of Creation        (w:6 l:5 d:2), (17/14)
+       vs Omnath, Locus of Creation        (w:7 l:5 d:2), (19/14)
        vs Tatyova, Benthic Druid           (w:0 l:2 d:0), (1/4)
        vs Sythis, Harvest's Hand           (w:2 l:1 d:1), (5/3)
        vs Eris, Roar of the Storm          (w:2 l:9 d:0), (9/20)
@@ -2482,7 +2490,7 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs Golos, Tireless Pilgrim          (w:10 l:3 d:0), (21/10)
        vs Ajani, Nacatl Pariah             (w:0 l:4 d:0), (3/8)
        vs Indoraptor, the Perfect Hybrid   (w:1 l:5 d:0), (5/10)
-       vs Juri, Master of the Revue        (w:3 l:3 d:0), (6/7)
+       vs Juri, Master of the Revue        (w:4 l:3 d:0), (8/8)
        vs Hogaak, Arisen Necropolis        (w:6 l:7 d:0), (14/17)
        vs Tinybones, the Pickpocket        (w:0 l:1 d:0), (0/2)
        vs Arahbo, Roar of the World        (w:2 l:0 d:0), (4/0)
@@ -2518,9 +2526,10 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs Prosper, Tome-Bound              (w:1 l:0 d:0), (2/0)
        vs Torens, Fist of the Angels       (w:2 l:0 d:0), (4/2)
        vs The Beamtown Bullies             (w:0 l:1 d:0), (0/2)
-       vs Feldon, Ronom Excavator          (w:2 l:0 d:0), (4/2)
+       vs Feldon, Ronom Excavator          (w:3 l:0 d:0), (6/3)
        vs Gut, True Soul Zealot            (w:1 l:0 d:0), (2/0)
         + Flaming Fist                    
+       vs Tamiyo, Inquisitive Student      (w:1 l:6 d:0), (5/13)
        vs Laelia, the Blade Reforged       (w:0 l:2 d:0), (0/4)
        vs Lord Windgrace                   (w:1 l:0 d:0), (2/0)
        vs Balmor, Battlemage Captain       (w:0 l:1 d:0), (1/2)
@@ -2543,7 +2552,6 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs Titania, Protector of Argoth     (w:1 l:0 d:0), (2/1)
        vs Samut, Vizier of Naktamun        (w:1 l:0 d:0), (2/1)
        vs The Wise Mothman                 (w:1 l:0 d:0), (2/1)
-       vs Tamiyo, Inquisitive Student      (w:1 l:5 d:0), (4/11)
        vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/0)
        vs Heliod, Sun-Crowned              (w:2 l:0 d:0), (4/1)
        vs Ludevic, Necro-Alchemist         (w:1 l:0 d:0), (2/0)
@@ -2967,7 +2975,7 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
         + Tana, the Bloodsower            
        vs Ertai Resurrected                (w:1 l:0 d:0), (2/0)
 
-= Malcolm, Alluring Scoundrel      matches:90   WM: 47.78%  LM: 44.44%  DM:  7.78% (wm:43  lm:40  dm:7)  games:211  WG: 52.13% LG: 47.39% (wg: 110 lg: 100) pick: 22   RostovOnDon(6), Krasnodar(6), Online(4), Saratov(2), Volgograd(2), Spb(1), Samara(1), 
+= Malcolm, Alluring Scoundrel      matches:94   WM: 46.81%  LM: 43.62%  DM:  9.57% (wm:44  lm:41  dm:9)  games:219  WG: 52.05% LG: 47.49% (wg: 114 lg: 104) pick: 23   RostovOnDon(6), Krasnodar(6), Online(4), Spb(2), Saratov(2), Volgograd(2), Samara(1), 
        vs Eris, Roar of the Storm          (w:1 l:0 d:0), (2/1)
        vs Raffine, Scheming Seer           (w:1 l:1 d:0), (3/2)
        vs Hogaak, Arisen Necropolis        (w:0 l:3 d:0), (1/6)
@@ -2976,8 +2984,8 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs Gix, Yawgmoth Praetor            (w:1 l:1 d:0), (2/2)
        vs Lord Windgrace                   (w:1 l:0 d:0), (2/0)
        vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (0/2)
-       vs Juri, Master of the Revue        (w:0 l:2 d:1), (1/5)
-       vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/0)
+       vs Juri, Master of the Revue        (w:0 l:2 d:2), (2/6)
+       vs Golos, Tireless Pilgrim          (w:2 l:0 d:1), (5/1)
        vs Aminatou, the Fateshifter        (w:1 l:0 d:2), (4/3)
        vs Dragonlord Ojutai                (w:2 l:0 d:0), (4/0)
        vs Ojer Axonil, Deepest Might       (w:2 l:0 d:0), (4/0)
@@ -2990,7 +2998,7 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs Tamiyo, Inquisitive Student      (w:0 l:0 d:1), (0/0)
        vs Azusa, Lost but Seeking          (w:1 l:0 d:0), (2/0)
        vs Omnath, Locus of Creation        (w:1 l:3 d:1), (5/7)
-       vs Feldon, Ronom Excavator          (w:2 l:5 d:0), (5/11)
+       vs Feldon, Ronom Excavator          (w:2 l:6 d:0), (5/13)
        vs Slimefoot and Squee              (w:2 l:0 d:0), (4/1)
        vs Krark, the Thumbless             (w:1 l:0 d:0), (2/0)
        vs Muxus, Goblin Grandee            (w:1 l:0 d:0), (2/0)
@@ -3350,14 +3358,14 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs Kess, Dissident Mage             (w:1 l:0 d:0), (1/0)
        vs Lord Windgrace                   (w:0 l:0 d:1), (1/1)
 
-= Omnath, Locus of Creation        matches:503  WM: 50.50%  LM: 39.76%  DM:  9.74% (wm:254 lm:200 dm:49) games:1171 WG: 53.71% LG: 45.69% (wg: 629 lg: 535) pick: 130  Spb(54), Krasnodar(19), Barnaul(17), RostovOnDon(13), Online(12), Yekaterinburg(8), Volgograd(5), Simferopl(1), Saratov(1), 
+= Omnath, Locus of Creation        matches:507  WM: 50.30%  LM: 40.04%  DM:  9.66% (wm:255 lm:203 dm:49) games:1178 WG: 53.57% LG: 45.84% (wg: 631 lg: 540) pick: 131  Spb(55), Krasnodar(19), Barnaul(17), RostovOnDon(13), Online(12), Yekaterinburg(8), Volgograd(5), Simferopl(1), Saratov(1), 
        vs Golos, Tireless Pilgrim          (w:7 l:8 d:0), (16/17)
-       vs Tamiyo, Inquisitive Student      (w:3 l:15 d:5), (16/35)
+       vs Tamiyo, Inquisitive Student      (w:3 l:16 d:5), (16/36)
        vs The Reality Chip                 (w:13 l:6 d:1), (30/18)
        vs Aminatou, the Fateshifter        (w:9 l:10 d:3), (26/26)
        vs Light-Paws, Emperor's Voice      (w:6 l:0 d:0), (12/1)
        vs Dihada, Binder of Wills          (w:11 l:3 d:3), (25/12)
-       vs Kinnan, Bonder Prodigy           (w:5 l:6 d:2), (14/17)
+       vs Kinnan, Bonder Prodigy           (w:5 l:7 d:2), (14/19)
        vs Asmoranomardicadaistinaculdacar  (w:11 l:10 d:2), (26/27)
        vs Hogaak, Arisen Necropolis        (w:9 l:6 d:0), (20/16)
        vs Baral and Kari Zev               (w:2 l:0 d:0), (4/1)
@@ -3382,7 +3390,7 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs Kroxa, Titan of Death's Hunger   (w:1 l:5 d:0), (5/10)
        vs Raffine, Scheming Seer           (w:3 l:4 d:0), (9/9)
        vs Wylie Duke, Atiin Hero           (w:1 l:0 d:1), (3/1)
-       vs Juri, Master of the Revue        (w:6 l:12 d:2), (22/28)
+       vs Juri, Master of the Revue        (w:6 l:13 d:2), (22/30)
        vs Balmor, Battlemage Captain       (w:2 l:3 d:1), (5/6)
        vs Old Stickfingers                 (w:3 l:3 d:1), (8/8)
        vs Ghyrson Starn, Kelermorph        (w:5 l:11 d:0), (17/25)
@@ -3414,6 +3422,7 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs The Beamtown Bullies             (w:2 l:1 d:0), (4/3)
        vs Gut, True Soul Zealot            (w:1 l:1 d:0), (2/3)
         + Flaming Fist                    
+       vs Ezio Auditore da Firenze         (w:1 l:0 d:0), (2/0)
        vs Lord Windgrace                   (w:1 l:0 d:0), (2/0)
        vs Laelia, the Blade Reforged       (w:2 l:0 d:0), (4/1)
        vs Eriette of the Charmed Apple     (w:2 l:0 d:0), (4/0)
@@ -4342,20 +4351,20 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (0/2)
        vs Elas il-Kor, Sadistic Pilgrim    (w:1 l:0 d:0), (2/1)
 
-= Tamiyo, Inquisitive Student      matches:222  WM: 68.02%  LM: 22.07%  DM:  9.91% (wm:151 lm:49  dm:22) games:521  WG: 67.18% LG: 32.25% (wg: 350 lg: 168) pick: 65   Spb(43), Barnaul(7), RostovOnDon(6), Online(6), Samara(1), Volgograd(1), Simferopl(1), 
+= Tamiyo, Inquisitive Student      matches:230  WM: 68.26%  LM: 21.74%  DM: 10.00% (wm:157 lm:50  dm:23) games:539  WG: 67.35% LG: 32.10% (wg: 363 lg: 173) pick: 67   Spb(45), Barnaul(7), RostovOnDon(6), Online(6), Samara(1), Volgograd(1), Simferopl(1), 
        vs Sythis, Harvest's Hand           (w:1 l:0 d:0), (1/0)
        vs The Reality Chip                 (w:4 l:0 d:0), (8/2)
        vs Slimefoot and Squee              (w:5 l:1 d:2), (12/5)
-       vs Omnath, Locus of Creation        (w:15 l:3 d:5), (35/16)
-       vs Juri, Master of the Revue        (w:7 l:2 d:1), (17/7)
-       vs Golos, Tireless Pilgrim          (w:5 l:1 d:0), (11/3)
+       vs Omnath, Locus of Creation        (w:16 l:3 d:5), (36/16)
+       vs Juri, Master of the Revue        (w:9 l:2 d:1), (21/8)
+       vs Golos, Tireless Pilgrim          (w:6 l:1 d:0), (13/3)
        vs Kytheon, Hero of Akros           (w:3 l:4 d:1), (9/9)
        vs Balmor, Battlemage Captain       (w:3 l:0 d:0), (6/0)
        vs Shorikai, Genesis Engine         (w:1 l:0 d:0), (2/1)
        vs Satya, Aetherflux Genius         (w:4 l:2 d:2), (12/8)
        vs Hogaak, Arisen Necropolis        (w:7 l:0 d:1), (15/5)
        vs Asmoranomardicadaistinaculdacar  (w:8 l:1 d:0), (17/6)
-       vs Eris, Roar of the Storm          (w:12 l:8 d:3), (32/19)
+       vs Eris, Roar of the Storm          (w:13 l:8 d:4), (35/20)
        vs Indoraptor, the Perfect Hybrid   (w:6 l:1 d:1), (12/4)
        vs Wilson, Refined Grizzly          (w:1 l:2 d:1), (4/5)
         + Tavern Brawler                  
@@ -4377,8 +4386,9 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
         + Tana, the Bloodsower            
        vs Vial Smasher the Fierce          (w:1 l:0 d:0), (2/0)
         + Esior, Wardwing Familiar        
-       vs Feldon, Ronom Excavator          (w:7 l:2 d:0), (16/6)
+       vs Feldon, Ronom Excavator          (w:7 l:3 d:0), (17/8)
        vs Inalla, Archmage Ritualist       (w:1 l:1 d:0), (2/3)
+       vs Kinnan, Bonder Prodigy           (w:6 l:1 d:0), (13/5)
        vs Vial Smasher the Fierce          (w:4 l:0 d:0), (8/3)
        vs Tasigur, the Golden Fang         (w:1 l:0 d:0), (2/1)
        vs Baral and Kari Zev               (w:0 l:1 d:0), (1/2)
@@ -4391,7 +4401,6 @@ Yekaterinburg-2024_07_15-Regular-EDINOROG_EKB-players[12]
        vs Ral, Monsoon Mage                (w:1 l:0 d:0), (2/0)
        vs Raffine, Scheming Seer           (w:0 l:0 d:1), (1/1)
        vs Old Stickfingers                 (w:2 l:0 d:0), (4/1)
-       vs Kinnan, Bonder Prodigy           (w:5 l:1 d:0), (11/4)
        vs Rocco, Street Chef               (w:1 l:0 d:0), (1/0)
        vs Lurrus of the Dream-Den          (w:1 l:0 d:0), (2/0)
        vs Niv-Mizzet, Parun                (w:1 l:0 d:0), (2/1)
