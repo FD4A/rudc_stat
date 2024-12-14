@@ -1,0 +1,1139 @@
+{
+    "date": "2024_11_28",
+    "location": "Online",
+    "level": "Regular",
+    "organizer": "AlexSmirnov",
+    "roundsCount": 6,
+    "players": [
+        [
+            "Циулин Иван",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Ламзин Сережа",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Серпутько Слава",
+            "Kellan, Daring Traveler"
+        ],
+        [
+            "Барабаш Валентин",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Матюнин Антон",
+            "Gut, True Soul Zealot :+: Agent of the Iron Throne"
+        ],
+        [
+            "Павликов Владислав",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Сухов Никита",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Сайфутдинов Тимур",
+            "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Богданов Сергей",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Шубенин Илья",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Антипин Костя",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Краснов Илья",
+            "Ertai Resurrected"
+        ],
+        [
+            "Мещеряков Максим",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Козлов Максим",
+            "Grond, the Gatebreaker"
+        ],
+        [
+            "Токарев Александр",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Костин Андрей",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Стрельцов Артем",
+            "Lonis, Cryptozoologist"
+        ],
+        [
+            "Булочко Михаил",
+            "Ertai Resurrected"
+        ],
+        [
+            "Редько Павел",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Поспелов Александр",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Овсянников Дмитрий",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Бутримов Виктор",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Акишев Константин",
+            "Niv-Mizzet, Parun"
+        ],
+        [
+            "Петровых Дмитрий",
+            "Clement, the Worrywort"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Плотников Александр",
+            "Sai, Master Thopterist"
+        ],
+        [
+            "Бурмистров Павел",
+            "Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools"
+        ],
+        [
+            "Виноградов Артем",
+            "Tuvasa the Sunlit"
+        ],
+        [
+            "Кузьменко Иван",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Сафаргалиев Евгений",
+            "The Necrobloom"
+        ],
+        [
+            "Марченко Олег",
+            "Prossh, Skyraider of Kher"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Давыдов Александр",
+            "Magda, Brazen Outlaw"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Циулин Иван",
+                "Виноградов Артем",
+                "Azusa, Lost but Seeking",
+                "Tuvasa the Sunlit",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Стрельцов Артем",
+                "Мещеряков Максим",
+                "Lonis, Cryptozoologist",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Бутримов Виктор",
+                "Павликов Владислав",
+                "Slimefoot and Squee",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ламзин Сережа",
+                "Кузьменко Иван",
+                "Geist of Saint Traft",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Козлов Максим",
+                "Ertai Resurrected",
+                "Grond, the Gatebreaker",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Токарев Александр",
+                "Juri, Master of the Revue",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Акишев Константин",
+                "Сухов Никита",
+                "Niv-Mizzet, Parun",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Петровых Дмитрий",
+                "Сайфутдинов Тимур",
+                "Clement, the Worrywort",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Богданов Сергей",
+                "Vial Smasher the Fierce",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Плотников Александр",
+                "Шубенин Илья",
+                "Sai, Master Thopterist",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Сафаргалиев Евгений",
+                "Tivit, Seller of Secrets",
+                "The Necrobloom",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Серпутько Слава",
+                "Марченко Олег",
+                "Kellan, Daring Traveler",
+                "Prossh, Skyraider of Kher",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Овсянников Дмитрий",
+                "Ertai Resurrected",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Поляков Герман",
+                "Shorikai, Genesis Engine",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Бурмистров Павел",
+                "Антипин Костя",
+                "Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Костин Андрей",
+                "Ral, Monsoon Mage",
+                "Imskir Iron-Eater",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Давыдов Александр",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Magda, Brazen Outlaw",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Мещеряков Максим",
+                "Богданов Сергей",
+                "Teferi, Temporal Archmage",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ламзин Сережа",
+                "Сайфутдинов Тимур",
+                "Geist of Saint Traft",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Краснов Илья",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сухов Никита",
+                "Антипин Костя",
+                "Dihada, Binder of Wills",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Костин Андрей",
+                "Malcolm, Alluring Scoundrel",
+                "Imskir Iron-Eater",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Токарев Александр",
+                "Tivit, Seller of Secrets",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Серпутько Слава",
+                "Grond, the Gatebreaker",
+                "Kellan, Daring Traveler",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Павликов Владислав",
+                "Циулин Иван",
+                "Tivit, Seller of Secrets",
+                "Azusa, Lost but Seeking",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Байков Аркадий",
+                "Shorikai, Genesis Engine",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Давыдов Александр",
+                "Бутримов Виктор",
+                "Magda, Brazen Outlaw",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Бурмистров Павел",
+                "Кузьменко Иван",
+                "Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Плотников Александр",
+                "Juri, Master of the Revue",
+                "Sai, Master Thopterist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Поспелов Александр",
+                "Teferi, Temporal Archmage",
+                "Ral, Monsoon Mage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Акишев Константин",
+                "Сафаргалиев Евгений",
+                "Niv-Mizzet, Parun",
+                "The Necrobloom",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Овсянников Дмитрий",
+                "Булочко Михаил",
+                "Shorikai, Genesis Engine",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Стрельцов Артем",
+                "Виноградов Артем",
+                "Lonis, Cryptozoologist",
+                "Tuvasa the Sunlit",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Марченко Олег",
+                "Петровых Дмитрий",
+                "Prossh, Skyraider of Kher",
+                "Clement, the Worrywort",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Серпутько Слава",
+                "Краснов Илья",
+                "Kellan, Daring Traveler",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Костин Андрей",
+                "Shorikai, Genesis Engine",
+                "Imskir Iron-Eater",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ламзин Сережа",
+                "Токарев Александр",
+                "Geist of Saint Traft",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Сухов Никита",
+                "Azusa, Lost but Seeking",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Редько Павел",
+                "Kroxa, Titan of Death's Hunger",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Марченко Олег",
+                "Антипин Костя",
+                "Prossh, Skyraider of Kher",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мещеряков Максим",
+                "Бурмистров Павел",
+                "Teferi, Temporal Archmage",
+                "Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Иванов Дмитрий",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сафаргалиев Евгений",
+                "Булочко Михаил",
+                "The Necrobloom",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Стрельцов Артем",
+                "Grond, the Gatebreaker",
+                "Lonis, Cryptozoologist",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Давыдов Александр",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Magda, Brazen Outlaw",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Шубенин Илья",
+                "Teferi, Temporal Archmage",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Павликов Владислав",
+                "Байков Аркадий",
+                "Tivit, Seller of Secrets",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Овсянников Дмитрий",
+                "Плотников Александр",
+                "Shorikai, Genesis Engine",
+                "Sai, Master Thopterist",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Акишев Константин",
+                "Петровых Дмитрий",
+                "Niv-Mizzet, Parun",
+                "Clement, the Worrywort",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Бутримов Виктор",
+                "Ral, Monsoon Mage",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Виноградов Артем",
+                "Кузьменко Иван",
+                "Tuvasa the Sunlit",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Костин Андрей",
+                "Серпутько Слава",
+                "Imskir Iron-Eater",
+                "Kellan, Daring Traveler",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Токарев Александр",
+                "Kroxa, Titan of Death's Hunger",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сухов Никита",
+                "Марченко Олег",
+                "Dihada, Binder of Wills",
+                "Prossh, Skyraider of Kher",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ламзин Сережа",
+                "Бурмистров Павел",
+                "Geist of Saint Traft",
+                "Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Циулин Иван",
+                "Tivit, Seller of Secrets",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Давыдов Александр",
+                "Барабаш Валентин",
+                "Magda, Brazen Outlaw",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Павликов Владислав",
+                "Grond, the Gatebreaker",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Краснов Илья",
+                "Ertai Resurrected",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Поспелов Александр",
+                "Malcolm, Alluring Scoundrel",
+                "Ral, Monsoon Mage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кузьменко Иван",
+                "Поляков Герман",
+                "Dihada, Binder of Wills",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Сайфутдинов Тимур",
+                "Juri, Master of the Revue",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Стрельцов Артем",
+                "Овсянников Дмитрий",
+                "Lonis, Cryptozoologist",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мещеряков Максим",
+                "Матюнин Антон",
+                "Teferi, Temporal Archmage",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сафаргалиев Евгений",
+                "Антипин Костя",
+                "The Necrobloom",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Акишев Константин",
+                "Виноградов Артем",
+                "Niv-Mizzet, Parun",
+                "Tuvasa the Sunlit",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Петровых Дмитрий",
+                "Бутримов Виктор",
+                "Clement, the Worrywort",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Плотников Александр",
+                "Байков Аркадий",
+                "Sai, Master Thopterist",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Сухов Никита",
+                "Серпутько Слава",
+                "Dihada, Binder of Wills",
+                "Kellan, Daring Traveler",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Токарев Александр",
+                "Бурмистров Павел",
+                "Aminatou, the Fateshifter",
+                "Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Козлов Максим",
+                "Tivit, Seller of Secrets",
+                "Grond, the Gatebreaker",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Богданов Сергей",
+                "Ertai Resurrected",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Костин Андрей",
+                "Давыдов Александр",
+                "Imskir Iron-Eater",
+                "Magda, Brazen Outlaw",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Кузьменко Иван",
+                "Malcolm, Alluring Scoundrel",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Барабаш Валентин",
+                "Azusa, Lost but Seeking",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Павликов Владислав",
+                "Матюнин Антон",
+                "Tivit, Seller of Secrets",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Стрельцов Артем",
+                "Марченко Олег",
+                "Lonis, Cryptozoologist",
+                "Prossh, Skyraider of Kher",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Сайфутдинов Тимур",
+                "Ertai Resurrected",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Антипин Костя",
+                "Акишев Константин",
+                "Slimefoot and Squee",
+                "Niv-Mizzet, Parun",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мещеряков Максим",
+                "Редько Павел",
+                "Teferi, Temporal Archmage",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сафаргалиев Евгений",
+                "Петровых Дмитрий",
+                "The Necrobloom",
+                "Clement, the Worrywort",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Овсянников Дмитрий",
+                "Виноградов Артем",
+                "Shorikai, Genesis Engine",
+                "Tuvasa the Sunlit",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Плотников Александр",
+                "Поспелов Александр",
+                "Sai, Master Thopterist",
+                "Ral, Monsoon Mage",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Сухов Никита",
+                "Токарев Александр",
+                "Dihada, Binder of Wills",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Серпутько Слава",
+                "Бурмистров Павел",
+                "Kellan, Daring Traveler",
+                "Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Костин Андрей",
+                "Grond, the Gatebreaker",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Антипин Костя",
+                "Kroxa, Titan of Death's Hunger",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Марченко Олег",
+                "Иванов Дмитрий",
+                "Prossh, Skyraider of Kher",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Циулин Иван",
+                "Ertai Resurrected",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Кузьменко Иван",
+                "Ertai Resurrected",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Павликов Владислав",
+                "Malcolm, Alluring Scoundrel",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Давыдов Александр",
+                "Мещеряков Максим",
+                "Magda, Brazen Outlaw",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Барабаш Валентин",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Стрельцов Артем",
+                "Сафаргалиев Евгений",
+                "Lonis, Cryptozoologist",
+                "The Necrobloom",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Сайфутдинов Тимур",
+                "Ral, Monsoon Mage",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Овсянников Дмитрий",
+                "Редько Павел",
+                "Shorikai, Genesis Engine",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Виноградов Артем",
+                "Vial Smasher the Fierce",
+                "Tuvasa the Sunlit",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Плотников Александр",
+                "Петровых Дмитрий",
+                "Sai, Master Thopterist",
+                "Clement, the Worrywort",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}
