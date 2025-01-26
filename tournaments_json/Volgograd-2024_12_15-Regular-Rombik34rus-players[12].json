@@ -1,0 +1,307 @@
+{
+    "date": "2024_12_15",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Никита Сухов",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Александр Смирнов",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Константин Антипин",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Тимур Сайфутдинов",
+            "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Александр Токарев",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Артём Стрельцов",
+            "Selvala, Explorer Returned"
+        ],
+        [
+            "Артём Ангурцов",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Дмитрий Орешкин",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Максим Мещеряков",
+            "Pippin, Guard of the Citadel"
+        ],
+        [
+            "Михаил Козлов",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Вячеслав Серпутько",
+            "Kellan, Daring Traveler"
+        ],
+        [
+            "Виталий Васильев",
+            "Grist, the Hunger Tide"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Никита Сухов",
+                "Вячеслав Серпутько",
+                "Teferi, Temporal Archmage",
+                "Kellan, Daring Traveler",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Дмитрий Орешкин",
+                "Muxus, Goblin Grandee",
+                "Ral, Monsoon Mage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Виталий Васильев",
+                "Slimefoot and Squee",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Михаил Козлов",
+                "Константин Антипин",
+                "Winota, Joiner of Forces",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Максим Мещеряков",
+                "Selvala, Explorer Returned",
+                "Pippin, Guard of the Citadel",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Тимур Сайфутдинов",
+                "Feldon, Ronom Excavator",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Михаил Козлов",
+                "Тимур Сайфутдинов",
+                "Winota, Joiner of Forces",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Александр Токарев",
+                "Muxus, Goblin Grandee",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Никита Сухов",
+                "Артём Стрельцов",
+                "Teferi, Temporal Archmage",
+                "Selvala, Explorer Returned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Константин Антипин",
+                "Grist, the Hunger Tide",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Вячеслав Серпутько",
+                "Ral, Monsoon Mage",
+                "Kellan, Daring Traveler",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Артём Ангурцов",
+                "Pippin, Guard of the Citadel",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Никита Сухов",
+                "Александр Смирнов",
+                "Teferi, Temporal Archmage",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Александр Токарев",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Константин Антипин",
+                "Selvala, Explorer Returned",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Михаил Козлов",
+                "Дмитрий Орешкин",
+                "Winota, Joiner of Forces",
+                "Ral, Monsoon Mage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Виталий Васильев",
+                "Feldon, Ronom Excavator",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Максим Мещеряков",
+                "Kellan, Daring Traveler",
+                "Pippin, Guard of the Citadel",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Никита Сухов",
+                "Тимур Сайфутдинов",
+                "Teferi, Temporal Archmage",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Артём Ангурцов",
+                "Muxus, Goblin Grandee",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Константин Антипин",
+                "Ral, Monsoon Mage",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Михаил Козлов",
+                "Slimefoot and Squee",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Вячеслав Серпутько",
+                "Selvala, Explorer Returned",
+                "Kellan, Daring Traveler",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Виталий Васильев",
+                "Pippin, Guard of the Citadel",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

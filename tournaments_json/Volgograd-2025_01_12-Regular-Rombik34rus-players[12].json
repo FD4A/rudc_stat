@@ -1,0 +1,307 @@
+{
+    "date": "2025_01_12",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Александр Максимов",
+            "Karlov of the Ghost Council :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Вячеслав Серпутько",
+            "Emmara, Soul of the Accord"
+        ],
+        [
+            "Никита Сухов",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Дмитрий Орешкин",
+            "Inti, Seneschal of the Sun"
+        ],
+        [
+            "Артём Ангурцов",
+            "Rona, Herald of Invasion"
+        ],
+        [
+            "Артём Стрельцов",
+            "Eladamri, Lord of Leaves"
+        ],
+        [
+            "Тимур Сайфутдинов",
+            "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Андрей Костин",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Александр Смирнов",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Владимир Воровальницев",
+            "Lathril, Blade of the Elves"
+        ],
+        [
+            "Александр Петрухин",
+            "Falco Spara, Pactweaver"
+        ],
+        [
+            "Александр Семушин",
+            "Satoru Umezawa"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Вячеслав Серпутько",
+                "Александр Смирнов",
+                "Emmara, Soul of the Accord",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Александр Семушин",
+                "Eladamri, Lord of Leaves",
+                "Satoru Umezawa",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Владимир Воровальницев",
+                "Александр Максимов",
+                "Lathril, Blade of the Elves",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Никита Сухов",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Артём Ангурцов",
+                "Inti, Seneschal of the Sun",
+                "Rona, Herald of Invasion",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Александр Петрухин",
+                "Андрей Костин",
+                "Falco Spara, Pactweaver",
+                "Imskir Iron-Eater",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Артём Ангурцов",
+                "Александр Максимов",
+                "Rona, Herald of Invasion",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Андрей Костин",
+                "Артём Стрельцов",
+                "Imskir Iron-Eater",
+                "Eladamri, Lord of Leaves",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Никита Сухов",
+                "Emmara, Soul of the Accord",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Владимир Воровальницев",
+                "Malcolm, Alluring Scoundrel",
+                "Lathril, Blade of the Elves",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Семушин",
+                "Дмитрий Орешкин",
+                "Satoru Umezawa",
+                "Inti, Seneschal of the Sun",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Александр Петрухин",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Falco Spara, Pactweaver",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Максимов",
+                "Вячеслав Серпутько",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Emmara, Soul of the Accord",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Тимур Сайфутдинов",
+                "Eladamri, Lord of Leaves",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Александр Смирнов",
+                "Inti, Seneschal of the Sun",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Никита Сухов",
+                "Rona, Herald of Invasion",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Андрей Костин",
+                "Владимир Воровальницев",
+                "Imskir Iron-Eater",
+                "Lathril, Blade of the Elves",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Семушин",
+                "Александр Петрухин",
+                "Satoru Umezawa",
+                "Falco Spara, Pactweaver",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Максимов",
+                "Артём Стрельцов",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Eladamri, Lord of Leaves",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Тимур Сайфутдинов",
+                "Emmara, Soul of the Accord",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Никита Сухов",
+                "Андрей Костин",
+                "Teferi, Temporal Archmage",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Александр Петрухин",
+                "Inti, Seneschal of the Sun",
+                "Falco Spara, Pactweaver",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Александр Смирнов",
+                "Rona, Herald of Invasion",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Владимир Воровальницев",
+                "Александр Семушин",
+                "Lathril, Blade of the Elves",
+                "Satoru Umezawa",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

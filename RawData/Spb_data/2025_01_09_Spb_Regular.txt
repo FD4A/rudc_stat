@@ -1,0 +1,27 @@
+location::Spb
+level::Regular
+date::2025_01_09
+organizer::Andysays
+players::generals
+Тяпайкин Максим :: Geist of Saint Traft
+Шестаков Игорь :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Богданов Сергей :: Kroxa, Titan of Death's Hunger
+Корсаков Алексей :: Ghyrson Starn, Kelermorph
+Протасов Михаил :: Tivit, Seller of Secrets
+Барабаш Валентин :: Teferi, Temporal Archmage
+Таловер Артем :: Winter, Cynical Opportunist
+Ульянов Алексей :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Саушкин Андрей :: Aragorn, King of Gondor
+Звягин Георгий :: Juri, Master of the Revue
+Муравьев Никита :: Juri, Master of the Revue
+Мартынов Яков :: Sharuum the Hegemon
+Булочко Михаил :: Aminatou, the Fateshifter
+Иванов Георгий :: Aminatou, the Fateshifter
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Красников Александр :: Malcolm, Alluring Scoundrel
+Хорьков Аркадий :: Arahbo, Roar of the World
+Захаров Даниил :: Glarb, Calamity's Augur
+Обухов Кирилл :: Clement, the Worrywort
+Аланов Андрей :: Sauron, Lord of the Rings
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/36178

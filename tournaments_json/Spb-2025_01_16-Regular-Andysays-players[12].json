@@ -1,0 +1,307 @@
+{
+    "date": "2025_01_16",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Протасов Михаил",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Баранов Константин",
+            "Ertai Resurrected"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Кувяткин Илья",
+            "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower"
+        ],
+        [
+            "Красников Александр",
+            "Taii Wakeen, Perfect Shot"
+        ],
+        [
+            "Звягин Георгий",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Шестаков Игорь",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Мартынов Яков",
+            "Sharuum the Hegemon"
+        ],
+        [
+            "Барабаш Валентин",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Булочко Михаил",
+            "Aminatou, the Fateshifter"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Байков Аркадий",
+                "Мартынов Яков",
+                "Vial Smasher the Fierce",
+                "Sharuum the Hegemon",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Звягин Георгий",
+                "Teferi, Temporal Archmage",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Протасов Михаил",
+                "Teferi, Temporal Archmage",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кувяткин Илья",
+                "Муравьев Никита",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Баранов Константин",
+                "Taii Wakeen, Perfect Shot",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Булочко Михаил",
+                "Ezio Auditore da Firenze",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Шестаков Игорь",
+                "Баранов Константин",
+                "Ezio Auditore da Firenze",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Мартынов Яков",
+                "Juri, Master of the Revue",
+                "Sharuum the Hegemon",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Протасов Михаил",
+                "Juri, Master of the Revue",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Булочко Михаил",
+                "Teferi, Temporal Archmage",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Красников Александр",
+                "Vial Smasher the Fierce",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кувяткин Илья",
+                "Барабаш Валентин",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Протасов Михаил",
+                "Баранов Константин",
+                "Tivit, Seller of Secrets",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Шестаков Игорь",
+                "Juri, Master of the Revue",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Кувяткин Илья",
+                "Vial Smasher the Fierce",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Звягин Георгий",
+                "Sharuum the Hegemon",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Барабаш Валентин",
+                "Teferi, Temporal Archmage",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Красников Александр",
+                "Aminatou, the Fateshifter",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Протасов Михаил",
+                "Муравьев Никита",
+                "Tivit, Seller of Secrets",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Баранов Константин",
+                "Juri, Master of the Revue",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Шестаков Игорь",
+                "Vial Smasher the Fierce",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Кувяткин Илья",
+                "Sharuum the Hegemon",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Поляков Герман",
+                "Taii Wakeen, Perfect Shot",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Булочко Михаил",
+                "Teferi, Temporal Archmage",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

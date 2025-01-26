@@ -1,0 +1,311 @@
+{
+    "date": "2025_01_26",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Дмитрий Орешкин",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Александр Токарев",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Александр Смирнов",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Александр Максимов",
+            "Karlov of the Ghost Council :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Тимур Сайфутдинов",
+            "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Виталий Васильев",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Артём Стрельцов",
+            "Lonis, Cryptozoologist"
+        ],
+        [
+            "Артём Ангурцов",
+            "Rona, Herald of Invasion"
+        ],
+        [
+            "Александр Семушин",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Максим Мещеряков",
+            "Ertai Resurrected"
+        ],
+        [
+            "Владимир Воровальницев",
+            "Niv-Mizzet, Parun"
+        ],
+        [
+            "Андрей Костин",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Александр Петрухин",
+            "Thrasios, Triton Hero :+: Yoshimaru, Ever Faithful"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Артём Стрельцов",
+                "Владимир Воровальницев",
+                "Lonis, Cryptozoologist",
+                "Niv-Mizzet, Parun",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Семушин",
+                "Андрей Костин",
+                "Arahbo, Roar of the World",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Александр Петрухин",
+                "Rona, Herald of Invasion",
+                "Thrasios, Triton Hero :+: Yoshimaru, Ever Faithful",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Тимур Сайфутдинов",
+                "Grist, the Hunger Tide",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Дмитрий Орешкин",
+                "Aminatou, the Fateshifter",
+                "Satya, Aetherflux Genius",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Александр Максимов",
+                "Ertai Resurrected",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Орешкин",
+                "Виталий Васильев",
+                "Satya, Aetherflux Genius",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Александр Смирнов",
+                "Rona, Herald of Invasion",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Александр Семушин",
+                "Lonis, Cryptozoologist",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Максимов",
+                "Владимир Воровальницев",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Niv-Mizzet, Parun",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Андрей Костин",
+                "Ertai Resurrected",
+                "Imskir Iron-Eater",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Александр Петрухин",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Thrasios, Triton Hero :+: Yoshimaru, Ever Faithful",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Артём Стрельцов",
+                "Дмитрий Орешкин",
+                "Lonis, Cryptozoologist",
+                "Satya, Aetherflux Genius",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Александр Максимов",
+                "Rona, Herald of Invasion",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Семушин",
+                "Александр Токарев",
+                "Arahbo, Roar of the World",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Андрей Костин",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Александр Смирнов",
+                "Grist, the Hunger Tide",
+                "Muxus, Goblin Grandee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Александр Петрухин",
+                "Ertai Resurrected",
+                "Thrasios, Triton Hero :+: Yoshimaru, Ever Faithful",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Орешкин",
+                "Александр Максимов",
+                "Satya, Aetherflux Genius",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Артём Ангурцов",
+                "Aminatou, the Fateshifter",
+                "Rona, Herald of Invasion",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Александр Смирнов",
+                "Lonis, Cryptozoologist",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Максим Мещеряков",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Ertai Resurrected",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Владимир Воровальницев",
+                "Александр Семушин",
+                "Niv-Mizzet, Parun",
+                "Arahbo, Roar of the World",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Андрей Костин",
+                "Grist, the Hunger Tide",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

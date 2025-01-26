@@ -1,0 +1,259 @@
+{
+    "date": "2024_12_21",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Burmistrov Pavel",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Cherepovskiy Roman",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Isaev Alexander",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Maliy Sergey",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Davidov Alexander",
+            "Magda, Brazen Outlaw"
+        ],
+        [
+            "Posidaylo Artem",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Somkin Constantin",
+            "Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Kovalev Alexander",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Pernatiy Alexander",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Lukaynov Vadim",
+            "Urza, Lord Protector"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Somkin Constantin",
+                "Kovalev Alexander",
+                "Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Posidaylo Artem",
+                "Isaev Alexander",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Burmistrov Pavel",
+                "Pernatiy Alexander",
+                "Phelia, Exuberant Shepherd",
+                "Ral, Monsoon Mage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Cherepovskiy Roman",
+                "Urza, Lord Protector",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Maliy Sergey",
+                "Davidov Alexander",
+                "Geist of Saint Traft",
+                "Magda, Brazen Outlaw",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Davidov Alexander",
+                "Cherepovskiy Roman",
+                "Magda, Brazen Outlaw",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Burmistrov Pavel",
+                "Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Isaev Alexander",
+                "Maliy Sergey",
+                "Shorikai, Genesis Engine",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Posidaylo Artem",
+                "Urza, Lord Protector",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Kovalev Alexander",
+                "Pernatiy Alexander",
+                "Golos, Tireless Pilgrim",
+                "Ral, Monsoon Mage",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Burmistrov Pavel",
+                "Cherepovskiy Roman",
+                "Phelia, Exuberant Shepherd",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Isaev Alexander",
+                "Somkin Constantin",
+                "Shorikai, Genesis Engine",
+                "Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Davidov Alexander",
+                "Kovalev Alexander",
+                "Magda, Brazen Outlaw",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Posidaylo Artem",
+                "Maliy Sergey",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Pernatiy Alexander",
+                "Urza, Lord Protector",
+                "Ral, Monsoon Mage",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Burmistrov Pavel",
+                "Isaev Alexander",
+                "Phelia, Exuberant Shepherd",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Somkin Constantin",
+                "Juri, Master of the Revue",
+                "Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Davidov Alexander",
+                "Pernatiy Alexander",
+                "Magda, Brazen Outlaw",
+                "Ral, Monsoon Mage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Kovalev Alexander",
+                "Posidaylo Artem",
+                "Golos, Tireless Pilgrim",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Maliy Sergey",
+                "Lukaynov Vadim",
+                "Geist of Saint Traft",
+                "Urza, Lord Protector",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

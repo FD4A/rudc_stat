@@ -1,0 +1,35 @@
+location::Spb
+level::Regular
+date::2024_12_26
+organizer::Andysays
+players::generals
+Семенов Дмитрий :: Ghyrson Starn, Kelermorph
+Иванов Максим :: Geist of Saint Traft
+Саушкин Андрей :: Aragorn, King of Gondor
+Цюра Максим :: Tivit, Seller of Secrets
+Шестаков Игорь :: Slimefoot and Squee
+Барабаш Валентин :: Teferi, Temporal Archmage
+Протасов Михаил :: Tivit, Seller of Secrets
+Романов Никита :: Aminatou, the Fateshifter
+Елисеев Степан :: Grenzo, Dungeon Warden
+Грабовой Филипп :: Ezio Auditore da Firenze
+Олифер Егор :: Aminatou, the Fateshifter
+Богданов Сергей :: Geist of Saint Traft
+Фукин Дмитрий :: Edric, Spymaster of Trest
+Байков Аркадий :: Vial Smasher the Fierce
+Поляков Герман :: Teferi, Temporal Archmage
+Муравьев Никита :: Juri, Master of the Revue
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Ульянов Алексей :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Баранов Константин :: Ertai Resurrected
+Мартынов Владислав :: Tivit, Seller of Secrets
+Путилов Сергей :: Azusa, Lost but Seeking
+Фиткулин Антон :: Feldon, Ronom Excavator
+Булочко Михаил :: Aminatou, the Fateshifter
+Мартынов Яков :: Sharuum the Hegemon
+Вахитов Ривкат :: Sygg, River Cutthroat
+Тяпайкин Максим :: Atraxa, Praetors' Voice
+Хорьков Аркадий :: Arahbo, Roar of the World
+Шабалов Михаил :: Teferi, Temporal Archmage
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/35942

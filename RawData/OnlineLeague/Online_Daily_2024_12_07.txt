@@ -1,6 +1,6 @@
 location::Online
 level::Regular
-date::2024_11_28
+date::2024_12_07
 organizer::AlexSmirnov
 players::generals
 Циулин Иван :: Azusa, Lost but Seeking

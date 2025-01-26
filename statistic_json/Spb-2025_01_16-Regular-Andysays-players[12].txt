@@ -1,0 +1,75 @@
+= Aminatou, the Fateshifter        matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:7    WG: 28.57% LG: 71.43% (wg:   2 lg:   5) pick: 1    Spb(1), 
+       vs Ezio Auditore da Firenze         (w:0 l:1 d:0), (0/2)
+       vs Teferi, Temporal Archmage        (w:1 l:1 d:0), (2/2)
+       vs Taii Wakeen, Perfect Shot        (w:0 l:1 d:0), (0/1)
+
+
+= Ertai Resurrected                matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:10   WG: 60.00% LG: 40.00% (wg:   6 lg:   4) pick: 1    Spb(1), 
+       vs Taii Wakeen, Perfect Shot        (w:1 l:0 d:0), (2/1)
+       vs Ezio Auditore da Firenze         (w:1 l:0 d:0), (2/1)
+       vs Tivit, Seller of Secrets         (w:0 l:1 d:0), (0/2)
+       vs Juri, Master of the Revue        (w:1 l:0 d:0), (2/0)
+
+
+= Ezio Auditore da Firenze         matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:10   WG: 40.00% LG: 60.00% (wg:   4 lg:   6) pick: 1    Spb(1), 
+       vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/0)
+       vs Ertai Resurrected                (w:0 l:1 d:0), (1/2)
+       vs Juri, Master of the Revue        (w:0 l:1 d:0), (0/2)
+       vs Vial Smasher the Fierce          (w:0 l:1 d:0), (1/2)
+
+
+= Juri, Master of the Revue        matches:8    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:6   lm:2   dm:0)  games:17   WG: 70.59% LG: 29.41% (wg:  12 lg:   5) pick: 2    Spb(2), 
+       vs Teferi, Temporal Archmage        (w:1 l:0 d:0), (2/1)
+       vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
+        + Tana, the Bloodsower            
+       vs Sharuum the Hegemon              (w:2 l:0 d:0), (4/0)
+       vs Tivit, Seller of Secrets         (w:1 l:1 d:0), (2/2)
+       vs Ezio Auditore da Firenze         (w:1 l:0 d:0), (2/0)
+       vs Ertai Resurrected                (w:0 l:1 d:0), (0/2)
+
+
+= Sharuum the Hegemon              matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:9    WG: 22.22% LG: 77.78% (wg:   2 lg:   7) pick: 1    Spb(1), 
+       vs Vial Smasher the Fierce          (w:1 l:0 d:0), (2/1)
+       vs Juri, Master of the Revue        (w:0 l:2 d:0), (0/4)
+       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
+        + Tana, the Bloodsower            
+
+
+= Taii Wakeen, Perfect Shot        matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 50.00% LG: 50.00% (wg:   5 lg:   5) pick: 1    Spb(1), 
+       vs Ertai Resurrected                (w:0 l:1 d:0), (1/2)
+       vs Vial Smasher the Fierce          (w:0 l:1 d:0), (1/2)
+       vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (1/0)
+       vs Teferi, Temporal Archmage        (w:1 l:0 d:0), (2/1)
+
+
+= Teferi, Temporal Archmage        matches:6    WM: 16.67%  LM: 83.33%  DM:  0.00% (wm:1   lm:5   dm:0)  games:15   WG: 33.33% LG: 66.67% (wg:   5 lg:  10) pick: 2    Spb(2), 
+       vs Juri, Master of the Revue        (w:0 l:1 d:0), (1/2)
+       vs Tivit, Seller of Secrets         (w:0 l:1 d:0), (0/2)
+       vs Aminatou, the Fateshifter        (w:1 l:1 d:0), (2/2)
+       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
+        + Tana, the Bloodsower            
+       vs Taii Wakeen, Perfect Shot        (w:0 l:1 d:0), (1/2)
+
+
+= Tivit, Seller of Secrets         matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:8    WG: 75.00% LG: 25.00% (wg:   6 lg:   2) pick: 1    Spb(1), 
+       vs Teferi, Temporal Archmage        (w:1 l:0 d:0), (2/0)
+       vs Juri, Master of the Revue        (w:1 l:1 d:0), (2/2)
+       vs Ertai Resurrected                (w:1 l:0 d:0), (2/0)
+
+
+= Vial Smasher the Fierce          matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:11   WG: 63.64% LG: 36.36% (wg:   7 lg:   4) pick: 1    Spb(1), 
+       vs Sharuum the Hegemon              (w:0 l:1 d:0), (1/2)
+       vs Taii Wakeen, Perfect Shot        (w:1 l:0 d:0), (2/1)
+       vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
+        + Tana, the Bloodsower            
+       vs Ezio Auditore da Firenze         (w:1 l:0 d:0), (2/1)
+
+
+= Yoshimaru, Ever Faithful         matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 44.44% LG: 55.56% (wg:   4 lg:   5) pick: 1    Spb(1), 
+  + Tana, the Bloodsower        
+       vs Juri, Master of the Revue        (w:0 l:1 d:0), (0/2)
+       vs Teferi, Temporal Archmage        (w:1 l:0 d:0), (2/1)
+       vs Vial Smasher the Fierce          (w:0 l:1 d:0), (0/2)
+       vs Sharuum the Hegemon              (w:1 l:0 d:0), (2/0)
+
+

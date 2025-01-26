@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2024_12_14
+organizer::Constantin
+players::generals
+Burmistrov Pavel :: Phelia, Exuberant Shepherd
+Cherepovskiy Roman :: Juri, Master of the Revue
+Isaev Alexander :: Shorikai, Genesis Engine
+Lukaynov Vadim :: Commodore Guff
+Somkin Constantin :: Elminster
+Kovalev Alexander :: Golos, Tireless Pilgrim
+Round
+https://aetherhub.com/Tourney/RoundTourney/35703

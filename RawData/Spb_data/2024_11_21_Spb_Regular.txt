@@ -9,7 +9,7 @@ players::generals
 Красников Александр :: Eris, Roar of the Storm
 Булочко Михаил :: Omnath, Locus of Creation
 Барабаш Валентин :: Kinnan, Bonder Prodigy
-Иванов Дмитрий ::  Yoshimaru, Ever Faithful :+: Tana, the Bloodsower
+Иванов Дмитрий :: Yoshimaru, Ever Faithful :+: Tana, the Bloodsower
 Шейнессон Алексей :: Eris, Roar of the Storm
 Семенов Дмитрий :: Ertai Resurrected
 Фиткулин Антон :: Feldon, Ronom Excavator

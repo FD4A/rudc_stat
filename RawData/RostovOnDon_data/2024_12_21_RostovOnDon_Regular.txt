@@ -1,0 +1,17 @@
+location::RostovOnDon
+level::Regular
+date::2024_12_21
+organizer::Constantin
+players::generals
+Burmistrov Pavel :: Phelia, Exuberant Shepherd
+Cherepovskiy Roman :: Juri, Master of the Revue
+Isaev Alexander :: Shorikai, Genesis Engine
+Maliy Sergey :: Geist of Saint Traft
+Davidov Alexander :: Magda, Brazen Outlaw
+Posidaylo Artem :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Somkin Constantin :: Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den
+Kovalev Alexander :: Golos, Tireless Pilgrim
+Pernatiy Alexander :: Ral, Monsoon Mage
+Lukaynov Vadim :: Urza, Lord Protector
+Round
+https://aetherhub.com/Tourney/RoundTourney/35860

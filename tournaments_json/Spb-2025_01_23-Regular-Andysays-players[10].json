@@ -1,0 +1,259 @@
+{
+    "date": "2025_01_23",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Шестаков Игорь",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Булочко Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Корсаков Алексей",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Кувяткин Илья",
+            "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Баранов Константин",
+            "Ertai Resurrected"
+        ],
+        [
+            "Красников Александр",
+            "Taii Wakeen, Perfect Shot"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Корсаков Алексей",
+                "Мартынов Яков",
+                "Ghyrson Starn, Kelermorph",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Баранов Константин",
+                "Ezio Auditore da Firenze",
+                "Ertai Resurrected",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Иванов Максим",
+                "Teferi, Temporal Archmage",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кувяткин Илья",
+                "Булочко Михаил",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Муравьев Никита",
+                "Taii Wakeen, Perfect Shot",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Булочко Михаил",
+                "Иванов Максим",
+                "Aminatou, the Fateshifter",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Корсаков Алексей",
+                "Taii Wakeen, Perfect Shot",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Муравьев Никита",
+                "Ezio Auditore da Firenze",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Баранов Константин",
+                "Кувяткин Илья",
+                "Ertai Resurrected",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Поляков Герман",
+                "Tivit, Seller of Secrets",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Булочко Михаил",
+                "Корсаков Алексей",
+                "Aminatou, the Fateshifter",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Красников Александр",
+                "Ezio Auditore da Firenze",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Баранов Константин",
+                "Teferi, Temporal Archmage",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Кувяткин Илья",
+                "Geist of Saint Traft",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Муравьев Никита",
+                "Tivit, Seller of Secrets",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Булочко Михаил",
+                "Шестаков Игорь",
+                "Aminatou, the Fateshifter",
+                "Ezio Auditore da Firenze",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Поляков Герман",
+                "Ghyrson Starn, Kelermorph",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кувяткин Илья",
+                "Красников Александр",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Мартынов Яков",
+                "Geist of Saint Traft",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Баранов Константин",
+                "Муравьев Никита",
+                "Ertai Resurrected",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

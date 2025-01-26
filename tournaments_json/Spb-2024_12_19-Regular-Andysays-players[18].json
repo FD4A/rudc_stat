@@ -1,0 +1,431 @@
+{
+    "date": "2024_12_19",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Шестаков Игорь",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Булочко Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Ульянов Алексей",
+            "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Корсаков Алексей",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Мартынов Яков",
+            "Tasigur, the Golden Fang"
+        ],
+        [
+            "Грабовой Филипп",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Звягин Георгий",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Барабаш Валентин",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Баранов Константин",
+            "Ertai Resurrected"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Цюра Максим",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Красников Александр",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Жевтобрюх Роман",
+            "Glarb, Calamity's Augur"
+        ],
+        [
+            "Богданов Сергей",
+            "Kroxa, Titan of Death's Hunger"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Звягин Георгий",
+                "Красников Александр",
+                "Juri, Master of the Revue",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Грабовой Филипп",
+                "Tivit, Seller of Secrets",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Богданов Сергей",
+                "Ghyrson Starn, Kelermorph",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Муравьев Никита",
+                "Teferi, Temporal Archmage",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Булочко Михаил",
+                "Vial Smasher the Fierce",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Федоров Дмитрий",
+                "Geist of Saint Traft",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Барабаш Валентин",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Жевтобрюх Роман",
+                "Шестаков Игорь",
+                "Glarb, Calamity's Augur",
+                "Ezio Auditore da Firenze",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Баранов Константин",
+                "Мартынов Яков",
+                "Ertai Resurrected",
+                "Tasigur, the Golden Fang",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Цюра Максим",
+                "Ульянов Алексей",
+                "Tivit, Seller of Secrets",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Булочко Михаил",
+                "Ghyrson Starn, Kelermorph",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Шестаков Игорь",
+                "Juri, Master of the Revue",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Муравьев Никита",
+                "Geist of Saint Traft",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Грабовой Филипп",
+                "Tasigur, the Golden Fang",
+                "Ezio Auditore da Firenze",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Баранов Константин",
+                "Красников Александр",
+                "Ertai Resurrected",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Жевтобрюх Роман",
+                "Поляков Герман",
+                "Glarb, Calamity's Augur",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Богданов Сергей",
+                "Feldon, Ronom Excavator",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Барабаш Валентин",
+                "Vial Smasher the Fierce",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Ульянов Алексей",
+                "Тяпайкин Максим",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Булочко Михаил",
+                "Ezio Auditore da Firenze",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Муравьев Никита",
+                "Teferi, Temporal Archmage",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Цюра Максим",
+                "Feldon, Ronom Excavator",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Корсаков Алексей",
+                "Juri, Master of the Revue",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Грабовой Филипп",
+                "Teferi, Temporal Archmage",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Баранов Константин",
+                "Жевтобрюх Роман",
+                "Ertai Resurrected",
+                "Glarb, Calamity's Augur",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Красников Александр",
+                "Tasigur, the Golden Fang",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Шестаков Игорь",
+                "Тяпайкин Максим",
+                "Ezio Auditore da Firenze",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Федоров Дмитрий",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Барабаш Валентин",
+                "Ghyrson Starn, Kelermorph",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Баранов Константин",
+                "Aminatou, the Fateshifter",
+                "Ertai Resurrected",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Мартынов Яков",
+                "Teferi, Temporal Archmage",
+                "Tasigur, the Golden Fang",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Муравьев Никита",
+                "Ezio Auditore da Firenze",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Звягин Георгий",
+                "Tivit, Seller of Secrets",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Жевтобрюх Роман",
+                "Malcolm, Alluring Scoundrel",
+                "Glarb, Calamity's Augur",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

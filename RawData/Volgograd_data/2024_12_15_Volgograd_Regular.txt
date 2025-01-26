@@ -1,0 +1,19 @@
+location::Volgograd
+level::Regular
+date::2024_12_15
+organizer::Rombik34rus
+players::generals
+Никита Сухов :: Teferi, Temporal Archmage
+Александр Смирнов :: Muxus, Goblin Grandee
+Константин Антипин :: Feldon, Ronom Excavator
+Тимур Сайфутдинов :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Александр Токарев :: Slimefoot and Squree
+Артём Стрельцов :: Selvala, Explorer Returned
+Артём Ангурцов :: Feldon, Ronom Excavator
+Дмитрий Орешкин :: Ral, Monsoon Mage
+Максим Мещеряков :: Pippin, Guard of the Citadel
+Михаил Козлов :: Winota, Joiner of Forces
+Вячеслав Серпутько :: Kellan, Daring Traveler
+Виталий Васильев :: Grist, the Hunger Tide
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/35755

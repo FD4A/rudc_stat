@@ -1,0 +1,25 @@
+location::Spb
+level::Regular
+date::2024_12_19
+organizer::Andysays
+players::generals
+Шестаков Игорь :: Ezio Auditore da Firenze
+Тяпайкин Максим :: Geist of Saint Traft
+Булочко Михаил :: Aminatou, the Fateshifter
+Ульянов Алексей :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Корсаков Алексей :: Ghyrson Starn, Kelermorph
+Мартынов Яков :: Tasigur, the Golden Fang
+Грабовой Филипп :: Ezio Auditore da Firenze
+Звягин Георгий :: Juri, Master of the Revue
+Барабаш Валентин :: Teferi, Temporal Archmage
+Федоров Дмитрий :: Feldon, Ronom Excavator
+Баранов Константин :: Ertai Resurrected
+Поляков Герман :: Teferi, Temporal Archmage
+Байков Аркадий :: Vial Smasher the Fierce
+Цюра Максим :: Tivit, Seller of Secrets
+Муравьев Никита :: Juri, Master of the Revue
+Красников Александр :: Malcolm, Alluring Scoundrel
+Жевтобрюх Роман :: Glarb, Calamity's Augur
+Богданов Сергей :: Kroxa, Titan of Death's Hunger
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/35804

@@ -1,0 +1,19 @@
+location::Volgograd
+level::Regular
+date::2025_01_12
+organizer::Rombik34rus
+players::generals
+Александр Максимов :: Karlov of the Ghost Council :++: Lurrus of the Dream-Den
+Вячеслав Серпутько :: Emmara, Soul of the Accord
+Никита Сухов :: Teferi Temporal Archmage
+Дмитрий Орешкин :: Inti Senechal of the Sun
+Артём Ангурцов :: Iron Man Titan of Innovation
+Артём Стрельцов :: Eladamri Lord of Leaves
+Тимур Сайфутдинов :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Андрей Костин :: Imskir Iron-Eater
+Александр Смирнов :: Malcolm Alluring Scoundrel
+Владимир Воровальницев :: Lathril Blade of the Elves
+Александр Петрухин :: Falco Spara
+Александр Семушин :: Satoru Umezawa
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/36256

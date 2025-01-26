@@ -1,0 +1,681 @@
+{
+    "date": "2024_12_26",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Семенов Дмитрий",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Саушкин Андрей",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Цюра Максим",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Шестаков Игорь",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Барабаш Валентин",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Протасов Михаил",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Романов Никита",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Елисеев Степан",
+            "Grenzo, Dungeon Warden"
+        ],
+        [
+            "Грабовой Филипп",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Олифер Егор",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Богданов Сергей",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Фукин Дмитрий",
+            "Edric, Spymaster of Trest"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Ульянов Алексей",
+            "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Баранов Константин",
+            "Ertai Resurrected"
+        ],
+        [
+            "Мартынов Владислав",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Путилов Сергей",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Фиткулин Антон",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Булочко Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Мартынов Яков",
+            "Sharuum the Hegemon"
+        ],
+        [
+            "Вахитов Ривкат",
+            "Sygg, River Cutthroat"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Atraxa, Praetors' Voice"
+        ],
+        [
+            "Хорьков Аркадий",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Шабалов Михаил",
+            "Teferi, Temporal Archmage"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Елисеев Степан",
+                "Шабалов Михаил",
+                "Grenzo, Dungeon Warden",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Богданов Сергей",
+                "Juri, Master of the Revue",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Богатырев Александр",
+                "Aragorn, King of Gondor",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Фукин Дмитрий",
+                "Поляков Герман",
+                "Edric, Spymaster of Trest",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Байков Аркадий",
+                "Tivit, Seller of Secrets",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Олифер Егор",
+                "Sharuum the Hegemon",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Романов Никита",
+                "Баранов Константин",
+                "Aminatou, the Fateshifter",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Протасов Михаил",
+                "Ezio Auditore da Firenze",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Иванов Максим",
+                "Atraxa, Praetors' Voice",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Владислав",
+                "Фиткулин Антон",
+                "Tivit, Seller of Secrets",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Булочко Михаил",
+                "Sygg, River Cutthroat",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Путилов Сергей",
+                "Ульянов Алексей",
+                "Azusa, Lost but Seeking",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Семенов Дмитрий",
+                "Slimefoot and Squee",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Хорьков Аркадий",
+                "Teferi, Temporal Archmage",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Фиткулин Антон",
+                "Цюра Максим",
+                "Feldon, Ronom Excavator",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Ульянов Алексей",
+                "Aragorn, King of Gondor",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Романов Никита",
+                "Фукин Дмитрий",
+                "Aminatou, the Fateshifter",
+                "Edric, Spymaster of Trest",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Елисеев Степан",
+                "Протасов Михаил",
+                "Grenzo, Dungeon Warden",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Барабаш Валентин",
+                "Aminatou, the Fateshifter",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Иванов Максим",
+                "Geist of Saint Traft",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Мартынов Яков",
+                "Ghyrson Starn, Kelermorph",
+                "Sharuum the Hegemon",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Шабалов Михаил",
+                "Aminatou, the Fateshifter",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Поляков Герман",
+                "Sygg, River Cutthroat",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Грабовой Филипп",
+                "Indoraptor, the Perfect Hybrid",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Баранов Константин",
+                "Муравьев Никита",
+                "Ertai Resurrected",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Шестаков Игорь",
+                "Vial Smasher the Fierce",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Хорьков Аркадий",
+                "Atraxa, Praetors' Voice",
+                "Arahbo, Roar of the World",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Владислав",
+                "Путилов Сергей",
+                "Tivit, Seller of Secrets",
+                "Azusa, Lost but Seeking",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Романов Никита",
+                "Иванов Максим",
+                "Aminatou, the Fateshifter",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Цюра Максим",
+                "Teferi, Temporal Archmage",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Семенов Дмитрий",
+                "Tivit, Seller of Secrets",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Елисеев Степан",
+                "Aminatou, the Fateshifter",
+                "Grenzo, Dungeon Warden",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Фиткулин Антон",
+                "Aragorn, King of Gondor",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Фукин Дмитрий",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Edric, Spymaster of Trest",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Шестаков Игорь",
+                "Aminatou, the Fateshifter",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Муравьев Никита",
+                "Teferi, Temporal Archmage",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Мартынов Яков",
+                "Geist of Saint Traft",
+                "Sharuum the Hegemon",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Путилов Сергей",
+                "Ezio Auditore da Firenze",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Хорьков Аркадий",
+                "Мартынов Владислав",
+                "Arahbo, Roar of the World",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Богатырев Александр",
+                "Atraxa, Praetors' Voice",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Баранов Константин",
+                "Sygg, River Cutthroat",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шабалов Михаил",
+                "Байков Аркадий",
+                "Teferi, Temporal Archmage",
+                "Vial Smasher the Fierce",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Цюра Максим",
+                "Иванов Максим",
+                "Tivit, Seller of Secrets",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Романов Никита",
+                "Семенов Дмитрий",
+                "Aminatou, the Fateshifter",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Елисеев Степан",
+                "Саушкин Андрей",
+                "Grenzo, Dungeon Warden",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Фукин Дмитрий",
+                "Барабаш Валентин",
+                "Edric, Spymaster of Trest",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Богданов Сергей",
+                "Slimefoot and Squee",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Протасов Михаил",
+                "Teferi, Temporal Archmage",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Олифер Егор",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Мартынов Владислав",
+                "Ezio Auditore da Firenze",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Фиткулин Антон",
+                "Байков Аркадий",
+                "Feldon, Ronom Excavator",
+                "Vial Smasher the Fierce",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Муравьев Никита",
+                "Aminatou, the Fateshifter",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Баранов Константин",
+                "Мартынов Яков",
+                "Ertai Resurrected",
+                "Sharuum the Hegemon",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Хорьков Аркадий",
+                "Indoraptor, the Perfect Hybrid",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Путилов Сергей",
+                "Atraxa, Praetors' Voice",
+                "Azusa, Lost but Seeking",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

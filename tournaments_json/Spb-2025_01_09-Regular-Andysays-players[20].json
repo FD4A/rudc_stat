@@ -1,0 +1,489 @@
+{
+    "date": "2025_01_09",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Тяпайкин Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Шестаков Игорь",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Богданов Сергей",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Корсаков Алексей",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Протасов Михаил",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Барабаш Валентин",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Таловер Артем",
+            "Winter, Cynical Opportunist"
+        ],
+        [
+            "Ульянов Алексей",
+            "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Саушкин Андрей",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Звягин Георгий",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Мартынов Яков",
+            "Sharuum the Hegemon"
+        ],
+        [
+            "Булочко Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Иванов Георгий",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Красников Александр",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Хорьков Аркадий",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Захаров Даниил",
+            "Glarb, Calamity's Augur"
+        ],
+        [
+            "Обухов Кирилл",
+            "Clement, the Worrywort"
+        ],
+        [
+            "Аланов Андрей",
+            "Sauron, Lord of the Rings"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Иванов Георгий",
+                "Саушкин Андрей",
+                "Aminatou, the Fateshifter",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Обухов Кирилл",
+                "Богданов Сергей",
+                "Clement, the Worrywort",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Ульянов Алексей",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Захаров Даниил",
+                "Барабаш Валентин",
+                "Glarb, Calamity's Augur",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Муравьев Никита",
+                "Indoraptor, the Perfect Hybrid",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Аркадий",
+                "Красников Александр",
+                "Arahbo, Roar of the World",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Мартынов Яков",
+                "Geist of Saint Traft",
+                "Sharuum the Hegemon",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Звягин Георгий",
+                "Ghyrson Starn, Kelermorph",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Таловер Артем",
+                "Aminatou, the Fateshifter",
+                "Winter, Cynical Opportunist",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Аланов Андрей",
+                "Протасов Михаил",
+                "Sauron, Lord of the Rings",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Барабаш Валентин",
+                "Таловер Артем",
+                "Teferi, Temporal Archmage",
+                "Winter, Cynical Opportunist",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Тяпайкин Максим",
+                "Aragorn, King of Gondor",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Богданов Сергей",
+                "Tivit, Seller of Secrets",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Богатырев Александр",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Красников Александр",
+                "Ghyrson Starn, Kelermorph",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Мартынов Яков",
+                "Aminatou, the Fateshifter",
+                "Sharuum the Hegemon",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Иванов Георгий",
+                "Ульянов Алексей",
+                "Aminatou, the Fateshifter",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Аланов Андрей",
+                "Juri, Master of the Revue",
+                "Sauron, Lord of the Rings",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Хорьков Аркадий",
+                "Обухов Кирилл",
+                "Arahbo, Roar of the World",
+                "Clement, the Worrywort",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Захаров Даниил",
+                "Juri, Master of the Revue",
+                "Glarb, Calamity's Augur",
+                [
+                    1,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Таловер Артем",
+                "Шестаков Игорь",
+                "Winter, Cynical Opportunist",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Богданов Сергей",
+                "Geist of Saint Traft",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Муравьев Никита",
+                "Ghyrson Starn, Kelermorph",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Протасов Михаил",
+                "Malcolm, Alluring Scoundrel",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Звягин Георгий",
+                "Indoraptor, the Perfect Hybrid",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Хорьков Аркадий",
+                "Барабаш Валентин",
+                "Arahbo, Roar of the World",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Саушкин Андрей",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Обухов Кирилл",
+                "Sharuum the Hegemon",
+                "Clement, the Worrywort",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Аланов Андрей",
+                "Aminatou, the Fateshifter",
+                "Sauron, Lord of the Rings",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Иванов Георгий",
+                "Захаров Даниил",
+                "Aminatou, the Fateshifter",
+                "Glarb, Calamity's Augur",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Шестаков Игорь",
+                "Корсаков Алексей",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Ульянов Алексей",
+                "Geist of Saint Traft",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Протасов Михаил",
+                "Winter, Cynical Opportunist",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Барабаш Валентин",
+                "Juri, Master of the Revue",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Булочко Михаил",
+                "Kroxa, Titan of Death's Hunger",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Саушкин Андрей",
+                "Sharuum the Hegemon",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Муравьев Никита",
+                "Malcolm, Alluring Scoundrel",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Георгий",
+                "Аланов Андрей",
+                "Aminatou, the Fateshifter",
+                "Sauron, Lord of the Rings",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Захаров Даниил",
+                "Обухов Кирилл",
+                "Glarb, Calamity's Augur",
+                "Clement, the Worrywort",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

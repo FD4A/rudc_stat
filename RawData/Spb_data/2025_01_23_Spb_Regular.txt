@@ -1,0 +1,17 @@
+location::Spb
+level::Regular
+date::2025_01_23
+organizer::Andysays
+players::generals
+Шестаков Игорь :: Ezio Auditore da Firenze
+Булочко Михаил :: Aminatou, the Fateshifter
+Корсаков Алексей :: Ghyrson Starn, Kelermorph
+Кувяткин Илья :: Yoshimaru, Ever Faithful :+: Tana, the Bloodsower
+Поляков Герман :: Teferi, Temporal Archmage
+Мартынов Яков :: Tivit, Seller of Secrets
+Баранов Константин :: Ertai Resurrected
+Красников Александр :: Taii Wakeen, Perfect Shot
+Иванов Максим :: Geist of Saint Traft
+Муравьев Никита :: Juri, Master of the Revue
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/36492

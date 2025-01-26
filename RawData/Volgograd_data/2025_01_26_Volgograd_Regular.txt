@@ -1,0 +1,20 @@
+location::Volgograd
+level::Regular
+date::2025_01_26
+organizer::Rombik34rus
+players::generals
+Дмитрий Орешкин :: Satya Aetherflux Genius
+Александр Токарев :: Aminatou the Fateshifter
+Александр Смирнов :: Muxus Goblin Grandee
+Александр Максимов :: Karlov of the Ghost Council :++: Lurrus of the Dream-Den
+Тимур Сайфутдинов :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Виталий Васильев :: Grist the Hunger Tide
+Артём Стрельцов :: Lonis Cryptozoologist
+Артём Ангурцов :: Iron Man Titan of Innovation
+Александр Семушин :: Arahbo Roar of the World
+Максим Мещеряков :: Ertai Resurrected
+Владимир Воровальницев :: Niv-Mizzet Parun
+Андрей Костин :: Imskir Iron-Eater
+Александр Петрухин :: Thrasios, Triton Hero :+: Yoshimaru, Ever Faithful
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/36586

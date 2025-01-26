@@ -1,0 +1,19 @@
+location::Spb
+level::Regular
+date::2025_01_16
+organizer::Andysays
+players::generals
+Муравьев Никита :: Juri, Master of the Revue
+Протасов Михаил :: Tivit, Seller of Secrets
+Баранов Константин :: Ertai Resurrected
+Байков Аркадий :: Vial Smasher the Fierce
+Кувяткин Илья :: Yoshimaru, Ever Faithful :+: Tana, the Bloodsower
+Красников Александр :: Taii Wakeen, Perfect Shot
+Звягин Георгий :: Juri, Master of the Revue
+Шестаков Игорь :: Ezio Auditore da Firenze
+Мартынов Яков :: Sharuum the Hegemon
+Барабаш Валентин :: Teferi, Temporal Archmage
+Поляков Герман :: Teferi, Temporal Archmage
+Булочко Михаил :: Aminatou, the Fateshifter
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/36330
