@@ -1,0 +1,25 @@
+location::Spb
+level::Regular
+date::2025_01_30
+organizer::Andysays
+players::generals
+Поляков Герман :: Teferi, Temporal Archmage
+Протасов Михаил :: Tivit, Seller of Secrets
+Муравьев Роман :: Dihada, Binder of Wills
+Тяпайкин Максим :: Geist of Saint Traft
+Красников Александр :: Taii Wakeen Perfect Shot
+Ульянов Алексей :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Шестаков Игорь :: Ezio Auditore da Firenze
+Грабовой Филипп :: Phelia, Exuberant Shepherd
+Саушкин Андрей :: Aragorn, King of Gondor
+Барабаш Валентин :: Teferi, Temporal Archmage
+Яковлев Николай :: The Wise Mothman
+Цюра Максим :: Tivit, Seller of Secrets
+Булочко Михаил :: Aminatou, the Fateshifter
+Мартынов Яков :: Tivit, Seller of Secrets
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Шабалов Михаил :: Teferi, Temporal Archmage
+Осипов Евгений :: Phelia, Exuberant Shepherd
+Звирбуль Данила :: Gonti, Lord of Luxury
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/36660

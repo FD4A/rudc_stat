@@ -1,0 +1,421 @@
+{
+    "date": "2025_01_30",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Протасов Михаил",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Красников Александр",
+            "Taii Wakeen, Perfect Shot"
+        ],
+        [
+            "Ульянов Алексей",
+            "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Шестаков Игорь",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Грабовой Филипп",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Саушкин Андрей",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Барабаш Валентин",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Яковлев Николай",
+            "The Wise Mothman"
+        ],
+        [
+            "Цюра Максим",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Булочко Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Шабалов Михаил",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Осипов Евгений",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Звирбуль Данила",
+            "Gonti, Lord of Luxury"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Саушкин Андрей",
+                "Тяпайкин Максим",
+                "Aragorn, King of Gondor",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Красников Александр",
+                "Tivit, Seller of Secrets",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Звирбуль Данила",
+                "Цюра Максим",
+                "Gonti, Lord of Luxury",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Грабовой Филипп",
+                "Tivit, Seller of Secrets",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Яковлев Николай",
+                "Ghyrson Starn, Kelermorph",
+                "The Wise Mothman",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Булочко Михаил",
+                "Teferi, Temporal Archmage",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Шестаков Игорь",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Шабалов Михаил",
+                "Муравьев Роман",
+                "Teferi, Temporal Archmage",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Осипов Евгений",
+                "Поляков Герман",
+                "Phelia, Exuberant Shepherd",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Муравьев Роман",
+                "Родюков Федор",
+                "Dihada, Binder of Wills",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Поляков Герман",
+                "Tivit, Seller of Secrets",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Тяпайкин Максим",
+                "Aminatou, the Fateshifter",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Шестаков Игорь",
+                "Phelia, Exuberant Shepherd",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Красников Александр",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Осипов Евгений",
+                "Tivit, Seller of Secrets",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Звирбуль Данила",
+                "Мартынов Яков",
+                "Gonti, Lord of Luxury",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Яковлев Николай",
+                "Teferi, Temporal Archmage",
+                "The Wise Mothman",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Муравьев Роман",
+                "Тяпайкин Максим",
+                "Dihada, Binder of Wills",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Грабовой Филипп",
+                "Teferi, Temporal Archmage",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Цюра Максим",
+                "Taii Wakeen, Perfect Shot",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Барабаш Валентин",
+                "Tivit, Seller of Secrets",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Саушкин Андрей",
+                "Ghyrson Starn, Kelermorph",
+                "Aragorn, King of Gondor",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Мартынов Яков",
+                "Aminatou, the Fateshifter",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Звирбуль Данила",
+                "Ezio Auditore da Firenze",
+                "Gonti, Lord of Luxury",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Осипов Евгений",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Муравьев Роман",
+                "Teferi, Temporal Archmage",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Саушкин Андрей",
+                "Tivit, Seller of Secrets",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Грабовой Филипп",
+                "Geist of Saint Traft",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Мартынов Яков",
+                "Taii Wakeen, Perfect Shot",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Шестаков Игорь",
+                "Tivit, Seller of Secrets",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Булочко Михаил",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Барабаш Валентин",
+                "Ghyrson Starn, Kelermorph",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Осипов Евгений",
+                "The Wise Mothman",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}
