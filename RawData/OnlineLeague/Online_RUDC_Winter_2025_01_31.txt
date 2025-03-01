@@ -1,0 +1,45 @@
+location::Online
+level::Regular
+date::2025_01_31
+organizer::AlexSmirnov
+players::generals
+Бурмистров Павел :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Павликов Владислав :: Tivit, Seller of Secrets
+Лагерев Леонид :: Minsc, Beloved Ranger
+Костин Андрей :: Imskir Iron-Eater
+Антипин Костя :: Ezio, Blade of Vengeance
+Сайфутдинов Тимур :: Loot, the Pathfinder
+Серпутько Слава :: Tyvar, the Pummeler
+Орешкин Дмитрий :: Hidetsugu and Kairi
+Матюнин Антон :: Muxus, Goblin Grandee
+Козлов Максим :: Geist of Saint Traft
+Стрельцов Артем :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Мещеряков Максим :: Satya, Aetherflux Genius
+Шестаков Игорь :: Ezio, Blade of Vengeance
+Курмакаев Игорь :: Ertai Resurrected
+Муравьев Роман :: Dihada, Binder of Wills
+Васильев Илья :: Ketramose, the New Dawn
+Поспелов Александр :: Ral, Monsoon Mage
+Токарев Александр :: Malcolm, the Eyes
+Ламзин Сережа :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Барабаш Валентин :: Teferi, Temporal Archmage
+Булочко Михаил :: Aminatou, the Fateshifter
+Воронцов Иван :: Phlage, Titan of Fire's Fury
+Поляков Герман :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Заруцкий Семён :: Feldon, Ronom Excavator
+Палачев Константин :: Kolodin, Triumph Caster
+Сухов Никита :: Teferi, Temporal Archmage
+Виноградов Артем :: Sythis, Harvest's Hand
+Кузьмин Руслан :: Kiora, the Rising Tide
+Штофов Арсений :: Basim Ibn Ishaq
+Дартау Сергей :: Zahur, Glory's Past
+Редько Павел :: The Beamtown Bullies
+Марченко Олег :: Ketramose, the New Dawn
+Циулин Иван :: Ketramose, the New Dawn
+Шубенин Илья :: Captain Howler
+Ревин Владимир :: Karlov of the Ghost Council :+: Lurrus of the Dream-Den
+Петровых Дмитрий :: Clement, the Worrywort
+Краснов Илья :: Loot, the Pathfinder
+Плотников Александр :: Mendicant Core, Guidelight
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/36691

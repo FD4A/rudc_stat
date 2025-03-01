@@ -1,0 +1,15 @@
+location::RostovOnDon
+level::Regular
+date::2025_02_01
+organizer::Constantin
+players::generals
+Burmistrov Pavel :: Phelia, Exuberant Shepherd
+Merkulov Vladislav :: Zabaz, the Glimmerwasp
+Alexandrov Nikita :: Sythis, Harvest's Hand
+Cherepovskiy Roman :: Juri, Master of the Revue
+Somkin Constantin :: Elminster
+Umarov Mirzakerim :: Animar, Soul of Elements
+Kovalev Alexander :: Ezio Auditore da Firenze
+Lukaynov Vadim :: Teferi, Temporal Archmage
+Round
+https://aetherhub.com/Tourney/RoundTourney/36734

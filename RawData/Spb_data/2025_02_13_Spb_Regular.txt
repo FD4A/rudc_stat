@@ -1,0 +1,21 @@
+location::Spb
+level::Regular
+date::2025_02_13
+organizer::Andysays
+players::generals
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Поляков Герман :: Teferi, Temporal Archmage
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Ларионов Александр :: Arahbo, Roar of the World
+Протасов Михаил :: Tivit, Seller of Secrets
+Красников Александр :: Taii Wakeen, Perfect Shot
+Мартынов Яков :: Tivit, Seller of Secrets
+Булочко Михаил :: Aminatou, the Fateshifter
+Семенов Дмитрий :: Azusa, Lost but Seeking
+Барабаш Валентин :: Teferi, Temporal Archmage
+Звягин Георгий :: Slimefoot and Squee
+Байков Аркадий :: Vial Smasher the Fierce
+Баранов Константин :: Aragorn, King of Gondor
+Мартынов Влад :: Tivit, Seller of Secrets
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/37031

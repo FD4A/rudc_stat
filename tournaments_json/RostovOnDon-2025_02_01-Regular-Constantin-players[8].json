@@ -1,0 +1,149 @@
+{
+    "date": "2025_02_01",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Burmistrov Pavel",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Merkulov Vladislav",
+            "Zabaz, the Glimmerwasp"
+        ],
+        [
+            "Alexandrov Nikita",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Cherepovskiy Roman",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Somkin Constantin",
+            "Elminster"
+        ],
+        [
+            "Umarov Mirzakerim",
+            "Animar, Soul of Elements"
+        ],
+        [
+            "Kovalev Alexander",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Lukaynov Vadim",
+            "Teferi, Temporal Archmage"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Alexandrov Nikita",
+                "Lukaynov Vadim",
+                "Sythis, Harvest's Hand",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Burmistrov Pavel",
+                "Umarov Mirzakerim",
+                "Phelia, Exuberant Shepherd",
+                "Animar, Soul of Elements",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Kovalev Alexander",
+                "Elminster",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Merkulov Vladislav",
+                "Cherepovskiy Roman",
+                "Zabaz, the Glimmerwasp",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Merkulov Vladislav",
+                "Alexandrov Nikita",
+                "Zabaz, the Glimmerwasp",
+                "Sythis, Harvest's Hand",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Burmistrov Pavel",
+                "Elminster",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Kovalev Alexander",
+                "Juri, Master of the Revue",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Alexandrov Nikita",
+                "Burmistrov Pavel",
+                "Sythis, Harvest's Hand",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Merkulov Vladislav",
+                "Elminster",
+                "Zabaz, the Glimmerwasp",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Umarov Mirzakerim",
+                "Cherepovskiy Roman",
+                "Animar, Soul of Elements",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

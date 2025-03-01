@@ -1,0 +1,15 @@
+location::Online
+level::Regular
+date::2025_01_31
+organizer::AlexSmirnov
+players::generals
+Орешкин Дмитрий :: Hidetsugu and Kairi
+Матюнин Антон :: Muxus, Goblin Grandee
+Бурмистров Павел :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Антипин Костя :: Ezio, Blade of Vengeance
+Лагерев Леонид :: Minsc, Beloved Ranger
+Костин Андрей :: Imskir Iron-Eater
+Стрельцов Артем :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Павликов Владислав :: Tivit, Seller of Secrets
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/37476

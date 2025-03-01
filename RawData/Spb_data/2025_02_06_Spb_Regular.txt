@@ -1,0 +1,16 @@
+location::Spb
+level::Regular
+date::2025_02_06
+organizer::Andysays
+players::generals
+Протасов Михаил :: Tivit, Seller of Secrets
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Корсаков Алексей :: Ghyrson Starn, Kelermorph
+Поляков Герман :: Teferi, Temporal Archmage
+Булочко Михаил :: Aminatou, the Fateshifter
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Шестаков Игорь :: Ezio Auditore da Firenze
+Байков Аркадий :: Vial Smasher the Fierce
+Мартынов Яков :: Tivit, Seller of Secrets
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/36849

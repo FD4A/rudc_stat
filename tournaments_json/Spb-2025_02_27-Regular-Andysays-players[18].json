@@ -1,0 +1,451 @@
+{
+    "date": "2025_02_27",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Протасов Михаил",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Грабовой Филипп",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Шестаков Игорь",
+            "Glarb, Calamity's Augur"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Amalia Benavides Aguirre"
+        ],
+        [
+            "Ларионов Александр",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Барабаш Валентин",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Коростелев Илья",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Таловер Артем",
+            "Winter, Cynical Opportunist"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Булочко Михаил",
+            "Loot, the Pathfinder"
+        ],
+        [
+            "Хроменко Богдан",
+            "Feather, the Redeemed"
+        ],
+        [
+            "Звягин Георгий",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Мартынов Влад",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Мартынов Яков ",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Баранов Константин",
+            "Ertai Resurrected"
+        ],
+        [
+            "Двуречинский Никита",
+            "Bruna, Light of Alabaster"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Грабовой Филипп",
+                "Барабаш Валентин",
+                "Phelia, Exuberant Shepherd",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Баранов Константин",
+                "Федоров Дмитрий",
+                "Ertai Resurrected",
+                "Amalia Benavides Aguirre",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Таловер Артем",
+                "Ketramose, the New Dawn",
+                "Winter, Cynical Opportunist",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Коростелев Илья",
+                "Vial Smasher the Fierce",
+                "Satya, Aetherflux Genius",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Хроменко Богдан",
+                "Поляков Герман",
+                "Feather, the Redeemed",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Двуречинский Никита",
+                "Мартынов Яков",
+                "Bruna, Light of Alabaster",
+                "unknown",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Протасов Михаил",
+                "Loot, the Pathfinder",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Ульянов Алексей",
+                "Arahbo, Roar of the World",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Мартынов Влад",
+                "Glarb, Calamity's Augur",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Мартынов Яков",
+                "Протасов Михаил",
+                "unknown",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Байков Аркадий",
+                "Arahbo, Roar of the World",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Таловер Артем",
+                "Teferi, Temporal Archmage",
+                "Winter, Cynical Opportunist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Грабовой Филипп",
+                "Aragorn, King of Gondor",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Барабаш Валентин",
+                "Amalia Benavides Aguirre",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Баранов Константин",
+                "Ульянов Алексей",
+                "Ertai Resurrected",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Двуречинский Никита",
+                "Satya, Aetherflux Genius",
+                "Bruna, Light of Alabaster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Булочко Михаил",
+                "Glarb, Calamity's Augur",
+                "Loot, the Pathfinder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Хроменко Богдан",
+                "Ketramose, the New Dawn",
+                "Feather, the Redeemed",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Ларионов Александр",
+                "Поляков Герман",
+                "Arahbo, Roar of the World",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Протасов Михаил",
+                "Phelia, Exuberant Shepherd",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Ульянов Алексей",
+                "Aragorn, King of Gondor",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Шестаков Игорь",
+                "unknown",
+                "Glarb, Calamity's Augur",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Коростелев Илья",
+                "Winter, Cynical Opportunist",
+                "Satya, Aetherflux Genius",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Барабаш Валентин",
+                "Vial Smasher the Fierce",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Баранов Константин",
+                "Ketramose, the New Dawn",
+                "Ertai Resurrected",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Двуречинский Никита",
+                "Amalia Benavides Aguirre",
+                "Bruna, Light of Alabaster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Хроменко Богдан",
+                "Loot, the Pathfinder",
+                "Feather, the Redeemed",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Протасов Михаил",
+                "Teferi, Temporal Archmage",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Грабовой Филипп",
+                "Arahbo, Roar of the World",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Ульянов Алексей",
+                "Vial Smasher the Fierce",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Шестаков Игорь",
+                "Satya, Aetherflux Genius",
+                "Glarb, Calamity's Augur",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Федоров Дмитрий",
+                "Ketramose, the New Dawn",
+                "Amalia Benavides Aguirre",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Мартынов Яков",
+                "Winter, Cynical Opportunist",
+                "unknown",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Барабаш Валентин",
+                "Aragorn, King of Gondor",
+                "Ezio Auditore da Firenze",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Баранов Константин",
+                "Булочко Михаил",
+                "Ertai Resurrected",
+                "Loot, the Pathfinder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Хроменко Богдан",
+                "Двуречинский Никита",
+                "Feather, the Redeemed",
+                "Bruna, Light of Alabaster",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

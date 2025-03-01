@@ -1,0 +1,345 @@
+{
+    "date": "2025_02_15",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 6,
+    "players": [
+        [
+            "Davidov Alexander",
+            "Magda, Brazen Outlaw"
+        ],
+        [
+            "Zakharenko Vyacheslav",
+            "Ivy, Gleeful Spellthief"
+        ],
+        [
+            "Redko Pavel",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Shubenin Ilya",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Kovalev Alexander",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Zinkovsky Sergey",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Burmistrov Pavel",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Merkulov Vladislav",
+            "Zabaz, the Glimmerwasp"
+        ],
+        [
+            "Lukaynov Vadim",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Marchenko Oleg",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Somkin Constantin",
+            "Elminster"
+        ],
+        [
+            "Hon Vadim",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Mishin Vasily",
+            "Ertai Resurrected"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Zakharenko Vyacheslav",
+                "Hon Vadim",
+                "Ivy, Gleeful Spellthief",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Mishin Vasily",
+                "Merkulov Vladislav",
+                "Ertai Resurrected",
+                "Zabaz, the Glimmerwasp",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Zinkovsky Sergey",
+                "Elminster",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Kovalev Alexander",
+                "Teferi, Temporal Archmage",
+                "Ezio Auditore da Firenze",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Davidov Alexander",
+                "Redko Pavel",
+                "Magda, Brazen Outlaw",
+                "Light-Paws, Emperor's Voice",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Marchenko Oleg",
+                "Burmistrov Pavel",
+                "Slimefoot and Squee",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Zakharenko Vyacheslav",
+                "Kovalev Alexander",
+                "Ivy, Gleeful Spellthief",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Zinkovsky Sergey",
+                "Merkulov Vladislav",
+                "Geist of Saint Traft",
+                "Zabaz, the Glimmerwasp",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Shubenin Ilya",
+                "Marchenko Oleg",
+                "Malcolm, Alluring Scoundrel",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Redko Pavel",
+                "Burmistrov Pavel",
+                "Light-Paws, Emperor's Voice",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Davidov Alexander",
+                "Somkin Constantin",
+                "Magda, Brazen Outlaw",
+                "Elminster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Hon Vadim",
+                "Teferi, Temporal Archmage",
+                "Light-Paws, Emperor's Voice",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Shubenin Ilya",
+                "Zakharenko Vyacheslav",
+                "Malcolm, Alluring Scoundrel",
+                "Ivy, Gleeful Spellthief",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Zinkovsky Sergey",
+                "Redko Pavel",
+                "Geist of Saint Traft",
+                "Light-Paws, Emperor's Voice",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Davidov Alexander",
+                "Kovalev Alexander",
+                "Magda, Brazen Outlaw",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Merkulov Vladislav",
+                "Hon Vadim",
+                "Zabaz, the Glimmerwasp",
+                "Light-Paws, Emperor's Voice",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Mishin Vasily",
+                "Burmistrov Pavel",
+                "Ertai Resurrected",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Marchenko Oleg",
+                "Somkin Constantin",
+                "Slimefoot and Squee",
+                "Elminster",
+                [
+                    1,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Shubenin Ilya",
+                "Redko Pavel",
+                "Malcolm, Alluring Scoundrel",
+                "Light-Paws, Emperor's Voice",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Zakharenko Vyacheslav",
+                "Zinkovsky Sergey",
+                "Ivy, Gleeful Spellthief",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Merkulov Vladislav",
+                "Davidov Alexander",
+                "Zabaz, the Glimmerwasp",
+                "Magda, Brazen Outlaw",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Marchenko Oleg",
+                "Kovalev Alexander",
+                "Slimefoot and Squee",
+                "Ezio Auditore da Firenze",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Burmistrov Pavel",
+                "Hon Vadim",
+                "Phelia, Exuberant Shepherd",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Mishin Vasily",
+                "Teferi, Temporal Archmage",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Davidov Alexander",
+                "Redko Pavel",
+                "Magda, Brazen Outlaw",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Shubenin Ilya",
+                "Zakharenko Vyacheslav",
+                "Malcolm, Alluring Scoundrel",
+                "Ivy, Gleeful Spellthief",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Davidov Alexander",
+                "Zakharenko Vyacheslav",
+                "Magda, Brazen Outlaw",
+                "Ivy, Gleeful Spellthief",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

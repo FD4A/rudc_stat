@@ -1,0 +1,355 @@
+{
+    "date": "2025_02_13",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Ларионов Александр",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Протасов Михаил",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Красников Александр",
+            "Taii Wakeen, Perfect Shot"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Булочко Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Барабаш Валентин",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Звягин Георгий",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Баранов Константин",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Мартынов Влад",
+            "Tivit, Seller of Secrets"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Семенов Дмитрий",
+                "Протасов Михаил",
+                "Azusa, Lost but Seeking",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Поляков Герман",
+                "Teferi, Temporal Archmage",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Мартынов Влад",
+                "Golos, Tireless Pilgrim",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Булочко Михаил",
+                "Taii Wakeen, Perfect Shot",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Байков Аркадий",
+                "Slimefoot and Squee",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Баранов Константин",
+                "Ларионов Александр",
+                "Aragorn, King of Gondor",
+                "Arahbo, Roar of the World",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Родюков Федор",
+                "Tivit, Seller of Secrets",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Ульянов Алексей",
+                "Звягин Георгий",
+                "Golos, Tireless Pilgrim",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Красников Александр",
+                "Arahbo, Roar of the World",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Протасов Михаил",
+                "Teferi, Temporal Archmage",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Барабаш Валентин",
+                "Ghyrson Starn, Kelermorph",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Булочко Михаил",
+                "Tivit, Seller of Secrets",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Мартынов Влад",
+                "Vial Smasher the Fierce",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Баранов Константин",
+                "Azusa, Lost but Seeking",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Родюков Федор",
+                "Красников Александр",
+                "Ghyrson Starn, Kelermorph",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Поляков Герман",
+                "Golos, Tireless Pilgrim",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Звягин Георгий",
+                "Tivit, Seller of Secrets",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Семенов Дмитрий",
+                "Vial Smasher the Fierce",
+                "Azusa, Lost but Seeking",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Булочко Михаил",
+                "Arahbo, Roar of the World",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Баранов Константин",
+                "Tivit, Seller of Secrets",
+                "Aragorn, King of Gondor",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Барабаш Валентин",
+                "Tivit, Seller of Secrets",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Родюков Федор",
+                "Протасов Михаил",
+                "Ghyrson Starn, Kelermorph",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Красников Александр",
+                "Teferi, Temporal Archmage",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Ульянов Алексей",
+                "Azusa, Lost but Seeking",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Звягин Георгий",
+                "Arahbo, Roar of the World",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Байков Аркадий",
+                "Tivit, Seller of Secrets",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Баранов Константин",
+                "Aminatou, the Fateshifter",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Барабаш Валентин",
+                "Tivit, Seller of Secrets",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

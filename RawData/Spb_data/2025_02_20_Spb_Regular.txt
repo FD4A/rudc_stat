@@ -1,0 +1,25 @@
+location::Spb
+level::Regular
+date::2025_02_20
+organizer::Andysays
+players::generals
+Баранов Константин :: Ertai Resurrected
+Таловер Артем :: Winter, Cynical Opportunist
+Цюра Максим :: Tivit, Seller of Secrets
+Коростелев Илья :: Satya, Aetherflux Genius
+Ларионов Александр :: Arahbo, Roar of the World
+Мартынов Яков :: Tivit, Seller of Secrets
+Булочко Михаил :: Loot, the Pathfinder
+Соловьев Валентин :: Ketramose, the New Dawn
+Поляков Герман :: Teferi, Temporal Archmage
+Саушкин Андрей :: Aragorn, King of Gondor
+Муравьев Никита :: Juri, Master of the Revue
+Байков Аркадий :: Vial Smasher the Fierce
+Красников Александр :: Taii Wakeen, Perfect Shot
+Звягин Георгий :: Imskir Iron-Eater
+Роднов Александр :: Aragorn, King of Gondor
+Тяпайкин Максим :: Keranos, God of Storms
+Мартынов Влад :: Keranos, God of Storms
+Двупечинский Никита :: Bruna, Light of Alabaster
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/37216

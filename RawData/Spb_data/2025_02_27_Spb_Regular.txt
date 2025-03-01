@@ -1,0 +1,25 @@
+location::Spb
+level::Regular
+date::2025_02_27
+organizer::Andysays
+players::generals
+Поляков Герман :: Teferi, Temporal Archmage
+Протасов Михаил :: Tivit, Seller of Secrets
+Грабовой Филипп :: Phelia, Exuberant Shepherd
+Байков Аркадий :: Vial Smasher the Fierce
+Шестаков Игорь :: Glarb, Calamity's Augur
+Федоров Дмитрий :: Amalia Benavides Aguirre
+Ларионов Александр :: Arahbo, Roar of the World
+Барабаш Валентин :: Ezio Auditore da Firenze
+Коростелев Илья :: Satya, the Aetherflux Genius
+Таловер Артем :: Winter, Cynical Opportunist
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Булочко Михаил :: Loot, the Pathfinder
+Хроменко Богдан :: Feather, the Redeemed
+Звягин Георгий :: Ketramose, the New Dawn
+Мартынов Влад :: Aragorn, King of Gondor
+Мартынов Яков  :: Tivit, Seller of Secrets
+Баранов Константин :: Ertai Resurrected
+Двуречинский Никита :: Bruna, Light of Alabaster
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/37386

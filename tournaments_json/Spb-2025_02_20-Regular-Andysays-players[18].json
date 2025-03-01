@@ -1,0 +1,441 @@
+{
+    "date": "2025_02_20",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Баранов Константин",
+            "Ertai Resurrected"
+        ],
+        [
+            "Таловер Артем",
+            "Winter, Cynical Opportunist"
+        ],
+        [
+            "Цюра Максим",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Коростелев Илья",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Ларионов Александр",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Булочко Михаил",
+            "Loot, the Pathfinder"
+        ],
+        [
+            "Соловьев Валентин",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Саушкин Андрей",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Муравьев Никита",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Красников Александр",
+            "Taii Wakeen, Perfect Shot"
+        ],
+        [
+            "Звягин Георгий",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Роднов Александр",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Keranos, God of Storms"
+        ],
+        [
+            "Мартынов Влад",
+            "Keranos, God of Storms"
+        ],
+        [
+            "Двупечинский Никита",
+            "Bruna, Light of Alabaster"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Муравьев Никита",
+                "Мартынов Яков",
+                "Juri, Master of the Revue",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Двупечинский Никита",
+                "Teferi, Temporal Archmage",
+                "Bruna, Light of Alabaster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Соловьев Валентин",
+                "Тяпайкин Максим",
+                "Ketramose, the New Dawn",
+                "Keranos, God of Storms",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Саушкин Андрей",
+                "Vial Smasher the Fierce",
+                "Aragorn, King of Gondor",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Красников Александр",
+                "Imskir Iron-Eater",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Роднов Александр",
+                "Цюра Максим",
+                "Aragorn, King of Gondor",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Таловер Артем",
+                "Satya, Aetherflux Genius",
+                "Winter, Cynical Opportunist",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Баранов Константин",
+                "Keranos, God of Storms",
+                "Ertai Resurrected",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Ларионов Александр",
+                "Loot, the Pathfinder",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Баранов Константин",
+                "Таловер Артем",
+                "Ertai Resurrected",
+                "Winter, Cynical Opportunist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Цюра Максим",
+                "Loot, the Pathfinder",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Соловьев Валентин",
+                "Teferi, Temporal Archmage",
+                "Ketramose, the New Dawn",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Муравьев Никита",
+                "Taii Wakeen, Perfect Shot",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Саушкин Андрей",
+                "Imskir Iron-Eater",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Байков Аркадий",
+                "Tivit, Seller of Secrets",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Тяпайкин Максим",
+                "Satya, Aetherflux Genius",
+                "Keranos, God of Storms",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Роднов Александр",
+                "Keranos, God of Storms",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Двупечинский Никита",
+                "Arahbo, Roar of the World",
+                "Bruna, Light of Alabaster",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Цюра Максим",
+                "Соловьев Валентин",
+                "Tivit, Seller of Secrets",
+                "Ketramose, the New Dawn",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Баранов Константин",
+                "Саушкин Андрей",
+                "Ertai Resurrected",
+                "Aragorn, King of Gondor",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Ларионов Александр",
+                "Juri, Master of the Revue",
+                "Arahbo, Roar of the World",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Роднов Александр",
+                "Tivit, Seller of Secrets",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Булочко Михаил",
+                "Satya, Aetherflux Genius",
+                "Loot, the Pathfinder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Поляков Герман",
+                "Winter, Cynical Opportunist",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Байков Аркадий",
+                "Taii Wakeen, Perfect Shot",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Тяпайкин Максим",
+                "Imskir Iron-Eater",
+                "Keranos, God of Storms",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Двупечинский Никита",
+                "Мартынов Влад",
+                "Bruna, Light of Alabaster",
+                "Keranos, God of Storms",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Цюра Максим",
+                "Баранов Константин",
+                "Tivit, Seller of Secrets",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Таловер Артем",
+                "Tivit, Seller of Secrets",
+                "Winter, Cynical Opportunist",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Соловьев Валентин",
+                "Коростелев Илья",
+                "Ketramose, the New Dawn",
+                "Satya, Aetherflux Genius",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Саушкин Андрей",
+                "Arahbo, Roar of the World",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Булочко Михаил",
+                "Taii Wakeen, Perfect Shot",
+                "Loot, the Pathfinder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Тяпайкин Максим",
+                "Teferi, Temporal Archmage",
+                "Keranos, God of Storms",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Байков Аркадий",
+                "Keranos, God of Storms",
+                "Vial Smasher the Fierce",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Двупечинский Никита",
+                "Imskir Iron-Eater",
+                "Bruna, Light of Alabaster",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

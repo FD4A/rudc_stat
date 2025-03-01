@@ -1,0 +1,1245 @@
+{
+    "date": "2025_01_31",
+    "location": "Online",
+    "level": "Regular",
+    "organizer": "AlexSmirnov",
+    "roundsCount": 6,
+    "players": [
+        [
+            "Бурмистров Павел",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Павликов Владислав",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Лагерев Леонид",
+            "Minsc, Beloved Ranger"
+        ],
+        [
+            "Костин Андрей",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Антипин Костя",
+            "Ezio, Blade of Vengeance"
+        ],
+        [
+            "Сайфутдинов Тимур",
+            "Loot, the Pathfinder"
+        ],
+        [
+            "Серпутько Слава",
+            "Tyvar, the Pummeler"
+        ],
+        [
+            "Орешкин Дмитрий",
+            "Hidetsugu and Kairi"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Козлов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Стрельцов Артем",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Мещеряков Максим",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Шестаков Игорь",
+            "Ezio, Blade of Vengeance"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Ertai Resurrected"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Васильев Илья",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Поспелов Александр",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Токарев Александр",
+            "Malcolm, the Eyes"
+        ],
+        [
+            "Ламзин Сережа",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Барабаш Валентин",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Булочко Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Воронцов Иван",
+            "Phlage, Titan of Fire's Fury"
+        ],
+        [
+            "Поляков Герман",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Заруцкий Семён",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Палачев Константин",
+            "Kolodin, Triumph Caster"
+        ],
+        [
+            "Сухов Никита",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Виноградов Артем",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Кузьмин Руслан",
+            "Kiora, the Rising Tide"
+        ],
+        [
+            "Штофов Арсений",
+            "Basim Ibn Ishaq"
+        ],
+        [
+            "Дартау Сергей",
+            "Zahur, Glory's Past"
+        ],
+        [
+            "Редько Павел",
+            "The Beamtown Bullies"
+        ],
+        [
+            "Марченко Олег",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Циулин Иван",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Шубенин Илья",
+            "Captain Howler, Sea Scourge"
+        ],
+        [
+            "Ревин Владимир",
+            "Karlov of the Ghost Council :+: Lurrus of the Dream-Den"
+        ],
+        [
+            "Петровых Дмитрий",
+            "Clement, the Worrywort"
+        ],
+        [
+            "Краснов Илья",
+            "Loot, the Pathfinder"
+        ],
+        [
+            "Плотников Александр",
+            "Mendicant Core, Guidelight"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Плотников Александр",
+                "Марченко Олег",
+                "Mendicant Core, Guidelight",
+                "Ketramose, the New Dawn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ламзин Сережа",
+                "Козлов Максим",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Дартау Сергей",
+                "Ertai Resurrected",
+                "Zahur, Glory's Past",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Краснов Илья",
+                "Loot, the Pathfinder",
+                "Loot, the Pathfinder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васильев Илья",
+                "Штофов Арсений",
+                "Ketramose, the New Dawn",
+                "Basim Ibn Ishaq",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кузьмин Руслан",
+                "Поляков Герман",
+                "Kiora, the Rising Tide",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Павликов Владислав",
+                "Ezio, Blade of Vengeance",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Токарев Александр",
+                "Циулин Иван",
+                "Malcolm, the Eyes",
+                "Ketramose, the New Dawn",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Барабаш Валентин",
+                "Minsc, Beloved Ranger",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Шубенин Илья",
+                "Aminatou, the Fateshifter",
+                "Captain Howler, Sea Scourge",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Бурмистров Павел",
+                "Антипин Костя",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Ezio, Blade of Vengeance",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сухов Никита",
+                "Воронцов Иван",
+                "Teferi, Temporal Archmage",
+                "Phlage, Titan of Fire's Fury",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Палачев Константин",
+                "Петровых Дмитрий",
+                "Kolodin, Triumph Caster",
+                "Clement, the Worrywort",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Заруцкий Семён",
+                "Ral, Monsoon Mage",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Стрельцов Артем",
+                "Karlov of the Ghost Council :+: Lurrus of the Dream-Den",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Костин Андрей",
+                "Матюнин Антон",
+                "Imskir Iron-Eater",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Виноградов Артем",
+                "Орешкин Дмитрий",
+                "Sythis, Harvest's Hand",
+                "Hidetsugu and Kairi",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мещеряков Максим",
+                "Муравьев Роман",
+                "Satya, Aetherflux Genius",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Серпутько Слава",
+                "The Beamtown Bullies",
+                "Tyvar, the Pummeler",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Поспелов Александр",
+                "Матюнин Антон",
+                "Ral, Monsoon Mage",
+                "Muxus, Goblin Grandee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Васильев Илья",
+                "Булочко Михаил",
+                "Ketramose, the New Dawn",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Палачев Константин",
+                "Minsc, Beloved Ranger",
+                "Kolodin, Triumph Caster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Сухов Никита",
+                "Ketramose, the New Dawn",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Бурмистров Павел",
+                "Ertai Resurrected",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Марченко Олег",
+                "Стрельцов Артем",
+                "Ketramose, the New Dawn",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Поляков Герман",
+                "Geist of Saint Traft",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Серпутько Слава",
+                "Орешкин Дмитрий",
+                "Tyvar, the Pummeler",
+                "Hidetsugu and Kairi",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Павликов Владислав",
+                "Сайфутдинов Тимур",
+                "Tivit, Seller of Secrets",
+                "Loot, the Pathfinder",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Токарев Александр",
+                "Dihada, Binder of Wills",
+                "Malcolm, the Eyes",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Плотников Александр",
+                "Барабаш Валентин",
+                "Mendicant Core, Guidelight",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Виноградов Артем",
+                "Мещеряков Максим",
+                "Sythis, Harvest's Hand",
+                "Satya, Aetherflux Genius",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кузьмин Руслан",
+                "Костин Андрей",
+                "Kiora, the Rising Tide",
+                "Imskir Iron-Eater",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Петровых Дмитрий",
+                "Заруцкий Семён",
+                "Clement, the Worrywort",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Редько Павел",
+                "Karlov of the Ghost Council :+: Lurrus of the Dream-Den",
+                "The Beamtown Bullies",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Дартау Сергей",
+                "Ezio, Blade of Vengeance",
+                "Zahur, Glory's Past",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Штофов Арсений",
+                "Краснов Илья",
+                "Basim Ibn Ishaq",
+                "Loot, the Pathfinder",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Антипин Костя",
+                "Шубенин Илья",
+                "Ezio, Blade of Vengeance",
+                "Captain Howler, Sea Scourge",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Воронцов Иван",
+                "Ламзин Сережа",
+                "Phlage, Titan of Fire's Fury",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Сухов Никита",
+                "Матюнин Антон",
+                "Teferi, Temporal Archmage",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Орешкин Дмитрий",
+                "Бурмистров Павел",
+                "Hidetsugu and Kairi",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Стрельцов Артем",
+                "Minsc, Beloved Ranger",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Павликов Владислав",
+                "Aminatou, the Fateshifter",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Циулин Иван",
+                "Geist of Saint Traft",
+                "Ketramose, the New Dawn",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Палачев Константин",
+                "Токарев Александр",
+                "Kolodin, Triumph Caster",
+                "Malcolm, the Eyes",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Сайфутдинов Тимур",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Loot, the Pathfinder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Марченко Олег",
+                "Ezio, Blade of Vengeance",
+                "Ketramose, the New Dawn",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Поспелов Александр",
+                "Ertai Resurrected",
+                "Ral, Monsoon Mage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мещеряков Максим",
+                "Заруцкий Семён",
+                "Satya, Aetherflux Genius",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Штофов Арсений",
+                "Барабаш Валентин",
+                "Basim Ibn Ishaq",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Антипин Костя",
+                "Воронцов Иван",
+                "Ezio, Blade of Vengeance",
+                "Phlage, Titan of Fire's Fury",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Васильев Илья",
+                "The Beamtown Bullies",
+                "Ketramose, the New Dawn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Костин Андрей",
+                "Dihada, Binder of Wills",
+                "Imskir Iron-Eater",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Серпутько Слава",
+                "Дартау Сергей",
+                "Tyvar, the Pummeler",
+                "Zahur, Glory's Past",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Ламзин Сережа",
+                "Loot, the Pathfinder",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Виноградов Артем",
+                "Karlov of the Ghost Council :+: Lurrus of the Dream-Den",
+                "Sythis, Harvest's Hand",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кузьмин Руслан",
+                "Плотников Александр",
+                "Kiora, the Rising Tide",
+                "Mendicant Core, Guidelight",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Петровых Дмитрий",
+                "Captain Howler, Sea Scourge",
+                "Clement, the Worrywort",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Матюнин Антон",
+                "Бурмистров Павел",
+                "Muxus, Goblin Grandee",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Павликов Владислав",
+                "Лагерев Леонид",
+                "Tivit, Seller of Secrets",
+                "Minsc, Beloved Ranger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Серпутько Слава",
+                "Geist of Saint Traft",
+                "Tyvar, the Pummeler",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Булочко Михаил",
+                "Ezio, Blade of Vengeance",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Стрельцов Артем",
+                "Костин Андрей",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Imskir Iron-Eater",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сухов Никита",
+                "Орешкин Дмитрий",
+                "Teferi, Temporal Archmage",
+                "Hidetsugu and Kairi",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Сайфутдинов Тимур",
+                "Teferi, Temporal Archmage",
+                "Loot, the Pathfinder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Васильев Илья",
+                "Ral, Monsoon Mage",
+                "Ketramose, the New Dawn",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Токарев Александр",
+                "Мещеряков Максим",
+                "Malcolm, the Eyes",
+                "Satya, Aetherflux Genius",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Антипин Костя",
+                "Заруцкий Семён",
+                "Ezio, Blade of Vengeance",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Воронцов Иван",
+                "Кузьмин Руслан",
+                "Phlage, Titan of Fire's Fury",
+                "Kiora, the Rising Tide",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Редько Павел",
+                "Dihada, Binder of Wills",
+                "The Beamtown Bullies",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Палачев Константин",
+                "Шубенин Илья",
+                "Kolodin, Triumph Caster",
+                "Captain Howler, Sea Scourge",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Виноградов Артем",
+                "Курмакаев Игорь",
+                "Sythis, Harvest's Hand",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Штофов Арсений",
+                "Ламзин Сережа",
+                "Basim Ibn Ishaq",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Поляков Герман",
+                "Ketramose, the New Dawn",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Петровых Дмитрий",
+                "Плотников Александр",
+                "Clement, the Worrywort",
+                "Mendicant Core, Guidelight",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дартау Сергей",
+                "Ревин Владимир",
+                "Zahur, Glory's Past",
+                "Karlov of the Ghost Council :+: Lurrus of the Dream-Den",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Бурмистров Павел",
+                "Павликов Владислав",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Антипин Костя",
+                "Орешкин Дмитрий",
+                "Ezio, Blade of Vengeance",
+                "Hidetsugu and Kairi",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Лагерев Леонид",
+                "Geist of Saint Traft",
+                "Minsc, Beloved Ranger",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Серпутько Слава",
+                "Шестаков Игорь",
+                "Tyvar, the Pummeler",
+                "Ezio, Blade of Vengeance",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Костин Андрей",
+                "Мещеряков Максим",
+                "Imskir Iron-Eater",
+                "Satya, Aetherflux Genius",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Васильев Илья",
+                "Loot, the Pathfinder",
+                "Ketramose, the New Dawn",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Стрельцов Артем",
+                "Muxus, Goblin Grandee",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Токарев Александр",
+                "Сухов Никита",
+                "Malcolm, the Eyes",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Палачев Константин",
+                "Ламзин Сережа",
+                "Kolodin, Triumph Caster",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Воронцов Иван",
+                "Ertai Resurrected",
+                "Phlage, Titan of Fire's Fury",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Муравьев Роман",
+                "Teferi, Temporal Archmage",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Поляков Герман",
+                "Ral, Monsoon Mage",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Петровых Дмитрий",
+                "Виноградов Артем",
+                "Clement, the Worrywort",
+                "Sythis, Harvest's Hand",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Заруцкий Семён",
+                "Captain Howler, Sea Scourge",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Кузьмин Руслан",
+                "The Beamtown Bullies",
+                "Kiora, the Rising Tide",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Штофов Арсений",
+                "Karlov of the Ghost Council :+: Lurrus of the Dream-Den",
+                "Basim Ibn Ishaq",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Бурмистров Павел",
+                "Лагерев Леонид",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Minsc, Beloved Ranger",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Павликов Владислав",
+                "Костин Андрей",
+                "Tivit, Seller of Secrets",
+                "Imskir Iron-Eater",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Антипин Костя",
+                "Сайфутдинов Тимур",
+                "Ezio, Blade of Vengeance",
+                "Loot, the Pathfinder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Серпутько Слава",
+                "Матюнин Антон",
+                "Tyvar, the Pummeler",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Орешкин Дмитрий",
+                "Козлов Максим",
+                "Hidetsugu and Kairi",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Стрельцов Артем",
+                "Мещеряков Максим",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Satya, Aetherflux Genius",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Курмакаев Игорь",
+                "Ezio, Blade of Vengeance",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Васильев Илья",
+                "Dihada, Binder of Wills",
+                "Ketramose, the New Dawn",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Токарев Александр",
+                "Ral, Monsoon Mage",
+                "Malcolm, the Eyes",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ламзин Сережа",
+                "Барабаш Валентин",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Воронцов Иван",
+                "Поляков Герман",
+                "Phlage, Titan of Fire's Fury",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Заруцкий Семён",
+                "Палачев Константин",
+                "Feldon, Ronom Excavator",
+                "Kolodin, Triumph Caster",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сухов Никита",
+                "Виноградов Артем",
+                "Teferi, Temporal Archmage",
+                "Sythis, Harvest's Hand",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кузьмин Руслан",
+                "Штофов Арсений",
+                "Kiora, the Rising Tide",
+                "Basim Ibn Ishaq",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Шубенин Илья",
+                "The Beamtown Bullies",
+                "Captain Howler, Sea Scourge",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Петровых Дмитрий",
+                "Karlov of the Ghost Council :+: Lurrus of the Dream-Den",
+                "Clement, the Worrywort",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

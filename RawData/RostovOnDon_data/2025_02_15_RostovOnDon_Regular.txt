@@ -1,0 +1,20 @@
+location::RostovOnDon
+level::Regular
+date::2025_02_15
+organizer::Constantin
+players::generals
+Davidov Alexander :: Magda, Brazen Outlaw
+Zakharenko Vyacheslav :: Ivy, Gleeful Spellthief
+Redko Pavel :: Light-Paws, Emperor's Voice
+Shubenin Ilya :: Malcolm, Alluring Scoundrel
+Kovalev Alexander :: Ezio Auditore da Firenze
+Zinkovsky Sergey :: Geist of Saint Traft
+Burmistrov Pavel :: Phelia, Exuberant Shepherd
+Merkulov Vladislav :: Zabaz, the Glimmerwasp
+Lukaynov Vadim :: Teferi, Temporal Archmage
+Marchenko Oleg :: Slimefoot and Squee
+Somkin Constantin :: Elminster
+Hon Vadim :: Light-Paws, Emperor's Voice
+Mishin Vasily :: Ertai Resurrected
+Round
+https://aetherhub.com/Tourney/RoundTourney/37027

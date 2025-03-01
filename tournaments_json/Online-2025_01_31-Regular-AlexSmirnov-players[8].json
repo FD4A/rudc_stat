@@ -1,0 +1,119 @@
+{
+    "date": "2025_01_31",
+    "location": "Online",
+    "level": "Regular",
+    "organizer": "AlexSmirnov",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Орешкин Дмитрий",
+            "Hidetsugu and Kairi"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Бурмистров Павел",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Антипин Костя",
+            "Ezio, Blade of Vengeance"
+        ],
+        [
+            "Лагерев Леонид",
+            "Minsc, Beloved Ranger"
+        ],
+        [
+            "Костин Андрей",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Стрельцов Артем",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Павликов Владислав",
+            "Tivit, Seller of Secrets"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Антипин Костя",
+                "Павликов Владислав",
+                "Ezio, Blade of Vengeance",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Бурмистров Павел",
+                "Стрельцов Артем",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Костин Андрей",
+                "Матюнин Антон",
+                "Imskir Iron-Eater",
+                "Muxus, Goblin Grandee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Орешкин Дмитрий",
+                "Minsc, Beloved Ranger",
+                "Hidetsugu and Kairi",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Антипин Костя",
+                "Матюнин Антон",
+                "Ezio, Blade of Vengeance",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Бурмистров Павел",
+                "Орешкин Дмитрий",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Hidetsugu and Kairi",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Матюнин Антон",
+                "Орешкин Дмитрий",
+                "Muxus, Goblin Grandee",
+                "Hidetsugu and Kairi",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}
