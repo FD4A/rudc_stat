@@ -11,7 +11,7 @@ players::generals
 Матюнин Антон :: Gut, True Soul Zealot :+: Agent of the Iron Throne
 Павликов Владислав :: Tivit, Seller of Secrets
 Сухов Никита :: Dihada, Binder of Wills
-Сайфутдинов Тимур :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Сайфутдинов Тимур :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
 Богданов Сергей :: Kroxa, Titan of Death's Hunger
 Шубенин Илья :: Malcolm, Alluring Scoundrel
 Антипин Костя :: Slimefoot and Squee

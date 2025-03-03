@@ -20,7 +20,7 @@ players::generals
 Поляков Герман :: Teferi, Temporal Archmage
 Муравьев Никита :: Juri, Master of the Revue
 Богатырев Александр :: Indoraptor, the Perfect Hybrid
-Ульянов Алексей :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Ульянов Алексей :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
 Баранов Константин :: Ertai Resurrected
 Мартынов Владислав :: Tivit, Seller of Secrets
 Путилов Сергей :: Azusa, Lost but Seeking

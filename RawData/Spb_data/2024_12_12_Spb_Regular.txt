@@ -13,7 +13,7 @@ players::generals
 Булочко Михаил :: Aminatou, the Fateshifter
 Красников Александр :: Malcolm, Alluring Scoundrel
 Барабаш Валентин :: Iron Man, Titan of Innovation
-Ульянов Алексей :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Ульянов Алексей :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
 Байков Аркадий :: Vial Smasher the Fierce
 Саушкин Андрей :: Aragorn, King of Gondor
 Мартынов Яков :: Tasigur, the Golden Fang

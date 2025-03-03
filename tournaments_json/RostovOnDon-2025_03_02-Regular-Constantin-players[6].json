@@ -1,0 +1,131 @@
+{
+    "date": "2025_03_02",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Cherepovskiy Roman",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Shubenin Ilya",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Kovalev Alexander",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Antipin Constantin",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Mishin Vasily",
+            "Ertai Resurrected"
+        ],
+        [
+            "Somkin Constantin",
+            "Jolrael, Mwonvuli Recluse"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Somkin Constantin",
+                "Shubenin Ilya",
+                "Jolrael, Mwonvuli Recluse",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Mishin Vasily",
+                "Kroxa, Titan of Death's Hunger",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Antipin Constantin",
+                "Kovalev Alexander",
+                "Feldon, Ronom Excavator",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Kovalev Alexander",
+                "Shubenin Ilya",
+                "Ezio Auditore da Firenze",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Somkin Constantin",
+                "Kroxa, Titan of Death's Hunger",
+                "Jolrael, Mwonvuli Recluse",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Mishin Vasily",
+                "Antipin Constantin",
+                "Ertai Resurrected",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Shubenin Ilya",
+                "Cherepovskiy Roman",
+                "Malcolm, Alluring Scoundrel",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Antipin Constantin",
+                "Jolrael, Mwonvuli Recluse",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Kovalev Alexander",
+                "Mishin Vasily",
+                "Ezio Auditore da Firenze",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

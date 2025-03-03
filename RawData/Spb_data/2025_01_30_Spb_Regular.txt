@@ -8,7 +8,7 @@ players::generals
 Муравьев Роман :: Dihada, Binder of Wills
 Тяпайкин Максим :: Geist of Saint Traft
 Красников Александр :: Taii Wakeen Perfect Shot
-Ульянов Алексей :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Ульянов Алексей :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
 Шестаков Игорь :: Ezio Auditore da Firenze
 Грабовой Филипп :: Phelia, Exuberant Shepherd
 Саушкин Андрей :: Aragorn, King of Gondor

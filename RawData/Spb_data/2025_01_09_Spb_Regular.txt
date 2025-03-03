@@ -10,7 +10,7 @@ players::generals
 Протасов Михаил :: Tivit, Seller of Secrets
 Барабаш Валентин :: Teferi, Temporal Archmage
 Таловер Артем :: Winter, Cynical Opportunist
-Ульянов Алексей :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Ульянов Алексей :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
 Саушкин Андрей :: Aragorn, King of Gondor
 Звягин Георгий :: Juri, Master of the Revue
 Муравьев Никита :: Juri, Master of the Revue

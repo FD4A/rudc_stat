@@ -6,7 +6,7 @@ players::generals
 Шестаков Игорь :: Ezio Auditore da Firenze
 Тяпайкин Максим :: Geist of Saint Traft
 Булочко Михаил :: Aminatou, the Fateshifter
-Ульянов Алексей :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Ульянов Алексей :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
 Корсаков Алексей :: Ghyrson Starn, Kelermorph
 Мартынов Яков :: Tasigur, the Golden Fang
 Грабовой Филипп :: Ezio Auditore da Firenze

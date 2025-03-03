@@ -8,15 +8,15 @@
        vs Grenzo, Dungeon Warden           (w:0 l:1 d:0), (1/2)
        vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
        vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (0/2)
-       vs Thrasios, Triton Hero            (w:1 l:0 d:0), (2/0)
-        + Bruse Tarl, Boorish Herder      
+       vs Bruse Tarl, Boorish Herder       (w:1 l:0 d:0), (2/0)
+        + Thrasios, Triton Hero           
        vs Juri, Master of the Revue        (w:0 l:1 d:0), (0/2)
 
 
 = Aragorn, King of Gondor          matches:4    WM: 75.00%  LM:  0.00%  DM: 25.00% (wm:3   lm:0   dm:1)  games:9    WG: 77.78% LG: 22.22% (wg:   7 lg:   2) pick: 1    Spb(1), 
        vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/0)
-       vs Thrasios, Triton Hero            (w:0 l:0 d:1), (1/1)
-        + Bruse Tarl, Boorish Herder      
+       vs Bruse Tarl, Boorish Herder       (w:0 l:0 d:1), (1/1)
+        + Thrasios, Triton Hero           
        vs Feldon, Ronom Excavator          (w:1 l:0 d:0), (2/1)
        vs Grenzo, Dungeon Warden           (w:1 l:0 d:0), (2/0)
 
@@ -36,18 +36,26 @@
 
 
 = Azusa, Lost but Seeking          matches:4    WM: 25.00%  LM: 50.00%  DM: 25.00% (wm:1   lm:2   dm:1)  games:10   WG: 40.00% LG: 60.00% (wg:   4 lg:   6) pick: 1    Spb(1), 
-       vs Thrasios, Triton Hero            (w:0 l:1 d:0), (1/2)
-        + Bruse Tarl, Boorish Herder      
+       vs Bruse Tarl, Boorish Herder       (w:0 l:1 d:0), (1/2)
+        + Thrasios, Triton Hero           
        vs Tivit, Seller of Secrets         (w:0 l:0 d:1), (1/1)
        vs Ezio Auditore da Firenze         (w:0 l:1 d:0), (0/2)
        vs Atraxa, Praetors' Voice          (w:1 l:0 d:0), (2/1)
 
 
+= Bruse Tarl, Boorish Herder       matches:4    WM: 25.00%  LM: 50.00%  DM: 25.00% (wm:1   lm:2   dm:1)  games:10   WG: 40.00% LG: 60.00% (wg:   4 lg:   6) pick: 1    Spb(1), 
+  + Thrasios, Triton Hero       
+       vs Azusa, Lost but Seeking          (w:1 l:0 d:0), (2/1)
+       vs Aragorn, King of Gondor          (w:0 l:0 d:1), (1/1)
+       vs Edric, Spymaster of Trest        (w:0 l:1 d:0), (1/2)
+       vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
+
+
 = Edric, Spymaster of Trest        matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:11   WG: 54.55% LG: 45.45% (wg:   6 lg:   5) pick: 1    Spb(1), 
        vs Teferi, Temporal Archmage        (w:1 l:1 d:0), (3/2)
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (1/2)
-       vs Thrasios, Triton Hero            (w:1 l:0 d:0), (2/1)
-        + Bruse Tarl, Boorish Herder      
+       vs Bruse Tarl, Boorish Herder       (w:1 l:0 d:0), (2/1)
+        + Thrasios, Triton Hero           
 
 
 = Ertai Resurrected                matches:4    WM: 25.00%  LM: 50.00%  DM: 25.00% (wm:1   lm:2   dm:1)  games:9    WG: 44.44% LG: 55.56% (wg:   4 lg:   5) pick: 1    Spb(1), 
@@ -135,14 +143,6 @@
        vs Tivit, Seller of Secrets         (w:0 l:2 d:0), (1/4)
        vs Juri, Master of the Revue        (w:1 l:0 d:0), (2/0)
        vs Vial Smasher the Fierce          (w:0 l:1 d:0), (1/2)
-
-
-= Thrasios, Triton Hero            matches:4    WM: 25.00%  LM: 50.00%  DM: 25.00% (wm:1   lm:2   dm:1)  games:10   WG: 40.00% LG: 60.00% (wg:   4 lg:   6) pick: 1    Spb(1), 
-  + Bruse Tarl, Boorish Herder  
-       vs Azusa, Lost but Seeking          (w:1 l:0 d:0), (2/1)
-       vs Aragorn, King of Gondor          (w:0 l:0 d:1), (1/1)
-       vs Edric, Spymaster of Trest        (w:0 l:1 d:0), (1/2)
-       vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
 
 
 = Tivit, Seller of Secrets         matches:12   WM: 50.00%  LM: 33.33%  DM: 16.67% (wm:6   lm:4   dm:2)  games:29   WG: 58.62% LG: 41.38% (wg:  17 lg:  12) pick: 3    Spb(3), 

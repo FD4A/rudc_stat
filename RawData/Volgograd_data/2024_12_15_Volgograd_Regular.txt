@@ -6,7 +6,7 @@ players::generals
 Никита Сухов :: Teferi, Temporal Archmage
 Александр Смирнов :: Muxus, Goblin Grandee
 Константин Антипин :: Feldon, Ronom Excavator
-Тимур Сайфутдинов :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Тимур Сайфутдинов :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
 Александр Токарев :: Slimefoot and Squree
 Артём Стрельцов :: Selvala, Explorer Returned
 Артём Ангурцов :: Feldon, Ronom Excavator

@@ -7,7 +7,7 @@ players::generals
 Александр Токарев :: Aminatou the Fateshifter
 Александр Смирнов :: Muxus Goblin Grandee
 Александр Максимов :: Karlov of the Ghost Council :++: Lurrus of the Dream-Den
-Тимур Сайфутдинов :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Тимур Сайфутдинов :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
 Виталий Васильев :: Grist the Hunger Tide
 Артём Стрельцов :: Lonis Cryptozoologist
 Артём Ангурцов :: Iron Man Titan of Innovation

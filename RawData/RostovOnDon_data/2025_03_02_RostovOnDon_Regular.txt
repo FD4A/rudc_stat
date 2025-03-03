@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2025_03_02
+organizer::Constantin
+players::generals
+Cherepovskiy Roman :: Kroxa, Titan of Death's Hunger
+Shubenin Ilya :: Malcolm, Alluring Scoundrel
+Kovalev Alexander :: Ezio Auditore da Firenze
+Antipin Constantin :: Feldon, Ronom Excavator
+Mishin Vasily :: Ertai Resurrected
+Somkin Constantin :: Jolrael, Mwonvuli Recluse
+Round
+https://aetherhub.com/Tourney/RoundTourney/37493
