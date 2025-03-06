@@ -1,0 +1,21 @@
+location::Spb
+level::Regular
+date::2025_03_06
+organizer::Andysays
+players::generals
+Грабовой Филипп :: Phelia, Exuberant Shepherd
+Яковлев Николай :: The Wise Mothman
+Мартынов Яков :: Tivit, Seller of Secrets
+Таловер Артем :: Winter, Cynical Opportunist
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Барабаш Валентин :: Ezio Auditore da Firenze
+Красников Александр :: Ghyrson Starn, Kelermorph
+Ульянов Алексей :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Кувяткин Илья :: Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero
+Вахитов Ривкат :: Sygg, River Cutthroat
+Федоров Дмитрий :: Amalia Benavides Aguirre
+Булочко Михаил :: Loot, the Pathfinder
+Звягин Георгий :: Dihada, Binder of Wills
+Шестаков Игорь :: Glarb, Calamity's Augur
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/37572

@@ -1,0 +1,355 @@
+{
+    "date": "2025_03_06",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Грабовой Филипп",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Яковлев Николай",
+            "The Wise Mothman"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Таловер Артем",
+            "Winter, Cynical Opportunist"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Барабаш Валентин",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Красников Александр",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Ульянов Алексей",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Кувяткин Илья",
+            "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Вахитов Ривкат",
+            "Sygg, River Cutthroat"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Amalia Benavides Aguirre"
+        ],
+        [
+            "Булочко Михаил",
+            "Loot, the Pathfinder"
+        ],
+        [
+            "Звягин Георгий",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Шестаков Игорь",
+            "Glarb, Calamity's Augur"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Яковлев Николай",
+                "Таловер Артем",
+                "The Wise Mothman",
+                "Winter, Cynical Opportunist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Булочко Михаил",
+                "Ezio Auditore da Firenze",
+                "Loot, the Pathfinder",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Грабовой Филипп",
+                "Sygg, River Cutthroat",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Кувяткин Илья",
+                "Dihada, Binder of Wills",
+                "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Шестаков Игорь",
+                "Tivit, Seller of Secrets",
+                "Glarb, Calamity's Augur",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Ульянов Алексей",
+                "Amalia Benavides Aguirre",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Красников Александр",
+                "Ghyrson Starn, Kelermorph",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Яковлев Николай",
+                "Ульянов Алексей",
+                "The Wise Mothman",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Кувяткин Илья",
+                "Tivit, Seller of Secrets",
+                "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Красников Александр",
+                "Ezio Auditore da Firenze",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Федоров Дмитрий",
+                "Sygg, River Cutthroat",
+                "Amalia Benavides Aguirre",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Шестаков Игорь",
+                "Phelia, Exuberant Shepherd",
+                "Glarb, Calamity's Augur",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Звягин Георгий",
+                "Ghyrson Starn, Kelermorph",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Булочко Михаил",
+                "Winter, Cynical Opportunist",
+                "Loot, the Pathfinder",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Мартынов Яков",
+                "Яковлев Николай",
+                "Tivit, Seller of Secrets",
+                "The Wise Mothman",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Грабовой Филипп",
+                "Ezio Auditore da Firenze",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кувяткин Илья",
+                "Красников Александр",
+                "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Федоров Дмитрий",
+                "Ghyrson Starn, Kelermorph",
+                "Amalia Benavides Aguirre",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Ульянов Алексей",
+                "Winter, Cynical Opportunist",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Шестаков Игорь",
+                "Sygg, River Cutthroat",
+                "Glarb, Calamity's Augur",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Звягин Георгий",
+                "Loot, the Pathfinder",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Мартынов Яков",
+                "Грабовой Филипп",
+                "Tivit, Seller of Secrets",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Барабаш Валентин",
+                "The Wise Mothman",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Таловер Артем",
+                "Ghyrson Starn, Kelermorph",
+                "Winter, Cynical Opportunist",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Родюков Федор",
+                "Sygg, River Cutthroat",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Кувяткин Илья",
+                "Amalia Benavides Aguirre",
+                "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Булочко Михаил",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Loot, the Pathfinder",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Звягин Георгий",
+                "Glarb, Calamity's Augur",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ]
+    ]
+}
