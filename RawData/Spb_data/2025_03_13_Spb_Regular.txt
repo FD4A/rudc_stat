@@ -1,0 +1,23 @@
+location::Spb
+level::Regular
+date::2025_03_13
+organizer::Andysays
+players::generals
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Поляков Герман :: Teferi, Temporal Archmage
+Протасов Михаил :: Tivit, Seller of Secrets
+Корсаков Алексей :: Ghyrson Starn, Kelermorph
+Булочко Михаил :: Ezio Auditore da Firenze
+Таловер Артем :: Winter, Cynical Opportunist
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Федоров Дмитрий :: Amalia Benavides Aguirre
+Грабовой Филипп :: Ketramose, the New Dawn
+Красников Александр :: Baral and Kari Zev
+Барабаш Валентин :: Ezio Auditore da Firenze
+Мартынов Яков :: Tivit, Seller of Secrets
+Саушкин Андрей :: Aragorn, King of Gondor
+Иванов Максим :: Geist of Saint Traft
+Истомин Евгений :: Lonis, Cryptozoologist
+Байков Аркадий :: Vial Smasher the Fierce
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/37745

@@ -1,0 +1,131 @@
+{
+    "date": "2025_03_09",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Burmistrov Pavel",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Kovalev Alexander",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Somkin Constantin",
+            "Elminster"
+        ],
+        [
+            "Cherepovskiy Roman",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Elinskiy Denis",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Lukaynov Vadim",
+            "Flubs, the Fool"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Kovalev Alexander",
+                "Elinskiy Denis",
+                "Ezio Auditore da Firenze",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Burmistrov Pavel",
+                "Kroxa, Titan of Death's Hunger",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Lukaynov Vadim",
+                "Elminster",
+                "Flubs, the Fool",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Somkin Constantin",
+                "Kovalev Alexander",
+                "Elminster",
+                "Ezio Auditore da Firenze",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Burmistrov Pavel",
+                "Lukaynov Vadim",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Flubs, the Fool",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Elinskiy Denis",
+                "Kroxa, Titan of Death's Hunger",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Kovalev Alexander",
+                "Burmistrov Pavel",
+                "Ezio Auditore da Firenze",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Elinskiy Denis",
+                "Somkin Constantin",
+                "Phelia, Exuberant Shepherd",
+                "Elminster",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Lukaynov Vadim",
+                "Kroxa, Titan of Death's Hunger",
+                "Flubs, the Fool",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

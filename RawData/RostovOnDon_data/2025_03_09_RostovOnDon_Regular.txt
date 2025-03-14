@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2025_03_09
+organizer::Constantin
+players::generals
+Burmistrov Pavel :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Kovalev Alexander :: Ezio Auditore da Firenze
+Somkin Constantin :: Elminster
+Cherepovskiy Roman :: Kroxa, Titan of Death's Hunger
+Elinskiy Denis :: Phelia, Exuberant Shepherd
+Lukaynov Vadim :: Flubs, the Fool
+Round
+https://aetherhub.com/Tourney/RoundTourney/37663

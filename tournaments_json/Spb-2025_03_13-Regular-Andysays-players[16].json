@@ -1,0 +1,383 @@
+{
+    "date": "2025_03_13",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Протасов Михаил",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Корсаков Алексей",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Булочко Михаил",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Таловер Артем",
+            "Winter, Cynical Opportunist"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Amalia Benavides Aguirre"
+        ],
+        [
+            "Грабовой Филипп",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Красников Александр",
+            "Baral and Kari Zev"
+        ],
+        [
+            "Барабаш Валентин",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Саушкин Андрей",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Иванов Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Истомин Евгений",
+            "Lonis, Cryptozoologist"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Таловер Артем",
+                "Булочко Михаил",
+                "Winter, Cynical Opportunist",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Поляков Герман",
+                "Ketramose, the New Dawn",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Истомин Евгений",
+                "Федоров Дмитрий",
+                "Lonis, Cryptozoologist",
+                "Amalia Benavides Aguirre",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Красников Александр",
+                "Tivit, Seller of Secrets",
+                "Baral and Kari Zev",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Мартынов Яков",
+                "Vial Smasher the Fierce",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Корсаков Алексей",
+                "Geist of Saint Traft",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Барабаш Валентин",
+                "Aragorn, King of Gondor",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Ульянов Алексей",
+                "Indoraptor, the Perfect Hybrid",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Корсаков Алексей",
+                "Поляков Герман",
+                "Ghyrson Starn, Kelermorph",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Мартынов Яков",
+                "Golos, Tireless Pilgrim",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Таловер Артем",
+                "Aragorn, King of Gondor",
+                "Winter, Cynical Opportunist",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Протасов Михаил",
+                "Amalia Benavides Aguirre",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Булочко Михаил",
+                "Indoraptor, the Perfect Hybrid",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Максим",
+                "Барабаш Валентин",
+                "Geist of Saint Traft",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Красников Александр",
+                "Vial Smasher the Fierce",
+                "Baral and Kari Zev",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Истомин Евгений",
+                "Грабовой Филипп",
+                "Lonis, Cryptozoologist",
+                "Ketramose, the New Dawn",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Таловер Артем",
+                "Teferi, Temporal Archmage",
+                "Winter, Cynical Opportunist",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Ульянов Алексей",
+                "Tivit, Seller of Secrets",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Иванов Максим",
+                "Ketramose, the New Dawn",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Саушкин Андрей",
+                "Ghyrson Starn, Kelermorph",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Красников Александр",
+                "Amalia Benavides Aguirre",
+                "Baral and Kari Zev",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Мартынов Яков",
+                "Ezio Auditore da Firenze",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Истомин Евгений",
+                "Барабаш Валентин",
+                "Lonis, Cryptozoologist",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Байков Аркадий",
+                "Indoraptor, the Perfect Hybrid",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Ульянов Алексей",
+                "Teferi, Temporal Archmage",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Протасов Михаил",
+                "Winter, Cynical Opportunist",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Корсаков Алексей",
+                "Ketramose, the New Dawn",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Булочко Михаил",
+                "Amalia Benavides Aguirre",
+                "Ezio Auditore da Firenze",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Мартынов Яков",
+                "Indoraptor, the Perfect Hybrid",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Иванов Максим",
+                "Baral and Kari Zev",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}
