@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2025_03_29
+organizer::Constantin
+players::generals
+Burmistrov Pavel :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Kovalev Alexander :: Basim Ibn Ishaq
+Elinskiy Denis :: Feldon, Ronom Excavator
+Shubenin Ilya :: Malcolm, Alluring Scoundrel
+Somkin Constantin :: Elminster
+Lukaynov Vadim :: Teferi, Temporal Archmage
+Round
+https://aetherhub.com/Tourney/RoundTourney/38161

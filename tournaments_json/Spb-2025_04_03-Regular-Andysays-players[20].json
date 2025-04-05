@@ -1,0 +1,479 @@
+{
+    "date": "2025_04_03",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Шестаков Игорь",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Богданов Сергей",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Барабаш Валентин",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Муравьев Никита",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Лагерев Леонид",
+            "Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper"
+        ],
+        [
+            "Протасов Михаил",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Постоялкин Павел",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Мартынов Влад",
+            "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker"
+        ],
+        [
+            "Олифер Егор",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Егоров Павел",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Фукин Юрий",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Фукин Дмитрий",
+            "Edric, Spymaster of Trest"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Красников Александр",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Кувяткин Илья",
+            "Basim Ibn Ishaq"
+        ],
+        [
+            "Булочко Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Звягин Георгий",
+            "Juri, Master of the Revue"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Протасов Михаил",
+                "Фукин Дмитрий",
+                "Tivit, Seller of Secrets",
+                "Edric, Spymaster of Trest",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Семенов Дмитрий",
+                "Juri, Master of the Revue",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Родюков Федор",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Лагерев Леонид",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                "Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Постоялкин Павел",
+                "Kroxa, Titan of Death's Hunger",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Барабаш Валентин",
+                "Phelia, Exuberant Shepherd",
+                "Ezio Auditore da Firenze",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Булочко Михаил",
+                "Teferi, Temporal Archmage",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Фукин Юрий",
+                "Муравьев Никита",
+                "Azusa, Lost but Seeking",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Кувяткин Илья",
+                "Golos, Tireless Pilgrim",
+                "Basim Ibn Ishaq",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Красников Александр",
+                "Aminatou, the Fateshifter",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Богданов Сергей",
+                "Фукин Юрий",
+                "Kroxa, Titan of Death's Hunger",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Ульянов Алексей",
+                "Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Поляков Герман",
+                "Aminatou, the Fateshifter",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Барабаш Валентин",
+                "Ghyrson Starn, Kelermorph",
+                "Ezio Auditore da Firenze",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Фукин Дмитрий",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Edric, Spymaster of Trest",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Красников Александр",
+                "Phelia, Exuberant Shepherd",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Постоялкин Павел",
+                "Кувяткин Илья",
+                "Arahbo, Roar of the World",
+                "Basim Ibn Ishaq",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Звягин Георгий",
+                "Ghyrson Starn, Kelermorph",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Егоров Павел",
+                "Aminatou, the Fateshifter",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Протасов Михаил",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Барабаш Валентин",
+                "Лагерев Леонид",
+                "Ezio Auditore da Firenze",
+                "Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Богданов Сергей",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Постоялкин Павел",
+                "Aminatou, the Fateshifter",
+                "Arahbo, Roar of the World",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Фукин Юрий",
+                "Teferi, Temporal Archmage",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Ульянов Алексей",
+                "Phelia, Exuberant Shepherd",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Фукин Дмитрий",
+                "Родюков Федор",
+                "Edric, Spymaster of Trest",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Муравьев Никита",
+                "Ghyrson Starn, Kelermorph",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Булочко Михаил",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Звягин Георгий",
+                "Tivit, Seller of Secrets",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кувяткин Илья",
+                "Красников Александр",
+                "Basim Ibn Ishaq",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Шестаков Игорь",
+                "Барабаш Валентин",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Лагерев Леонид",
+                "Teferi, Temporal Archmage",
+                "Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Родюков Федор",
+                "Kroxa, Titan of Death's Hunger",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Постоялкин Павел",
+                "Ульянов Алексей",
+                "Arahbo, Roar of the World",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Олифер Егор",
+                "Phelia, Exuberant Shepherd",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Егоров Павел",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Кувяткин Илья",
+                "Tivit, Seller of Secrets",
+                "Basim Ibn Ishaq",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Булочко Михаил",
+                "Malcolm, Alluring Scoundrel",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

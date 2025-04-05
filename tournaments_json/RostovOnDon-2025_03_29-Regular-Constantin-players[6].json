@@ -1,0 +1,131 @@
+{
+    "date": "2025_03_29",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Burmistrov Pavel",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Kovalev Alexander",
+            "Basim Ibn Ishaq"
+        ],
+        [
+            "Elinskiy Denis",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Shubenin Ilya",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Somkin Constantin",
+            "Elminster"
+        ],
+        [
+            "Lukaynov Vadim",
+            "Teferi, Temporal Archmage"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Burmistrov Pavel",
+                "Somkin Constantin",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Elminster",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Kovalev Alexander",
+                "Elinskiy Denis",
+                "Basim Ibn Ishaq",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Shubenin Ilya",
+                "Teferi, Temporal Archmage",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Kovalev Alexander",
+                "Shubenin Ilya",
+                "Basim Ibn Ishaq",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Burmistrov Pavel",
+                "Lukaynov Vadim",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Elinskiy Denis",
+                "Elminster",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Kovalev Alexander",
+                "Burmistrov Pavel",
+                "Basim Ibn Ishaq",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Shubenin Ilya",
+                "Elinskiy Denis",
+                "Malcolm, Alluring Scoundrel",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Lukaynov Vadim",
+                "Elminster",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

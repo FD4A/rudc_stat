@@ -1,0 +1,17 @@
+location::Volgograd
+level::Regular
+date::2025_03_30
+organizer::Rombik34rus
+players::generals
+Максим Мещеряков :: Imskir, Iron Eater
+Дмитрий Орешкин :: Malcolm the Eyes
+Александр Смирнов :: Rograkh, Son of Rohgahh :+: Tymna the Weaver
+Вячеслав Серпутько :: Emmara, Soul of the Accord
+Андрей Костин :: Plagon Lord of the Beach
+Александр Токарев :: Grist, the Hunger Tide
+Андрей Губин :: Phelia, Exuberant Shepherd
+Тимур Сайфутдинов :: Loot the Pathfinder
+Артём Ангурцов :: Iron Man Titan of Innovation
+Артём Стрельцов :: Selvala Explorer Returned
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/38197?p=3

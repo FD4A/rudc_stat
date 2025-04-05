@@ -1,0 +1,25 @@
+location::Spb
+level::Regular
+date::2025_03_20
+organizer::Andysays
+players::generals
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Протасов Михаил :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Олифер Егор :: Malcolm, the eyes
+Шестаков Игорь :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Красников Александр :: Malcolm, Alluring Scoundrel
+Таловер Артем :: Winter, Cynical Opportunist
+Лагерев Леонид :: Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper
+Мартынов Яков :: Tivit, Seller of Secrets
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Вахитов Ривкат :: Kari Zev, Skyship Raider
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Поляков Герман :: Teferi, Temporal Archmage
+Федоров Дмитрий :: Ketramose, the New Dawn
+Грабовой Филипп :: Ketramose, the New Dawn
+Булочко Михаил :: Ezio Auditore da Firenze
+Корсаков Алексей :: Ghyrson Starn, Kelermorph
+Семенов Дмитрий :: Ketramose, the New Dawn
+Барабаш Валентин :: Ezio Auditore da Firenze
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/37940

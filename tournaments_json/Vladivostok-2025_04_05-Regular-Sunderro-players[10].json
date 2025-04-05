@@ -1,0 +1,259 @@
+{
+    "date": "2025_04_05",
+    "location": "Vladivostok",
+    "level": "Regular",
+    "organizer": "Sunderro",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Булгаков Андрей",
+            "Arwen, Mortal Queen"
+        ],
+        [
+            "Гавриленко Валентин",
+            "Taii Wakeen, Perfect Shot"
+        ],
+        [
+            "Носков Ростислав",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Гомзарь Макар",
+            "Ratchet, Field Medic"
+        ],
+        [
+            "Степаненко Кирилл",
+            "Ratonhnhaké꞉ton"
+        ],
+        [
+            "Щебетов Максим",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Поволяко Сергей",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Середкин Михаил",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Черепанов Сергей",
+            "The Ur-Dragon"
+        ],
+        [
+            "Крячко Кирилл",
+            "Frodo, Adventurous Hobbit :+: Sam, Loyal Attendant"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Гавриленко Валентин",
+                "Крячко Кирилл",
+                "Taii Wakeen, Perfect Shot",
+                "Frodo, Adventurous Hobbit :+: Sam, Loyal Attendant",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поволяко Сергей",
+                "Гомзарь Макар",
+                "Geist of Saint Traft",
+                "Ratchet, Field Medic",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Степаненко Кирилл",
+                "Черепанов Сергей",
+                "Ratonhnhaké꞉ton",
+                "The Ur-Dragon",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Булгаков Андрей",
+                "Носков Ростислав",
+                "Arwen, Mortal Queen",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Щебетов Максим",
+                "Середкин Михаил",
+                "Arahbo, Roar of the World",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Степаненко Кирилл",
+                "Гавриленко Валентин",
+                "Ratonhnhaké꞉ton",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Середкин Михаил",
+                "Булгаков Андрей",
+                "Feldon, Ronom Excavator",
+                "Arwen, Mortal Queen",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Гомзарь Макар",
+                "Черепанов Сергей",
+                "Ratchet, Field Medic",
+                "The Ur-Dragon",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поволяко Сергей",
+                "Щебетов Максим",
+                "Geist of Saint Traft",
+                "Arahbo, Roar of the World",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Крячко Кирилл",
+                "Носков Ростислав",
+                "Frodo, Adventurous Hobbit :+: Sam, Loyal Attendant",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Степаненко Кирилл",
+                "Булгаков Андрей",
+                "Ratonhnhaké꞉ton",
+                "Arwen, Mortal Queen",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Гомзарь Макар",
+                "Середкин Михаил",
+                "Ratchet, Field Medic",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Щебетов Максим",
+                "Гавриленко Валентин",
+                "Arahbo, Roar of the World",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Носков Ростислав",
+                "Поволяко Сергей",
+                "Feldon, Ronom Excavator",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Крячко Кирилл",
+                "Черепанов Сергей",
+                "Frodo, Adventurous Hobbit :+: Sam, Loyal Attendant",
+                "The Ur-Dragon",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Булгаков Андрей",
+                "Гомзарь Макар",
+                "Arwen, Mortal Queen",
+                "Ratchet, Field Medic",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Степаненко Кирилл",
+                "Носков Ростислав",
+                "Ratonhnhaké꞉ton",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Гавриленко Валентин",
+                "Середкин Михаил",
+                "Taii Wakeen, Perfect Shot",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Черепанов Сергей",
+                "Щебетов Максим",
+                "The Ur-Dragon",
+                "Arahbo, Roar of the World",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поволяко Сергей",
+                "Крячко Кирилл",
+                "Geist of Saint Traft",
+                "Frodo, Adventurous Hobbit :+: Sam, Loyal Attendant",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "date": "2025_03_22",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Sapher",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Паша",
+            "Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools"
+        ],
+        [
+            "Александр",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Артём",
+            "Rocco, Cabaretti Caterer"
+        ],
+        [
+            "Вадим",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Владислав",
+            "Zabaz, the Glimmerwasp"
+        ],
+        [
+            "Никита",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Илья",
+            "Malcolm, Alluring Scoundrel"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Никита",
+                "Александр",
+                "Sythis, Harvest's Hand",
+                "Ezio Auditore da Firenze",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Владислав",
+                "Илья",
+                "Zabaz, the Glimmerwasp",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Артём",
+                "Вадим",
+                "Rocco, Cabaretti Caterer",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Артём",
+                "Александр",
+                "Rocco, Cabaretti Caterer",
+                "Ezio Auditore da Firenze",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Паша",
+                "Илья",
+                "Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Владислав",
+                "Никита",
+                "Zabaz, the Glimmerwasp",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр",
+                "Паша",
+                "Ezio Auditore da Firenze",
+                "Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Владислав",
+                "Артём",
+                "Zabaz, the Glimmerwasp",
+                "Rocco, Cabaretti Caterer",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Вадим",
+                "Илья",
+                "Teferi, Temporal Archmage",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ]
+}

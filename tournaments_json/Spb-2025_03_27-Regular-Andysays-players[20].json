@@ -1,0 +1,479 @@
+{
+    "date": "2025_03_27",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Семенов Дмитрий",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Коростелев Илья",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Булочко Михаил",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Lorenzo Piaizio",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Муравьев Никита",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Протасов Михаил",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Саушкин Андрей",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Шестаков Игорь",
+            "Glarb, Calamity's Augur"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Amalia Benavides Aguirre"
+        ],
+        [
+            "Мартынов Влад",
+            "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower"
+        ],
+        [
+            "Олифер Егор",
+            "Malcolm, the Eyes"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Красников Александр",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Егоров Андрей",
+            "Zur the Enchanter"
+        ],
+        [
+            "Барабаш Валентин",
+            "Plagon, Lord of the Beach"
+        ],
+        [
+            "Грабовой Филипп",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Мартынов Яков",
+                "Коростелев Илья",
+                "Tivit, Seller of Secrets",
+                "Satya, Aetherflux Genius",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Поляков Герман",
+                "Ghyrson Starn, Kelermorph",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Булочко Михаил",
+                "Vial Smasher the Fierce",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Муравьев Никита",
+                "Feldon, Ronom Excavator",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Егоров Андрей",
+                "Glarb, Calamity's Augur",
+                "Zur the Enchanter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Протасов Михаил",
+                "Plagon, Lord of the Beach",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Родюков Федор",
+                "Amalia Benavides Aguirre",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Lorenzo Piaizio",
+                "Malcolm, the Eyes",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Ульянов Алексей",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Саушкин Андрей",
+                "Ketramose, the New Dawn",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Lorenzo Piaizio",
+                "Семенов Дмитрий",
+                "Aminatou, the Fateshifter",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Шестаков Игорь",
+                "Aminatou, the Fateshifter",
+                "Glarb, Calamity's Augur",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Саушкин Андрей",
+                "Amalia Benavides Aguirre",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Коростелев Илья",
+                "Golos, Tireless Pilgrim",
+                "Satya, Aetherflux Genius",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Барабаш Валентин",
+                "Phelia, Exuberant Shepherd",
+                "Plagon, Lord of the Beach",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Протасов Михаил",
+                "Feldon, Ronom Excavator",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Родюков Федор",
+                "Vial Smasher the Fierce",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Грабовой Филипп",
+                "Malcolm, the Eyes",
+                "Ketramose, the New Dawn",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Егоров Андрей",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Zur the Enchanter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Мартынов Яков",
+                "Teferi, Temporal Archmage",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Семенов Дмитрий",
+                "Саушкин Андрей",
+                "Ghyrson Starn, Kelermorph",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Булочко Михаил",
+                "Satya, Aetherflux Genius",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Муравьев Никита",
+                "Tivit, Seller of Secrets",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Поляков Герман",
+                "Malcolm, the Eyes",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Байков Аркадий",
+                "Golos, Tireless Pilgrim",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Lorenzo Piaizio",
+                "Amalia Benavides Aguirre",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Мартынов Влад",
+                "Glarb, Calamity's Augur",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Егоров Андрей",
+                "Feldon, Ronom Excavator",
+                "Zur the Enchanter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Родюков Федор",
+                "Tivit, Seller of Secrets",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Семенов Дмитрий",
+                "Муравьев Никита",
+                "Ghyrson Starn, Kelermorph",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Lorenzo Piaizio",
+                "Aminatou, the Fateshifter",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Шестаков Игорь",
+                "Satya, Aetherflux Genius",
+                "Glarb, Calamity's Augur",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Саушкин Андрей",
+                "Golos, Tireless Pilgrim",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Протасов Михаил",
+                "Malcolm, the Eyes",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Поляков Герман",
+                "Ghyrson Starn, Kelermorph",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Егоров Андрей",
+                "Федоров Дмитрий",
+                "Zur the Enchanter",
+                "Amalia Benavides Aguirre",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Байков Аркадий",
+                "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Мартынов Яков",
+                "Feldon, Ronom Excavator",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

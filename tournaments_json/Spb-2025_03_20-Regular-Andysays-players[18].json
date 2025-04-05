@@ -1,0 +1,441 @@
+{
+    "date": "2025_03_20",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Протасов Михаил",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Олифер Егор",
+            "Malcolm, the Eyes"
+        ],
+        [
+            "Шестаков Игорь",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Красников Александр",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Таловер Артем",
+            "Winter, Cynical Opportunist"
+        ],
+        [
+            "Лагерев Леонид",
+            "Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Вахитов Ривкат",
+            "Kari Zev, Skyship Raider"
+        ],
+        [
+            "Муравьев Никита",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Грабовой Филипп",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Булочко Михаил",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Корсаков Алексей",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Барабаш Валентин",
+            "Ezio Auditore da Firenze"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Семенов Дмитрий",
+                "Таловер Артем",
+                "Ketramose, the New Dawn",
+                "Winter, Cynical Opportunist",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Лагерев Леонид",
+                "Ezio Auditore da Firenze",
+                "Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Поляков Герман",
+                "Golos, Tireless Pilgrim",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Протасов Михаил",
+                "Ghyrson Starn, Kelermorph",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Корсаков Алексей",
+                "Ketramose, the New Dawn",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Мартынов Яков",
+                "Kari Zev, Skyship Raider",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Федоров Дмитрий",
+                "Ezio Auditore da Firenze",
+                "Ketramose, the New Dawn",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Муравьев Никита",
+                "Malcolm, Alluring Scoundrel",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Олифер Егор",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Malcolm, the Eyes",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Мартынов Яков",
+                "Ульянов Алексей",
+                "Tivit, Seller of Secrets",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Грабовой Филипп",
+                "Malcolm, Alluring Scoundrel",
+                "Ketramose, the New Dawn",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Протасов Михаил",
+                "Malcolm, the Eyes",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Федоров Дмитрий",
+                "Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper",
+                "Ketramose, the New Dawn",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Корсаков Алексей",
+                "Winter, Cynical Opportunist",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Шестаков Игорь",
+                "Ketramose, the New Dawn",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Булочко Михаил",
+                "Ghyrson Starn, Kelermorph",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Муравьев Никита",
+                "Ezio Auditore da Firenze",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Поляков Герман",
+                "Kari Zev, Skyship Raider",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Красников Александр",
+                "Ульянов Алексей",
+                "Malcolm, Alluring Scoundrel",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Федоров Дмитрий",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Ketramose, the New Dawn",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Лагерев Леонид",
+                "Winter, Cynical Opportunist",
+                "Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Мартынов Яков",
+                "Ketramose, the New Dawn",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Олифер Егор",
+                "Ghyrson Starn, Kelermorph",
+                "Malcolm, the Eyes",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Шестаков Игорь",
+                "Kari Zev, Skyship Raider",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Семенов Дмитрий",
+                "Phelia, Exuberant Shepherd",
+                "Ketramose, the New Dawn",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Поляков Герман",
+                "Ghyrson Starn, Kelermorph",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Булочко Михаил",
+                "Ezio Auditore da Firenze",
+                "Ezio Auditore da Firenze",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Протасов Михаил",
+                "Красников Александр",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Таловер Артем",
+                "Golos, Tireless Pilgrim",
+                "Winter, Cynical Opportunist",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Муравьев Никита",
+                "Malcolm, the Eyes",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Шестаков Игорь",
+                "Tivit, Seller of Secrets",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Родюков Федор",
+                "Ketramose, the New Dawn",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Грабовой Филипп",
+                "Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper",
+                "Ketramose, the New Dawn",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Булочко Михаил",
+                "Kari Zev, Skyship Raider",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Барабаш Валентин",
+                "Teferi, Temporal Archmage",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

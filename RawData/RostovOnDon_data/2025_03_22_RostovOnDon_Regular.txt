@@ -1,0 +1,14 @@
+location::RostovOnDon
+level::Regular
+date::2025_03_22
+organizer::Sapher
+players::generals
+Паша :: Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools
+Александр :: Ezio Auditore da Firenze
+Артём :: Rocco, Cabaretti Caterer
+Вадим :: Teferi, Temporal Archmage
+Владислав :: Zabaz, the Glimmerwasp
+Никита :: Sythis, Harvest's Hand
+Илья :: Malcolm, Alluring Scoundrel
+Round
+https://aetherhub.com/Tourney/RoundTourney/37997

@@ -1,0 +1,27 @@
+location::Spb
+level::Regular
+date::2025_03_27
+organizer::Andysays
+players::generals
+Семенов Дмитрий :: Ghyrson Starn, Kelermorph
+Коростелев Илья :: Satya, Aetherflux Genius
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Булочко Михаил :: Aminatou, the Fateshifter
+Lorenzo Piaizio :: Aminatou, the Fateshifter
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Протасов Михаил :: Tivit, Seller of Secrets
+Саушкин Андрей :: Aragorn, King of Gondor
+Шестаков Игорь :: Glarb, Calamity's Augur
+Федоров Дмитрий :: Amalia Benavides Aguirre
+Мартынов Влад :: Yoshimaru, Ever Faithful :+: Tana, the Bloodsower
+Олифер Егор :: Malcolm, the eyes
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Красников Александр :: Feldon, Ronom Excavator
+Байков Аркадий :: Vial Smasher the Fierce
+Поляков Герман :: Teferi, Temporal Archmage
+Егоров Андрей :: Zur the Enchanter
+Барабаш Валентин :: Plagon, Lord of the Beach
+Грабовой Филипп :: Ketramose, the New Dawn
+Мартынов Яков :: Tivit, Seller of Secrets
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/38104

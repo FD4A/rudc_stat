@@ -1,0 +1,17 @@
+location::Vladivostok
+level::Regular
+date::2025_04_05
+organizer::Sunderro
+players::generals
+Булгаков Андрей :: Arwen, Mortal Queen
+Гавриленко Валентин :: Taii Wakeen, Perfect Shot
+Носков Ростислав :: Feldon, Ronom Excavator
+Гомзарь Макар :: Ratchet, Field Medic
+Степаненко Кирилл :: Ratonhnhaké:ton
+Щебетов Максим :: Arahbo Roar of World
+Поволяко Сергей :: Geist of Saint Traft
+Середкин Михаил :: Feldon, Ronom Excavator
+Черепанов Сергей :: The Ur-dragon
+Крячко Кирилл :: Frodo, Adventurous Hobbit :+: Sam, Loyal Attendant
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/38328

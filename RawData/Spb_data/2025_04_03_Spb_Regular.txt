@@ -1,0 +1,27 @@
+location::Spb
+level::Regular
+date::2025_04_03
+organizer::Andysays
+players::generals
+Шестаков Игорь :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Богданов Сергей :: Kroxa, Titan of Death's Hunger
+Барабаш Валентин :: Ezio Auditore da Firenze
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Поляков Герман :: Teferi, Temporal Archmage
+Лагерев Леонид :: Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper
+Протасов Михаил :: Tivit, Seller of Secrets
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Постоялкин Павел :: Arahbo, Roar of the World
+Мартынов Влад :: Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker
+Олифер Егор :: Aminatou, the Fateshifter
+Егоров Павел :: Phelia, Exuberant Shepherd
+Фукин Юрий :: Azusa, Lost but Seeking
+Фукин Дмитрий :: Edric, Spymaster of Trest
+Семенов Дмитрий :: Ghyrson Starn, Kelermorph
+Красников Александр :: Malcolm, Alluring Scoundrel
+Кувяткин Илья :: Basim Ibn Ishaq
+Булочко Михаил :: Aminatou, the Fateshifter
+Звягин Георгий :: Juri, Master of the Revue
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/38277
