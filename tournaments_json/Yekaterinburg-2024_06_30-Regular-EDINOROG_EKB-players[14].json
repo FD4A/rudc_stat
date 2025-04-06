@@ -1,0 +1,283 @@
+{
+    "date": "2024_06_30",
+    "location": "Yekaterinburg",
+    "level": "Regular",
+    "organizer": "EDINOROG_EKB",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Безногов Дмитрий",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Разумов Артем",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Сигов Иван",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Трапезников Дмитрий",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Панкрашин Святослав",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Курсанов Александр",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Кригер Владислав",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Согомонян Сергей",
+            "Raffine, Scheming Seer"
+        ],
+        [
+            "Планков Борис",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Сычев Никита",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Сотников Артем",
+            "Magda, Brazen Outlaw"
+        ],
+        [
+            "Прошин Станислав",
+            "Yoshimaru, Ever Faithful :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Седавных Никита",
+            "Rofellos, Llanowar Emissary"
+        ],
+        [
+            "Антипов Артём",
+            "Grist, the Hunger Tide"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Сычев Никита",
+                "Сотников Артем",
+                "Aminatou, the Fateshifter",
+                "Magda, Brazen Outlaw",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Седавных Никита",
+                "Кригер Владислав",
+                "Rofellos, Llanowar Emissary",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сигов Иван",
+                "Планков Борис",
+                "Hogaak, Arisen Necropolis",
+                "Eris, Roar of the Storm",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Прошин Станислав",
+                "Панкрашин Святослав",
+                "Yoshimaru, Ever Faithful :+: Silas Renn, Seeker Adept",
+                "Eris, Roar of the Storm",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Безногов Дмитрий",
+                "Трапезников Дмитрий",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Разумов Артем",
+                "Согомонян Сергей",
+                "Ajani, Nacatl Pariah",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Курсанов Александр",
+                "Антипов Артём",
+                "Slimefoot and Squee",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Безногов Дмитрий",
+                "Сотников Артем",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Magda, Brazen Outlaw",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Панкрашин Святослав",
+                "Сигов Иван",
+                "Eris, Roar of the Storm",
+                "Hogaak, Arisen Necropolis",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Курсанов Александр",
+                "Разумов Артем",
+                "Slimefoot and Squee",
+                "Ajani, Nacatl Pariah",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Кригер Владислав",
+                "Сычев Никита",
+                "Omnath, Locus of Creation",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Прошин Станислав",
+                "Планков Борис",
+                "Yoshimaru, Ever Faithful :+: Silas Renn, Seeker Adept",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Седавных Никита",
+                "Трапезников Дмитрий",
+                "Rofellos, Llanowar Emissary",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Согомонян Сергей",
+                "Антипов Артём",
+                "Raffine, Scheming Seer",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Безногов Дмитрий",
+                "Сигов Иван",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Разумов Артем",
+                "Кригер Владислав",
+                "Ajani, Nacatl Pariah",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Курсанов Александр",
+                "Панкрашин Святослав",
+                "Slimefoot and Squee",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сотников Артем",
+                "Трапезников Дмитрий",
+                "Magda, Brazen Outlaw",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Планков Борис",
+                "Согомонян Сергей",
+                "Eris, Roar of the Storm",
+                "Raffine, Scheming Seer",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Сычев Никита",
+                "Седавных Никита",
+                "Aminatou, the Fateshifter",
+                "Rofellos, Llanowar Emissary",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Антипов Артём",
+                "Прошин Станислав",
+                "Grist, the Hunger Tide",
+                "Yoshimaru, Ever Faithful :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,245 @@
+{
+    "date": "2024_07_07",
+    "location": "Yekaterinburg",
+    "level": "Regular",
+    "organizer": "EDINOROG_EKB",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Планков Борис",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Шатрова Валерия",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Разумов Артем",
+            "Ajani, Nacatl Pariah"
+        ],
+        [
+            "Панкрашин Святослав",
+            "Eris, Roar of the Storm"
+        ],
+        [
+            "Сигов Иван",
+            "Hogaak, Arisen Necropolis"
+        ],
+        [
+            "Кузницын Артем",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Курсанов Александр",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Кокорин Иван",
+            "Marath, Will of the Wild"
+        ],
+        [
+            "Безногов Дмитрий",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Печников Владислав",
+            "Omnath, Locus of Creation"
+        ],
+        [
+            "Трапезников Дмитрий",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Согомонян Сергей",
+            "Raffine, Scheming Seer"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Разумов Артем",
+                "Сигов Иван",
+                "Ajani, Nacatl Pariah",
+                "Hogaak, Arisen Necropolis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кокорин Иван",
+                "Трапезников Дмитрий",
+                "Marath, Will of the Wild",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Планков Борис",
+                "Курсанов Александр",
+                "Eris, Roar of the Storm",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Панкрашин Святослав",
+                "Безногов Дмитрий",
+                "Eris, Roar of the Storm",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Печников Владислав",
+                "Кузницын Артем",
+                "Omnath, Locus of Creation",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шатрова Валерия",
+                "Согомонян Сергей",
+                "Ajani, Nacatl Pariah",
+                "Raffine, Scheming Seer",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Планков Борис",
+                "Кузницын Артем",
+                "Eris, Roar of the Storm",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Панкрашин Святослав",
+                "Шатрова Валерия",
+                "Eris, Roar of the Storm",
+                "Ajani, Nacatl Pariah",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кокорин Иван",
+                "Разумов Артем",
+                "Marath, Will of the Wild",
+                "Ajani, Nacatl Pariah",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Согомонян Сергей",
+                "Печников Владислав",
+                "Raffine, Scheming Seer",
+                "Omnath, Locus of Creation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сигов Иван",
+                "Курсанов Александр",
+                "Hogaak, Arisen Necropolis",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Трапезников Дмитрий",
+                "Безногов Дмитрий",
+                "Slimefoot and Squee",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Разумов Артем",
+                "Планков Борис",
+                "Ajani, Nacatl Pariah",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Шатрова Валерия",
+                "Кузницын Артем",
+                "Ajani, Nacatl Pariah",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кокорин Иван",
+                "Панкрашин Святослав",
+                "Marath, Will of the Wild",
+                "Eris, Roar of the Storm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сигов Иван",
+                "Печников Владислав",
+                "Hogaak, Arisen Necropolis",
+                "Omnath, Locus of Creation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Трапезников Дмитрий",
+                "Курсанов Александр",
+                "Slimefoot and Squee",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Согомонян Сергей",
+                "Безногов Дмитрий",
+                "Raffine, Scheming Seer",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ]
+}

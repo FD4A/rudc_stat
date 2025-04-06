@@ -11,7 +11,7 @@ players::generals
 Кузницын Артем :: Grist, the Hunger Tide
 Курсанов Александр :: Slimefoot and Squee
 Кокорин Иван :: Marath, Will of the Wild
-Безногов Дмитрий :: Rograkh, Son of Rohgahh :++: Silas Renn, Seeker Adept
+Безногов Дмитрий :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
 Печников Владислав :: Omnath, Locus of Creation
 Трапезников Дмитрий :: Slimefoot and Squee
 Согомонян Сергей :: Raffine, Scheming Seer

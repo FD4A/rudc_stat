@@ -8,7 +8,7 @@ players::generals
 Печников Владислав :: Omnath, Locus of Creation
 Разумов Артем :: Nadu, Winged Wisdom
 Согомонян Сергей :: Raffine, Scheming Seer
-Безногов Дмитрий :: Rograkh, Son of Rohgahh :++: Silas Renn, Seeker Adept
+Безногов Дмитрий :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
 Панкрашин Святослав :: Eris, Roar of the Storm
 Кузницын Артем :: Grist, the Hunger Tide
 Планков Борис :: Leovold, Emissary of Trest

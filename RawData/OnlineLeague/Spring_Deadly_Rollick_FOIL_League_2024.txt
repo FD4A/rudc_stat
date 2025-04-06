@@ -15,7 +15,7 @@ players::generals
 Козлов, Максим :: Feldon, Ronom Excavator
 Палачев, Константин :: Raffine, Scheming Seer
 Курмакаев, Игорь :: Slimefoot and Squee
-Сафаргалиев, Евгений :: Yoshimaru, Ever Faithful :++: Kydele, Chosen of Kruphix
+Сафаргалиев, Евгений :: Yoshimaru, Ever Faithful :+: Kydele, Chosen of Kruphix
 Васинов, Николай :: Feldon, Ronom Excavator
 Бутримов, Виктор :: Slimefoot and Squee
 Сомкин, Константин :: Laughing Jasper Flint

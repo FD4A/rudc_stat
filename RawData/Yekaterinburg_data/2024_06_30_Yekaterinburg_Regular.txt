@@ -3,7 +3,7 @@ level::Regular
 date::2024_06_30
 organizer::EDINOROG_EKB
 players::generals
-Безногов Дмитрий :: Rograkh, Son of Rohgahh :++: Silas Renn, Seeker Adept
+Безногов Дмитрий :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
 Разумов Артем :: Ajani, Nacatl Pariah
 Сигов Иван :: Hogaak, Arisen Necropolis
 Трапезников Дмитрий :: Slimefoot and Squee
@@ -14,7 +14,7 @@ players::generals
 Планков Борис :: Eris, Roar of the Storm
 Сычев Никита :: Aminatou, the Fateshifter
 Сотников Артем :: Magda, Brazen Outlaw
-Прошин Станислав :: Yoshimaru, Ever Faithful :++: Silas Renn, Seeker Adept
+Прошин Станислав :: Yoshimaru, Ever Faithful :+: Silas Renn, Seeker Adept
 Седавных Никита :: Rofellos, Llanowar Emissary
 Антипов Артём :: Grist, the Hunger Tide
 Rounds
