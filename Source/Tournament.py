@@ -37,6 +37,7 @@ class Tournament:
         self.roundsCount = 0
         self.players = []
         self.rounds = []  # Round( matches: []), match: player1, player2, general1, general2, result[X1, X2]
+        self.url = ""
 
     def __str__(self):
         str_ = ''
@@ -77,6 +78,7 @@ class Tournament:
                      'roundsCount': self.roundsCount,
                      'players': dump_pl,
                      'rounds': dump_rounds,
+                     'url': self.url
                      }
 
         if filename == '':
@@ -96,6 +98,10 @@ class Tournament:
             tr.roundsCount = data['roundsCount']
             tr.players = data['players']
             tr.organizer = data['organizer']
+            try:
+                tr.url = data['url']
+            except Exception:
+                pass
 
             for r in data['rounds']:
                 round_ = Tournament.Round()

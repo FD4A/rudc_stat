@@ -1,0 +1,15 @@
+location::Volgograd
+level::Regular
+date::2025_04_06
+organizer::Rombik34rus
+players::generals
+Виталий Васильев :: Grist, the Hunger Tide
+Александр Максимов :: Karlov of the Ghost Council :++: Lurrus of the Dream-Den
+Артём Ангурцов :: Shorikai, Genesis Engine,
+Александр Токарев :: Grist, the Hunger Tide
+Дмитрий Орешкин :: Malcolm the Eyes
+Александр Смирнов :: Lier, Disciple of the Drowned
+Никита Сухов :: Aminatou the Fateshifter,
+Илья Гермашев :: Loot the Pathfinder,
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/38356

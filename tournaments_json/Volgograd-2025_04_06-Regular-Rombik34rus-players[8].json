@@ -1,0 +1,169 @@
+{
+    "date": "2025_04_06",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Виталий Васильев",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Александр Максимов",
+            "Karlov of the Ghost Council :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Артём Ангурцов",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Александр Токарев",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Дмитрий Орешкин",
+            "Malcolm, the Eyes"
+        ],
+        [
+            "Александр Смирнов",
+            "Lier, Disciple of the Drowned"
+        ],
+        [
+            "Никита Сухов",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Илья Гермашев",
+            "Loot, the Pathfinder"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Александр Смирнов",
+                "Виталий Васильев",
+                "Lier, Disciple of the Drowned",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Александр Максимов",
+                "Malcolm, the Eyes",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Илья Гермашев",
+                "Shorikai, Genesis Engine",
+                "Loot, the Pathfinder",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Никита Сухов",
+                "Александр Токарев",
+                "Aminatou, the Fateshifter",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Артём Ангурцов",
+                "Виталий Васильев",
+                "Shorikai, Genesis Engine",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Александр Максимов",
+                "Grist, the Hunger Tide",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Александр Смирнов",
+                "Malcolm, the Eyes",
+                "Lier, Disciple of the Drowned",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Илья Гермашев",
+                "Никита Сухов",
+                "Loot, the Pathfinder",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Максимов",
+                "Виталий Васильев",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Дмитрий Орешкин",
+                "Grist, the Hunger Tide",
+                "Malcolm, the Eyes",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Никита Сухов",
+                "Shorikai, Genesis Engine",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Илья Гермашев",
+                "Lier, Disciple of the Drowned",
+                "Loot, the Pathfinder",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ]
+}

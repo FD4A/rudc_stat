@@ -1,0 +1,27 @@
+location::Spb
+level::Regular
+date::2025_04_10
+organizer::Andysays
+players::generals
+Протасов Михаил :: Tivit, Seller of Secrets
+Красников Александр :: Taii Wakeen, Perfect Shot
+Постоялкин Павел :: Arahbo, Roar of the World
+Шестаков Игорь :: Yoshimaru, Ever Faithful :+: Silas Renn, Seeker Adept
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Иванов Дмитрий :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Олифер Егор :: Tymna the Weaver :+: Ludevic, Necro-Alchemist
+Богданов Сергей :: Kroxa, Titan of Death's Hunger
+Саушкин Андрей :: Aragorn, King of Gondor
+Поляков Герман :: Teferi, Temporal Archmage
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Барабаш Валентин :: Ezio Auditore da Firenze
+Грабовой Филипп :: Ketramose, the New Dawn
+Мартынов Яков :: Tivit, Seller of Secrets
+Коростелев Илья :: Satya, Aetherflux Genius
+Корсаков Алексей :: Ghyrson Starn, Kelermorph
+Федоров Дмитрий :: Amalia Benavides Aguirre
+Таловер Артем :: Winter, Cynical Opportunist
+Байков Аркадий :: Vial Smasher the Fierce
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/38455

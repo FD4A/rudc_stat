@@ -1,0 +1,132 @@
+{
+    "date": "2024_12_14",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Burmistrov Pavel",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Cherepovskiy Roman",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Isaev Alexander",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Lukaynov Vadim",
+            "Commodore Guff"
+        ],
+        [
+            "Somkin Constantin",
+            "Elminster"
+        ],
+        [
+            "Kovalev Alexander",
+            "Golos, Tireless Pilgrim"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Lukaynov Vadim",
+                "Burmistrov Pavel",
+                "Commodore Guff",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Somkin Constantin",
+                "Juri, Master of the Revue",
+                "Elminster",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Kovalev Alexander",
+                "Isaev Alexander",
+                "Golos, Tireless Pilgrim",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Burmistrov Pavel",
+                "Somkin Constantin",
+                "Phelia, Exuberant Shepherd",
+                "Elminster",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Isaev Alexander",
+                "Cherepovskiy Roman",
+                "Shorikai, Genesis Engine",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Kovalev Alexander",
+                "Lukaynov Vadim",
+                "Golos, Tireless Pilgrim",
+                "Commodore Guff",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Burmistrov Pavel",
+                "Cherepovskiy Roman",
+                "Phelia, Exuberant Shepherd",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Isaev Alexander",
+                "Lukaynov Vadim",
+                "Shorikai, Genesis Engine",
+                "Commodore Guff",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Kovalev Alexander",
+                "Elminster",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/35703"
+}

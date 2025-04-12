@@ -113,6 +113,7 @@ A-Nadu, Winged Wisdom
 A-Nael, Avizoa Aeronaut
 Anafenza, Kin-Tree Spirit
 Anafenza, the Foremost
+Anafenza, Unyielding Lineage
 A-Nahiri, Heir of the Ancients
 Anara, Wolvid Familiar
 A-Narfi, Betrayer King
@@ -177,6 +178,7 @@ Ardenn, Intrepid Archaeologist
 Ardoz, Cobbler of War
 Arek, False Goldwarden
 Arguel's Blood Fast
+Arius, Flyby Trawler
 Arixmethes, Slumbering Isle
 Arjun, the Shifting Flame
 Arlinn Kord
@@ -314,6 +316,8 @@ Bennie Bracks, Zoologist
 Beregond of the Guard
 Bessie, the Doctor's Roadster
 Bess, Soul Nourisher
+Betor, Ancestor's Voice
+Betor, Kin to All
 Beza, the Bounding Spring
 Bhaal, Lord of Murder
 Bident of Thassa
@@ -434,6 +438,7 @@ Cazur, Ruthless Stalker
 Cecil, Dark Knight
 Cecily, Haunted Mage
 Celeborn the Wise
+Celes, Rune Knight
 Celestial Kirin
 Celestine, the Living Saint
 Cerise, Slayer of Fear
@@ -548,6 +553,7 @@ Daxos, Blessed by the Sun
 Daxos of Meletis
 Daxos the Returned
 Day of Destiny
+Deadpool, Trading Card
 Deathleaper, Terror Weapon
 Deekah, Fractal Theorist
 Dee Kay, Finder of the Lost
@@ -571,6 +577,7 @@ Disa the Restless
 Djeru and Hazoret
 Djeru, With Eyes Open
 Doc Aurlock, Grizzled Genius
+Doc Ock, Evil Inventor
 Dogmeat, Ever Loyal
 Domri, Anarch of Bolas
 Domri, Chaos Bringer
@@ -657,8 +664,10 @@ Elrond, Lord of Rivendell
 Elrond, Master of Healing
 Elrond of the White Council
 Elsha of the Infinite
+Elsha, Threefold Master
 Elspeth, Knight-Errant
 Elspeth Resplendent
+Elspeth, Storm Slayer
 Elspeth, Sun's Champion
 Elspeth, Sun's Nemesis
 Elspeth Tirel
@@ -705,6 +714,8 @@ Ertai, the Corrupted
 Ertai, Wizard Adept
 Ertha Jo, Frontier Mentor
 Eruth, Tormented Prophet
+Eshki Dragonclaw
+Eshki, Temur's Roar
 Esika, God of the Tree
 Esika's Chariot
 Esior, Wardwing Familiar
@@ -758,6 +769,8 @@ Feldon of the Third Path
 Feldon, Ronom Excavator
 Felisa, Fang of Silverquill
 Felix Five-Boots
+Felothar, Dawn of the Abzan
+Felothar the Steadfast
 Feywild Visitor
 Finneas, Ace Archer
 Fires of Mount Doom
@@ -884,6 +897,7 @@ Gishath, Sun's Avatar
 Gitrog, Horror of Zhava
 Gix, Yawgmoth Praetor
 Glacian, Powerstone Engineer
+Gladiolus Amicitia
 Glamdring
 Glarb, Calamity's Augur
 Gleemax
@@ -943,6 +957,7 @@ Grand Warlord Radha
 Grazilaxx, Illithid Scholar
 Greasefang, Okiba Boss
 Greel, Mind Raker
+Green Goblin, Nemesis
 Greensleeves, Maro-Sorcerer
 Gregor, Shrewd Magistrate
 Grenzo, Crooked Jailer
@@ -1310,6 +1325,7 @@ Karametra, God of Harvests
 Karazikar, the Eye Tyrant
 Kardum, Patron of Flames
 Kardur, Doomscourge
+Kari Zev, Crew of Two
 Kari Zev, Skyship Raider
 Karlach, Fury of Avernus
 Karlach, Raging Tiefling
@@ -1441,6 +1457,8 @@ Kosei, Penitent Warlord
 Koth, Fire of Resistance
 Koth of the Hammer
 Kothophed, Soul Hoarder
+Kotis, Sibsig Champion
+Kotis, the Fangkeeper
 Kotori, Pilot Prodigy
 Kotose, the Silent Spider
 Kozilek, Butcher of Truth
@@ -1730,6 +1748,7 @@ Mishra, Tamer of Mak Fawa
 Missy
 Mistform Ultimus
 Mithril Coat
+Mitotic Ultimus
 Mizzix of the Izmagnus
 Mizzix, Replica Rider
 Mjölnir, Storm Hammer
@@ -1752,6 +1771,7 @@ Mortarion, Daemon Primarch
 Mount Doom
 Mowu, Loyal Companion
 Mox Amber
+Mox Jasper
 Mox Opal
 Mr. Foxglove
 Mr. House, President and CEO
@@ -1803,6 +1823,7 @@ Nardole, Resourceful Cyborg
 Narfi, Betrayer King
 Narset, Enlightened Exile
 Narset, Enlightened Master
+Narset, Jeskai Waymaster
 Narset of the Ancient Way
 Narset, Parter of Veils
 Narset Transcendent
@@ -1826,6 +1847,8 @@ Nekusar, the Mindrazer
 Nelly Borca, Impulsive Accuser
 Nemata, Grove Guardian
 Nemata, Primeval Warden
+Neriv, Crackling Vanguard
+Neriv, Heart of the Storm
 Nethroi, Apex of Death
 Neva, Stalked by Nightmares
 Nevinyrral, Urborg Tyrant
@@ -2246,6 +2269,7 @@ Saint Traft and Rem Karolus
 Sakashima of a Thousand Faces
 Sakashima the Impostor
 Sakiko, Mother of Summer
+Sala, Deck Boss
 Sally Sparrow
 Sam, Loyal Attendant
 Samut, the Driving Force
@@ -2267,6 +2291,7 @@ Saradoc, Master of Buckland
 Sarah Jane Smith
 Sarevok, Deathbringer
 Sarevok the Usurper
+Sarkhan, Dragon Ascendant
 Sarkhan, Dragonsoul
 Sarkhan, Fireblood
 Sarkhan, Soul Aflame
@@ -2307,6 +2332,7 @@ Selvala, Explorer Returned
 Selvala, Heart of the Wilds
 Senator Peacock
 Sengir, the Dark Baron
+Sensational Spider-Man
 Sensei Golden-Tail
 Sentinel Sarah Lyons
 Sen Triplets
@@ -2352,6 +2378,8 @@ Sheoldred, Whispering One
 Shessra, Death's Whisper
 Shield of Kaldra
 Shigeki, Jukai Visionary
+Shiko and Narset, Unified
+Shiko, Paragon of the Way
 Shilgengar, Sire of Famine
 Shimatsu the Bloodcloaked
 Shinka, the Bloodsoaked Keep
@@ -2368,6 +2396,7 @@ Sidar Jabari
 Sidar Jabari of Zhalfir
 Sidar Kondo of Jamuraa
 Sidisi, Brood Tyrant
+Sidisi, Regent of the Mire
 Sidisi, Undead Vizier
 Sierra, Nuka's Biggest Fan
 Sigarda, Champion of Light
@@ -2482,6 +2511,7 @@ Sun Quan, Lord of Wu
 Surgeon General Commander
 Surrak and Goreclaw
 Surrak Dragonclaw
+Surrak, Elusive Hunter
 Surrak, the Hunt Caller
 Surtr, Fiery Jötun
 Susan Foreman
@@ -2515,6 +2545,7 @@ Tadeas, Juniper Ascendant
 Taeko, the Patient Avalanche
 Tahngarth, First Mate
 Tahngarth, Talruum Hero
+Taigam, Master Opportunist
 Taigam, Ojutai Master
 Taigam, Sidisi's Hand
 Taii Wakeen, Perfect Shot
@@ -2578,6 +2609,7 @@ Tenza, Godo's Maul
 Tergrid, God of Fright
 Terra, Herald of Hope
 Terrian, World Tyrant
+Tersa Lightshatter
 Tesak, Judith's Hellhound
 Teshar, Ancestor's Apostle
 Tetsuko Umezawa, Fugitive
@@ -2585,6 +2617,8 @@ Tetsuo, Imperial Champion
 Tetsuo Umezawa
 Tetzimoc, Primal Death
 Tetzin, Gnome Champion
+Teval, Arbiter of Virtue
+Teval, the Balanced Scale
 Tevesh Szat, Doom of Fools
 Teyo, Aegis Adept
 Teyo, Geometric Tactician
@@ -2719,6 +2753,7 @@ The Scorpion God
 The Second Doctor
 The Seventh Doctor
 The Shire
+The Sibsig Ceremony
 The Sixth Doctor
 The Skullspore Nexus
 The Space Family Goblinson
@@ -2836,6 +2871,7 @@ Troyan, Gutsy Explorer
 Truss, Chief Engineer
 Trynn, Champion of Freedom
 Tsabo Tavoc
+Tsagan, Raider Warlord
 Tuknir Deathlock
 Tuktuk the Explorer
 Tura Kennerüd, Skyknight
@@ -2851,6 +2887,7 @@ Tyvar Kell
 Tyvar the Bellicose
 Tyvar, the Pummeler
 Uchbenbak, the Great Mistake
+Ugin, Eye of the Storms
 Ugin's Nexus
 Ugin, the Ineffable
 Ugin, the Spirit Dragon
@@ -2878,6 +2915,8 @@ Urborg
 Urborg, Tomb of Yawgmoth
 Urdnan, Dromoka Warrior
 Ur-Drago
+Ureni of the Unwritten
+Ureni, the Song Unending
 Urgoros, the Empty One
 Uril, the Miststalker
 Uro, Titan of Nature's Wrath
@@ -2919,6 +2958,7 @@ Vela the Night-Clad
 Veldrane of Sengir
 Velomachus Lorehold
 Vendilion Clique
+Venom, Deadly Devourer
 Venser, Corpse Puppet
 Venser, Shaper Savant
 Venser, the Sojourner
@@ -3091,6 +3131,7 @@ Zask, Skittering Swarmlord
 Zaxara, the Exemplary
 Zedruu the Greathearted
 Zegana, Utopian Speaker
+Zell Dincht
 Zellix, Sanity Flayer
 Zeriam, Golden Wind
 Zetalpa, Primal Dawn
@@ -3125,5 +3166,7 @@ Zur, Eternal Schemer
 Zurgo and Ojutai
 Zurgo Bellstriker
 Zurgo Helmsmasher
+Zurgo Stormrender
+Zurgo, Thunder's Decree
 Zur the Enchanter
 Zurzoth, Chaos Rider

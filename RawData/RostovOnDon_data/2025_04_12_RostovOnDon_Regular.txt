@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2025_04_12
+organizer::Constantin
+players::generals
+Elinskiy Denis :: Phelia, Exuberant Shepherd
+Kovalev Alexander :: Ezio Auditore da Firenze
+Somkin Constantin :: Elminster
+Lukaynov Vadim :: Shorikai, Genesis Engine
+Burmistrov Pavel :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Mishin Vasily :: Aesi, Tyrant of Gyre
+Round
+https://aetherhub.com/Tourney/RoundTourney/38519

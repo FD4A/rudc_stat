@@ -1,0 +1,132 @@
+{
+    "date": "2025_04_12",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Elinskiy Denis",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Kovalev Alexander",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Somkin Constantin",
+            "Elminster"
+        ],
+        [
+            "Lukaynov Vadim",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Burmistrov Pavel",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Mishin Vasily",
+            "Aesi, Tyrant of Gyre Strait"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Kovalev Alexander",
+                "Somkin Constantin",
+                "Ezio Auditore da Firenze",
+                "Elminster",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Burmistrov Pavel",
+                "Shorikai, Genesis Engine",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Mishin Vasily",
+                "Elinskiy Denis",
+                "Aesi, Tyrant of Gyre Strait",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Elinskiy Denis",
+                "Burmistrov Pavel",
+                "Phelia, Exuberant Shepherd",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Kovalev Alexander",
+                "Lukaynov Vadim",
+                "Ezio Auditore da Firenze",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Mishin Vasily",
+                "Elminster",
+                "Aesi, Tyrant of Gyre Strait",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Elinskiy Denis",
+                "Somkin Constantin",
+                "Phelia, Exuberant Shepherd",
+                "Elminster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Burmistrov Pavel",
+                "Kovalev Alexander",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Mishin Vasily",
+                "Shorikai, Genesis Engine",
+                "Aesi, Tyrant of Gyre Strait",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/38519"
+}

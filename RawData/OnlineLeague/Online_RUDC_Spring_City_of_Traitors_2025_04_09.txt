@@ -1,0 +1,44 @@
+location::Online
+level::Regular
+date::2025_04_09
+organizer::AlexSmirnov
+players::generals
+1 	Олифер Егор :: Ludevic, Necrogenius :+: Tymna the Weaver
+2 	Токарев Александр :: Geist of Saint Traft
+3 	Яйлоян Евгений :: Glarb, Calamity's Augur
+4 	Орешкин Дмитрий :: Edric, Spymaster of Trest
+5 	Костин Андрей :: Plagon, Lord of the Beach
+6 	Лисин Дмитрий :: Phelia, Exuberant Shepherd
+7 	Бурмистров Павел :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+8 	Байков Аркадий :: Vial Smasher the Fierce
+9 	Циулин Иван :: Tymna the Weaver :+: Kraum, Ludevic's Opus
+10 	Муравьев Роман :: Dihada, Binder of Wills
+11 	Поляков Герман :: Teferi, Temporal Archmage
+12 	Ревин Владимир :: Elenda, Saint of Dusk
+13 	Барабаш Валентин :: Ezio Auditore da Firenze
+14 	Курмакаев Игорь :: Grist, the Hunger Tide
+15 	Долганов Матвей :: Geist of Saint Traft
+16 	Антипин Костя :: Plagon, Lord of the Beach
+17 	Мещеряков Максим :: Thrasios, Triton Hero :+: Tymna the Weaver
+18 	Стрельцов Артем :: Thrasios, Triton Hero :+: Ardenn, Intrepid Archaeologist
+19 	Богданов Сергей :: Kroxa, Titan of Death's Hunger
+20 	Краснов Илья :: Ertai Resurrected
+21 	Поспелов Александр :: Ral, Monsoon Mage
+22 	Васильев Илья :: Eshki Dragonclaw
+23 	Сайфутдинов Тимур :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+24 	Матюнин Антон :: Inti, Seneschal of the Sun
+25 	Захаренко Вячеслав :: Skullbriar, the Walking Grave
+26 	Сомкин Константин :: Kotis, Sibsig Champion
+27 	Редько Павел :: Arabella, Abandoned Doll
+28 	Штофов Арсений :: Aminatou, the fateshifter
+29 	Скляров Филипп :: Aminatou, the Fateshifter
+30 	Воронцов Иван :: Surrak Dragonclaw
+31 	Плотников Александр :: Sai, Master Thopterist
+32 	Павликов Владислав :: Hidetsugu and Kairi
+33 	Сухов Никитка :: Azusa, Lost but Seeking
+34 	Лагерев Леонид :: Wilson, Refined Grizzly :+: Sword Coast Sailor
+35 	Козлов Максим :: Arahbo, Roar of the World
+36 	Шубенин Илья :: Malcolm, Alluring Scoundrel
+37  Дартау Сергей :: Sheoldred, the Apocalypse
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/38313

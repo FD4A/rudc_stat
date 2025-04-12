@@ -1,0 +1,15 @@
+location::RostovOnDon
+level::Regular
+date::2025_04_06
+organizer::Illator
+players::generals
+Шубенин Илья :: Malcolm, Alluring Scoundrel
+Меркулов Владислав :: Zabaz, the Glimmerwasp
+Елинский Денис :: Phelia, Exuberant Shepherd
+Ковалев Александр :: Ezio Auditore da Firenze
+Лукьянов Вадим :: Basim Ibn Ishaq
+Бурмистров Павел :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Посидайло Артём :: Glarb, Calamity's Augur
+Сомкин Константин :: Elminster
+Round
+https://aetherhub.com/Tourney/RoundTourney/38362

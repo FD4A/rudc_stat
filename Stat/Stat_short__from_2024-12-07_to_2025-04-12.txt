@@ -1,15 +1,7 @@
-Barnaul-2024_11_01-Regular--players[6]
-Barnaul-2024_11_08-Regular--players[6]
-Barnaul-2024_11_21-Regular--players[8]
-Online-2024_11_21-Regular-AlexSmirnov-players[22]
 Online-2024_12_07-Regular-AlexSmirnov-players[34]
 Online-2025_01_31-Regular-AlexSmirnov-players[38]
 Online-2025_01_31-Regular-AlexSmirnov-players[8]
-RostovOnDon-2024_10_13-Regular-Constantin-players[6]
-RostovOnDon-2024_11_16-Regular-Constantin-players[11]
-RostovOnDon-2024_11_16-Regular-Constantin-players[4]
-RostovOnDon-2024_11_17-Regular-Constantin-players[4]
-RostovOnDon-2024_11_17-Regular-Constantin-players[6]
+RostovOnDon-2024_12_14-Regular-Constantin-players[6]
 RostovOnDon-2024_12_21-Regular-Constantin-players[10]
 RostovOnDon-2025_02_01-Regular-Constantin-players[8]
 RostovOnDon-2025_02_15-Regular-Constantin-players[13]
@@ -17,16 +9,9 @@ RostovOnDon-2025_03_02-Regular-Constantin-players[6]
 RostovOnDon-2025_03_09-Regular-Constantin-players[6]
 RostovOnDon-2025_03_22-Regular-Sapher-players[7]
 RostovOnDon-2025_03_29-Regular-Constantin-players[6]
-Spb-2024_10_02-Regular-Andysays-players[10]
-Spb-2024_10_10-Regular-Andysays-players[8]
-Spb-2024_10_17-Regular-Andysays-players[9]
-Spb-2024_10_24-Regular-Andysays-players[8]
-Spb-2024_10_31-Regular-Andysays-players[13]
-Spb-2024_11_07-Regular-Andysays-players[8]
-Spb-2024_11_14-Regular-Andysays-players[14]
-Spb-2024_11_21-Regular-Andysays-players[17]
-Spb-2024_11_28-Regular-Andysays-players[12]
-Spb-2024_12_05-Regular-Andysays-players[12]
+RostovOnDon-2025_04_03-Regular-Constantin-players[8]
+RostovOnDon-2025_04_06-Regular-Illator-players[8]
+RostovOnDon-2025_04_12-Regular-Constantin-players[6]
 Spb-2024_12_12-Regular-Andysays-players[18]
 Spb-2024_12_19-Regular-Andysays-players[18]
 Spb-2024_12_26-Regular-Andysays-players[28]
@@ -43,31 +28,29 @@ Spb-2025_03_13-Regular-Andysays-players[16]
 Spb-2025_03_20-Regular-Andysays-players[18]
 Spb-2025_03_27-Regular-Andysays-players[20]
 Spb-2025_04_03-Regular-Andysays-players[20]
+Spb-2025_04_10-Regular-Andysays-players[20]
 Vladivostok-2025_04_05-Regular-Sunderro-players[10]
 Volgograd-2024_12_08-Regular-Rombik34rus-players[9]
 Volgograd-2024_12_15-Regular-Rombik34rus-players[12]
 Volgograd-2025_01_12-Regular-Rombik34rus-players[12]
 Volgograd-2025_01_26-Regular-Rombik34rus-players[13]
+Volgograd-2025_04_06-Regular-Rombik34rus-players[8]
 
 
-Ajani, Nacatl Pariah             matches:10   WM: 70.00%  LM: 30.00%  DM:  0.00% (wm:7   lm:3   dm:0)  games:24   WG: 58.33% LG: 41.67% (wg:  14 lg:  10) pick: 3    Online(2), Spb(1), 
-Amalia Benavides Aguirre         matches:27   WM: 48.15%  LM: 37.04%  DM: 14.81% (wm:13  lm:10  dm:4)  games:59   WG: 55.93% LG: 44.07% (wg:  33 lg:  26) pick: 7    Spb(7), 
-Aminatou, the Fateshifter        matches:79   WM: 46.84%  LM: 41.77%  DM: 11.39% (wm:37  lm:33  dm:9)  games:178  WG: 50.00% LG: 50.00% (wg:  89 lg:  89) pick: 20   Spb(16), Online(3), Volgograd(1), 
+Aesi, Tyrant of Gyre Strait      matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:6    WG:  0.00% LG:100.00% (wg:   0 lg:   6) pick: 1    RostovOnDon(1), 
+Amalia Benavides Aguirre         matches:24   WM: 41.67%  LM: 41.67%  DM: 16.67% (wm:10  lm:10  dm:4)  games:54   WG: 51.85% LG: 48.15% (wg:  28 lg:  26) pick: 6    Spb(6), 
+Aminatou, the Fateshifter        matches:77   WM: 45.45%  LM: 42.86%  DM: 11.69% (wm:35  lm:33  dm:9)  games:172  WG: 48.84% LG: 51.16% (wg:  84 lg:  88) pick: 20   Spb(16), Online(2), Volgograd(2), 
 Animar, Soul of Elements         matches:2    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:2   dm:0)  games:4    WG:  0.00% LG:100.00% (wg:   0 lg:   4) pick: 1    RostovOnDon(1), 
-Aragorn, King of Gondor          matches:40   WM: 35.00%  LM: 52.50%  DM: 12.50% (wm:14  lm:21  dm:5)  games:89   WG: 43.82% LG: 56.18% (wg:  39 lg:  50) pick: 11   Spb(11), 
-Arahbo, Roar of the World        matches:34   WM: 47.06%  LM: 50.00%  DM:  2.94% (wm:16  lm:17  dm:1)  games:81   WG: 48.15% LG: 51.85% (wg:  39 lg:  42) pick: 9    Spb(6), Vladivostok(1), Volgograd(1), Barnaul(1), 
-Arcades, the Strategist          matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:6    WG:  0.00% LG:100.00% (wg:   0 lg:   6) pick: 1    Spb(1), 
+Aragorn, King of Gondor          matches:41   WM: 36.59%  LM: 51.22%  DM: 12.20% (wm:15  lm:21  dm:5)  games:92   WG: 44.57% LG: 55.43% (wg:  41 lg:  51) pick: 11   Spb(11), 
+Arahbo, Roar of the World        matches:35   WM: 51.43%  LM: 45.71%  DM:  2.86% (wm:18  lm:16  dm:1)  games:84   WG: 51.19% LG: 48.81% (wg:  43 lg:  41) pick: 9    Spb(7), Vladivostok(1), Volgograd(1), 
 Arwen, Mortal Queen              matches:4    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:4   lm:0   dm:0)  games:9    WG: 88.89% LG: 11.11% (wg:   8 lg:   1) pick: 1    Vladivostok(1), 
-Asmoranomardicadaistinaculdacar  matches:14   WM: 42.86%  LM: 42.86%  DM: 14.29% (wm:6   lm:6   dm:2)  games:31   WG: 48.39% LG: 51.61% (wg:  15 lg:  16) pick: 4    Spb(3), RostovOnDon(1), 
 Atraxa, Praetors' Voice          matches:4    WM:  0.00%  LM: 50.00%  DM: 50.00% (wm:0   lm:2   dm:2)  games:9    WG: 33.33% LG: 66.67% (wg:   3 lg:   6) pick: 1    Spb(1), 
 Azusa, Lost but Seeking          matches:17   WM: 41.18%  LM: 52.94%  DM:  5.88% (wm:7   lm:9   dm:1)  games:40   WG: 50.00% LG: 50.00% (wg:  20 lg:  20) pick: 4    Spb(3), Online(1), 
-Balmor, Battlemage Captain       matches:9    WM: 44.44%  LM: 55.56%  DM:  0.00% (wm:4   lm:5   dm:0)  games:21   WG: 42.86% LG: 57.14% (wg:   9 lg:  12) pick: 3    Barnaul(3), 
-Baral and Kari Zev               matches:7    WM: 57.14%  LM: 42.86%  DM:  0.00% (wm:4   lm:3   dm:0)  games:17   WG: 58.82% LG: 41.18% (wg:  10 lg:   7) pick: 2    Spb(1), Barnaul(1), 
-Basim Ibn Ishaq                  matches:13   WM: 38.46%  LM: 53.85%  DM:  7.69% (wm:5   lm:7   dm:1)  games:31   WG: 45.16% LG: 54.84% (wg:  14 lg:  17) pick: 3    Online(1), RostovOnDon(1), Spb(1), 
-Blex, Vexing Pest                matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:6    WG:  0.00% LG:100.00% (wg:   0 lg:   6) pick: 1    Spb(1), 
-Brago, King Eternal              matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:8    WG:  0.00% LG:100.00% (wg:   0 lg:   8) pick: 1    Spb(1), 
+Balmor, Battlemage Captain       matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:6    WG: 66.67% LG: 33.33% (wg:   4 lg:   2) pick: 1    RostovOnDon(1), 
+Baral and Kari Zev               matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 55.56% LG: 44.44% (wg:   5 lg:   4) pick: 1    Spb(1), 
+Basim Ibn Ishaq                  matches:19   WM: 36.84%  LM: 52.63%  DM: 10.53% (wm:7   lm:10  dm:2)  games:42   WG: 42.86% LG: 57.14% (wg:  18 lg:  24) pick: 5    RostovOnDon(3), Online(1), Spb(1), 
 Bruna, Light of Alabaster        matches:7    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:7   dm:0)  games:14   WG:  0.00% LG:100.00% (wg:   0 lg:  14) pick: 2    Spb(2), 
-Bruse Tarl, Boorish Herder       matches:65   WM: 47.69%  LM: 43.08%  DM:  9.23% (wm:31  lm:28  dm:6)  games:159  WG: 50.94% LG: 49.06% (wg:  81 lg:  78) pick: 15   Spb(6), Online(5), Volgograd(3), RostovOnDon(1), 
+Bruse Tarl, Boorish Herder       matches:69   WM: 49.28%  LM: 42.03%  DM:  8.70% (wm:34  lm:29  dm:6)  games:169  WG: 51.48% LG: 48.52% (wg:  87 lg:  82) pick: 16   Spb(7), Online(5), Volgograd(3), RostovOnDon(1), 
   + Thrasios, Triton Hero       
 Captain Howler, Sea Scourge      matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:16   WG: 43.75% LG: 56.25% (wg:   7 lg:   9) pick: 1    Online(1), 
 Clement, the Worrywort           matches:16   WM: 12.50%  LM: 81.25%  DM:  6.25% (wm:2   lm:13  dm:1)  games:35   WG: 22.86% LG: 77.14% (wg:   8 lg:  27) pick: 3    Online(2), Spb(1), 
@@ -75,137 +58,115 @@ Commodore Guff                   matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00%
 Dihada, Binder of Wills          matches:30   WM: 63.33%  LM: 36.67%  DM:  0.00% (wm:19  lm:11  dm:0)  games:74   WG: 56.76% LG: 43.24% (wg:  42 lg:  32) pick: 6    Online(3), Spb(3), 
 Edric, Spymaster of Trest        matches:7    WM: 42.86%  LM: 57.14%  DM:  0.00% (wm:3   lm:4   dm:0)  games:19   WG: 47.37% LG: 52.63% (wg:   9 lg:  10) pick: 2    Spb(2), 
 Eladamri, Lord of Leaves         matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 55.56% LG: 44.44% (wg:   5 lg:   4) pick: 1    Volgograd(1), 
-Elas il-Kor, Sadistic Pilgrim    matches:4    WM: 25.00%  LM: 50.00%  DM: 25.00% (wm:1   lm:2   dm:1)  games:8    WG: 37.50% LG: 62.50% (wg:   3 lg:   5) pick: 1    RostovOnDon(1), 
+Elas il-Kor, Sadistic Pilgrim    matches:7    WM: 14.29%  LM: 71.43%  DM: 14.29% (wm:1   lm:5   dm:1)  games:15   WG: 26.67% LG: 73.33% (wg:   4 lg:  11) pick: 2    RostovOnDon(2), 
   + Lurrus of the Dream-Den     
-Elminster                        matches:26   WM: 23.08%  LM: 46.15%  DM: 30.77% (wm:6   lm:12  dm:8)  games:52   WG: 38.46% LG: 57.69% (wg:  20 lg:  30) pick: 9    RostovOnDon(9), 
+Elminster                        matches:21   WM: 19.05%  LM: 52.38%  DM: 28.57% (wm:4   lm:11  dm:6)  games:41   WG: 39.02% LG: 60.98% (wg:  16 lg:  25) pick: 7    RostovOnDon(7), 
 Emmara, Soul of the Accord       matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:11   WG: 63.64% LG: 36.36% (wg:   7 lg:   4) pick: 1    Volgograd(1), 
-Eris, Roar of the Storm          matches:55   WM: 49.09%  LM: 43.64%  DM:  7.27% (wm:27  lm:24  dm:4)  games:133  WG: 50.38% LG: 49.62% (wg:  67 lg:  66) pick: 20   Spb(15), Barnaul(4), RostovOnDon(1), 
-Ertai Resurrected                matches:57   WM: 38.60%  LM: 40.35%  DM: 21.05% (wm:22  lm:23  dm:12) games:128  WG: 48.44% LG: 51.56% (wg:  62 lg:  66) pick: 14   Spb(8), Online(3), RostovOnDon(2), Volgograd(1), 
+Ertai Resurrected                matches:50   WM: 40.00%  LM: 40.00%  DM: 20.00% (wm:20  lm:20  dm:10) games:112  WG: 49.11% LG: 50.89% (wg:  55 lg:  57) pick: 12   Spb(6), Online(3), RostovOnDon(2), Volgograd(1), 
 Eutropia the Twice-Favored       matches:4    WM: 50.00%  LM: 25.00%  DM: 25.00% (wm:2   lm:1   dm:1)  games:10   WG: 60.00% LG: 40.00% (wg:   6 lg:   4) pick: 1    Volgograd(1), 
-Ezio Auditore da Firenze         matches:71   WM: 47.89%  LM: 45.07%  DM:  7.04% (wm:34  lm:32  dm:5)  games:166  WG: 51.20% LG: 48.80% (wg:  85 lg:  81) pick: 20   Spb(15), RostovOnDon(5), 
+Ezio Auditore da Firenze         matches:77   WM: 48.05%  LM: 40.26%  DM: 11.69% (wm:37  lm:31  dm:9)  games:180  WG: 52.78% LG: 47.22% (wg:  95 lg:  85) pick: 22   Spb(15), RostovOnDon(7), 
 Ezio, Blade of Vengeance         matches:14   WM: 71.43%  LM: 28.57%  DM:  0.00% (wm:10  lm:4   dm:0)  games:34   WG: 67.65% LG: 32.35% (wg:  23 lg:  11) pick: 3    Online(3), 
 Falco Spara, Pactweaver          matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:7    WG: 14.29% LG: 85.71% (wg:   1 lg:   6) pick: 1    Volgograd(1), 
 Feather, the Redeemed            matches:4    WM: 25.00%  LM: 50.00%  DM: 25.00% (wm:1   lm:2   dm:1)  games:8    WG: 37.50% LG: 62.50% (wg:   3 lg:   5) pick: 1    Spb(1), 
-Feldon, Ronom Excavator          matches:61   WM: 50.82%  LM: 45.90%  DM:  3.28% (wm:31  lm:28  dm:2)  games:152  WG: 50.66% LG: 49.34% (wg:  77 lg:  75) pick: 15   Spb(6), Volgograd(3), Online(2), RostovOnDon(2), Vladivostok(2), 
+Feldon, Ronom Excavator          matches:44   WM: 50.00%  LM: 45.45%  DM:  4.55% (wm:22  lm:20  dm:2)  games:111  WG: 50.45% LG: 49.55% (wg:  56 lg:  55) pick: 11   Spb(3), Volgograd(3), RostovOnDon(2), Vladivostok(2), Online(1), 
 Flubs, the Fool                  matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:7    WG: 14.29% LG: 85.71% (wg:   1 lg:   6) pick: 1    RostovOnDon(1), 
 Frodo, Adventurous Hobbit        matches:4    WM:  0.00%  LM: 75.00%  DM: 25.00% (wm:0   lm:3   dm:1)  games:9    WG: 22.22% LG: 77.78% (wg:   2 lg:   7) pick: 1    Vladivostok(1), 
   + Sam, Loyal Attendant        
-Geist of Saint Traft             matches:67   WM: 49.25%  LM: 41.79%  DM:  8.96% (wm:33  lm:28  dm:6)  games:150  WG: 54.00% LG: 45.33% (wg:  81 lg:  68) pick: 18   Spb(12), Online(2), RostovOnDon(2), Volgograd(1), Vladivostok(1), 
-Ghyrson Starn, Kelermorph        matches:66   WM: 59.09%  LM: 37.88%  DM:  3.03% (wm:39  lm:25  dm:2)  games:166  WG: 54.82% LG: 45.18% (wg:  91 lg:  75) pick: 18   Spb(17), Volgograd(1), 
-Glarb, Calamity's Augur          matches:19   WM: 21.05%  LM: 63.16%  DM: 15.79% (wm:4   lm:12  dm:3)  games:41   WG: 34.15% LG: 65.85% (wg:  14 lg:  27) pick: 5    Spb(5), 
-Golos, Tireless Pilgrim          matches:54   WM: 51.85%  LM: 38.89%  DM:  9.26% (wm:28  lm:21  dm:5)  games:125  WG: 52.80% LG: 47.20% (wg:  66 lg:  59) pick: 15   Spb(13), RostovOnDon(2), 
+Geist of Saint Traft             matches:59   WM: 50.85%  LM: 40.68%  DM:  8.47% (wm:30  lm:24  dm:5)  games:130  WG: 54.62% LG: 44.62% (wg:  71 lg:  58) pick: 16   Spb(10), Online(2), RostovOnDon(2), Volgograd(1), Vladivostok(1), 
+Ghyrson Starn, Kelermorph        matches:73   WM: 56.16%  LM: 41.10%  DM:  2.74% (wm:41  lm:30  dm:2)  games:183  WG: 53.55% LG: 46.45% (wg:  98 lg:  85) pick: 20   Spb(18), Volgograd(1), RostovOnDon(1), 
+Glarb, Calamity's Augur          matches:22   WM: 18.18%  LM: 63.64%  DM: 18.18% (wm:4   lm:14  dm:4)  games:47   WG: 31.91% LG: 68.09% (wg:  15 lg:  32) pick: 6    Spb(5), RostovOnDon(1), 
+Golos, Tireless Pilgrim          matches:38   WM: 60.53%  LM: 28.95%  DM: 10.53% (wm:23  lm:11  dm:4)  games:92   WG: 57.61% LG: 42.39% (wg:  53 lg:  39) pick: 10   Spb(8), RostovOnDon(2), 
 Gonti, Lord of Luxury            matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:5    WG:  0.00% LG:100.00% (wg:   0 lg:   5) pick: 1    Spb(1), 
 Gornog, the Red Reaper           matches:6    WM: 83.33%  LM: 16.67%  DM:  0.00% (wm:5   lm:1   dm:0)  games:17   WG: 64.71% LG: 35.29% (wg:  11 lg:   6) pick: 1    Online(1), 
 Grenzo, Dungeon Warden           matches:4    WM: 50.00%  LM: 25.00%  DM: 25.00% (wm:2   lm:1   dm:1)  games:9    WG: 55.56% LG: 44.44% (wg:   5 lg:   4) pick: 1    Spb(1), 
-Grist, the Hunger Tide           matches:8    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:2   lm:6   dm:0)  games:21   WG: 33.33% LG: 66.67% (wg:   7 lg:  14) pick: 2    Volgograd(2), 
-Gut, True Soul Zealot            matches:11   WM: 54.55%  LM: 45.45%  DM:  0.00% (wm:6   lm:5   dm:0)  games:27   WG: 51.85% LG: 48.15% (wg:  14 lg:  13) pick: 2    Online(2), 
+Grist, the Hunger Tide           matches:14   WM: 42.86%  LM: 50.00%  DM:  7.14% (wm:6   lm:7   dm:1)  games:36   WG: 47.22% LG: 52.78% (wg:  17 lg:  19) pick: 4    Volgograd(4), 
+Gut, True Soul Zealot            matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:14   WG: 35.71% LG: 64.29% (wg:   5 lg:   9) pick: 1    Online(1), 
   + Agent of the Iron Throne    
 Hidetsugu and Kairi              matches:13   WM: 61.54%  LM: 30.77%  DM:  7.69% (wm:8   lm:4   dm:1)  games:30   WG: 63.33% LG: 36.67% (wg:  19 lg:  11) pick: 3    Online(2), Spb(1), 
-Hogaak, Arisen Necropolis        matches:2    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:1   lm:1   dm:0)  games:4    WG: 50.00% LG: 50.00% (wg:   2 lg:   2) pick: 1    Spb(1), 
-Imskir Iron-Eater                matches:30   WM: 53.33%  LM: 43.33%  DM:  3.33% (wm:16  lm:13  dm:1)  games:74   WG: 52.70% LG: 47.30% (wg:  39 lg:  35) pick: 7    Online(4), Volgograd(2), Spb(1), 
-Inalla, Archmage Ritualist       matches:5    WM: 80.00%  LM: 20.00%  DM:  0.00% (wm:4   lm:1   dm:0)  games:12   WG: 75.00% LG: 25.00% (wg:   9 lg:   3) pick: 1    Online(1), 
-Indoraptor, the Perfect Hybrid   matches:32   WM: 40.62%  LM: 46.88%  DM: 12.50% (wm:13  lm:15  dm:4)  games:76   WG: 50.00% LG: 50.00% (wg:  38 lg:  38) pick: 9    Spb(9), 
-Inti, Seneschal of the Sun       matches:7    WM: 42.86%  LM: 42.86%  DM: 14.29% (wm:3   lm:3   dm:1)  games:17   WG: 52.94% LG: 47.06% (wg:   9 lg:   8) pick: 2    Volgograd(1), RostovOnDon(1), 
+Imskir Iron-Eater                matches:25   WM: 52.00%  LM: 44.00%  DM:  4.00% (wm:13  lm:11  dm:1)  games:61   WG: 50.82% LG: 49.18% (wg:  31 lg:  30) pick: 6    Online(3), Volgograd(2), Spb(1), 
+Indoraptor, the Perfect Hybrid   matches:15   WM: 40.00%  LM: 46.67%  DM: 13.33% (wm:6   lm:7   dm:2)  games:36   WG: 47.22% LG: 52.78% (wg:  17 lg:  19) pick: 4    Spb(4), 
+Inti, Seneschal of the Sun       matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:10   WG: 70.00% LG: 30.00% (wg:   7 lg:   3) pick: 1    Volgograd(1), 
 Iron Man, Titan of Innovation    matches:12   WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:6   lm:6   dm:0)  games:28   WG: 53.57% LG: 46.43% (wg:  15 lg:  13) pick: 3    Volgograd(2), Spb(1), 
 Ivy, Gleeful Spellthief          matches:6    WM: 50.00%  LM: 16.67%  DM: 33.33% (wm:3   lm:1   dm:2)  games:13   WG: 61.54% LG: 30.77% (wg:   8 lg:   4) pick: 1    RostovOnDon(1), 
 Jolrael, Mwonvuli Recluse        matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:6    WG:  0.00% LG:100.00% (wg:   0 lg:   6) pick: 1    RostovOnDon(1), 
-Juri, Master of the Revue        matches:92   WM: 45.65%  LM: 48.91%  DM:  5.43% (wm:42  lm:45  dm:5)  games:216  WG: 50.00% LG: 50.00% (wg: 108 lg: 108) pick: 24   Spb(20), RostovOnDon(3), Online(1), 
+Juri, Master of the Revue        matches:61   WM: 44.26%  LM: 50.82%  DM:  4.92% (wm:27  lm:31  dm:3)  games:141  WG: 49.65% LG: 50.35% (wg:  70 lg:  71) pick: 16   Spb(12), RostovOnDon(3), Online(1), 
 Kari Zev, Skyship Raider         matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 50.00% LG: 50.00% (wg:   5 lg:   5) pick: 1    Spb(1), 
-Karlov of the Ghost Council      matches:8    WM: 75.00%  LM: 12.50%  DM: 12.50% (wm:6   lm:1   dm:1)  games:18   WG: 72.22% LG: 27.78% (wg:  13 lg:   5) pick: 2    Volgograd(2), 
+Karlov of the Ghost Council      matches:11   WM: 72.73%  LM: 18.18%  DM:  9.09% (wm:8   lm:2   dm:1)  games:27   WG: 66.67% LG: 33.33% (wg:  18 lg:   9) pick: 3    Volgograd(3), 
   + Lurrus of the Dream-Den     
 Karlov of the Ghost Council      matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:15   WG: 40.00% LG: 60.00% (wg:   6 lg:   9) pick: 1    Online(1), 
   + Lurrus of the Dream-Den     
 Kellan, Daring Traveler          matches:14   WM: 42.86%  LM: 57.14%  DM:  0.00% (wm:6   lm:8   dm:0)  games:35   WG: 51.43% LG: 48.57% (wg:  18 lg:  17) pick: 3    Volgograd(2), Online(1), 
 Keranos, God of Storms           matches:8    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:2   lm:6   dm:0)  games:17   WG: 35.29% LG: 64.71% (wg:   6 lg:  11) pick: 2    Spb(2), 
-Ketramose, the New Dawn          matches:38   WM: 31.58%  LM: 60.53%  DM:  7.89% (wm:12  lm:23  dm:3)  games:92   WG: 40.22% LG: 59.78% (wg:  37 lg:  55) pick: 10   Spb(7), Online(3), 
-Kinnan, Bonder Prodigy           matches:18   WM: 55.56%  LM: 44.44%  DM:  0.00% (wm:10  lm:8   dm:0)  games:46   WG: 52.17% LG: 47.83% (wg:  24 lg:  22) pick: 5    Spb(5), 
+Ketramose, the New Dawn          matches:41   WM: 31.71%  LM: 60.98%  DM:  7.32% (wm:13  lm:25  dm:3)  games:98   WG: 39.80% LG: 60.20% (wg:  39 lg:  59) pick: 11   Spb(8), Online(3), 
 Kiora, the Rising Tide           matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:15   WG: 40.00% LG: 60.00% (wg:   6 lg:   9) pick: 1    Online(1), 
 Kolodin, Triumph Caster          matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:15   WG: 40.00% LG: 60.00% (wg:   6 lg:   9) pick: 1    Online(1), 
 Kraum, Ludevic's Opus            matches:8    WM: 50.00%  LM: 25.00%  DM: 25.00% (wm:4   lm:2   dm:2)  games:20   WG: 55.00% LG: 45.00% (wg:  11 lg:   9) pick: 2    Spb(2), 
   + Ikra Shidiqi, the Usurper   
-Kroxa, Titan of Death's Hunger   matches:22   WM: 63.64%  LM: 36.36%  DM:  0.00% (wm:14  lm:8   dm:0)  games:50   WG: 62.00% LG: 38.00% (wg:  31 lg:  19) pick: 6    Spb(3), RostovOnDon(2), Online(1), 
-Kytheon, Hero of Akros           matches:13   WM: 38.46%  LM: 61.54%  DM:  0.00% (wm:5   lm:8   dm:0)  games:32   WG: 40.62% LG: 59.38% (wg:  13 lg:  19) pick: 5    Barnaul(5), 
+Kroxa, Titan of Death's Hunger   matches:26   WM: 61.54%  LM: 38.46%  DM:  0.00% (wm:16  lm:10  dm:0)  games:58   WG: 60.34% LG: 39.66% (wg:  35 lg:  23) pick: 7    Spb(4), RostovOnDon(2), Online(1), 
 Lathril, Blade of the Elves      matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:10   WG: 30.00% LG: 70.00% (wg:   3 lg:   7) pick: 1    Volgograd(1), 
-Light-Paws, Emperor's Voice      matches:16   WM: 43.75%  LM: 43.75%  DM: 12.50% (wm:7   lm:7   dm:2)  games:35   WG: 48.57% LG: 51.43% (wg:  17 lg:  18) pick: 4    RostovOnDon(3), Barnaul(1), 
+Lier, Disciple of the Drowned    matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:8    WG: 50.00% LG: 50.00% (wg:   4 lg:   4) pick: 1    Volgograd(1), 
+Light-Paws, Emperor's Voice      matches:9    WM: 33.33%  LM: 44.44%  DM: 22.22% (wm:3   lm:4   dm:2)  games:19   WG: 47.37% LG: 52.63% (wg:   9 lg:  10) pick: 2    RostovOnDon(2), 
 Lonis, Cryptozoologist           matches:13   WM: 38.46%  LM: 61.54%  DM:  0.00% (wm:5   lm:8   dm:0)  games:33   WG: 45.45% LG: 54.55% (wg:  15 lg:  18) pick: 3    Spb(1), Online(1), Volgograd(1), 
-Loot, the Pathfinder             matches:19   WM: 36.84%  LM: 57.89%  DM:  5.26% (wm:7   lm:11  dm:1)  games:49   WG: 42.86% LG: 57.14% (wg:  21 lg:  28) pick: 5    Spb(3), Online(2), 
-Magda, Brazen Outlaw             matches:19   WM: 57.89%  LM: 26.32%  DM: 15.79% (wm:11  lm:5   dm:3)  games:45   WG: 62.22% LG: 37.78% (wg:  28 lg:  17) pick: 4    RostovOnDon(3), Online(1), 
-Malcolm, Alluring Scoundrel      matches:47   WM: 29.79%  LM: 44.68%  DM: 25.53% (wm:14  lm:21  dm:12) games:108  WG: 48.15% LG: 51.85% (wg:  52 lg:  56) pick: 12   Spb(6), RostovOnDon(4), Volgograd(1), Online(1), 
-Malcolm, the Eyes                matches:14   WM: 57.14%  LM: 42.86%  DM:  0.00% (wm:8   lm:6   dm:0)  games:35   WG: 60.00% LG: 40.00% (wg:  21 lg:  14) pick: 3    Spb(2), Online(1), 
+Loot, the Pathfinder             matches:22   WM: 31.82%  LM: 63.64%  DM:  4.55% (wm:7   lm:14  dm:1)  games:54   WG: 38.89% LG: 61.11% (wg:  21 lg:  33) pick: 6    Spb(3), Online(2), Volgograd(1), 
+Magda, Brazen Outlaw             matches:16   WM: 62.50%  LM: 18.75%  DM: 18.75% (wm:10  lm:3   dm:3)  games:37   WG: 64.86% LG: 35.14% (wg:  24 lg:  13) pick: 3    RostovOnDon(2), Online(1), 
+Malcolm, Alluring Scoundrel      matches:49   WM: 34.69%  LM: 42.86%  DM: 22.45% (wm:17  lm:21  dm:11) games:114  WG: 50.00% LG: 50.00% (wg:  57 lg:  57) pick: 13   RostovOnDon(6), Spb(5), Volgograd(1), Online(1), 
+Malcolm, the Eyes                matches:17   WM: 52.94%  LM: 41.18%  DM:  5.88% (wm:9   lm:7   dm:1)  games:43   WG: 58.14% LG: 41.86% (wg:  25 lg:  18) pick: 4    Spb(2), Online(1), Volgograd(1), 
 Mendicant Core, Guidelight       matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:9    WG: 11.11% LG: 88.89% (wg:   1 lg:   8) pick: 1    Online(1), 
-Meren of Clan Nel Toth           matches:2    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:2   dm:0)  games:4    WG:  0.00% LG:100.00% (wg:   0 lg:   4) pick: 1    Spb(1), 
 Minsc, Beloved Ranger            matches:7    WM: 71.43%  LM: 28.57%  DM:  0.00% (wm:5   lm:2   dm:0)  games:18   WG: 61.11% LG: 38.89% (wg:  11 lg:   7) pick: 2    Online(2), 
 Muxus, Goblin Grandee            matches:16   WM: 68.75%  LM: 31.25%  DM:  0.00% (wm:11  lm:5   dm:0)  games:44   WG: 59.09% LG: 40.91% (wg:  26 lg:  18) pick: 4    Online(2), Volgograd(2), 
 Niv-Mizzet, Parun                matches:12   WM: 16.67%  LM: 83.33%  DM:  0.00% (wm:2   lm:10  dm:0)  games:26   WG: 23.08% LG: 76.92% (wg:   6 lg:  20) pick: 3    Volgograd(2), Online(1), 
-Oloro, Ageless Ascetic           matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:1   lm:4   dm:0)  games:10   WG: 20.00% LG: 80.00% (wg:   2 lg:   8) pick: 1    Online(1), 
-Omnath, Locus of Creation        matches:40   WM: 40.00%  LM: 42.50%  DM: 17.50% (wm:16  lm:17  dm:7)  games:82   WG: 48.78% LG: 47.56% (wg:  40 lg:  39) pick: 12   Spb(5), RostovOnDon(4), Online(2), Barnaul(1), 
-Phelia, Exuberant Shepherd       matches:61   WM: 52.46%  LM: 34.43%  DM: 13.11% (wm:32  lm:21  dm:8)  games:135  WG: 56.30% LG: 43.70% (wg:  76 lg:  59) pick: 17   Spb(9), RostovOnDon(8), 
+Phelia, Exuberant Shepherd       matches:62   WM: 59.68%  LM: 32.26%  DM:  8.06% (wm:37  lm:20  dm:5)  games:139  WG: 58.99% LG: 41.01% (wg:  82 lg:  57) pick: 17   Spb(9), RostovOnDon(8), 
 Phlage, Titan of Fire's Fury     matches:10   WM: 20.00%  LM: 70.00%  DM: 10.00% (wm:2   lm:7   dm:1)  games:25   WG: 36.00% LG: 64.00% (wg:   9 lg:  16) pick: 2    Online(1), Volgograd(1), 
 Pippin, Guard of the Citadel     matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 50.00% LG: 50.00% (wg:   5 lg:   5) pick: 1    Volgograd(1), 
 Plagon, Lord of the Beach        matches:2    WM:  0.00%  LM: 50.00%  DM: 50.00% (wm:0   lm:1   dm:1)  games:5    WG: 40.00% LG: 60.00% (wg:   2 lg:   3) pick: 1    Spb(1), 
 Prossh, Skyraider of Kher        matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:16   WG: 56.25% LG: 43.75% (wg:   9 lg:   7) pick: 1    Online(1), 
-Raffine, Scheming Seer           matches:5    WM: 60.00%  LM: 20.00%  DM: 20.00% (wm:3   lm:1   dm:1)  games:11   WG: 72.73% LG: 27.27% (wg:   8 lg:   3) pick: 2    Spb(2), 
 Ral, Monsoon Mage                matches:20   WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:10  lm:10  dm:0)  games:49   WG: 51.02% LG: 48.98% (wg:  25 lg:  24) pick: 4    Online(2), Volgograd(1), RostovOnDon(1), 
 Ratchet, Field Medic             matches:4    WM: 50.00%  LM: 25.00%  DM: 25.00% (wm:2   lm:1   dm:1)  games:9    WG: 55.56% LG: 44.44% (wg:   5 lg:   4) pick: 1    Vladivostok(1), 
 Ratonhnhaké꞉ton                  matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 50.00% LG: 50.00% (wg:   5 lg:   5) pick: 1    Vladivostok(1), 
 Rocco, Cabaretti Caterer         matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:6    WG: 66.67% LG: 33.33% (wg:   4 lg:   2) pick: 1    RostovOnDon(1), 
-Rofellos, Llanowar Emissary      matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:1   lm:4   dm:0)  games:13   WG: 38.46% LG: 61.54% (wg:   5 lg:   8) pick: 1    Online(1), 
-Rograkh, Son of Rohgahh          matches:14   WM: 85.71%  LM: 14.29%  DM:  0.00% (wm:12  lm:2   dm:0)  games:36   WG: 69.44% LG: 30.56% (wg:  25 lg:  11) pick: 4    Online(2), RostovOnDon(2), 
+Rograkh, Son of Rohgahh          matches:23   WM: 73.91%  LM: 26.09%  DM:  0.00% (wm:17  lm:6   dm:0)  games:57   WG: 64.91% LG: 35.09% (wg:  37 lg:  20) pick: 7    RostovOnDon(5), Online(2), 
   + Silas Renn, Seeker Adept    
 Rograkh, Son of Rohgahh          matches:8    WM: 75.00%  LM: 12.50%  DM: 12.50% (wm:6   lm:1   dm:1)  games:18   WG: 72.22% LG: 27.78% (wg:  13 lg:   5) pick: 2    RostovOnDon(1), Online(1), 
   + Tevesh Szat, Doom of Fools  
 Sai, Master Thopterist           matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:13   WG: 38.46% LG: 61.54% (wg:   5 lg:   8) pick: 1    Online(1), 
 Satoru Umezawa                   matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:8    WG: 12.50% LG: 87.50% (wg:   1 lg:   7) pick: 1    Volgograd(1), 
-Satya, Aetherflux Genius         matches:49   WM: 57.14%  LM: 34.69%  DM:  8.16% (wm:28  lm:17  dm:4)  games:121  WG: 58.68% LG: 41.32% (wg:  71 lg:  50) pick: 13   Spb(8), Online(2), RostovOnDon(2), Volgograd(1), 
+Satya, Aetherflux Genius         matches:25   WM: 64.00%  LM: 32.00%  DM:  4.00% (wm:16  lm:8   dm:1)  games:61   WG: 65.57% LG: 34.43% (wg:  40 lg:  21) pick: 6    Spb(4), Online(1), Volgograd(1), 
 Sauron, Lord of the Rings        matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:7    WG:  0.00% LG:100.00% (wg:   0 lg:   7) pick: 1    Spb(1), 
-Selvala, Eager Trailblazer       matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:10   WG: 20.00% LG: 80.00% (wg:   2 lg:   8) pick: 1    Online(1), 
 Selvala, Explorer Returned       matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:7    WG: 42.86% LG: 57.14% (wg:   3 lg:   4) pick: 1    Volgograd(1), 
 Sharuum the Hegemon              matches:12   WM: 16.67%  LM: 50.00%  DM: 33.33% (wm:2   lm:6   dm:4)  games:26   WG: 34.62% LG: 65.38% (wg:   9 lg:  17) pick: 3    Spb(3), 
-Shorikai, Genesis Engine         matches:22   WM: 40.91%  LM: 40.91%  DM: 18.18% (wm:9   lm:9   dm:4)  games:50   WG: 48.00% LG: 52.00% (wg:  24 lg:  26) pick: 5    RostovOnDon(2), Online(2), Barnaul(1), 
-Slimefoot and Squee              matches:53   WM: 47.17%  LM: 45.28%  DM:  7.55% (wm:25  lm:24  dm:4)  games:124  WG: 48.39% LG: 51.61% (wg:  60 lg:  64) pick: 13   Spb(5), RostovOnDon(3), Online(3), Volgograd(2), 
+Shorikai, Genesis Engine         matches:25   WM: 44.00%  LM: 40.00%  DM: 16.00% (wm:11  lm:10  dm:4)  games:57   WG: 50.88% LG: 49.12% (wg:  29 lg:  28) pick: 6    RostovOnDon(3), Online(2), Volgograd(1), 
+Slimefoot and Squee              matches:30   WM: 46.67%  LM: 46.67%  DM:  6.67% (wm:14  lm:14  dm:2)  games:67   WG: 49.25% LG: 50.75% (wg:  33 lg:  34) pick: 7    Volgograd(2), Online(2), Spb(2), RostovOnDon(1), 
 Sméagol, Helpful Guide           matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:7    WG: 14.29% LG: 85.71% (wg:   1 lg:   6) pick: 1    Spb(1), 
 Sygg, River Cutthroat            matches:7    WM: 14.29%  LM: 71.43%  DM: 14.29% (wm:1   lm:5   dm:1)  games:16   WG: 25.00% LG: 75.00% (wg:   4 lg:  12) pick: 2    Spb(2), 
 Sythis, Harvest's Hand           matches:11   WM: 45.45%  LM: 54.55%  DM:  0.00% (wm:5   lm:6   dm:0)  games:25   WG: 44.00% LG: 56.00% (wg:  11 lg:  14) pick: 3    RostovOnDon(2), Online(1), 
-Taii Wakeen, Perfect Shot        matches:24   WM: 45.83%  LM: 41.67%  DM: 12.50% (wm:11  lm:10  dm:3)  games:54   WG: 50.00% LG: 50.00% (wg:  27 lg:  27) pick: 6    Spb(5), Vladivostok(1), 
-Tamiyo, Inquisitive Student      matches:89   WM: 64.04%  LM: 24.72%  DM: 11.24% (wm:57  lm:22  dm:10) games:201  WG: 66.17% LG: 33.33% (wg: 133 lg:  67) pick: 28   Spb(18), RostovOnDon(4), Barnaul(3), Online(3), 
+Taii Wakeen, Perfect Shot        matches:28   WM: 50.00%  LM: 39.29%  DM: 10.71% (wm:14  lm:11  dm:3)  games:63   WG: 52.38% LG: 47.62% (wg:  33 lg:  30) pick: 7    Spb(6), Vladivostok(1), 
 Tasigur, the Golden Fang         matches:8    WM: 37.50%  LM: 37.50%  DM: 25.00% (wm:3   lm:3   dm:2)  games:14   WG: 50.00% LG: 50.00% (wg:   7 lg:   7) pick: 2    Spb(2), 
-Teferi, Temporal Archmage        matches:119  WM: 48.74%  LM: 45.38%  DM:  5.88% (wm:58  lm:54  dm:7)  games:278  WG: 51.44% LG: 48.56% (wg: 143 lg: 135) pick: 32   Spb(22), Online(4), RostovOnDon(4), Volgograd(2), 
+Teferi, Temporal Archmage        matches:126  WM: 48.41%  LM: 46.03%  DM:  5.56% (wm:61  lm:58  dm:7)  games:297  WG: 50.84% LG: 49.16% (wg: 151 lg: 146) pick: 34   Spb(23), RostovOnDon(5), Online(4), Volgograd(2), 
 The Beamtown Bullies             matches:6    WM: 16.67%  LM: 83.33%  DM:  0.00% (wm:1   lm:5   dm:0)  games:14   WG: 28.57% LG: 71.43% (wg:   4 lg:  10) pick: 1    Online(1), 
-The Gitrog Monster               matches:4    WM: 50.00%  LM: 25.00%  DM: 25.00% (wm:2   lm:1   dm:1)  games:7    WG: 57.14% LG: 42.86% (wg:   4 lg:   3) pick: 1    Spb(1), 
 The Necrobloom                   matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:15   WG: 46.67% LG: 53.33% (wg:   7 lg:   8) pick: 1    Online(1), 
 The Ur-Dragon                    matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:10   WG: 40.00% LG: 60.00% (wg:   4 lg:   6) pick: 1    Vladivostok(1), 
-The Wise Mothman                 matches:12   WM: 33.33%  LM: 58.33%  DM:  8.33% (wm:4   lm:7   dm:1)  games:28   WG: 42.86% LG: 57.14% (wg:  12 lg:  16) pick: 4    Spb(4), 
-Thrasios, Triton Hero            matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:13   WG: 38.46% LG: 61.54% (wg:   5 lg:   8) pick: 1    Online(1), 
-  + Tymna the Weaver            
+The Wise Mothman                 matches:7    WM: 57.14%  LM: 42.86%  DM:  0.00% (wm:4   lm:3   dm:0)  games:16   WG: 56.25% LG: 43.75% (wg:   9 lg:   7) pick: 2    Spb(2), 
 Thrasios, Triton Hero            matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:7    WG: 14.29% LG: 85.71% (wg:   1 lg:   6) pick: 1    Volgograd(1), 
   + Yoshimaru, Ever Faithful    
-Tivit, Seller of Secrets         matches:118  WM: 50.00%  LM: 41.53%  DM:  8.47% (wm:59  lm:49  dm:10) games:280  WG: 53.93% LG: 46.07% (wg: 151 lg: 129) pick: 30   Spb(26), Online(4), 
+Tivit, Seller of Secrets         matches:126  WM: 50.79%  LM: 41.27%  DM:  7.94% (wm:64  lm:52  dm:10) games:301  WG: 54.15% LG: 45.85% (wg: 163 lg: 138) pick: 32   Spb(28), Online(4), 
 Tuvasa the Sunlit                matches:6    WM: 16.67%  LM: 83.33%  DM:  0.00% (wm:1   lm:5   dm:0)  games:12   WG: 16.67% LG: 83.33% (wg:   2 lg:  10) pick: 1    Online(1), 
-Tymna the Weaver                 matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:13   WG: 46.15% LG: 53.85% (wg:   6 lg:   7) pick: 1    Online(1), 
-  + Thrasios, Triton Hero       
+Tymna the Weaver                 matches:4    WM: 50.00%  LM: 25.00%  DM: 25.00% (wm:2   lm:1   dm:1)  games:10   WG: 60.00% LG: 40.00% (wg:   6 lg:   4) pick: 1    Spb(1), 
+  + Ludevic, Necro-Alchemist    
 Tyvar, the Pummeler              matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:16   WG: 62.50% LG: 37.50% (wg:  10 lg:   6) pick: 1    Online(1), 
 Urza, Lord Protector             matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:10   WG: 20.00% LG: 80.00% (wg:   2 lg:   8) pick: 1    RostovOnDon(1), 
-Vial Smasher the Fierce          matches:43   WM: 30.23%  LM: 65.12%  DM:  4.65% (wm:13  lm:28  dm:2)  games:106  WG: 36.79% LG: 63.21% (wg:  39 lg:  67) pick: 12   Spb(11), Online(1), 
-Vial Smasher the Fierce          matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:11   WG: 45.45% LG: 54.55% (wg:   5 lg:   6) pick: 1    Online(1), 
-  + Esior, Wardwing Familiar    
-Vial Smasher the Fierce          matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:11   WG: 36.36% LG: 63.64% (wg:   4 lg:   7) pick: 1    Online(1), 
-  + Ishai, Ojutai Dragonspeaker 
-Vial Smasher the Fierce          matches:16   WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:8   lm:8   dm:0)  games:41   WG: 43.90% LG: 56.10% (wg:  18 lg:  23) pick: 5    Spb(5), 
-  + Thrasios, Triton Hero       
-Wilson, Refined Grizzly          matches:15   WM: 33.33%  LM: 60.00%  DM:  6.67% (wm:5   lm:9   dm:1)  games:35   WG: 42.86% LG: 57.14% (wg:  15 lg:  20) pick: 4    Spb(4), 
-  + Tavern Brawler              
+Vial Smasher the Fierce          matches:43   WM: 30.23%  LM: 65.12%  DM:  4.65% (wm:13  lm:28  dm:2)  games:104  WG: 35.58% LG: 64.42% (wg:  37 lg:  67) pick: 12   Spb(11), Online(1), 
 Winota, Joiner of Forces         matches:7    WM: 57.14%  LM: 42.86%  DM:  0.00% (wm:4   lm:3   dm:0)  games:16   WG: 56.25% LG: 43.75% (wg:   9 lg:   7) pick: 2    Volgograd(2), 
-Winter, Cynical Opportunist      matches:27   WM: 59.26%  LM: 37.04%  DM:  3.70% (wm:16  lm:10  dm:1)  games:64   WG: 59.38% LG: 40.62% (wg:  38 lg:  26) pick: 7    Spb(7), 
+Winter, Cynical Opportunist      matches:31   WM: 51.61%  LM: 41.94%  DM:  6.45% (wm:16  lm:13  dm:2)  games:74   WG: 55.41% LG: 44.59% (wg:  41 lg:  33) pick: 8    Spb(8), 
 Yoshimaru, Ever Faithful         matches:16   WM: 87.50%  LM:  6.25%  DM:  6.25% (wm:14  lm:1   dm:1)  games:40   WG: 75.00% LG: 25.00% (wg:  30 lg:  10) pick: 4    Spb(4), 
   + Bruse Tarl, Boorish Herder  
 Yoshimaru, Ever Faithful         matches:4    WM: 25.00%  LM: 25.00%  DM: 50.00% (wm:1   lm:1   dm:2)  games:9    WG: 44.44% LG: 55.56% (wg:   4 lg:   5) pick: 1    Spb(1), 
   + Dargo, the Shipwrecker      
-Yoshimaru, Ever Faithful         matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 50.00% LG: 50.00% (wg:   5 lg:   5) pick: 1    Spb(1), 
-  + Kraum, Ludevic's Opus       
-Yoshimaru, Ever Faithful         matches:24   WM: 50.00%  LM: 45.83%  DM:  4.17% (wm:12  lm:11  dm:1)  games:58   WG: 51.72% LG: 48.28% (wg:  30 lg:  28) pick: 6    Spb(5), Online(1), 
+Yoshimaru, Ever Faithful         matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:11   WG: 63.64% LG: 36.36% (wg:   7 lg:   4) pick: 1    Spb(1), 
+  + Silas Renn, Seeker Adept    
+Yoshimaru, Ever Faithful         matches:12   WM: 50.00%  LM: 41.67%  DM:  8.33% (wm:6   lm:5   dm:1)  games:27   WG: 51.85% LG: 48.15% (wg:  14 lg:  13) pick: 3    Spb(3), 
   + Tana, the Bloodsower        
 Yoshimaru, Ever Faithful         matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 60.00% LG: 40.00% (wg:   6 lg:   4) pick: 1    Spb(1), 
   + Thrasios, Triton Hero       
-Zabaz, the Glimmerwasp           matches:13   WM: 38.46%  LM: 53.85%  DM:  7.69% (wm:5   lm:7   dm:1)  games:26   WG: 42.31% LG: 57.69% (wg:  11 lg:  15) pick: 4    RostovOnDon(4), 
+Zabaz, the Glimmerwasp           matches:13   WM: 53.85%  LM: 30.77%  DM: 15.38% (wm:7   lm:4   dm:2)  games:27   WG: 59.26% LG: 40.74% (wg:  16 lg:  11) pick: 4    RostovOnDon(4), 
 Zahur, Glory's Past              matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:10   WG: 20.00% LG: 80.00% (wg:   2 lg:   8) pick: 1    Online(1), 
 Zur the Enchanter                matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:9    WG: 33.33% LG: 66.67% (wg:   3 lg:   6) pick: 1    Spb(1), 

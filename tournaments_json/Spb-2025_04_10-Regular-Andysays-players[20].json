@@ -1,0 +1,480 @@
+{
+    "date": "2025_04_10",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Протасов Михаил",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Красников Александр",
+            "Taii Wakeen, Perfect Shot"
+        ],
+        [
+            "Постоялкин Павел",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Шестаков Игорь",
+            "Yoshimaru, Ever Faithful :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Муравьев Никита",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Олифер Егор",
+            "Tymna the Weaver :+: Ludevic, Necro-Alchemist"
+        ],
+        [
+            "Богданов Сергей",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Саушкин Андрей",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Барабаш Валентин",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Грабовой Филипп",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Коростелев Илья",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Корсаков Алексей",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Amalia Benavides Aguirre"
+        ],
+        [
+            "Таловер Артем",
+            "Winter, Cynical Opportunist"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Мартынов Яков",
+                "Барабаш Валентин",
+                "Tivit, Seller of Secrets",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Поляков Герман",
+                "Tivit, Seller of Secrets",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Красников Александр",
+                "Aragorn, King of Gondor",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Коростелев Илья",
+                "Vial Smasher the Fierce",
+                "Satya, Aetherflux Genius",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Ульянов Алексей",
+                "Amalia Benavides Aguirre",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Муравьев Никита",
+                "Tymna the Weaver :+: Ludevic, Necro-Alchemist",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Постоялкин Павел",
+                "Грабовой Филипп",
+                "Arahbo, Roar of the World",
+                "Ketramose, the New Dawn",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Таловер Артем",
+                "Yoshimaru, Ever Faithful :+: Silas Renn, Seeker Adept",
+                "Winter, Cynical Opportunist",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Корсаков Алексей",
+                "Indoraptor, the Perfect Hybrid",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Иванов Дмитрий",
+                "Kroxa, Titan of Death's Hunger",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Протасов Михаил",
+                "Олифер Егор",
+                "Tivit, Seller of Secrets",
+                "Tymna the Weaver :+: Ludevic, Necro-Alchemist",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Ульянов Алексей",
+                "Tivit, Seller of Secrets",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Постоялкин Павел",
+                "Satya, Aetherflux Genius",
+                "Arahbo, Roar of the World",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Богатырев Александр",
+                "Kroxa, Titan of Death's Hunger",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Саушкин Андрей",
+                "Yoshimaru, Ever Faithful :+: Silas Renn, Seeker Adept",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Поляков Герман",
+                "Taii Wakeen, Perfect Shot",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Федоров Дмитрий",
+                "Phelia, Exuberant Shepherd",
+                "Amalia Benavides Aguirre",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Корсаков Алексей",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Грабовой Филипп",
+                "Vial Smasher the Fierce",
+                "Ketramose, the New Dawn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Таловер Артем",
+                "Ezio Auditore da Firenze",
+                "Winter, Cynical Opportunist",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Ульянов Алексей",
+                "Протасов Михаил",
+                "Golos, Tireless Pilgrim",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Постоялкин Павел",
+                "Kroxa, Titan of Death's Hunger",
+                "Arahbo, Roar of the World",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Красников Александр",
+                "Yoshimaru, Ever Faithful :+: Silas Renn, Seeker Adept",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Барабаш Валентин",
+                "Tymna the Weaver :+: Ludevic, Necro-Alchemist",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Иванов Дмитрий",
+                "Ketramose, the New Dawn",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Муравьев Никита",
+                "Tivit, Seller of Secrets",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Саушкин Андрей",
+                "Satya, Aetherflux Genius",
+                "Aragorn, King of Gondor",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Байков Аркадий",
+                "Indoraptor, the Perfect Hybrid",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Таловер Артем",
+                "Ghyrson Starn, Kelermorph",
+                "Winter, Cynical Opportunist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Поляков Герман",
+                "Amalia Benavides Aguirre",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Постоялкин Павел",
+                "Протасов Михаил",
+                "Arahbo, Roar of the World",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Красников Александр",
+                "Kroxa, Titan of Death's Hunger",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Ульянов Алексей",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Саушкин Андрей",
+                "Phelia, Exuberant Shepherd",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Шестаков Игорь",
+                "Indoraptor, the Perfect Hybrid",
+                "Yoshimaru, Ever Faithful :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Мартынов Яков",
+                "Tymna the Weaver :+: Ludevic, Necro-Alchemist",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Поляков Герман",
+                "Ghyrson Starn, Kelermorph",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Федоров Дмитрий",
+                "Winter, Cynical Opportunist",
+                "Amalia Benavides Aguirre",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/38455"
+}

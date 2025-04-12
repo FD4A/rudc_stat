@@ -32,7 +32,7 @@ if __name__ == '__main__':
             continue
         if not (tournament.before_date(finish_date) and tournament.after_date(start_date)):
             continue
-        tournament_filenames.append(tournament_filename.replace("./tournaments_json/",""))
+        tournament_filenames.append(f'{tournament_filename.replace("./tournaments_json/",""):64} {tournament.url}')
         # print(tournament_filename)
         update_visit_list(tournament, VisitList)
 

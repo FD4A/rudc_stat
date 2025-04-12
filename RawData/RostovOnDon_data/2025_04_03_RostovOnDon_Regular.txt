@@ -1,0 +1,15 @@
+location::RostovOnDon
+level::Regular
+date::2025_04_03
+organizer::Constantin
+players::generals
+Burmistrov Pavel :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Davidov Alexander :: Balmor, Battlemage Captain
+Shubenin Ilya :: Malcolm, Alluring Scoundrel
+Elinskiy Denis :: Phelia, Exuberant Shepherd
+Paleha Egor :: Ghyrson Starn, Kelermorph
+Kovalev Alexander :: Basim Ibn Ishaq
+Lukaynov Vadim :: Teferi, Temporal Archmage
+Somkin Constantin :: Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den
+Round
+https://aetherhub.com/Tourney/RoundTourney/38274

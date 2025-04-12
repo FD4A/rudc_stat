@@ -1,0 +1,170 @@
+{
+    "date": "2025_04_03",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Burmistrov Pavel",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Davidov Alexander",
+            "Balmor, Battlemage Captain"
+        ],
+        [
+            "Shubenin Ilya",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Elinskiy Denis",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Paleha Egor",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Kovalev Alexander",
+            "Basim Ibn Ishaq"
+        ],
+        [
+            "Lukaynov Vadim",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Somkin Constantin",
+            "Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Lukaynov Vadim",
+                "Somkin Constantin",
+                "Teferi, Temporal Archmage",
+                "Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Kovalev Alexander",
+                "Burmistrov Pavel",
+                "Basim Ibn Ishaq",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Davidov Alexander",
+                "Shubenin Ilya",
+                "Balmor, Battlemage Captain",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Paleha Egor",
+                "Elinskiy Denis",
+                "Ghyrson Starn, Kelermorph",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Burmistrov Pavel",
+                "Paleha Egor",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Davidov Alexander",
+                "Lukaynov Vadim",
+                "Balmor, Battlemage Captain",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Shubenin Ilya",
+                "Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Elinskiy Denis",
+                "Kovalev Alexander",
+                "Phelia, Exuberant Shepherd",
+                "Basim Ibn Ishaq",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Davidov Alexander",
+                "Burmistrov Pavel",
+                "Balmor, Battlemage Captain",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Paleha Egor",
+                "Shubenin Ilya",
+                "Ghyrson Starn, Kelermorph",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Elinskiy Denis",
+                "Teferi, Temporal Archmage",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Kovalev Alexander",
+                "Somkin Constantin",
+                "Basim Ibn Ishaq",
+                "Elas il-Kor, Sadistic Pilgrim :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/38274"
+}

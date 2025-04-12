@@ -1,0 +1,170 @@
+{
+    "date": "2025_04_06",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Illator",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Шубенин Илья",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Меркулов Владислав",
+            "Zabaz, the Glimmerwasp"
+        ],
+        [
+            "Елинский Денис",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Ковалев Александр",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Лукьянов Вадим",
+            "Basim Ibn Ishaq"
+        ],
+        [
+            "Бурмистров Павел",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Посидайло Артём",
+            "Glarb, Calamity's Augur"
+        ],
+        [
+            "Сомкин Константин",
+            "Elminster"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Ковалев Александр",
+                "Бурмистров Павел",
+                "Ezio Auditore da Firenze",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сомкин Константин",
+                "Лукьянов Вадим",
+                "Elminster",
+                "Basim Ibn Ishaq",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Елинский Денис",
+                "Malcolm, Alluring Scoundrel",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Посидайло Артём",
+                "Меркулов Владислав",
+                "Glarb, Calamity's Augur",
+                "Zabaz, the Glimmerwasp",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Меркулов Владислав",
+                "Шубенин Илья",
+                "Zabaz, the Glimmerwasp",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Ковалев Александр",
+                "Лукьянов Вадим",
+                "Ezio Auditore da Firenze",
+                "Basim Ibn Ishaq",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Бурмистров Павел",
+                "Сомкин Константин",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Elminster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Посидайло Артём",
+                "Елинский Денис",
+                "Glarb, Calamity's Augur",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Ковалев Александр",
+                "Шубенин Илья",
+                "Ezio Auditore da Firenze",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Меркулов Владислав",
+                "Лукьянов Вадим",
+                "Zabaz, the Glimmerwasp",
+                "Basim Ibn Ishaq",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Елинский Денис",
+                "Бурмистров Павел",
+                "Phelia, Exuberant Shepherd",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Посидайло Артём",
+                "Сомкин Константин",
+                "Glarb, Calamity's Augur",
+                "Elminster",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/38362"
+}

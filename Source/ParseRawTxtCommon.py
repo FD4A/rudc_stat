@@ -52,6 +52,7 @@ class ParseRawTxtCommon:
         elif self.parser_type == ParseRawTxtCommon.parser_aetherhub:
             self.get_common_data(ParseRawTxtCommon.players_tag)
             self.get_players_generals()
+            self.tr.url = self.data[self.pos+1]
             parser = AetherhubParser(self.data[self.pos+1], self.lb)
             [self.tr.roundsCount, self.tr.rounds] = parser.parse_tournament()
             self.tr.set_generals_by_players(self.tr.players)
