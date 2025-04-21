@@ -1,0 +1,132 @@
+{
+    "date": "2025_04_17",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Краснов Илья",
+            "Ertai Resurrected"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Васильев Кирилл",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Чекулаев Дмитрий",
+            "Samut, Vizier of Naktamun"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Тимохин Денис",
+            "Lonis, Cryptozoologist"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Краснов Илья",
+                "Чекулаев Дмитрий",
+                "Ertai Resurrected",
+                "Samut, Vizier of Naktamun",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Васильев Кирилл",
+                "Muxus, Goblin Grandee",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Тимохин Денис",
+                "Feldon, Ronom Excavator",
+                "Lonis, Cryptozoologist",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Васильев Кирилл",
+                "Краснов Илья",
+                "Feldon, Ronom Excavator",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Чекулаев Дмитрий",
+                "Feldon, Ronom Excavator",
+                "Samut, Vizier of Naktamun",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Матюнин Антон",
+                "Lonis, Cryptozoologist",
+                "Muxus, Goblin Grandee",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Безруков Николай",
+                "Ertai Resurrected",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Чекулаев Дмитрий",
+                "Матюнин Антон",
+                "Samut, Vizier of Naktamun",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Тимохин Денис",
+                "Feldon, Ronom Excavator",
+                "Lonis, Cryptozoologist",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/38642"
+}

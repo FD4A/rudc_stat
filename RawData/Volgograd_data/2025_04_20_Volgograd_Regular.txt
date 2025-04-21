@@ -1,0 +1,15 @@
+location::Volgograd
+level::Regular
+date::2025_04_20
+organizer::Rombik34rus
+players::generals
+Вячеслав Серпутько :: Emmara, Soul of the Accord
+Андрей Костин :: Imskir Iron Eater
+Артём Ангурцов :: Iron Man Titan of Innovation
+Максим Мещеряков :: Thrasios, Triton Hero :+: Tymna the Weaver
+Владимир Воровальницев :: Feldon, Ronom Excavator
+Александр Смирнов :: Grist, the Hunger Tide
+Виталий Васильев :: Muxus Goblin Grandee
+Андрей Губин :: Phelia, Exuberant Shepherd
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/38734

@@ -1,0 +1,546 @@
+{
+    "date": "2025_04_17",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Звягин Георгий",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Коростелев Илья",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Протасов Михаил",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Булочко Михаил",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Вахитов Ривкат",
+            "Kari Zev, Skyship Raider"
+        ],
+        [
+            "Муравьев Никита",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Красников Александр",
+            "Taii Wakeen, Perfect Shot"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Шестаков Игорь",
+            "Yoshimaru, Ever Faithful :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Цюра Максим",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Amalia Benavides Aguirre"
+        ],
+        [
+            "Постоялкин Павел",
+            "Bello, Bard of the Brambles"
+        ],
+        [
+            "Барабаш Валентин",
+            "Tymna the Weaver :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Корсаков Алексей",
+            "Wilson, Refined Grizzly :+: Candlekeep Sage"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Саушкин Андрей",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Мартынов Владислав",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Лагерев Леонид",
+            "Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper"
+        ],
+        [
+            "Олифер Егор",
+            "Tymna the Weaver :+: Ludevic, Necro-Alchemist"
+        ],
+        [
+            "Фукин Дмитрий",
+            "Edric, Spymaster of Trest"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Егоров Павел",
+            "Phelia, Exuberant Shepherd"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Цюра Максим",
+                "Протасов Михаил",
+                "Tivit, Seller of Secrets",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Саушкин Андрей",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Вахитов Ривкат",
+                "Vial Smasher the Fierce",
+                "Kari Zev, Skyship Raider",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Шестаков Игорь",
+                "Amalia Benavides Aguirre",
+                "Yoshimaru, Ever Faithful :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Муравьев Никита",
+                "Tymna the Weaver :+: Thrasios, Triton Hero",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Мартынов Владислав",
+                "Tymna the Weaver :+: Ludevic, Necro-Alchemist",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Лагерев Леонид",
+                "Phelia, Exuberant Shepherd",
+                "Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Булочко Михаил",
+                "Satya, Aetherflux Genius",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Ульянов Алексей",
+                "Wilson, Refined Grizzly :+: Candlekeep Sage",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Семенов Дмитрий",
+                "Taii Wakeen, Perfect Shot",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Постоялкин Павел",
+                "Teferi, Temporal Archmage",
+                "Bello, Bard of the Brambles",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Фукин Дмитрий",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Edric, Spymaster of Trest",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Шестаков Игорь",
+                "Лагерев Леонид",
+                "Yoshimaru, Ever Faithful :+: Silas Renn, Seeker Adept",
+                "Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Муравьев Никита",
+                "Kari Zev, Skyship Raider",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Звягин Георгий",
+                "Golos, Tireless Pilgrim",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Протасов Михаил",
+                "Teferi, Temporal Archmage",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Владислав",
+                "Коростелев Илья",
+                "Tivit, Seller of Secrets",
+                "Satya, Aetherflux Genius",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Саушкин Андрей",
+                "Taii Wakeen, Perfect Shot",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Постоялкин Павел",
+                "Егоров Павел",
+                "Bello, Bard of the Brambles",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Корсаков Алексей",
+                "Tivit, Seller of Secrets",
+                "Wilson, Refined Grizzly :+: Candlekeep Sage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Федоров Дмитрий",
+                "Tymna the Weaver :+: Ludevic, Necro-Alchemist",
+                "Amalia Benavides Aguirre",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Цюра Максим",
+                "Ghyrson Starn, Kelermorph",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Байков Аркадий",
+                "Tymna the Weaver :+: Thrasios, Triton Hero",
+                "Vial Smasher the Fierce",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Звягин Георгий",
+                "Коростелев Илья",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Satya, Aetherflux Genius",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Красников Александр",
+                "Phelia, Exuberant Shepherd",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Протасов Михаил",
+                "Yoshimaru, Ever Faithful :+: Silas Renn, Seeker Adept",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Постоялкин Павел",
+                "Лагерев Леонид",
+                "Bello, Bard of the Brambles",
+                "Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Цюра Максим",
+                "Aragorn, King of Gondor",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Булочко Михаил",
+                "Vial Smasher the Fierce",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Мартынов Владислав",
+                "Kari Zev, Skyship Raider",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Поляков Герман",
+                "Golos, Tireless Pilgrim",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Федоров Дмитрий",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Amalia Benavides Aguirre",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Семенов Дмитрий",
+                "Tymna the Weaver :+: Ludevic, Necro-Alchemist",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Барабаш Валентин",
+                "Wilson, Refined Grizzly :+: Candlekeep Sage",
+                "Tymna the Weaver :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Протасов Михаил",
+                "Звягин Георгий",
+                "Tivit, Seller of Secrets",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Булочко Михаил",
+                "Taii Wakeen, Perfect Shot",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Ульянов Алексей",
+                "Phelia, Exuberant Shepherd",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Цюра Максим",
+                "Satya, Aetherflux Genius",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Иванов Дмитрий",
+                "Yoshimaru, Ever Faithful :+: Silas Renn, Seeker Adept",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Постоялкин Павел",
+                "Вахитов Ривкат",
+                "Bello, Bard of the Brambles",
+                "Kari Zev, Skyship Raider",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Байков Аркадий",
+                "Amalia Benavides Aguirre",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Барабаш Валентин",
+                "Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper",
+                "Tymna the Weaver :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Владислав",
+                "Поляков Герман",
+                "Tivit, Seller of Secrets",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/38644"
+}

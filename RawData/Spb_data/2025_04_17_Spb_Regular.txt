@@ -1,0 +1,31 @@
+location::Spb
+level::Regular
+date::2025_04_17
+organizer::Andysays
+players::generals
+Звягин Георгий :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Коростелев Илья :: Satya, Aetherflux Genius
+Протасов Михаил :: Tivit, Seller of Secrets
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Булочко Михаил :: Tivit, Seller of Secrets
+Иванов Дмитрий :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Вахитов Ривкат :: Kari Zev, Skyship Raider
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Красников Александр :: Taii Wakeen, Perfect Shot
+Поляков Герман :: Teferi, Temporal Archmage
+Шестаков Игорь :: Yoshimaru, Ever Faithful :+: Silas Renn, Seeker Adept
+Цюра Максим :: Tivit, Seller of Secrets
+Федоров Дмитрий :: Amalia Benavides Aguirre
+Постоялкин Павел :: Bello, Bard of the Brambles
+Барабаш Валентин :: Tymna the Weaver :+: Thrasios, Triton Hero
+Корсаков Алексей :: Wilson, Refined Grizzly :+: Candlekeep Sage
+Байков Аркадий :: Vial Smasher the Fierce
+Саушкин Андрей :: Aragorn, King of Gondor
+Мартынов Владислав :: Tivit, Seller of Secrets
+Лагерев Леонид :: Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper
+Олифер Егор :: Tymna the Weaver :+: Ludevic, Necro-Alchemist
+Фукин Дмитрий :: Edric, Spymaster of Trest
+Семенов Дмитрий :: Ghyrson Starn, Kelermorph
+Егоров Павел :: Phelia, Exuberant Shepherd
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/38644

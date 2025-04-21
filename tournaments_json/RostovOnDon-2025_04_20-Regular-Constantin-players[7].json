@@ -1,0 +1,136 @@
+{
+    "date": "2025_04_20",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Burmistrov Pavel",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Somkin Constantin",
+            "Elminster"
+        ],
+        [
+            "Elinskiy Denis",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Shubenin Ilya",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Mishin Vasily",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Kovalev Alexander",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Lukaynov Vadim",
+            "Shorikai, Genesis Engine"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Kovalev Alexander",
+                "Lukaynov Vadim",
+                "Ezio Auditore da Firenze",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Mishin Vasily",
+                "Burmistrov Pavel",
+                "Azusa, Lost but Seeking",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Elinskiy Denis",
+                "Shubenin Ilya",
+                "Phelia, Exuberant Shepherd",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Kovalev Alexander",
+                "Burmistrov Pavel",
+                "Ezio Auditore da Firenze",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Elinskiy Denis",
+                "Somkin Constantin",
+                "Phelia, Exuberant Shepherd",
+                "Elminster",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Shubenin Ilya",
+                "Shorikai, Genesis Engine",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Burmistrov Pavel",
+                "Somkin Constantin",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Elminster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Mishin Vasily",
+                "Elinskiy Denis",
+                "Azusa, Lost but Seeking",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Kovalev Alexander",
+                "Shubenin Ilya",
+                "Ezio Auditore da Firenze",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/38749"
+}

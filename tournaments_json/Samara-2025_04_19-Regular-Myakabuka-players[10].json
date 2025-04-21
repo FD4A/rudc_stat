@@ -1,0 +1,250 @@
+{
+    "date": "2025_04_19",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Краснов Илья",
+            "Ertai Resurrected"
+        ],
+        [
+            "Шатохин Александр",
+            "Urabrask"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Ревин Владимир",
+            "Elenda, Saint of Dusk"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Тимохин Денис",
+            "Lonis, Cryptozoologist"
+        ],
+        [
+            "Циулин Иван",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Трифонов Тимур",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Кормаков Александр",
+            "Kutzil, Malamet Exemplar"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Матюнин Антон",
+                "Тимохин Денис",
+                "Muxus, Goblin Grandee",
+                "Lonis, Cryptozoologist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Безруков Николай",
+                "Elenda, Saint of Dusk",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Шатохин Александр",
+                "Ertai Resurrected",
+                "Urabrask",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Кормаков Александр",
+                "Grist, the Hunger Tide",
+                "Kutzil, Malamet Exemplar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Трифонов Тимур",
+                "Циулин Иван",
+                "Light-Paws, Emperor's Voice",
+                "Azusa, Lost but Seeking",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Курмакаев Игорь",
+                "Ertai Resurrected",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Циулин Иван",
+                "Feldon, Ronom Excavator",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Трифонов Тимур",
+                "Muxus, Goblin Grandee",
+                "Light-Paws, Emperor's Voice",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Ревин Владимир",
+                "Lonis, Cryptozoologist",
+                "Elenda, Saint of Dusk",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Кормаков Александр",
+                "Шатохин Александр",
+                "Kutzil, Malamet Exemplar",
+                "Urabrask",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Безруков Николай",
+                "Ertai Resurrected",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Трифонов Тимур",
+                "Elenda, Saint of Dusk",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Шатохин Александр",
+                "Циулин Иван",
+                "Urabrask",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Матюнин Антон",
+                "Grist, the Hunger Tide",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кормаков Александр",
+                "Тимохин Денис",
+                "Kutzil, Malamet Exemplar",
+                "Lonis, Cryptozoologist",
+                [
+                    0,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Ревин Владимир",
+                "Ertai Resurrected",
+                "Elenda, Saint of Dusk",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Шатохин Александр",
+                "Feldon, Ronom Excavator",
+                "Urabrask",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Циулин Иван",
+                "Grist, the Hunger Tide",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Кормаков Александр",
+                "Muxus, Goblin Grandee",
+                "Kutzil, Malamet Exemplar",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/38710"
+}

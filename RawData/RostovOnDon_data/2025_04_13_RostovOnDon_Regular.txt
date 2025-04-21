@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2025_04_13
+organizer::Constantin
+players::generals
+Merkulov Vladislav :: Zabaz, the Glimmerwasp
+Davidov Alexander :: Magda, Brazen Outlaw
+Elinskiy Denis :: Phelia, Exuberant Shepherd
+Burmistrov Pavel :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Somkin Constantin :: Elminster
+Kovalev Alexander :: Ezio Auditore da Firenze
+Round
+https://aetherhub.com/Tourney/RoundTourney/38558

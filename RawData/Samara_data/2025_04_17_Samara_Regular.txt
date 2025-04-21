@@ -1,0 +1,13 @@
+location::Samara
+level::Regular
+date::2025_04_17
+organizer::Myakabuka
+players::generals
+Краснов Илья :: Ertai Resurrected
+Безруков Николай :: Feldon, Ronom Excavator
+Васильев Кирилл :: Feldon, Ronom Excavator
+Чекулаев Дмитрий :: Samut, Vizier of Naktamun
+Матюнин Антон :: Muxus, Goblin Grandee
+Тимохин Денис :: Lonis, Cryptozoologist
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/38642

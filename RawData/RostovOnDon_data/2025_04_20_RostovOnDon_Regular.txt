@@ -1,0 +1,14 @@
+location::RostovOnDon
+level::Regular
+date::2025_04_20
+organizer::Constantin
+players::generals
+Burmistrov Pavel :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Somkin Constantin :: Elminster
+Elinskiy Denis :: Phelia, Exuberant Shepherd
+Shubenin Ilya :: Malcolm, Alluring Scoundrel
+Mishin Vasily :: Azusa, Lost but Seeking
+Kovalev Alexander :: Ezio Auditore da Firenze
+Lukaynov Vadim :: Shorikai, Genesis Engine
+Round
+https://aetherhub.com/Tourney/RoundTourney/38749

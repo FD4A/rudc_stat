@@ -1,0 +1,132 @@
+{
+    "date": "2025_04_13",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Merkulov Vladislav",
+            "Zabaz, the Glimmerwasp"
+        ],
+        [
+            "Davidov Alexander",
+            "Magda, Brazen Outlaw"
+        ],
+        [
+            "Elinskiy Denis",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Burmistrov Pavel",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Somkin Constantin",
+            "Elminster"
+        ],
+        [
+            "Kovalev Alexander",
+            "Ezio Auditore da Firenze"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Burmistrov Pavel",
+                "Davidov Alexander",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Magda, Brazen Outlaw",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Merkulov Vladislav",
+                "Somkin Constantin",
+                "Zabaz, the Glimmerwasp",
+                "Elminster",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Kovalev Alexander",
+                "Elinskiy Denis",
+                "Ezio Auditore da Firenze",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Davidov Alexander",
+                "Elinskiy Denis",
+                "Magda, Brazen Outlaw",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Merkulov Vladislav",
+                "Kovalev Alexander",
+                "Zabaz, the Glimmerwasp",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Burmistrov Pavel",
+                "Elminster",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Davidov Alexander",
+                "Merkulov Vladislav",
+                "Magda, Brazen Outlaw",
+                "Zabaz, the Glimmerwasp",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Burmistrov Pavel",
+                "Elinskiy Denis",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Kovalev Alexander",
+                "Elminster",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/38558"
+}

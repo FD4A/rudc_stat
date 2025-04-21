@@ -1,0 +1,170 @@
+{
+    "date": "2025_04_20",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Вячеслав Серпутько",
+            "Emmara, Soul of the Accord"
+        ],
+        [
+            "Андрей Костин",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Артём Ангурцов",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Максим Мещеряков",
+            "Thrasios, Triton Hero :+: Tymna the Weaver"
+        ],
+        [
+            "Владимир Воровальницев",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Александр Смирнов",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Виталий Васильев",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Андрей Губин",
+            "Phelia, Exuberant Shepherd"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Александр Смирнов",
+                "Вячеслав Серпутько",
+                "Grist, the Hunger Tide",
+                "Emmara, Soul of the Accord",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Андрей Губин",
+                "Андрей Костин",
+                "Phelia, Exuberant Shepherd",
+                "Imskir Iron-Eater",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Владимир Воровальницев",
+                "Muxus, Goblin Grandee",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Максим Мещеряков",
+                "Iron Man, Titan of Innovation",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Андрей Костин",
+                "Артём Ангурцов",
+                "Imskir Iron-Eater",
+                "Iron Man, Titan of Innovation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Владимир Воровальницев",
+                "Emmara, Soul of the Accord",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Андрей Губин",
+                "Максим Мещеряков",
+                "Phelia, Exuberant Shepherd",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Александр Смирнов",
+                "Muxus, Goblin Grandee",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Вячеслав Серпутько",
+                "Андрей Костин",
+                "Emmara, Soul of the Accord",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Владимир Воровальницев",
+                "Артём Ангурцов",
+                "Feldon, Ronom Excavator",
+                "Iron Man, Titan of Innovation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Максим Мещеряков",
+                "Muxus, Goblin Grandee",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Андрей Губин",
+                "Александр Смирнов",
+                "Phelia, Exuberant Shepherd",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/38734"
+}
