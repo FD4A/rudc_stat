@@ -1,0 +1,132 @@
+{
+    "date": "2025_04_20",
+    "location": "Simferopl",
+    "level": "Regular",
+    "organizer": "Fenrisulfr",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Виталий Чайкин",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Сейдамет Билялов",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Илья Чернышов",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Сергей Кочегаров",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Алексей Кириллов",
+            "Obyra, Dreaming Duelist"
+        ],
+        [
+            "Давид Гайдов",
+            "Edric, Spymaster of Trest"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Сергей Кочегаров",
+                "Виталий Чайкин",
+                "Imskir Iron-Eater",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Илья Чернышов",
+                "Сейдамет Билялов",
+                "Dihada, Binder of Wills",
+                "Ketramose, the New Dawn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Алексей Кириллов",
+                "Давид Гайдов",
+                "Obyra, Dreaming Duelist",
+                "Edric, Spymaster of Trest",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Алексей Кириллов",
+                "Сейдамет Билялов",
+                "Obyra, Dreaming Duelist",
+                "Ketramose, the New Dawn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сергей Кочегаров",
+                "Илья Чернышов",
+                "Imskir Iron-Eater",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Виталий Чайкин",
+                "Давид Гайдов",
+                "Ghyrson Starn, Kelermorph",
+                "Edric, Spymaster of Trest",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Сейдамет Билялов",
+                "Виталий Чайкин",
+                "Ketramose, the New Dawn",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Илья Чернышов",
+                "Алексей Кириллов",
+                "Dihada, Binder of Wills",
+                "Obyra, Dreaming Duelist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сергей Кочегаров",
+                "Давид Гайдов",
+                "Imskir Iron-Eater",
+                "Edric, Spymaster of Trest",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/38748"
+}

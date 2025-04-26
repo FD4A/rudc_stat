@@ -1,0 +1,260 @@
+{
+    "date": "2025_04_24",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Краснов Илья",
+            "Ertai Resurrected"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Циулин Иван",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Васильев Кирилл",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Громов Михаил",
+            "Sab-Sunen, Luxa Embodied"
+        ],
+        [
+            "Иванов Никита",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Малкин Алексей",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Тимохин Денис",
+            "Slogurk, the Overslime"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Громов Михаил",
+                "Васильев Кирилл",
+                "Sab-Sunen, Luxa Embodied",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Матюнин Антон",
+                "Slogurk, the Overslime",
+                "Muxus, Goblin Grandee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Малкин Алексей",
+                "Azusa, Lost but Seeking",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Краснов Илья",
+                "Ketramose, the New Dawn",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Курмакаев Игорь",
+                "Feldon, Ronom Excavator",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Матюнин Антон",
+                "Ertai Resurrected",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Васильев Кирилл",
+                "Azusa, Lost but Seeking",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Малкин Алексей",
+                "Feldon, Ronom Excavator",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Тимохин Денис",
+                "Grist, the Hunger Tide",
+                "Slogurk, the Overslime",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Громов Михаил",
+                "Иванов Никита",
+                "Sab-Sunen, Luxa Embodied",
+                "Ketramose, the New Dawn",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Безруков Николай",
+                "Циулин Иван",
+                "Feldon, Ronom Excavator",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Васильев Кирилл",
+                "Ertai Resurrected",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Матюнин Антон",
+                "Ketramose, the New Dawn",
+                "Muxus, Goblin Grandee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Малкин Алексей",
+                "Grist, the Hunger Tide",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Громов Михаил",
+                "Slogurk, the Overslime",
+                "Sab-Sunen, Luxa Embodied",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Безруков Николай",
+                "Краснов Илья",
+                "Feldon, Ronom Excavator",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Циулин Иван",
+                "Muxus, Goblin Grandee",
+                "Azusa, Lost but Seeking",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Иванов Никита",
+                "Grist, the Hunger Tide",
+                "Ketramose, the New Dawn",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Малкин Алексей",
+                "Громов Михаил",
+                "Phelia, Exuberant Shepherd",
+                "Sab-Sunen, Luxa Embodied",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Тимохин Денис",
+                "Dihada, Binder of Wills",
+                "Slogurk, the Overslime",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/38822"
+}

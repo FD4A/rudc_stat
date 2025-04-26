@@ -1,0 +1,17 @@
+location::Samara
+level::Regular
+date::2025_04_24
+organizer::Myakabuka
+players::generals
+Краснов Илья :: Ertai Resurrected
+Безруков Николай :: Feldon, Ronom Excavator
+Циулин Иван :: Azusa, Lost but Seeking
+Курмакаев Игорь :: Grist, the Hunger Tide
+Васильев Кирилл :: Dihada, Binder of Wills
+Матюнин Антон :: Muxus, Goblin Grandee
+Громов Михаил :: Sab-Sunen, Luxa Embodied
+Иванов Никита :: Ketramose, the New Dawn
+Малкин Алексей :: Phelia, Exuberant Shepherd
+Тимохин Денис :: Slogurk, the Overslime
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/38822

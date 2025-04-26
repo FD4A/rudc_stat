@@ -1,0 +1,19 @@
+location::Volgograd
+level::Regular
+date::2025_04_26
+organizer::Ajsmirnov
+players::generals
+Мещеряков Максим :: Thrasios, Triton Hero :+: Tymna the Weaver
+Антипин Костя :: Feldon, Ronom Excavator
+Серпутько Слава :: Shorikai, Genesis Engine
+Васильев Виталий :: Grist, the Hunger Tide
+Арушанян Тигран :: Ertai Resurrected
+Костин Андрей :: Imskir Iron-Eater
+Краснов Илья :: Aminatou, the Fateshifter
+Дьяченко Андрей :: Dihada, Binder of Wills
+Курмакаев Игорь :: Imskir Iron-Eater
+Циулин Иван :: Azusa, Lost but Seeking
+Сухов Никитка :: Emmara, Soul of the Accord
+Палачев Макс :: Slimefoot and Squee
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/38907

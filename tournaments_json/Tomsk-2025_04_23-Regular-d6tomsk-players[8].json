@@ -1,0 +1,170 @@
+{
+    "date": "2025_04_23",
+    "location": "Tomsk",
+    "level": "Regular",
+    "organizer": "d6tomsk",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Владимиров Егор",
+            "Gut, True Soul Zealot :+: Folk Hero"
+        ],
+        [
+            "Поспелов Александр",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Торицын Олег",
+            "Gut, True Soul Zealot :+: Agent of the Iron Throne"
+        ],
+        [
+            "Писарев Никита",
+            "Hidetsugu and Kairi"
+        ],
+        [
+            "Иванов Алексей",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Кузнецов Северин",
+            "Kykar, Wind's Fury"
+        ],
+        [
+            "Демидов Виталий",
+            "The Gitrog Monster"
+        ],
+        [
+            "Чураков Павел",
+            "Ertai Resurrected"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Писарев Никита",
+                "Поспелов Александр",
+                "Hidetsugu and Kairi",
+                "Ral, Monsoon Mage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Алексей",
+                "Демидов Виталий",
+                "Feldon, Ronom Excavator",
+                "The Gitrog Monster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Чураков Павел",
+                "Kykar, Wind's Fury",
+                "Ertai Resurrected",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Владимиров Егор",
+                "Торицын Олег",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Владимиров Егор",
+                "Иванов Алексей",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Кузнецов Северин",
+                "Ral, Monsoon Mage",
+                "Kykar, Wind's Fury",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Торицын Олег",
+                "Чураков Павел",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Писарев Никита",
+                "The Gitrog Monster",
+                "Hidetsugu and Kairi",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Поспелов Александр",
+                "Владимиров Егор",
+                "Ral, Monsoon Mage",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Алексей",
+                "Торицын Олег",
+                "Feldon, Ronom Excavator",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Писарев Никита",
+                "Кузнецов Северин",
+                "Hidetsugu and Kairi",
+                "Kykar, Wind's Fury",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Чураков Павел",
+                "The Gitrog Monster",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/38797"
+}

@@ -1,0 +1,13 @@
+location::Simferopl
+level::Regular
+date::2025_04_20
+organizer::Fenrisulfr
+players::generals
+Виталий Чайкин :: Ghyrson Starn, Kelermorph
+Сейдамет Билялов :: Ketramose, the New Dawn
+Илья Чернышов :: Dihada, Binder of Wills
+Сергей Кочегаров :: Imskir Iron-Eater
+Алексей Кириллов :: Obyra, Dreaming Duelist
+Давид Гайдов :: Edric, Spymaster of Trest
+Round
+https://aetherhub.com/Tourney/RoundTourney/38748

@@ -1,0 +1,12 @@
+location::Tomsk
+level::Regular
+date::2025_04_16
+organizer::d6tomsk
+players::generals
+Владимиров Егор :: Gut, True Soul Zealot :+: Folk Hero
+Иванов Алексей :: Giada, Font of Hope
+Поспелов Александр :: Tourach, Dread Cantor
+Торицын Олег :: Gut, True Soul Zealot :+: Agent of the Iron Throne
+Кузнецов Северин :: Kykar, Wind's Fury
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/38796

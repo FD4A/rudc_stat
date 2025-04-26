@@ -1,0 +1,298 @@
+{
+    "date": "2025_04_26",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Ajsmirnov",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Мещеряков Максим",
+            "Thrasios, Triton Hero :+: Tymna the Weaver"
+        ],
+        [
+            "Антипин Костя",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Серпутько Слава",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Васильев Виталий",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Арушанян Тигран",
+            "Ertai Resurrected"
+        ],
+        [
+            "Костин Андрей",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Краснов Илья",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Дьяченко Андрей",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Циулин Иван",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Сухов Никитка",
+            "Emmara, Soul of the Accord"
+        ],
+        [
+            "Палачев Макс",
+            "Slimefoot and Squee"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Палачев Макс",
+                "Мещеряков Максим",
+                "Slimefoot and Squee",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Циулин Иван",
+                "Aminatou, the Fateshifter",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сухов Никитка",
+                "Костин Андрей",
+                "Emmara, Soul of the Accord",
+                "Imskir Iron-Eater",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Антипин Костя",
+                "Ertai Resurrected",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Серпутько Слава",
+                "Imskir Iron-Eater",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дьяченко Андрей",
+                "Васильев Виталий",
+                "Dihada, Binder of Wills",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Дьяченко Андрей",
+                "Серпутько Слава",
+                "Dihada, Binder of Wills",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Мещеряков Максим",
+                "Aminatou, the Fateshifter",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Костин Андрей",
+                "Арушанян Тигран",
+                "Imskir Iron-Eater",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Антипин Костя",
+                "Сухов Никитка",
+                "Feldon, Ronom Excavator",
+                "Emmara, Soul of the Accord",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васильев Виталий",
+                "Курмакаев Игорь",
+                "Grist, the Hunger Tide",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Палачев Макс",
+                "Циулин Иван",
+                "Slimefoot and Squee",
+                "Azusa, Lost but Seeking",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Костин Андрей",
+                "Серпутько Слава",
+                "Imskir Iron-Eater",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мещеряков Максим",
+                "Антипин Костя",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Васильев Виталий",
+                "Циулин Иван",
+                "Grist, the Hunger Tide",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дьяченко Андрей",
+                "Краснов Илья",
+                "Dihada, Binder of Wills",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Палачев Макс",
+                "Ertai Resurrected",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Сухов Никитка",
+                "Imskir Iron-Eater",
+                "Emmara, Soul of the Accord",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Серпутько Слава",
+                "Мещеряков Максим",
+                "Shorikai, Genesis Engine",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Костин Андрей",
+                "Антипин Костя",
+                "Imskir Iron-Eater",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Васильев Виталий",
+                "Aminatou, the Fateshifter",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Циулин Иван",
+                "Ertai Resurrected",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Палачев Макс",
+                "Курмакаев Игорь",
+                "Slimefoot and Squee",
+                "Imskir Iron-Eater",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/38907"
+}

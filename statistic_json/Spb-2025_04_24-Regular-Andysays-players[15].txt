@@ -1,0 +1,94 @@
+= Bello, Bard of the Brambles      matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 40.00% LG: 60.00% (wg:   4 lg:   6) pick: 1    Spb(1), 
+       vs Teferi, Temporal Archmage        (w:1 l:0 d:0), (2/1)
+       vs Tivit, Seller of Secrets         (w:0 l:1 d:0), (0/2)
+       vs Satya, Aetherflux Genius         (w:0 l:1 d:0), (0/2)
+       vs Juri, Master of the Revue        (w:1 l:0 d:0), (2/1)
+
+
+= Bruse Tarl, Boorish Herder       matches:2    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:2   dm:0)  games:4    WG:  0.00% LG:100.00% (wg:   0 lg:   4) pick: 1    Spb(1), 
+  + Thrasios, Triton Hero       
+       vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
+       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
+        + Bruse Tarl, Boorish Herder      
+
+
+= Geist of Saint Traft             matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:8    WG: 75.00% LG: 25.00% (wg:   6 lg:   2) pick: 1    Spb(1), 
+       vs Phelia, Exuberant Shepherd       (w:1 l:0 d:0), (2/0)
+       vs Tivit, Seller of Secrets         (w:1 l:1 d:0), (2/2)
+       vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
+        + Bruse Tarl, Boorish Herder      
+
+
+= Golos, Tireless Pilgrim          matches:3    WM: 33.33%  LM: 33.33%  DM: 33.33% (wm:1   lm:1   dm:1)  games:7    WG: 57.14% LG: 42.86% (wg:   4 lg:   3) pick: 1    Spb(1), 
+       vs Phelia, Exuberant Shepherd       (w:1 l:1 d:0), (3/2)
+       vs Teferi, Temporal Archmage        (w:0 l:0 d:1), (1/1)
+
+
+= Juri, Master of the Revue        matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:10   WG: 40.00% LG: 60.00% (wg:   4 lg:   6) pick: 1    Spb(1), 
+       vs Tivit, Seller of Secrets         (w:0 l:1 d:0), (0/2)
+       vs Teferi, Temporal Archmage        (w:0 l:1 d:0), (1/2)
+       vs Taii Wakeen, Perfect Shot        (w:1 l:0 d:0), (2/0)
+       vs Bello, Bard of the Brambles      (w:0 l:1 d:0), (1/2)
+
+
+= Phelia, Exuberant Shepherd       matches:8    WM: 50.00%  LM: 37.50%  DM: 12.50% (wm:4   lm:3   dm:1)  games:18   WG: 50.00% LG: 50.00% (wg:   9 lg:   9) pick: 2    Spb(2), 
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
+       vs Golos, Tireless Pilgrim          (w:1 l:1 d:0), (2/3)
+       vs Yoshimaru, Ever Faithful         (w:1 l:1 d:0), (2/3)
+        + Bruse Tarl, Boorish Herder      
+       vs Taii Wakeen, Perfect Shot        (w:0 l:0 d:1), (1/1)
+       vs Tivit, Seller of Secrets         (w:1 l:0 d:0), (2/0)
+       vs Satya, Aetherflux Genius         (w:1 l:0 d:0), (2/0)
+
+
+= Satya, Aetherflux Genius         matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 55.56% LG: 44.44% (wg:   5 lg:   4) pick: 1    Spb(1), 
+       vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
+        + Bruse Tarl, Boorish Herder      
+       vs Slimefoot and Squee              (w:0 l:1 d:0), (1/2)
+       vs Bello, Bard of the Brambles      (w:1 l:0 d:0), (2/0)
+       vs Phelia, Exuberant Shepherd       (w:0 l:1 d:0), (0/2)
+
+
+= Slimefoot and Squee              matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:10   WG: 60.00% LG: 40.00% (wg:   6 lg:   4) pick: 1    Spb(1), 
+       vs Bruse Tarl, Boorish Herder       (w:1 l:0 d:0), (2/0)
+        + Thrasios, Triton Hero           
+       vs Satya, Aetherflux Genius         (w:1 l:0 d:0), (2/1)
+       vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
+        + Bruse Tarl, Boorish Herder      
+       vs Tivit, Seller of Secrets         (w:0 l:1 d:0), (0/2)
+
+
+= Taii Wakeen, Perfect Shot        matches:3    WM:  0.00%  LM: 66.67%  DM: 33.33% (wm:0   lm:2   dm:1)  games:7    WG: 28.57% LG: 71.43% (wg:   2 lg:   5) pick: 1    Spb(1), 
+       vs Tivit, Seller of Secrets         (w:0 l:1 d:0), (1/2)
+       vs Phelia, Exuberant Shepherd       (w:0 l:0 d:1), (1/1)
+       vs Juri, Master of the Revue        (w:0 l:1 d:0), (0/2)
+
+
+= Teferi, Temporal Archmage        matches:4    WM: 50.00%  LM: 25.00%  DM: 25.00% (wm:2   lm:1   dm:1)  games:11   WG: 54.55% LG: 45.45% (wg:   6 lg:   5) pick: 1    Spb(1), 
+       vs Bello, Bard of the Brambles      (w:0 l:1 d:0), (1/2)
+       vs Juri, Master of the Revue        (w:1 l:0 d:0), (2/1)
+       vs Golos, Tireless Pilgrim          (w:0 l:0 d:1), (1/1)
+       vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
+        + Bruse Tarl, Boorish Herder      
+
+
+= Tivit, Seller of Secrets         matches:7    WM: 71.43%  LM: 28.57%  DM:  0.00% (wm:5   lm:2   dm:0)  games:15   WG: 66.67% LG: 33.33% (wg:  10 lg:   5) pick: 2    Spb(2), 
+       vs Juri, Master of the Revue        (w:1 l:0 d:0), (2/0)
+       vs Taii Wakeen, Perfect Shot        (w:1 l:0 d:0), (2/1)
+       vs Geist of Saint Traft             (w:1 l:1 d:0), (2/2)
+       vs Bello, Bard of the Brambles      (w:1 l:0 d:0), (2/0)
+       vs Phelia, Exuberant Shepherd       (w:0 l:1 d:0), (0/2)
+       vs Slimefoot and Squee              (w:1 l:0 d:0), (2/0)
+
+
+= Yoshimaru, Ever Faithful         matches:7    WM: 28.57%  LM: 71.43%  DM:  0.00% (wm:2   lm:5   dm:0)  games:17   WG: 41.18% LG: 58.82% (wg:   7 lg:  10) pick: 2    Spb(2), 
+  + Bruse Tarl, Boorish Herder  
+       vs Satya, Aetherflux Genius         (w:0 l:1 d:0), (0/2)
+       vs Phelia, Exuberant Shepherd       (w:1 l:1 d:0), (3/2)
+       vs Bruse Tarl, Boorish Herder       (w:1 l:0 d:0), (2/0)
+        + Thrasios, Triton Hero           
+       vs Slimefoot and Squee              (w:0 l:1 d:0), (1/2)
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
+       vs Teferi, Temporal Archmage        (w:0 l:1 d:0), (1/2)
+
+

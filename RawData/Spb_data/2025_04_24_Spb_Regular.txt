@@ -1,0 +1,22 @@
+location::Spb
+level::Regular
+date::2025_04_24
+organizer::Andysays
+players::generals
+Булочко Михаил :: Tivit, Seller of Secrets
+Грабовой Филипп :: Slimefoot and Squee
+Тяпайкин Максим :: Geist of Saint Traft
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Поляков Герман :: Teferi, Temporal Archmage
+Шестаков Игорь :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Постоялкин Павел :: Bello, Bard of the Brambles
+Коростелев Илья :: Satya, Aetherflux Genius
+Егоров Павел :: Phelia, Exuberant Shepherd
+Красников Александр :: Taii Wakeen, Perfect Shot
+Федоров Дмитрий :: Juri, Master of the Revue
+Звягин Георгий :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Барабаш Валентин :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Цюра Максим :: Tivit, Seller of Secrets
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/38817

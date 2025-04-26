@@ -1,0 +1,15 @@
+location::Tomsk
+level::Regular
+date::2025_04_23
+organizer::d6tomsk
+players::generals
+Владимиров Егор :: Gut, True Soul Zealot :+: Folk Hero
+Поспелов Александр :: Ral, Monsoon Mage
+Торицын Олег :: Gut, True Soul Zealot :+: Agent of the Iron Throne
+Писарев Никита :: Hidetsugu and Kairi
+Иванов Алексей :: Feldon, Ronom Excavator
+Кузнецов Северин :: Kykar, Wind's Fury
+Демидов Виталий :: The Gitrog Monster
+Чураков Павел :: Ertai Resurrected
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/38797

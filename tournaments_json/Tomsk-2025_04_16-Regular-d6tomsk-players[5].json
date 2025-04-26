@@ -1,0 +1,98 @@
+{
+    "date": "2025_04_16",
+    "location": "Tomsk",
+    "level": "Regular",
+    "organizer": "d6tomsk",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Владимиров Егор",
+            "Gut, True Soul Zealot :+: Folk Hero"
+        ],
+        [
+            "Иванов Алексей",
+            "Giada, Font of Hope"
+        ],
+        [
+            "Поспелов Александр",
+            "Tourach, Dread Cantor"
+        ],
+        [
+            "Торицын Олег",
+            "Gut, True Soul Zealot :+: Agent of the Iron Throne"
+        ],
+        [
+            "Кузнецов Северин",
+            "Kykar, Wind's Fury"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Владимиров Егор",
+                "Иванов Алексей",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Giada, Font of Hope",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Торицын Олег",
+                "Кузнецов Северин",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Kykar, Wind's Fury",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Поспелов Александр",
+                "Кузнецов Северин",
+                "Tourach, Dread Cantor",
+                "Kykar, Wind's Fury",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Владимиров Егор",
+                "Торицын Олег",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Владимиров Егор",
+                "Поспелов Александр",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Tourach, Dread Cantor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Алексей",
+                "Кузнецов Северин",
+                "Giada, Font of Hope",
+                "Kykar, Wind's Fury",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/38796"
+}
