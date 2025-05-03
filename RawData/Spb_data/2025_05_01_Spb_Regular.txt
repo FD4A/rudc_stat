@@ -1,0 +1,25 @@
+location::Spb
+level::Regular
+date::2025_05_01
+organizer::Andysays
+players::generals
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Поляков Герман :: Teferi, Temporal Archmage
+Олифер Егор :: Tymna the Weaver :+: Ludevic, Necro-Alchemist
+Булочко Михаил :: Tivit, Seller of Secrets
+Муравьев Роман :: Dihada, Binder of Wills
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Протасов Михаил :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Звягин Георгий :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Мартынов Яков :: Tivit, Seller of Secrets
+Егоров Павел :: Phelia, Exuberant Shepherd
+Красников Александр :: Thrasta, Tempest's Roar
+Постоялкин Павел :: Bello, Bard of the Brambles
+Шестаков Игорь :: Deadpool, Trading Card
+Барабаш Валентин :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Федоров Дмитрий :: Juri, Master of the Revue
+Ульянов Алексей :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Шапошников Иван :: Eshki Dragonclaw
+Федаренков Евгений :: Chishiro, the Shattered Blade
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/41141

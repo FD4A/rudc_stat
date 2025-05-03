@@ -1,0 +1,442 @@
+{
+    "date": "2025_05_01",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Олифер Егор",
+            "Tymna the Weaver :+: Ludevic, Necro-Alchemist"
+        ],
+        [
+            "Булочко Михаил",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Муравьев Никита",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Протасов Михаил",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Звягин Георгий",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Егоров Павел",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Красников Александр",
+            "Thrasta, Tempest's Roar"
+        ],
+        [
+            "Постоялкин Павел",
+            "Bello, Bard of the Brambles"
+        ],
+        [
+            "Шестаков Игорь",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Барабаш Валентин",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Ульянов Алексей",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Шапошников Иван",
+            "Eshki Dragonclaw"
+        ],
+        [
+            "Федаренков Евгений",
+            "Chishiro, the Shattered Blade"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Шапошников Иван",
+                "Олифер Егор",
+                "Eshki Dragonclaw",
+                "Tymna the Weaver :+: Ludevic, Necro-Alchemist",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Булочко Михаил",
+                "Deadpool, Trading Card",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Постоялкин Павел",
+                "Федоров Дмитрий",
+                "Bello, Bard of the Brambles",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Родюков Федор",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Звягин Георгий",
+                "Phelia, Exuberant Shepherd",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Федаренков Евгений",
+                "Tivit, Seller of Secrets",
+                "Chishiro, the Shattered Blade",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Барабаш Валентин",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Егоров Павел",
+                "Thrasta, Tempest's Roar",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Муравьев Роман",
+                "Teferi, Temporal Archmage",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Постоялкин Павел",
+                "Родюков Федор",
+                "Bello, Bard of the Brambles",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Поляков Герман",
+                "Tivit, Seller of Secrets",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Егоров Павел",
+                "Tymna the Weaver :+: Ludevic, Necro-Alchemist",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Барабаш Валентин",
+                "Tivit, Seller of Secrets",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Ульянов Алексей",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Протасов Михаил",
+                "Phelia, Exuberant Shepherd",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Муравьев Роман",
+                "Deadpool, Trading Card",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Федаренков Евгений",
+                "Федоров Дмитрий",
+                "Chishiro, the Shattered Blade",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Шапошников Иван",
+                "Красников Александр",
+                "Eshki Dragonclaw",
+                "Thrasta, Tempest's Roar",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Родюков Федор",
+                "Мартынов Яков",
+                "Ghyrson Starn, Kelermorph",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Олифер Егор",
+                "Teferi, Temporal Archmage",
+                "Tymna the Weaver :+: Ludevic, Necro-Alchemist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Постоялкин Павел",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Bello, Bard of the Brambles",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Федоров Дмитрий",
+                "Thrasta, Tempest's Roar",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Муравьев Роман",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Егоров Павел",
+                "Tivit, Seller of Secrets",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Шапошников Иван",
+                "Phelia, Exuberant Shepherd",
+                "Eshki Dragonclaw",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Шестаков Игорь",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Deadpool, Trading Card",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Федаренков Евгений",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Chishiro, the Shattered Blade",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Родюков Федор",
+                "Teferi, Temporal Archmage",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Олифер Егор",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Tymna the Weaver :+: Ludevic, Necro-Alchemist",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Булочко Михаил",
+                "Tivit, Seller of Secrets",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Красников Александр",
+                "Dihada, Binder of Wills",
+                "Thrasta, Tempest's Roar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Постоялкин Павел",
+                "Phelia, Exuberant Shepherd",
+                "Bello, Bard of the Brambles",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Федоров Дмитрий",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Барабаш Валентин",
+                "Phelia, Exuberant Shepherd",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Федаренков Евгений",
+                "Шестаков Игорь",
+                "Chishiro, the Shattered Blade",
+                "Deadpool, Trading Card",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/41141"
+}

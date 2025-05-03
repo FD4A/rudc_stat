@@ -1,0 +1,312 @@
+{
+    "date": "2025_05_01",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Сибикин Антон",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Васильев Кирилл",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Краснов Илья",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Громов Михаил",
+            "Gornog, the Red Reaper"
+        ],
+        [
+            "Иванов Никита",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Ревин Владимир",
+            "Elenda, the Dusk Rose"
+        ],
+        [
+            "Циулин Иван",
+            "Glarb, Calamity's Augur"
+        ],
+        [
+            "Тимохин Денис",
+            "Zimone and Dina"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Чекулаев Дмитрий",
+            "Samut, Vizier of Naktamun"
+        ],
+        [
+            "Малкин Алексей",
+            "Phelia, Exuberant Shepherd"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Малкин Алексей",
+                "Васильев Кирилл",
+                "Phelia, Exuberant Shepherd",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Громов Михаил",
+                "Glarb, Calamity's Augur",
+                "Gornog, the Red Reaper",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Матюнин Антон",
+                "Elenda, the Dusk Rose",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Сибикин Антон",
+                "Dihada, Binder of Wills",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Безруков Николай",
+                "Grist, the Hunger Tide",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Краснов Илья",
+                "Zimone and Dina",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Чекулаев Дмитрий",
+                "Краснов Илья",
+                "Samut, Vizier of Naktamun",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Матюнин Антон",
+                "Shorikai, Genesis Engine",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Громов Михаил",
+                "Безруков Николай",
+                "Gornog, the Red Reaper",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Тимохин Денис",
+                "Dihada, Binder of Wills",
+                "Zimone and Dina",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Малкин Алексей",
+                "Ревин Владимир",
+                "Phelia, Exuberant Shepherd",
+                "Elenda, the Dusk Rose",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Циулин Иван",
+                "Dihada, Binder of Wills",
+                "Glarb, Calamity's Augur",
+                [
+                    0,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Сибикин Антон",
+                "Безруков Николай",
+                "Shorikai, Genesis Engine",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Краснов Илья",
+                "Dihada, Binder of Wills",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Матюнин Антон",
+                "Grist, the Hunger Tide",
+                "Muxus, Goblin Grandee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Чекулаев Дмитрий",
+                "Громов Михаил",
+                "Samut, Vizier of Naktamun",
+                "Gornog, the Red Reaper",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Иванов Никита",
+                "Elenda, the Dusk Rose",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Малкин Алексей",
+                "Циулин Иван",
+                "Phelia, Exuberant Shepherd",
+                "Glarb, Calamity's Augur",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Сибикин Антон",
+                "Васильев Кирилл",
+                "Shorikai, Genesis Engine",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Краснов Илья",
+                "Feldon, Ronom Excavator",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Громов Михаил",
+                "Muxus, Goblin Grandee",
+                "Gornog, the Red Reaper",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Тимохин Денис",
+                "Glarb, Calamity's Augur",
+                "Zimone and Dina",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Чекулаев Дмитрий",
+                "Ревин Владимир",
+                "Samut, Vizier of Naktamun",
+                "Elenda, the Dusk Rose",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Малкин Алексей",
+                "Dihada, Binder of Wills",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/41092"
+}

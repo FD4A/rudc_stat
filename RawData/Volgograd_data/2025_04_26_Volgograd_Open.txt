@@ -1,0 +1,35 @@
+location::Volgograd
+level::Regular
+date::2025_04_26
+organizer::ArtemovaMargo
+players::generals
+Сайфутдинов Тимур ::  Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Грабовой Филипп :: Slimefoot and Squee
+Олифер Егор :: Tymna the Weaver :+: Ludevic, Necro-Alchemist
+Орешкин Димка :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Семёнов Дима :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Протасов Миша :: Tivit, Seller of Secrets
+Ульянов Алеша :: Golos, Tireless Pilgrim
+Токарев Саша :: Grist, the Hunger Tide
+Сухов Никитка :: Shorikai, Genesis Engine
+Дьяченко Андрей :: Dihada, Binder of Wills
+Курмакаев Игорь :: Grist, the Hunger Tide
+Антипин Костя :: Feldon, Ronom Excavator
+Краснов Илья :: Ertai Resurrected
+Серпутько Слава :: Emmara, Soul of the Accord
+Циулин Ваня :: Azusa, Lost but Seeking
+Смирнов Саша :: Rograkh, Son of Rohgahh :+: Tymna the Weaver
+Арушанян Тигран :: Aminatou, the Fateshifter
+Кащихин Игорь :: Arahbo, Roar of the World
+Фролов Евгений :: Arahbo, Roar of the World
+Костин Андрей :: Imskir Iron-Eater
+Ильин Александр :: Aragorn, King of Gondor
+Васильев Виталий :: Grist, the Hunger Tide
+Мещеряков Макс :: Thrasios, Triton Hero :+: Tymna the Weaver
+Губин Андрей :: Phelia, Exuberant Shepherd
+Фридман Сергей :: Muxus, Goblin Grandee
+Вахитов Ривкат :: Kari Zev, Skyship Raider
+Штофов Арсений :: Basim Ibn Ishaq
+Палачев Макс :: Slimefoot and Squee
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/38877

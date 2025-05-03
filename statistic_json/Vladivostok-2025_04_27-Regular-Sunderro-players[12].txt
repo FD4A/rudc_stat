@@ -1,0 +1,77 @@
+= Aragorn, King of Gondor          matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:6    WG: 33.33% LG: 66.67% (wg:   2 lg:   4) pick: 1    Vladivostok(1), 
+       vs Ertai Resurrected                (w:0 l:1 d:0), (0/1)
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (0/1)
+       vs Arahbo, Roar of the World        (w:0 l:1 d:0), (0/2)
+       vs Taii Wakeen, Perfect Shot        (w:1 l:0 d:0), (2/0)
+
+
+= Arahbo, Roar of the World        matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 44.44% LG: 55.56% (wg:   4 lg:   5) pick: 1    Vladivostok(1), 
+       vs Lurrus of the Dream-Den          (w:1 l:0 d:0), (2/1)
+       vs Arwen, Mortal Queen              (w:0 l:1 d:0), (0/2)
+       vs Aragorn, King of Gondor          (w:1 l:0 d:0), (2/0)
+       vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
+
+
+= Arwen, Mortal Queen              matches:4    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:4   lm:0   dm:0)  games:9    WG: 88.89% LG: 11.11% (wg:   8 lg:   1) pick: 1    Vladivostok(1), 
+       vs Ratchet, Field Medic             (w:1 l:0 d:0), (2/0)
+       vs Arahbo, Roar of the World        (w:1 l:0 d:0), (2/0)
+       vs Slimefoot and Squee              (w:1 l:0 d:0), (2/1)
+       vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
+
+
+= Ertai Resurrected                matches:4    WM: 25.00%  LM: 50.00%  DM: 25.00% (wm:1   lm:2   dm:1)  games:6    WG: 33.33% LG: 66.67% (wg:   2 lg:   4) pick: 1    Vladivostok(1), 
+       vs Aragorn, King of Gondor          (w:1 l:0 d:0), (1/0)
+       vs Taii Wakeen, Perfect Shot        (w:0 l:0 d:1), (1/1)
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (0/1)
+       vs Ratchet, Field Medic             (w:0 l:1 d:0), (0/2)
+
+
+= Ezio Auditore da Firenze         matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:11   WG: 36.36% LG: 63.64% (wg:   4 lg:   7) pick: 1    Vladivostok(1), 
+       vs Taii Wakeen, Perfect Shot        (w:0 l:1 d:0), (1/2)
+       vs Ratchet, Field Medic             (w:1 l:0 d:0), (2/1)
+       vs Plagon, Lord of the Beach        (w:0 l:1 d:0), (1/2)
+       vs Lurrus of the Dream-Den          (w:0 l:1 d:0), (0/2)
+
+
+= Geist of Saint Traft             matches:8    WM: 62.50%  LM: 37.50%  DM:  0.00% (wm:5   lm:3   dm:0)  games:15   WG: 53.33% LG: 46.67% (wg:   8 lg:   7) pick: 2    Vladivostok(2), 
+       vs Slimefoot and Squee              (w:0 l:2 d:0), (0/4)
+       vs Plagon, Lord of the Beach        (w:2 l:0 d:0), (4/1)
+       vs Aragorn, King of Gondor          (w:1 l:0 d:0), (1/0)
+       vs Taii Wakeen, Perfect Shot        (w:1 l:0 d:0), (2/0)
+       vs Ertai Resurrected                (w:1 l:0 d:0), (1/0)
+       vs Arwen, Mortal Queen              (w:0 l:1 d:0), (0/2)
+
+
+= Lurrus of the Dream-Den          matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:10   WG: 40.00% LG: 60.00% (wg:   4 lg:   6) pick: 1    Vladivostok(1), 
+       vs Arahbo, Roar of the World        (w:0 l:1 d:0), (1/2)
+       vs Plagon, Lord of the Beach        (w:0 l:1 d:0), (0/2)
+       vs Ratchet, Field Medic             (w:0 l:1 d:0), (1/2)
+       vs Ezio Auditore da Firenze         (w:1 l:0 d:0), (2/0)
+
+
+= Plagon, Lord of the Beach        matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 50.00% LG: 50.00% (wg:   5 lg:   5) pick: 1    Vladivostok(1), 
+       vs Geist of Saint Traft             (w:0 l:2 d:0), (1/4)
+       vs Lurrus of the Dream-Den          (w:1 l:0 d:0), (2/0)
+       vs Ezio Auditore da Firenze         (w:1 l:0 d:0), (2/1)
+
+
+= Ratchet, Field Medic             matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 50.00% LG: 50.00% (wg:   5 lg:   5) pick: 1    Vladivostok(1), 
+       vs Arwen, Mortal Queen              (w:0 l:1 d:0), (0/2)
+       vs Ezio Auditore da Firenze         (w:0 l:1 d:0), (1/2)
+       vs Lurrus of the Dream-Den          (w:1 l:0 d:0), (2/1)
+       vs Ertai Resurrected                (w:1 l:0 d:0), (2/0)
+
+
+= Slimefoot and Squee              matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:9    WG: 77.78% LG: 22.22% (wg:   7 lg:   2) pick: 1    Vladivostok(1), 
+       vs Geist of Saint Traft             (w:2 l:0 d:0), (4/0)
+       vs Arwen, Mortal Queen              (w:0 l:1 d:0), (1/2)
+       vs Arahbo, Roar of the World        (w:1 l:0 d:0), (2/0)
+
+
+= Taii Wakeen, Perfect Shot        matches:4    WM: 25.00%  LM: 50.00%  DM: 25.00% (wm:1   lm:2   dm:1)  games:9    WG: 33.33% LG: 66.67% (wg:   3 lg:   6) pick: 1    Vladivostok(1), 
+       vs Ezio Auditore da Firenze         (w:1 l:0 d:0), (2/1)
+       vs Ertai Resurrected                (w:0 l:0 d:1), (1/1)
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
+       vs Aragorn, King of Gondor          (w:0 l:1 d:0), (0/2)
+
+

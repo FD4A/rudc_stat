@@ -1,0 +1,260 @@
+{
+    "date": "2025_04_27",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Артём Ангурцов",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Сергей Фридман",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Егор Олифер",
+            "Tymna the Weaver :+: Ludevic, Necro-Alchemist"
+        ],
+        [
+            "Илья Краснов",
+            "Ertai Resurrected"
+        ],
+        [
+            "Дмитрий Орешкин",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Игорь Кащихин",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Александр Ильин",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Виталий Васильев",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Евгений Фролов",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Александр Смирнов",
+            "Plagon, Lord of the Beach"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Артём Ангурцов",
+                "Дмитрий Орешкин",
+                "Iron Man, Titan of Innovation",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сергей Фридман",
+                "Егор Олифер",
+                "Muxus, Goblin Grandee",
+                "Tymna the Weaver :+: Ludevic, Necro-Alchemist",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Илья Краснов",
+                "Александр Ильин",
+                "Ertai Resurrected",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Евгений Фролов",
+                "Игорь Кащихин",
+                "Arahbo, Roar of the World",
+                "Arahbo, Roar of the World",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Виталий Васильев",
+                "Plagon, Lord of the Beach",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Егор Олифер",
+                "Илья Краснов",
+                "Tymna the Weaver :+: Ludevic, Necro-Alchemist",
+                "Ertai Resurrected",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Дмитрий Орешкин",
+                "Grist, the Hunger Tide",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Игорь Кащихин",
+                "Артём Ангурцов",
+                "Arahbo, Roar of the World",
+                "Iron Man, Titan of Innovation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Евгений Фролов",
+                "Александр Ильин",
+                "Arahbo, Roar of the World",
+                "Aragorn, King of Gondor",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Сергей Фридман",
+                "Plagon, Lord of the Beach",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Орешкин",
+                "Егор Олифер",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Tymna the Weaver :+: Ludevic, Necro-Alchemist",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Илья Краснов",
+                "Сергей Фридман",
+                "Ertai Resurrected",
+                "Muxus, Goblin Grandee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Игорь Кащихин",
+                "Виталий Васильев",
+                "Arahbo, Roar of the World",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Александр Ильин",
+                "Iron Man, Titan of Innovation",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Евгений Фролов",
+                "Plagon, Lord of the Beach",
+                "Arahbo, Roar of the World",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Егор Олифер",
+                "Артём Ангурцов",
+                "Tymna the Weaver :+: Ludevic, Necro-Alchemist",
+                "Iron Man, Titan of Innovation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Сергей Фридман",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Игорь Кащихин",
+                "Илья Краснов",
+                "Arahbo, Roar of the World",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Евгений Фролов",
+                "Grist, the Hunger Tide",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Ильин",
+                "Александр Смирнов",
+                "Aragorn, King of Gondor",
+                "Plagon, Lord of the Beach",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/38939"
+}

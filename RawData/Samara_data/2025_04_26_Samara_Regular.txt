@@ -1,0 +1,14 @@
+location::Samara
+level::Regular
+date::2025_04_26
+organizer::Myakabuka
+players::generals
+Иванов Никита :: Dihada, Binder of Wills
+Ревин Владимир :: Elenda, the Dusk Rose
+Васильев Кирилл :: Dihada, Binder of Wills
+Тимохин Денис :: Zimone and Dina
+Матюнин Антон :: Muxus, Goblin Grandee
+Кормаков Александр :: Roon of the Hidden Realm
+Латыпов Камиль :: Ghyrson Starn, Kelermorph
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/38899

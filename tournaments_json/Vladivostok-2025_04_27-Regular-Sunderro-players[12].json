@@ -1,0 +1,308 @@
+{
+    "date": "2025_04_27",
+    "location": "Vladivostok",
+    "level": "Regular",
+    "organizer": "Sunderro",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Булгаков Андрей",
+            "Arwen, Mortal Queen"
+        ],
+        [
+            "Майоров Влад",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Поволяко Сергей",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Городов Дмитрий",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Кривошеев Всеволод",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Гомзарь Макар",
+            "Ratchet, Field Medic"
+        ],
+        [
+            "Каунасский Андрей",
+            "Plagon, Lord of the Beach"
+        ],
+        [
+            "Гавриленко Валентин",
+            "Taii Wakeen, Perfect Shot"
+        ],
+        [
+            "Середкин Михаил",
+            "Ertai Resurrected"
+        ],
+        [
+            "Резниченко Олег",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Иванов Роман",
+            "Lurrus of the Dream-Den"
+        ],
+        [
+            "Степаненко Кирилл",
+            "Ezio Auditore da Firenze"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Кривошеев Всеволод",
+                "Иванов Роман",
+                "Arahbo, Roar of the World",
+                "Lurrus of the Dream-Den",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Гавриленко Валентин",
+                "Степаненко Кирилл",
+                "Taii Wakeen, Perfect Shot",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поволяко Сергей",
+                "Майоров Влад",
+                "Geist of Saint Traft",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Городов Дмитрий",
+                "Каунасский Андрей",
+                "Geist of Saint Traft",
+                "Plagon, Lord of the Beach",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Середкин Михаил",
+                "Резниченко Олег",
+                "Ertai Resurrected",
+                "Aragorn, King of Gondor",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Булгаков Андрей",
+                "Гомзарь Макар",
+                "Arwen, Mortal Queen",
+                "Ratchet, Field Medic",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Майоров Влад",
+                "Городов Дмитрий",
+                "Slimefoot and Squee",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кривошеев Всеволод",
+                "Булгаков Андрей",
+                "Arahbo, Roar of the World",
+                "Arwen, Mortal Queen",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Гавриленко Валентин",
+                "Середкин Михаил",
+                "Taii Wakeen, Perfect Shot",
+                "Ertai Resurrected",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Иванов Роман",
+                "Каунасский Андрей",
+                "Lurrus of the Dream-Den",
+                "Plagon, Lord of the Beach",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Степаненко Кирилл",
+                "Гомзарь Макар",
+                "Ezio Auditore da Firenze",
+                "Ratchet, Field Medic",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Резниченко Олег",
+                "Поволяко Сергей",
+                "Aragorn, King of Gondor",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Майоров Влад",
+                "Булгаков Андрей",
+                "Slimefoot and Squee",
+                "Arwen, Mortal Queen",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Гавриленко Валентин",
+                "Поволяко Сергей",
+                "Taii Wakeen, Perfect Shot",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Середкин Михаил",
+                "Городов Дмитрий",
+                "Ertai Resurrected",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Степаненко Кирилл",
+                "Каунасский Андрей",
+                "Ezio Auditore da Firenze",
+                "Plagon, Lord of the Beach",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кривошеев Всеволод",
+                "Резниченко Олег",
+                "Arahbo, Roar of the World",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Роман",
+                "Гомзарь Макар",
+                "Lurrus of the Dream-Den",
+                "Ratchet, Field Medic",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Булгаков Андрей",
+                "Городов Дмитрий",
+                "Arwen, Mortal Queen",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Майоров Влад",
+                "Кривошеев Всеволод",
+                "Slimefoot and Squee",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поволяко Сергей",
+                "Каунасский Андрей",
+                "Geist of Saint Traft",
+                "Plagon, Lord of the Beach",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Середкин Михаил",
+                "Гомзарь Макар",
+                "Ertai Resurrected",
+                "Ratchet, Field Medic",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Гавриленко Валентин",
+                "Резниченко Олег",
+                "Taii Wakeen, Perfect Shot",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Степаненко Кирилл",
+                "Иванов Роман",
+                "Ezio Auditore da Firenze",
+                "Lurrus of the Dream-Den",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/38920"
+}

@@ -1,0 +1,136 @@
+{
+    "date": "2025_04_26",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Иванов Никита",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Ревин Владимир",
+            "Elenda, the Dusk Rose"
+        ],
+        [
+            "Васильев Кирилл",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Тимохин Денис",
+            "Zimone and Dina"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Кормаков Александр",
+            "Roon of the Hidden Realm"
+        ],
+        [
+            "Латыпов Камиль",
+            "Ghyrson Starn, Kelermorph"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Кормаков Александр",
+                "Латыпов Камиль",
+                "Roon of the Hidden Realm",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Тимохин Денис",
+                "Dihada, Binder of Wills",
+                "Zimone and Dina",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Ревин Владимир",
+                "Muxus, Goblin Grandee",
+                "Elenda, the Dusk Rose",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Ревин Владимир",
+                "Кормаков Александр",
+                "Elenda, the Dusk Rose",
+                "Roon of the Hidden Realm",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Иванов Никита",
+                "Dihada, Binder of Wills",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Тимохин Денис",
+                "Muxus, Goblin Grandee",
+                "Zimone and Dina",
+                [
+                    0,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Никита",
+                "Ревин Владимир",
+                "Dihada, Binder of Wills",
+                "Elenda, the Dusk Rose",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Кормаков Александр",
+                "Васильев Кирилл",
+                "Roon of the Hidden Realm",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Латыпов Камиль",
+                "Матюнин Антон",
+                "Ghyrson Starn, Kelermorph",
+                "Muxus, Goblin Grandee",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/38899"
+}

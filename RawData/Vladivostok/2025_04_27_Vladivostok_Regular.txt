@@ -1,0 +1,19 @@
+location::Vladivostok
+level::Regular
+date::2025_04_27
+organizer::Sunderro
+players::generals
+Булгаков Андрей :: Arwen, Mortal Queen
+Майоров Влад :: Slimefoot and Squee
+Поволяко Сергей :: Geist of Saint Traft
+Городов Дмитрий :: Geist of Saint Traft
+Кривошеев Всеволод :: Arahbo Roar of World
+Гомзарь Макар :: Ratchet, Field Medic
+Каунасский Андрей :: Plagon, Lord of the Beach
+Гавриленко Валентин :: Taii Wakeen, Perfect Shot
+Середкин Михаил :: Ertai Resurrected
+Резниченко Олег :: Aragorn, King of Gondor
+Иванов Роман :: lurrus of the dream-den
+Степаненко Кирилл :: Ezio Auditore de Firenz
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/38920

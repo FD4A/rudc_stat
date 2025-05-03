@@ -1,0 +1,17 @@
+location::Volgograd
+level::Regular
+date::2025_04_27
+organizer::Rombik34rus
+players::generals
+Артём Ангурцов :: Iron Man, Titan of Innovation
+Сергей Фридман :: Muxus, Goblin Grandee
+Егор Олифер :: Tymna the Weaver :+: Ludevic, Necro-Alchemist
+Илья Краснов :: Ertai Resurrected
+Дмитрий Орешкин :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Игорь Кащихин :: Arahbo, Roar of the World
+Александр Ильин :: Aragorn, King of Gondor
+Виталий Васильев :: Grist, the Hunger Tide
+Евгений Фролов :: Arahbo, Roar of the World
+Александр Смирнов :: Plagon, Lord of the Beach
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/38939

@@ -1,0 +1,20 @@
+location::Samara
+level::Regular
+date::2025_05_01
+organizer::Myakabuka
+players::generals
+Сибикин Антон :: Shorikai, Genesis Engine
+Васильев Кирилл :: Dihada, Binder of Wills
+Матюнин Антон :: Muxus, Goblin Grandee
+Краснов Илья :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Безруков Николай :: Feldon, Ronom Excavator
+Громов Михаил :: Gornog, the Red Reaper
+Иванов Никита :: Dihada, Binder of Wills
+Ревин Владимир :: Elenda, the Dusk Rose
+Циулин Иван :: Glarb, Calamity's Augur
+Тимохин Денис :: Zimone and Dina
+Курмакаев Игорь :: Grist, the Hunger Tide
+Чекулаев Дмитрий :: Samut, Vizier of Naktamun
+Малкин Алексей :: Phelia, Exuberant Shepherd
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/41092

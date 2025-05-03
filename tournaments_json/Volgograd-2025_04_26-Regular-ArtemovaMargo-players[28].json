@@ -1,0 +1,814 @@
+{
+    "date": "2025_04_26",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "ArtemovaMargo",
+    "roundsCount": 5,
+    "players": [
+        [
+            "Сайфутдинов Тимур",
+            "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Грабовой Филипп",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Олифер Егор",
+            "Tymna the Weaver :+: Ludevic, Necro-Alchemist"
+        ],
+        [
+            "Орешкин Димка",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Семёнов Дима",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Протасов Миша",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Ульянов Алеша",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Токарев Саша",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Сухов Никитка",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Дьяченко Андрей",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Антипин Костя",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Краснов Илья",
+            "Ertai Resurrected"
+        ],
+        [
+            "Серпутько Слава",
+            "Emmara, Soul of the Accord"
+        ],
+        [
+            "Циулин Ваня",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Смирнов Саша",
+            "Rograkh, Son of Rohgahh :+: Tymna the Weaver"
+        ],
+        [
+            "Арушанян Тигран",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Кащихин Игорь",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Фролов Евгений",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Костин Андрей",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Ильин Александр",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Васильев Виталий",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Мещеряков Макс",
+            "Thrasios, Triton Hero :+: Tymna the Weaver"
+        ],
+        [
+            "Губин Андрей",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Фридман Сергей",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Вахитов Ривкат",
+            "Kari Zev, Skyship Raider"
+        ],
+        [
+            "Штофов Арсений",
+            "Basim Ibn Ishaq"
+        ],
+        [
+            "Палачев Макс",
+            "Slimefoot and Squee"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Сайфутдинов Тимур",
+                "Кащихин Игорь",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васильев Виталий",
+                "Курмакаев Игорь",
+                "Grist, the Hunger Tide",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дьяченко Андрей",
+                "Протасов Миша",
+                "Dihada, Binder of Wills",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Токарев Саша",
+                "Палачев Макс",
+                "Grist, the Hunger Tide",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Штофов Арсений",
+                "Орешкин Димка",
+                "Basim Ibn Ishaq",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Фролов Евгений",
+                "Олифер Егор",
+                "Arahbo, Roar of the World",
+                "Tymna the Weaver :+: Ludevic, Necro-Alchemist",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Антипин Костя",
+                "Циулин Ваня",
+                "Feldon, Ronom Excavator",
+                "Azusa, Lost but Seeking",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мещеряков Макс",
+                "Семёнов Дима",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сухов Никитка",
+                "Ильин Александр",
+                "Shorikai, Genesis Engine",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Арушанян Тигран",
+                "Костин Андрей",
+                "Aminatou, the Fateshifter",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Губин Андрей",
+                "Kari Zev, Skyship Raider",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Серпутько Слава",
+                "Ertai Resurrected",
+                "Emmara, Soul of the Accord",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Ульянов Алеша",
+                "Slimefoot and Squee",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Смирнов Саша",
+                "Фридман Сергей",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Циулин Ваня",
+                "Губин Андрей",
+                "Azusa, Lost but Seeking",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Сайфутдинов Тимур",
+                "Slimefoot and Squee",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Протасов Миша",
+                "Семёнов Дима",
+                "Tivit, Seller of Secrets",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Серпутько Слава",
+                "Арушанян Тигран",
+                "Emmara, Soul of the Accord",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Смирнов Саша",
+                "Курмакаев Игорь",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сухов Никитка",
+                "Олифер Егор",
+                "Shorikai, Genesis Engine",
+                "Tymna the Weaver :+: Ludevic, Necro-Alchemist",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Токарев Саша",
+                "Штофов Арсений",
+                "Grist, the Hunger Tide",
+                "Basim Ibn Ishaq",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Орешкин Димка",
+                "Дьяченко Андрей",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Фридман Сергей",
+                "Краснов Илья",
+                "Muxus, Goblin Grandee",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Палачев Макс",
+                "Васильев Виталий",
+                "Slimefoot and Squee",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алеша",
+                "Мещеряков Макс",
+                "Golos, Tireless Pilgrim",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Костин Андрей",
+                "Вахитов Ривкат",
+                "Imskir Iron-Eater",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кащихин Игорь",
+                "Антипин Костя",
+                "Arahbo, Roar of the World",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Фролов Евгений",
+                "Ильин Александр",
+                "Arahbo, Roar of the World",
+                "Aragorn, King of Gondor",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Олифер Егор",
+                "Циулин Ваня",
+                "Tymna the Weaver :+: Ludevic, Necro-Alchemist",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Смирнов Саша",
+                "Slimefoot and Squee",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Серпутько Слава",
+                "Токарев Саша",
+                "Emmara, Soul of the Accord",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Протасов Миша",
+                "Орешкин Димка",
+                "Tivit, Seller of Secrets",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Семёнов Дима",
+                "Ильин Александр",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Aragorn, King of Gondor",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Антипин Костя",
+                "Костин Андрей",
+                "Feldon, Ronom Excavator",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сухов Никитка",
+                "Краснов Илья",
+                "Shorikai, Genesis Engine",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алеша",
+                "Арушанян Тигран",
+                "Golos, Tireless Pilgrim",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Губин Андрей",
+                "Курмакаев Игорь",
+                "Phelia, Exuberant Shepherd",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Палачев Макс",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васильев Виталий",
+                "Штофов Арсений",
+                "Grist, the Hunger Tide",
+                "Basim Ibn Ishaq",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дьяченко Андрей",
+                "Фролов Евгений",
+                "Dihada, Binder of Wills",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кащихин Игорь",
+                "Фридман Сергей",
+                "Arahbo, Roar of the World",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мещеряков Макс",
+                "Вахитов Ривкат",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                "Kari Zev, Skyship Raider",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Олифер Егор",
+                "Грабовой Филипп",
+                "Tymna the Weaver :+: Ludevic, Necro-Alchemist",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Орешкин Димка",
+                "Серпутько Слава",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Emmara, Soul of the Accord",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Токарев Саша",
+                "Сайфутдинов Тимур",
+                "Grist, the Hunger Tide",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Смирнов Саша",
+                "Антипин Костя",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Сухов Никитка",
+                "Grist, the Hunger Tide",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Циулин Ваня",
+                "Ульянов Алеша",
+                "Azusa, Lost but Seeking",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Семёнов Дима",
+                "Васильев Виталий",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Протасов Миша",
+                "Ильин Александр",
+                "Tivit, Seller of Secrets",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Вахитов Ривкат",
+                "Ertai Resurrected",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Костин Андрей",
+                "Дьяченко Андрей",
+                "Imskir Iron-Eater",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кащихин Игорь",
+                "Арушанян Тигран",
+                "Arahbo, Roar of the World",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Палачев Макс",
+                "Мещеряков Макс",
+                "Slimefoot and Squee",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Фролов Евгений",
+                "Фридман Сергей",
+                "Arahbo, Roar of the World",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Грабовой Филипп",
+                "Орешкин Димка",
+                "Slimefoot and Squee",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Ульянов Алеша",
+                "Tymna the Weaver :+: Ludevic, Necro-Alchemist",
+                "Golos, Tireless Pilgrim",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Курмакаев Игорь",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Антипин Костя",
+                "Семёнов Дима",
+                "Feldon, Ronom Excavator",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Серпутько Слава",
+                "Протасов Миша",
+                "Emmara, Soul of the Accord",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Токарев Саша",
+                "Циулин Ваня",
+                "Grist, the Hunger Tide",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Смирнов Саша",
+                "Сухов Никитка",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дьяченко Андрей",
+                "Арушанян Тигран",
+                "Dihada, Binder of Wills",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Ильин Александр",
+                "Ertai Resurrected",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васильев Виталий",
+                "Кащихин Игорь",
+                "Grist, the Hunger Tide",
+                "Arahbo, Roar of the World",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Костин Андрей",
+                "Мещеряков Макс",
+                "Imskir Iron-Eater",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Фролов Евгений",
+                "Вахитов Ривкат",
+                "Arahbo, Roar of the World",
+                "Kari Zev, Skyship Raider",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Палачев Макс",
+                "Фридман Сергей",
+                "Slimefoot and Squee",
+                "Muxus, Goblin Grandee",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/38877"
+}
