@@ -1,0 +1,19 @@
+location::Samara
+level::Regular
+date::2025_05_04
+organizer::Myakabuka
+players::generals
+Курмакаев Игорь :: Shorikai, Genesis Engine
+Матюнин Антон :: Muxus, Goblin Grandee
+Сибикин Антон :: Shorikai, Genesis Engine
+Тимохин Денис :: Lonis, Cryptozoologist
+Кормаков Александр :: Roon of the Hidden Realm
+Козлов Максим :: Grist, the Hunger Tide
+Иванов Никита :: Dihada, Binder of Wills
+Евсеев Андрей :: Geist of Saint Traft
+Ануханов Рамазан :: Basim Ibn Ishaq · Assassin's Creed
+Стрельцов Артём :: Lonis, Cryptozoologist
+Васильев Кирилл :: Dihada, Binder of Wills
+Ревин Владимир :: Elenda, the Dusk Rose
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/41703

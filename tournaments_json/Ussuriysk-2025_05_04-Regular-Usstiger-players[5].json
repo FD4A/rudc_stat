@@ -1,0 +1,98 @@
+{
+    "date": "2025_05_04",
+    "location": "Ussuriysk",
+    "level": "Regular",
+    "organizer": "Usstiger",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Матвей Б",
+            "Leovold, Emissary of Trest"
+        ],
+        [
+            "Алексей Ж",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Михаил \t3",
+            "Urza, Lord Protector"
+        ],
+        [
+            "Кирилл С",
+            "Samut, the Driving Force"
+        ],
+        [
+            "Вячеслав Ш",
+            "Hashaton, Scarab's Fist"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Вячеслав Ш",
+                "Кирилл С",
+                "Hashaton, Scarab's Fist",
+                "Samut, the Driving Force",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Михаил",
+                "Grist, the Hunger Tide",
+                "unknown",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Кирилл С",
+                "Алексей Ж",
+                "Samut, the Driving Force",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Матвей Б",
+                "Михаил",
+                "Leovold, Emissary of Trest",
+                "unknown",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Матвей Б",
+                "Кирилл С",
+                "Leovold, Emissary of Trest",
+                "Samut, the Driving Force",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Алексей Ж",
+                "Вячеслав Ш",
+                "Grist, the Hunger Tide",
+                "Hashaton, Scarab's Fist",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/42502"
+}

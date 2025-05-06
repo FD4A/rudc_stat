@@ -1,0 +1,12 @@
+location::Ussuriysk
+level::Regular
+date::2025_05_04
+organizer::Usstiger
+players::generals
+Матвей Б :: Leovold, Emissary of Trest
+Алексей Ж :: Grist, the Hunger Tide
+Михаил 	3 :: Urza, Lord Protector
+Кирилл С :: Samut, the Driving Force
+Вячеслав Ш :: Hashaton, Scarab's Fist
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/42502

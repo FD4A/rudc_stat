@@ -1,0 +1,308 @@
+{
+    "date": "2025_05_04",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Курмакаев Игорь",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Сибикин Антон",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Тимохин Денис",
+            "Lonis, Cryptozoologist"
+        ],
+        [
+            "Кормаков Александр",
+            "Roon of the Hidden Realm"
+        ],
+        [
+            "Козлов Максим",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Иванов Никита",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Евсеев Андрей",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Ануханов Рамазан",
+            "Basim Ibn Ishaq"
+        ],
+        [
+            "Стрельцов Артём",
+            "Lonis, Cryptozoologist"
+        ],
+        [
+            "Васильев Кирилл",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Ревин Владимир",
+            "Elenda, the Dusk Rose"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Матюнин Антон",
+                "Стрельцов Артём",
+                "Muxus, Goblin Grandee",
+                "Lonis, Cryptozoologist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Евсеев Андрей",
+                "Dihada, Binder of Wills",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Ануханов Рамазан",
+                "Grist, the Hunger Tide",
+                "Basim Ibn Ishaq",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Иванов Никита",
+                "Shorikai, Genesis Engine",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Кормаков Александр",
+                "Elenda, the Dusk Rose",
+                "Roon of the Hidden Realm",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Тимохин Денис",
+                "Shorikai, Genesis Engine",
+                "Lonis, Cryptozoologist",
+                [
+                    0,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Козлов Максим",
+                "Евсеев Андрей",
+                "Grist, the Hunger Tide",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Сибикин Антон",
+                "Muxus, Goblin Grandee",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Курмакаев Игорь",
+                "Elenda, the Dusk Rose",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кормаков Александр",
+                "Тимохин Денис",
+                "Roon of the Hidden Realm",
+                "Lonis, Cryptozoologist",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Ануханов Рамазан",
+                "Dihada, Binder of Wills",
+                "Basim Ibn Ishaq",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Стрельцов Артём",
+                "Иванов Никита",
+                "Lonis, Cryptozoologist",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Козлов Максим",
+                "Матюнин Антон",
+                "Grist, the Hunger Tide",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Ануханов Рамазан",
+                "Shorikai, Genesis Engine",
+                "Basim Ibn Ishaq",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Иванов Никита",
+                "Lonis, Cryptozoologist",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Евсеев Андрей",
+                "Shorikai, Genesis Engine",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кормаков Александр",
+                "Васильев Кирилл",
+                "Roon of the Hidden Realm",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Стрельцов Артём",
+                "Elenda, the Dusk Rose",
+                "Lonis, Cryptozoologist",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Матюнин Антон",
+                "Курмакаев Игорь",
+                "Muxus, Goblin Grandee",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Козлов Максим",
+                "Shorikai, Genesis Engine",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Кормаков Александр",
+                "Dihada, Binder of Wills",
+                "Roon of the Hidden Realm",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Стрельцов Артём",
+                "Lonis, Cryptozoologist",
+                "Lonis, Cryptozoologist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ануханов Рамазан",
+                "Евсеев Андрей",
+                "Basim Ibn Ishaq",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Васильев Кирилл",
+                "Elenda, the Dusk Rose",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/41703"
+}
