@@ -1,0 +1,562 @@
+{
+    "date": "2025_05_15",
+    "location": "RostovOnDon",
+    "level": "Open",
+    "organizer": "Constantin",
+    "roundsCount": 8,
+    "players": [
+        [
+            "Smirnov Alexander",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Burmistrov Pavel",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Kovalev Alexander",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Antipin Constantin",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Posidaylo Artem",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Davidov Alexander",
+            "Magda, Brazen Outlaw"
+        ],
+        [
+            "Shubenin Ilya",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Merkulov Vladislav",
+            "Zabaz, the Glimmerwasp"
+        ],
+        [
+            "Cherepovskiy Roman",
+            "Alesha, Who Laughs at Fate"
+        ],
+        [
+            "Avoid-Fateev Pavel",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Arushanyan Tigran",
+            "Ertai Resurrected"
+        ],
+        [
+            "Zinkovsky Sergey",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Oreshkin Dmitriy",
+            "Malcolm, the Eyes"
+        ],
+        [
+            "Somkin Constantin",
+            "Elminster"
+        ],
+        [
+            "Vasiliy Mishin",
+            "Ertai Resurrected"
+        ],
+        [
+            "Lukaynov Vadim",
+            "Octavia, Living Thesis"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Burmistrov Pavel",
+                "Antipin Constantin",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Davidov Alexander",
+                "Kovalev Alexander",
+                "Magda, Brazen Outlaw",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Merkulov Vladislav",
+                "Lukaynov Vadim",
+                "Zabaz, the Glimmerwasp",
+                "Octavia, Living Thesis",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Zinkovsky Sergey",
+                "Posidaylo Artem",
+                "Tivit, Seller of Secrets",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Oreshkin Dmitriy",
+                "Shubenin Ilya",
+                "Malcolm, the Eyes",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Avoid-Fateev Pavel",
+                "Vasiliy Mishin",
+                "Light-Paws, Emperor's Voice",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Smirnov Alexander",
+                "Elminster",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Arushanyan Tigran",
+                "Alesha, Who Laughs at Fate",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Merkulov Vladislav",
+                "Smirnov Alexander",
+                "Zabaz, the Glimmerwasp",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Oreshkin Dmitriy",
+                "Kovalev Alexander",
+                "Malcolm, the Eyes",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Posidaylo Artem",
+                "Avoid-Fateev Pavel",
+                "Phelia, Exuberant Shepherd",
+                "Light-Paws, Emperor's Voice",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Antipin Constantin",
+                "Alesha, Who Laughs at Fate",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Zinkovsky Sergey",
+                "Shubenin Ilya",
+                "Tivit, Seller of Secrets",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Burmistrov Pavel",
+                "Vasiliy Mishin",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Davidov Alexander",
+                "Arushanyan Tigran",
+                "Magda, Brazen Outlaw",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Lukaynov Vadim",
+                "Elminster",
+                "Octavia, Living Thesis",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Kovalev Alexander",
+                "Antipin Constantin",
+                "Feldon, Ronom Excavator",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Smirnov Alexander",
+                "Avoid-Fateev Pavel",
+                "Tivit, Seller of Secrets",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Burmistrov Pavel",
+                "Octavia, Living Thesis",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Merkulov Vladislav",
+                "Alesha, Who Laughs at Fate",
+                "Zabaz, the Glimmerwasp",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Zinkovsky Sergey",
+                "Arushanyan Tigran",
+                "Tivit, Seller of Secrets",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Posidaylo Artem",
+                "Oreshkin Dmitriy",
+                "Phelia, Exuberant Shepherd",
+                "Malcolm, the Eyes",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Shubenin Ilya",
+                "Vasiliy Mishin",
+                "Malcolm, Alluring Scoundrel",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Davidov Alexander",
+                "Somkin Constantin",
+                "Magda, Brazen Outlaw",
+                "Elminster",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Smirnov Alexander",
+                "Kovalev Alexander",
+                "Tivit, Seller of Secrets",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Arushanyan Tigran",
+                "Antipin Constantin",
+                "Ertai Resurrected",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Burmistrov Pavel",
+                "Avoid-Fateev Pavel",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Posidaylo Artem",
+                "Merkulov Vladislav",
+                "Phelia, Exuberant Shepherd",
+                "Zabaz, the Glimmerwasp",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Shubenin Ilya",
+                "Alesha, Who Laughs at Fate",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Davidov Alexander",
+                "Oreshkin Dmitriy",
+                "Magda, Brazen Outlaw",
+                "Malcolm, the Eyes",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Zinkovsky Sergey",
+                "Octavia, Living Thesis",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Vasiliy Mishin",
+                "Somkin Constantin",
+                "Ertai Resurrected",
+                "Elminster",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Kovalev Alexander",
+                "Posidaylo Artem",
+                "Feldon, Ronom Excavator",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Smirnov Alexander",
+                "Antipin Constantin",
+                "Tivit, Seller of Secrets",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Burmistrov Pavel",
+                "Arushanyan Tigran",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Shubenin Ilya",
+                "Avoid-Fateev Pavel",
+                "Malcolm, Alluring Scoundrel",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Zinkovsky Sergey",
+                "Davidov Alexander",
+                "Tivit, Seller of Secrets",
+                "Magda, Brazen Outlaw",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Merkulov Vladislav",
+                "Oreshkin Dmitriy",
+                "Zabaz, the Glimmerwasp",
+                "Malcolm, the Eyes",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Somkin Constantin",
+                "Alesha, Who Laughs at Fate",
+                "Elminster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Vasiliy Mishin",
+                "Octavia, Living Thesis",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Kovalev Alexander",
+                "Shubenin Ilya",
+                "Feldon, Ronom Excavator",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Burmistrov Pavel",
+                "Merkulov Vladislav",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Zabaz, the Glimmerwasp",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Davidov Alexander",
+                "Smirnov Alexander",
+                "Magda, Brazen Outlaw",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Antipin Constantin",
+                "Posidaylo Artem",
+                "Feldon, Ronom Excavator",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Antipin Constantin",
+                "Burmistrov Pavel",
+                "Feldon, Ronom Excavator",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Kovalev Alexander",
+                "Smirnov Alexander",
+                "Feldon, Ronom Excavator",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Burmistrov Pavel",
+                "Smirnov Alexander",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/55482"
+}

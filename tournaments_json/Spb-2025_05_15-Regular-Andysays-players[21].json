@@ -1,0 +1,504 @@
+{
+    "date": "2025_05_15",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Таловер Артем",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Протасов Михаил",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Шестаков Игорь",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Барабаш Валентин",
+            "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker"
+        ],
+        [
+            "Булочко Михаил",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Олифер Егор",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Саушкин Андрей",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Богданов Сергей",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Артемьев Александр",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Муравьев Никита",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Егоров Павел",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Фиткулин Антон",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Жовтобрюх Роман",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Вахитов Ривкат",
+            "The Ur-Dragon"
+        ],
+        [
+            "Лагерев Леонид",
+            "Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Федоров Дмитрий",
+                "Протасов Михаил",
+                "Kroxa, Titan of Death's Hunger",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Шестаков Игорь",
+                "Aminatou, the Fateshifter",
+                "Deadpool, Trading Card",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Фиткулин Антон",
+                "Вахитов Ривкат",
+                "Feldon, Ronom Excavator",
+                "The Ur-Dragon",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Егоров Павел",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Жовтобрюх Роман",
+                "Таловер Артем",
+                "Slimefoot and Squee",
+                "Deadpool, Trading Card",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Барабаш Валентин",
+                "Tivit, Seller of Secrets",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Артемьев Александр",
+                "Ghyrson Starn, Kelermorph",
+                "Ral, Monsoon Mage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Поляков Герман",
+                "Shorikai, Genesis Engine",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Тяпайкин Максим",
+                "Tivit, Seller of Secrets",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Муравьев Никита",
+                "Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Фиткулин Антон",
+                "Таловер Артем",
+                "Feldon, Ronom Excavator",
+                "Deadpool, Trading Card",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Протасов Михаил",
+                "Ghyrson Starn, Kelermorph",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Ульянов Алексей",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Муравьев Никита",
+                "Tivit, Seller of Secrets",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Шестаков Игорь",
+                "Shorikai, Genesis Engine",
+                "Deadpool, Trading Card",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Егоров Павел",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артемьев Александр",
+                "Мартынов Яков",
+                "Ral, Monsoon Mage",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Богданов Сергей",
+                "Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper",
+                "Aminatou, the Fateshifter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Тяпайкин Максим",
+                "Teferi, Temporal Archmage",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Жовтобрюх Роман",
+                "Вахитов Ривкат",
+                "Slimefoot and Squee",
+                "The Ur-Dragon",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Саушкин Андрей",
+                "Шестаков Игорь",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Deadpool, Trading Card",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Протасов Михаил",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Булочко Михаил",
+                "Deadpool, Trading Card",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Тяпайкин Максим",
+                "Ghyrson Starn, Kelermorph",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Жовтобрюх Роман",
+                "Федоров Дмитрий",
+                "Slimefoot and Squee",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Ульянов Алексей",
+                "Shorikai, Genesis Engine",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Фиткулин Антон",
+                "Мартынов Яков",
+                "Feldon, Ronom Excavator",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Богданов Сергей",
+                "Phelia, Exuberant Shepherd",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Поляков Герман",
+                "Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Артемьев Александр",
+                "Вахитов Ривкат",
+                "Ral, Monsoon Mage",
+                "The Ur-Dragon",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Протасов Михаил",
+                "Таловер Артем",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Deadpool, Trading Card",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Родюков Федор",
+                "Deadpool, Trading Card",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Саушкин Андрей",
+                "Shorikai, Genesis Engine",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Барабаш Валентин",
+                "Kroxa, Titan of Death's Hunger",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Мартынов Яков",
+                "Tivit, Seller of Secrets",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Ульянов Алексей",
+                "Aminatou, the Fateshifter",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Жовтобрюх Роман",
+                "Поляков Герман",
+                "Slimefoot and Squee",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Артемьев Александр",
+                "Егоров Павел",
+                "Ral, Monsoon Mage",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Фиткулин Антон",
+                "Phelia, Exuberant Shepherd",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Вахитов Ривкат",
+                "Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper",
+                "The Ur-Dragon",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/57167"
+}

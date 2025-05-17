@@ -1,0 +1,15 @@
+location::Tomsk
+level::Regular
+date::2025_05_07
+organizer::d6tomsk
+players::generals
+Иванов Алексей :: Phelia, Exuberant Shepherd
+Pospelov Alexander :: Winter, Cursed Rider
+Писарев Никита :: Shorikai, Genesis Engine
+Владимиров Егор :: Gut, True Soul Zealot :+: Folk Hero
+Демидов Виталий :: Sarulf, Realm Eater
+Кузнецов Северин :: Kykar, Wind's Fury
+Торицын Олег :: Gut, True Soul Zealot :+: Agent of the Iron Throne
+Чураков Павел :: Ertai Resurrected
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/54115

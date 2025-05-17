@@ -1,0 +1,240 @@
+{
+    "date": "2025_05_14",
+    "location": "Tomsk",
+    "level": "Regular",
+    "organizer": "d6tomsk",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Иванов Алексей",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Владимиров Егор",
+            "Ertai Resurrected"
+        ],
+        [
+            "Демидов Виталий",
+            "The Gitrog Monster"
+        ],
+        [
+            "Богданов Влад",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Pospelov Alexander",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Торицын Олег",
+            "Emmara, Soul of the Accord"
+        ],
+        [
+            "Чураков Павел",
+            "The Fourth Doctor"
+        ],
+        [
+            "Писарев Никита",
+            "Hidetsugu and Kairi"
+        ],
+        [
+            "Купцевич Ярослав",
+            "Zahur, Glory's Past"
+        ],
+        [
+            "Кузнецов Северин",
+            "Kykar, Wind's Fury"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Купцевич Ярослав",
+                "Богданов Влад",
+                "Zahur, Glory's Past",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Торицын Олег",
+                "Kykar, Wind's Fury",
+                "Emmara, Soul of the Accord",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Алексей",
+                "Демидов Виталий",
+                "Phelia, Exuberant Shepherd",
+                "The Gitrog Monster",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Писарев Никита",
+                "Pospelov Alexander",
+                "Hidetsugu and Kairi",
+                "Ral, Monsoon Mage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Владимиров Егор",
+                "Чураков Павел",
+                "Ertai Resurrected",
+                "The Fourth Doctor",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Богданов Влад",
+                "Иванов Алексей",
+                "Feldon, Ronom Excavator",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Pospelov Alexander",
+                "Владимиров Егор",
+                "Ral, Monsoon Mage",
+                "Ertai Resurrected",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Купцевич Ярослав",
+                "Kykar, Wind's Fury",
+                "Zahur, Glory's Past",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Писарев Никита",
+                "Демидов Виталий",
+                "Hidetsugu and Kairi",
+                "The Gitrog Monster",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Торицын Олег",
+                "The Fourth Doctor",
+                "Emmara, Soul of the Accord",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Алексей",
+                "Владимиров Егор",
+                "Phelia, Exuberant Shepherd",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богданов Влад",
+                "Кузнецов Северин",
+                "Feldon, Ronom Excavator",
+                "Kykar, Wind's Fury",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Торицын Олег",
+                "Купцевич Ярослав",
+                "Emmara, Soul of the Accord",
+                "Zahur, Glory's Past",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Pospelov Alexander",
+                "The Gitrog Monster",
+                "Ral, Monsoon Mage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Писарев Никита",
+                "Чураков Павел",
+                "Hidetsugu and Kairi",
+                "The Fourth Doctor",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Алексей",
+                "Торицын Олег",
+                "Phelia, Exuberant Shepherd",
+                "Emmara, Soul of the Accord",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Владимиров Егор",
+                "Демидов Виталий",
+                "Ertai Resurrected",
+                "The Gitrog Monster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богданов Влад",
+                "Pospelov Alexander",
+                "Feldon, Ronom Excavator",
+                "Ral, Monsoon Mage",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/57142"
+}

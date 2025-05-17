@@ -1,0 +1,132 @@
+{
+    "date": "2025_05_09",
+    "location": "Ussuriysk",
+    "level": "Regular",
+    "organizer": "Usstiger",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Олег Р",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Кирилл С",
+            "Malcolm, the Eyes"
+        ],
+        [
+            "Вячеслав Ш",
+            "Hashaton, Scarab's Fist"
+        ],
+        [
+            "Матвей Б",
+            "Leovold, Emissary of Trest"
+        ],
+        [
+            "Алексей Ж",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Михаил С",
+            "Urza, Lord Protector"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Кирилл С",
+                "Вячеслав Ш",
+                "Malcolm, the Eyes",
+                "Hashaton, Scarab's Fist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Михаил С",
+                "Олег Р",
+                "Urza, Lord Protector",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Матвей Б",
+                "Алексей Ж",
+                "Leovold, Emissary of Trest",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Кирилл С",
+                "Алексей Ж",
+                "Malcolm, the Eyes",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Олег Р",
+                "Матвей Б",
+                "Aragorn, King of Gondor",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Михаил С",
+                "Hashaton, Scarab's Fist",
+                "Urza, Lord Protector",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Кирилл С",
+                "Олег Р",
+                "Malcolm, the Eyes",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Ш",
+                "Алексей Ж",
+                "Hashaton, Scarab's Fist",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Матвей Б",
+                "Михаил С",
+                "Leovold, Emissary of Trest",
+                "Urza, Lord Protector",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/55565"
+}

@@ -1,0 +1,13 @@
+location::Volgograd
+level::Regular
+date::2025_05_08
+organizer::Rombik34rus
+players::generals
+Вячеслав Серпутько :: Selvala, Explorer Returned
+Дмитрий Орешкин :: Hidetsugu and Kairi
+Виталий Васильев :: Gitrog Monster
+Александр Смирнов :: Slimefoot and Squee
+Владимир Воровальницев :: Feldon, Ronom Excavator
+Андрей Губин :: Ezio Auditore da Firenze
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/54561

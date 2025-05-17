@@ -1,0 +1,38 @@
+location::Spb
+level::Regular
+date::2025_05_08
+organizer::Andysays
+players::generals
+Протасов Михаил :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Семенов Дмитрий :: Juri, Master of the Revue
+Мартынов Яков :: Tivit, Seller of Secrets
+Тяпайкин Максим :: Geist of Saint Traft
+Жевтобрюх Роман :: Slimefoot and Squee
+Звягин Георгий :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Филинков Яков :: Aragorn, King of Gondor
+Таловер Артем :: Deadpool, Trading Card
+Вахитов Ривкат :: The Ur-Dragon
+Цюра Максим :: Tivit, Seller of Secrets
+Олифер Егор :: Tymna the Weaver :+: Ludevic, Necro-Alchemist
+Брук Роман :: Urabrask
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Булатов Дмитрий :: Golos, Tireless Pilgrim
+Булочко Михаил :: Tivit, Seller of Secrets
+Муравьев Роман :: Dihada, Binder of Wills
+Ульянов Алексей :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Саушкин Андрей :: Aragorn, King of Gondor
+Бажанов Михаил :: Kari Zev, Skyship Raider
+Красников Александр :: Hidetsugu e Kairi
+Кеворков Артур :: Kotis, the Fangkeeper
+Грабовой Филипп :: Glarb, Calamity's Augur
+Федоров Дмитрий :: Kroxa, Titan of Death's Hunger
+Шестаков Игорь :: Deadpool, Trading Card
+Фукин Дмитрий :: Edric, Spymaster of Trest
+Енот :: Bello, Bard of the Brambles
+Байков Аркадий :: Vial Smasher the Fierce
+Проливатель виски :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Звирбуль Данила :: Kotis, the Fangkeeper
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/54852

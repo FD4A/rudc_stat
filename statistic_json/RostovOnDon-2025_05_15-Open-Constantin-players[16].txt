@@ -1,0 +1,126 @@
+= Alesha, Who Laughs at Fate       matches:5    WM: 40.00%  LM: 40.00%  DM: 20.00% (wm:2   lm:2   dm:1)  games:13   WG: 53.85% LG: 46.15% (wg:   7 lg:   6) pick: 1    RostovOnDon(1), 
+       vs Ertai Resurrected                (w:1 l:0 d:0), (2/1)
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (1/2)
+       vs Zabaz, the Glimmerwasp           (w:0 l:0 d:1), (1/1)
+       vs Malcolm, Alluring Scoundrel      (w:0 l:1 d:0), (1/2)
+       vs Elminster                        (w:1 l:0 d:0), (2/0)
+
+
+= Elminster                        matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:1   lm:4   dm:0)  games:10   WG: 30.00% LG: 70.00% (wg:   3 lg:   7) pick: 1    RostovOnDon(1), 
+       vs Tivit, Seller of Secrets         (w:0 l:1 d:0), (1/2)
+       vs Octavia, Living Thesis           (w:0 l:1 d:0), (0/1)
+       vs Magda, Brazen Outlaw             (w:0 l:1 d:0), (0/2)
+       vs Ertai Resurrected                (w:1 l:0 d:0), (2/0)
+       vs Alesha, Who Laughs at Fate       (w:0 l:1 d:0), (0/2)
+
+
+= Ertai Resurrected                matches:10   WM: 30.00%  LM: 70.00%  DM:  0.00% (wm:3   lm:7   dm:0)  games:22   WG: 31.82% LG: 68.18% (wg:   7 lg:  15) pick: 2    RostovOnDon(2), 
+       vs Light-Paws, Emperor's Voice      (w:0 l:1 d:0), (0/2)
+       vs Alesha, Who Laughs at Fate       (w:0 l:1 d:0), (1/2)
+       vs Rograkh, Son of Rohgahh          (w:0 l:2 d:0), (0/4)
+        + Silas Renn, Seeker Adept        
+       vs Magda, Brazen Outlaw             (w:1 l:0 d:0), (2/1)
+       vs Tivit, Seller of Secrets         (w:1 l:0 d:0), (2/0)
+       vs Malcolm, Alluring Scoundrel      (w:0 l:1 d:0), (0/2)
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (0/2)
+       vs Elminster                        (w:0 l:1 d:0), (0/2)
+       vs Octavia, Living Thesis           (w:1 l:0 d:0), (2/0)
+
+
+= Feldon, Ronom Excavator          matches:12   WM: 58.33%  LM: 16.67%  DM: 25.00% (wm:7   lm:2   dm:3)  games:26   WG: 57.69% LG: 30.77% (wg:  15 lg:   8) pick: 2    RostovOnDon(2), 
+       vs Rograkh, Son of Rohgahh          (w:1 l:1 d:0), (3/3)
+        + Silas Renn, Seeker Adept        
+       vs Magda, Brazen Outlaw             (w:1 l:0 d:0), (2/0)
+       vs Malcolm, the Eyes                (w:1 l:0 d:0), (2/1)
+       vs Alesha, Who Laughs at Fate       (w:1 l:0 d:0), (2/1)
+       vs Tivit, Seller of Secrets         (w:0 l:1 d:2), (0/2)
+       vs Ertai Resurrected                (w:1 l:0 d:0), (2/0)
+       vs Phelia, Exuberant Shepherd       (w:1 l:0 d:1), (2/1)
+       vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/0)
+
+
+= Light-Paws, Emperor's Voice      matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:12   WG: 50.00% LG: 50.00% (wg:   6 lg:   6) pick: 1    RostovOnDon(1), 
+       vs Ertai Resurrected                (w:1 l:0 d:0), (2/0)
+       vs Phelia, Exuberant Shepherd       (w:1 l:0 d:0), (2/0)
+       vs Tivit, Seller of Secrets         (w:0 l:1 d:0), (1/2)
+       vs Rograkh, Son of Rohgahh          (w:0 l:1 d:0), (1/2)
+        + Silas Renn, Seeker Adept        
+       vs Malcolm, Alluring Scoundrel      (w:0 l:1 d:0), (0/2)
+
+
+= Magda, Brazen Outlaw             matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:14   WG: 50.00% LG: 50.00% (wg:   7 lg:   7) pick: 1    RostovOnDon(1), 
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (0/2)
+       vs Ertai Resurrected                (w:0 l:1 d:0), (1/2)
+       vs Elminster                        (w:1 l:0 d:0), (2/0)
+       vs Malcolm, the Eyes                (w:1 l:0 d:0), (2/1)
+       vs Tivit, Seller of Secrets         (w:1 l:1 d:0), (2/2)
+
+
+= Malcolm, Alluring Scoundrel      matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:13   WG: 46.15% LG: 53.85% (wg:   6 lg:   7) pick: 1    RostovOnDon(1), 
+       vs Malcolm, the Eyes                (w:0 l:1 d:0), (0/2)
+       vs Tivit, Seller of Secrets         (w:0 l:1 d:0), (0/2)
+       vs Ertai Resurrected                (w:1 l:0 d:0), (2/0)
+       vs Alesha, Who Laughs at Fate       (w:1 l:0 d:0), (2/1)
+       vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/0)
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (0/2)
+
+
+= Malcolm, the Eyes                matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:1   lm:4   dm:0)  games:12   WG: 33.33% LG: 66.67% (wg:   4 lg:   8) pick: 1    RostovOnDon(1), 
+       vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/0)
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:0), (1/2)
+       vs Phelia, Exuberant Shepherd       (w:0 l:1 d:0), (0/2)
+       vs Magda, Brazen Outlaw             (w:0 l:1 d:0), (1/2)
+       vs Zabaz, the Glimmerwasp           (w:0 l:1 d:0), (0/2)
+
+
+= Octavia, Living Thesis           matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:1   lm:4   dm:0)  games:10   WG: 20.00% LG: 80.00% (wg:   2 lg:   8) pick: 1    RostovOnDon(1), 
+       vs Zabaz, the Glimmerwasp           (w:0 l:1 d:0), (1/2)
+       vs Elminster                        (w:1 l:0 d:0), (1/0)
+       vs Rograkh, Son of Rohgahh          (w:0 l:1 d:0), (0/2)
+        + Silas Renn, Seeker Adept        
+       vs Tivit, Seller of Secrets         (w:0 l:1 d:0), (0/2)
+       vs Ertai Resurrected                (w:0 l:1 d:0), (0/2)
+
+
+= Phelia, Exuberant Shepherd       matches:6    WM: 50.00%  LM: 33.33%  DM: 16.67% (wm:3   lm:2   dm:1)  games:13   WG: 53.85% LG: 38.46% (wg:   7 lg:   5) pick: 1    RostovOnDon(1), 
+       vs Tivit, Seller of Secrets         (w:1 l:0 d:0), (2/1)
+       vs Light-Paws, Emperor's Voice      (w:0 l:1 d:0), (0/2)
+       vs Malcolm, the Eyes                (w:1 l:0 d:0), (2/0)
+       vs Zabaz, the Glimmerwasp           (w:1 l:0 d:0), (2/0)
+       vs Feldon, Ronom Excavator          (w:0 l:1 d:1), (1/2)
+
+
+= Rograkh, Son of Rohgahh          matches:8    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:6   lm:2   dm:0)  games:20   WG: 70.00% LG: 30.00% (wg:  14 lg:   6) pick: 1    RostovOnDon(1), 
+  + Silas Renn, Seeker Adept    
+       vs Feldon, Ronom Excavator          (w:1 l:1 d:0), (3/3)
+       vs Ertai Resurrected                (w:2 l:0 d:0), (4/0)
+       vs Octavia, Living Thesis           (w:1 l:0 d:0), (2/0)
+       vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/1)
+       vs Zabaz, the Glimmerwasp           (w:1 l:0 d:0), (2/0)
+       vs Tivit, Seller of Secrets         (w:0 l:1 d:0), (1/2)
+
+
+= Tivit, Seller of Secrets         matches:13   WM: 61.54%  LM: 23.08%  DM: 15.38% (wm:8   lm:3   dm:2)  games:28   WG: 60.71% LG: 32.14% (wg:  17 lg:   9) pick: 2    RostovOnDon(2), 
+       vs Phelia, Exuberant Shepherd       (w:0 l:1 d:0), (1/2)
+       vs Elminster                        (w:1 l:0 d:0), (2/1)
+       vs Zabaz, the Glimmerwasp           (w:1 l:0 d:0), (2/0)
+       vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/0)
+       vs Light-Paws, Emperor's Voice      (w:1 l:0 d:0), (2/1)
+       vs Ertai Resurrected                (w:0 l:1 d:0), (0/2)
+       vs Feldon, Ronom Excavator          (w:1 l:0 d:2), (2/0)
+       vs Octavia, Living Thesis           (w:1 l:0 d:0), (2/0)
+       vs Magda, Brazen Outlaw             (w:1 l:1 d:0), (2/2)
+       vs Rograkh, Son of Rohgahh          (w:1 l:0 d:0), (2/1)
+        + Silas Renn, Seeker Adept        
+
+
+= Zabaz, the Glimmerwasp           matches:6    WM: 33.33%  LM: 50.00%  DM: 16.67% (wm:2   lm:3   dm:1)  games:13   WG: 38.46% LG: 61.54% (wg:   5 lg:   8) pick: 1    RostovOnDon(1), 
+       vs Octavia, Living Thesis           (w:1 l:0 d:0), (2/1)
+       vs Tivit, Seller of Secrets         (w:0 l:1 d:0), (0/2)
+       vs Alesha, Who Laughs at Fate       (w:0 l:0 d:1), (1/1)
+       vs Phelia, Exuberant Shepherd       (w:0 l:1 d:0), (0/2)
+       vs Malcolm, the Eyes                (w:1 l:0 d:0), (2/0)
+       vs Rograkh, Son of Rohgahh          (w:0 l:1 d:0), (0/2)
+        + Silas Renn, Seeker Adept        
+
+

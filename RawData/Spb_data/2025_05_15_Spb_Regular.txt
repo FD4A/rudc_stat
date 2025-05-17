@@ -1,0 +1,28 @@
+location::Spb
+level::Regular
+date::2025_05_15
+organizer::Andysays
+players::generals
+Таловер Артем :: Deadpool, Trading Card
+Протасов Михаил :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Шестаков Игорь :: Deadpool, Trading Card
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Барабаш Валентин :: Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker
+Булочко Михаил :: Tivit, Seller of Secrets
+Мартынов Яков :: Tivit, Seller of Secrets
+Олифер Егор :: Shorikai, Genesis Engine
+Саушкин Андрей :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Богданов Сергей :: Aminatou, the Fateshifter
+Федоров Дмитрий :: Kroxa, Titan of Death's Hunger
+Артемьев Александр :: Ral, Monsoon Mage
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Поляков Герман :: Teferi, Temporal Archmage
+Егоров Павел :: Phelia, Exuberant Shepherd
+Тяпайкин Максим :: Geist of Saint Traft
+Фиткулин Антон :: Feldon, Ronom Excavator
+Жовтобрюх Роман :: Slimefoot and Squee
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Вахитов Ривкат :: The Ur-Dragon
+Лагерев Леонид :: Kraum, Ludevic's Opus :+: Ikra Shidiqi, the Usurper
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/57167

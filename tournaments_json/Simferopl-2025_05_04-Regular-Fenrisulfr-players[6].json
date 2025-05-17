@@ -1,0 +1,132 @@
+{
+    "date": "2025_05_04",
+    "location": "Simferopl",
+    "level": "Regular",
+    "organizer": "Fenrisulfr",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Сергей Кочегаров",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Сейдамет Билялов",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Виталий Чайкин",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Илья Чернышов",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Владимир Данилов",
+            "Aragorn, the Uniter"
+        ],
+        [
+            "Нина Фенрис",
+            "Light-Paws, Emperor's Voice"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Нина Фенрис",
+                "Сейдамет Билялов",
+                "Light-Paws, Emperor's Voice",
+                "Ketramose, the New Dawn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сергей Кочегаров",
+                "Илья Чернышов",
+                "Feldon, Ronom Excavator",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Владимир Данилов",
+                "Виталий Чайкин",
+                "Aragorn, the Uniter",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Сейдамет Билялов",
+                "Сергей Кочегаров",
+                "Ketramose, the New Dawn",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Виталий Чайкин",
+                "Нина Фенрис",
+                "Dihada, Binder of Wills",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Владимир Данилов",
+                "Илья Чернышов",
+                "Aragorn, the Uniter",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Сергей Кочегаров",
+                "Виталий Чайкин",
+                "Feldon, Ronom Excavator",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сейдамет Билялов",
+                "Владимир Данилов",
+                "Ketramose, the New Dawn",
+                "Aragorn, the Uniter",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Илья Чернышов",
+                "Нина Фенрис",
+                "Ghyrson Starn, Kelermorph",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/41885"
+}

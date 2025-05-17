@@ -1,0 +1,1172 @@
+{
+    "date": "2025_04_09",
+    "location": "Online",
+    "level": "Regular",
+    "organizer": "AlexSmirnov",
+    "roundsCount": 6,
+    "players": [
+        [
+            "Олифер Егор",
+            "Ludevic, Necrogenius :+: Tymna the Weaver"
+        ],
+        [
+            "Токарев Александр",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Яйлоян Евгений",
+            "Glarb, Calamity's Augur"
+        ],
+        [
+            "Орешкин Дмитрий",
+            "Edric, Spymaster of Trest"
+        ],
+        [
+            "Костин Андрей",
+            "Plagon, Lord of the Beach"
+        ],
+        [
+            "Лисин Дмитрий",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Бурмистров Павел",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Циулин Иван",
+            "Tymna the Weaver :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Ревин Владимир",
+            "Elenda, Saint of Dusk"
+        ],
+        [
+            "Барабаш Валентин",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Долганов Матвей",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Антипин Костя",
+            "Plagon, Lord of the Beach"
+        ],
+        [
+            "Мещеряков Максим",
+            "Thrasios, Triton Hero :+: Tymna the Weaver"
+        ],
+        [
+            "Стрельцов Артем",
+            "Thrasios, Triton Hero :+: Ardenn, Intrepid Archaeologist"
+        ],
+        [
+            "Богданов Сергей",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Краснов Илья",
+            "Ertai Resurrected"
+        ],
+        [
+            "Поспелов Александр",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Васильев Илья",
+            "Eshki Dragonclaw"
+        ],
+        [
+            "Сайфутдинов Тимур",
+            "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Матюнин Антон",
+            "Inti, Seneschal of the Sun"
+        ],
+        [
+            "Захаренко Вячеслав",
+            "Skullbriar, the Walking Grave"
+        ],
+        [
+            "Сомкин Константин",
+            "Kotis, Sibsig Champion"
+        ],
+        [
+            "Редько Павел",
+            "Arabella, Abandoned Doll"
+        ],
+        [
+            "Штофов Арсений",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Скляров Филипп",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Воронцов Иван",
+            "Surrak Dragonclaw"
+        ],
+        [
+            "Плотников Александр",
+            "Sai, Master Thopterist"
+        ],
+        [
+            "Павликов Владислав",
+            "Hidetsugu and Kairi"
+        ],
+        [
+            "Сухов Никитка",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Лагерев Леонид",
+            "Wilson, Refined Grizzly :+: Sword Coast Sailor"
+        ],
+        [
+            "Козлов Максим",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Шубенин Илья",
+            "Malcolm, Alluring Scoundrel"
+        ],
+        [
+            "Дартау Сергей",
+            "Sheoldred, the Apocalypse"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Скляров Филипп",
+                "Орешкин Дмитрий",
+                "Aminatou, the Fateshifter",
+                "Edric, Spymaster of Trest",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Курмакаев Игорь",
+                "Kroxa, Titan of Death's Hunger",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Матюнин Антон",
+                "Tymna the Weaver :+: Kraum, Ludevic's Opus",
+                "Inti, Seneschal of the Sun",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Долганов Матвей",
+                "Ertai Resurrected",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Воронцов Иван",
+                "Костин Андрей",
+                "Surrak Dragonclaw",
+                "Plagon, Lord of the Beach",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Захаренко Вячеслав",
+                "Dihada, Binder of Wills",
+                "Skullbriar, the Walking Grave",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Сомкин Константин",
+                "Teferi, Temporal Archmage",
+                "Kotis, Sibsig Champion",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Редько Павел",
+                "Elenda, Saint of Dusk",
+                "Arabella, Abandoned Doll",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Штофов Арсений",
+                "Ezio Auditore da Firenze",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Лагерев Леонид",
+                "Ludevic, Necrogenius :+: Tymna the Weaver",
+                "Wilson, Refined Grizzly :+: Sword Coast Sailor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Плотников Александр",
+                "Лисин Дмитрий",
+                "Sai, Master Thopterist",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Павликов Владислав",
+                "Бурмистров Павел",
+                "Hidetsugu and Kairi",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Антипин Костя",
+                "Ral, Monsoon Mage",
+                "Plagon, Lord of the Beach",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сухов Никитка",
+                "Байков Аркадий",
+                "Azusa, Lost but Seeking",
+                "Vial Smasher the Fierce",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Токарев Александр",
+                "Козлов Максим",
+                "Geist of Saint Traft",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Яйлоян Евгений",
+                "Шубенин Илья",
+                "Glarb, Calamity's Augur",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васильев Илья",
+                "Мещеряков Максим",
+                "Eshki Dragonclaw",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Стрельцов Артем",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Thrasios, Triton Hero :+: Ardenn, Intrepid Archaeologist",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Орешкин Дмитрий",
+                "Долганов Матвей",
+                "Edric, Spymaster of Trest",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Яйлоян Евгений",
+                "Поляков Герман",
+                "Glarb, Calamity's Augur",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Бурмистров Павел",
+                "Олифер Егор",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Ludevic, Necrogenius :+: Tymna the Weaver",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мещеряков Максим",
+                "Барабаш Валентин",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Токарев Александр",
+                "Tymna the Weaver :+: Kraum, Ludevic's Opus",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Костин Андрей",
+                "Антипин Костя",
+                "Plagon, Lord of the Beach",
+                "Plagon, Lord of the Beach",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Ревин Владимир",
+                "Vial Smasher the Fierce",
+                "Elenda, Saint of Dusk",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Стрельцов Артем",
+                "Dihada, Binder of Wills",
+                "Thrasios, Triton Hero :+: Ardenn, Intrepid Archaeologist",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Лисин Дмитрий",
+                "Grist, the Hunger Tide",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Шубенин Илья",
+                "Ertai Resurrected",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сухов Никитка",
+                "Скляров Филипп",
+                "Azusa, Lost but Seeking",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дартау Сергей",
+                "Захаренко Вячеслав",
+                "Sheoldred, the Apocalypse",
+                "Skullbriar, the Walking Grave",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Штофов Арсений",
+                "Сомкин Константин",
+                "Aminatou, the Fateshifter",
+                "Kotis, Sibsig Champion",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Матюнин Антон",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Inti, Seneschal of the Sun",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Богданов Сергей",
+                "Wilson, Refined Grizzly :+: Sword Coast Sailor",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Васильев Илья",
+                "Павликов Владислав",
+                "Eshki Dragonclaw",
+                "Hidetsugu and Kairi",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Плотников Александр",
+                "Поспелов Александр",
+                "Sai, Master Thopterist",
+                "Ral, Monsoon Mage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Козлов Максим",
+                "Arabella, Abandoned Doll",
+                "Arahbo, Roar of the World",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Яйлоян Евгений",
+                "Бурмистров Павел",
+                "Glarb, Calamity's Augur",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лисин Дмитрий",
+                "Антипин Костя",
+                "Phelia, Exuberant Shepherd",
+                "Plagon, Lord of the Beach",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Орешкин Дмитрий",
+                "Elenda, Saint of Dusk",
+                "Edric, Spymaster of Trest",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мещеряков Максим",
+                "Стрельцов Артем",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                "Thrasios, Triton Hero :+: Ardenn, Intrepid Archaeologist",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Токарев Александр",
+                "Сухов Никитка",
+                "Geist of Saint Traft",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Воронцов Иван",
+                "Vial Smasher the Fierce",
+                "Surrak Dragonclaw",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дартау Сергей",
+                "Олифер Егор",
+                "Sheoldred, the Apocalypse",
+                "Ludevic, Necrogenius :+: Tymna the Weaver",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Долганов Матвей",
+                "Костин Андрей",
+                "Geist of Saint Traft",
+                "Plagon, Lord of the Beach",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Сомкин Константин",
+                "Ertai Resurrected",
+                "Kotis, Sibsig Champion",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Циулин Иван",
+                "Grist, the Hunger Tide",
+                "Tymna the Weaver :+: Kraum, Ludevic's Opus",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Муравьев Роман",
+                "Arahbo, Roar of the World",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Павликов Владислав",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Hidetsugu and Kairi",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Плотников Александр",
+                "Kroxa, Titan of Death's Hunger",
+                "Sai, Master Thopterist",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Барабаш Валентин",
+                "Teferi, Temporal Archmage",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Захаренко Вячеслав",
+                "Поспелов Александр",
+                "Skullbriar, the Walking Grave",
+                "Ral, Monsoon Mage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васильев Илья",
+                "Матюнин Антон",
+                "Eshki Dragonclaw",
+                "Inti, Seneschal of the Sun",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Скляров Филипп",
+                "Malcolm, Alluring Scoundrel",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Штофов Арсений",
+                "Arabella, Abandoned Doll",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Токарев Александр",
+                "Антипин Костя",
+                "Geist of Saint Traft",
+                "Plagon, Lord of the Beach",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Бурмистров Павел",
+                "Орешкин Дмитрий",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Edric, Spymaster of Trest",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мещеряков Максим",
+                "Ревин Владимир",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                "Elenda, Saint of Dusk",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лисин Дмитрий",
+                "Богданов Сергей",
+                "Phelia, Exuberant Shepherd",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Барабаш Валентин",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Байков Аркадий",
+                "Ludevic, Necrogenius :+: Tymna the Weaver",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Стрельцов Артем",
+                "Arahbo, Roar of the World",
+                "Thrasios, Triton Hero :+: Ardenn, Intrepid Archaeologist",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Яйлоян Евгений",
+                "Долганов Матвей",
+                "Glarb, Calamity's Augur",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сомкин Константин",
+                "Циулин Иван",
+                "Kotis, Sibsig Champion",
+                "Tymna the Weaver :+: Kraum, Ludevic's Opus",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сухов Никитка",
+                "Костин Андрей",
+                "Azusa, Lost but Seeking",
+                "Plagon, Lord of the Beach",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Дартау Сергей",
+                "Teferi, Temporal Archmage",
+                "Sheoldred, the Apocalypse",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Матюнин Антон",
+                "Ertai Resurrected",
+                "Inti, Seneschal of the Sun",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Плотников Александр",
+                "Dihada, Binder of Wills",
+                "Sai, Master Thopterist",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Захаренко Вячеслав",
+                "Malcolm, Alluring Scoundrel",
+                "Skullbriar, the Walking Grave",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Воронцов Иван",
+                "Штофов Арсений",
+                "Surrak Dragonclaw",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Васильев Илья",
+                "Поспелов Александр",
+                "Eshki Dragonclaw",
+                "Ral, Monsoon Mage",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Бурмистров Павел",
+                "Мещеряков Максим",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Антипин Костя",
+                "Стрельцов Артем",
+                "Plagon, Lord of the Beach",
+                "Thrasios, Triton Hero :+: Ardenn, Intrepid Archaeologist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Токарев Александр",
+                "Орешкин Дмитрий",
+                "Geist of Saint Traft",
+                "Edric, Spymaster of Trest",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Лисин Дмитрий",
+                "Tymna the Weaver :+: Kraum, Ludevic's Opus",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Олифер Егор",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Ludevic, Necrogenius :+: Tymna the Weaver",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Яйлоян Евгений",
+                "Краснов Илья",
+                "Glarb, Calamity's Augur",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Барабаш Валентин",
+                "Kroxa, Titan of Death's Hunger",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сомкин Константин",
+                "Долганов Матвей",
+                "Kotis, Sibsig Champion",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Сухов Никитка",
+                "Teferi, Temporal Archmage",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Козлов Максим",
+                "Elenda, Saint of Dusk",
+                "Arahbo, Roar of the World",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Плотников Александр",
+                "Vial Smasher the Fierce",
+                "Sai, Master Thopterist",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Штофов Арсений",
+                "Malcolm, Alluring Scoundrel",
+                "Aminatou, the Fateshifter",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Захаренко Вячеслав",
+                "Скляров Филипп",
+                "Skullbriar, the Walking Grave",
+                "Aminatou, the Fateshifter",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Муравьев Роман",
+                "Ral, Monsoon Mage",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Костин Андрей",
+                "Матюнин Антон",
+                "Plagon, Lord of the Beach",
+                "Inti, Seneschal of the Sun",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дартау Сергей",
+                "Васильев Илья",
+                "Sheoldred, the Apocalypse",
+                "Eshki Dragonclaw",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Антипин Костя",
+                "Мещеряков Максим",
+                "Plagon, Lord of the Beach",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Бурмистров Павел",
+                "Лисин Дмитрий",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Орешкин Дмитрий",
+                "Олифер Егор",
+                "Edric, Spymaster of Trest",
+                "Ludevic, Necrogenius :+: Tymna the Weaver",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Стрельцов Артем",
+                "Токарев Александр",
+                "Thrasios, Triton Hero :+: Ardenn, Intrepid Archaeologist",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Яйлоян Евгений",
+                "Сайфутдинов Тимур",
+                "Glarb, Calamity's Augur",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Долганов Матвей",
+                "Циулин Иван",
+                "Geist of Saint Traft",
+                "Tymna the Weaver :+: Kraum, Ludevic's Opus",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Байков Аркадий",
+                "Ertai Resurrected",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Шубенин Илья",
+                "Arahbo, Roar of the World",
+                "Malcolm, Alluring Scoundrel",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Поляков Герман",
+                "Kroxa, Titan of Death's Hunger",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Барабаш Валентин",
+                "Elenda, Saint of Dusk",
+                "Ezio Auditore da Firenze",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Плотников Александр",
+                "Сомкин Константин",
+                "Sai, Master Thopterist",
+                "Kotis, Sibsig Champion",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Скляров Филипп",
+                "Костин Андрей",
+                "Aminatou, the Fateshifter",
+                "Plagon, Lord of the Beach",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Матюнин Антон",
+                "Dihada, Binder of Wills",
+                "Inti, Seneschal of the Sun",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сухов Никитка",
+                "Васильев Илья",
+                "Azusa, Lost but Seeking",
+                "Eshki Dragonclaw",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/38313"
+}

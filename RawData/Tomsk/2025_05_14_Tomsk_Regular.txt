@@ -1,0 +1,17 @@
+location::Tomsk
+level::Regular
+date::2025_05_14
+organizer::d6tomsk
+players::generals
+Иванов Алексей :: Phelia, Exuberant Shepherd
+Владимиров Егор :: Ertai Resurrected
+Демидов Виталий :: The Gitrog Monster
+Богданов Влад :: Feldon, Ronom Excavator
+Pospelov Alexander :: Ral, Monsoon Mage
+Торицын Олег :: Emmara, Soul of the Accord
+Чураков Павел :: The Fourth Doctor
+Писарев Никита :: Hidetsugu and Kairi
+Купцевич Ярослав :: Zahur, Glory's Past
+Кузнецов Северин :: Kykar, Wind's Fury
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/57142

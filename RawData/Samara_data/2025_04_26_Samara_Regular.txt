@@ -4,7 +4,7 @@ date::2025_04_26
 organizer::Myakabuka
 players::generals
 Иванов Никита :: Dihada, Binder of Wills
-Ревин Владимир :: Elenda, the Dusk Rose
+Ревин Владимир :: Elenda, Saint of Dusk
 Васильев Кирилл :: Dihada, Binder of Wills
 Тимохин Денис :: Zimone and Dina
 Матюнин Антон :: Muxus, Goblin Grandee

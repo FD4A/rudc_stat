@@ -1,0 +1,13 @@
+location::Simferopl
+level::Regular
+date::2025_05_04
+organizer::Fenrisulfr
+players::generals
+Сергей Кочегаров :: Feldon, Ronom Excavator
+Сейдамет Билялов :: Ketramose, the New Dawn
+Виталий Чайкин :: Dihada, Binder of Wills
+Илья Чернышов :: Ghyrson Starn, Kelermorph
+Владимир Данилов :: Aragorn, the Uniter
+Нина Фенрис :: Light-Paws, Emperor's Voice
+Round
+https://aetherhub.com/Tourney/RoundTourney/41885

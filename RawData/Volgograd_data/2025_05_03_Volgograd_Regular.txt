@@ -1,0 +1,16 @@
+location::Volgograd
+level::Regular
+date::2025_05_03
+organizer::Rombik34rus
+players::generals
+Александр Токарев :: Grist, the Hunger Tide,
+Дмитрий Орешкин :: Hidetsugu and Kairi
+Никита Сухов :: Shorikai, Genesis Engine
+Тимур Сайфутдинов :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Александр Смирнов :: Slimefoot and Squee
+Артём Ангурцов :: Iron Man Titan of Innovation
+Виталий Васильев :: Felothar, Dawn of the Abzan
+Максим Мещеряков :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Иван Перепелицин :: Emmara, Soul of the Accord
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/41673

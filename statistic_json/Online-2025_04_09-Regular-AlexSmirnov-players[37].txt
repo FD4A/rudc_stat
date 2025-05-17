@@ -1,0 +1,336 @@
+= Aminatou, the Fateshifter        matches:10   WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:2   lm:8   dm:0)  games:23   WG: 30.43% LG: 69.57% (wg:   7 lg:  16) pick: 2    Online(2), 
+       vs Edric, Spymaster of Trest        (w:0 l:1 d:0), (0/2)
+       vs Ezio Auditore da Firenze         (w:0 l:1 d:0), (1/2)
+       vs Azusa, Lost but Seeking          (w:0 l:1 d:0), (0/2)
+       vs Kotis, Sibsig Champion           (w:0 l:1 d:0), (1/2)
+       vs Malcolm, Alluring Scoundrel      (w:0 l:2 d:0), (0/4)
+       vs Arabella, Abandoned Doll         (w:0 l:1 d:0), (1/2)
+       vs Surrak Dragonclaw                (w:1 l:0 d:0), (2/0)
+       vs Skullbriar, the Walking Grave    (w:1 l:0 d:0), (2/0)
+       vs Plagon, Lord of the Beach        (w:0 l:1 d:0), (0/2)
+
+
+= Arabella, Abandoned Doll         matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:9    WG: 44.44% LG: 55.56% (wg:   4 lg:   5) pick: 1    Online(1), 
+       vs Elenda, Saint of Dusk            (w:0 l:1 d:0), (1/2)
+       vs Arahbo, Roar of the World        (w:0 l:1 d:0), (1/2)
+       vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/1)
+
+
+= Arahbo, Roar of the World        matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:14   WG: 42.86% LG: 57.14% (wg:   6 lg:   8) pick: 1    Online(1), 
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
+       vs Arabella, Abandoned Doll         (w:1 l:0 d:0), (2/1)
+       vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/0)
+       vs Thrasios, Triton Hero            (w:0 l:1 d:0), (0/2)
+        + Ardenn, Intrepid Archaeologist  
+       vs Elenda, Saint of Dusk            (w:1 l:0 d:0), (2/1)
+       vs Malcolm, Alluring Scoundrel      (w:0 l:1 d:0), (0/2)
+
+
+= Azusa, Lost but Seeking          matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:13   WG: 30.77% LG: 69.23% (wg:   4 lg:   9) pick: 1    Online(1), 
+       vs Vial Smasher the Fierce          (w:0 l:1 d:0), (0/2)
+       vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/0)
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (0/2)
+       vs Plagon, Lord of the Beach        (w:1 l:0 d:0), (2/1)
+       vs Teferi, Temporal Archmage        (w:0 l:1 d:0), (0/2)
+       vs Eshki Dragonclaw                 (w:0 l:1 d:0), (0/2)
+
+
+= Dihada, Binder of Wills          matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:15   WG: 46.67% LG: 53.33% (wg:   7 lg:   8) pick: 1    Online(1), 
+       vs Skullbriar, the Walking Grave    (w:1 l:0 d:0), (2/1)
+       vs Thrasios, Triton Hero            (w:0 l:1 d:0), (1/2)
+        + Ardenn, Intrepid Archaeologist  
+       vs Arahbo, Roar of the World        (w:0 l:1 d:0), (0/2)
+       vs Sai, Master Thopterist           (w:0 l:1 d:0), (0/2)
+       vs Ral, Monsoon Mage                (w:1 l:0 d:0), (2/0)
+       vs Inti, Seneschal of the Sun       (w:1 l:0 d:0), (2/1)
+
+
+= Edric, Spymaster of Trest        matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:16   WG: 62.50% LG: 37.50% (wg:  10 lg:   6) pick: 1    Online(1), 
+       vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/0)
+       vs Geist of Saint Traft             (w:2 l:0 d:0), (4/1)
+       vs Elenda, Saint of Dusk            (w:1 l:0 d:0), (2/1)
+       vs Rograkh, Son of Rohgahh          (w:0 l:1 d:0), (1/2)
+        + Silas Renn, Seeker Adept        
+       vs Ludevic, Necrogenius             (w:0 l:1 d:0), (1/2)
+        + Tymna the Weaver                
+
+
+= Elenda, Saint of Dusk            matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:16   WG: 37.50% LG: 62.50% (wg:   6 lg:  10) pick: 1    Online(1), 
+       vs Arabella, Abandoned Doll         (w:1 l:0 d:0), (2/1)
+       vs Vial Smasher the Fierce          (w:1 l:0 d:0), (2/1)
+       vs Edric, Spymaster of Trest        (w:0 l:1 d:0), (1/2)
+       vs Thrasios, Triton Hero            (w:0 l:1 d:0), (0/2)
+        + Tymna the Weaver                
+       vs Arahbo, Roar of the World        (w:0 l:1 d:0), (1/2)
+       vs Ezio Auditore da Firenze         (w:0 l:1 d:0), (0/2)
+
+
+= Ertai Resurrected                matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:17   WG: 58.82% LG: 41.18% (wg:  10 lg:   7) pick: 1    Online(1), 
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (1/2)
+       vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/1)
+       vs Kotis, Sibsig Champion           (w:0 l:1 d:0), (1/2)
+       vs Inti, Seneschal of the Sun       (w:1 l:0 d:0), (2/1)
+       vs Glarb, Calamity's Augur          (w:1 l:0 d:0), (2/1)
+       vs Vial Smasher the Fierce          (w:1 l:0 d:0), (2/0)
+
+
+= Eshki Dragonclaw                 matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:14   WG: 42.86% LG: 57.14% (wg:   6 lg:   8) pick: 1    Online(1), 
+       vs Thrasios, Triton Hero            (w:0 l:1 d:0), (1/2)
+        + Tymna the Weaver                
+       vs Hidetsugu and Kairi              (w:0 l:1 d:0), (1/2)
+       vs Inti, Seneschal of the Sun       (w:0 l:1 d:0), (0/2)
+       vs Ral, Monsoon Mage                (w:0 l:1 d:0), (0/2)
+       vs Sheoldred, the Apocalypse        (w:1 l:0 d:0), (2/0)
+       vs Azusa, Lost but Seeking          (w:1 l:0 d:0), (2/0)
+
+
+= Ezio Auditore da Firenze         matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:15   WG: 46.67% LG: 53.33% (wg:   7 lg:   8) pick: 1    Online(1), 
+       vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/1)
+       vs Thrasios, Triton Hero            (w:0 l:1 d:0), (1/2)
+        + Tymna the Weaver                
+       vs Teferi, Temporal Archmage        (w:1 l:0 d:0), (2/1)
+       vs Thrasios, Triton Hero            (w:0 l:1 d:0), (0/2)
+        + Bruse Tarl, Boorish Herder      
+       vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (0/2)
+       vs Elenda, Saint of Dusk            (w:1 l:0 d:0), (2/0)
+
+
+= Geist of Saint Traft             matches:12   WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:6   lm:6   dm:0)  games:29   WG: 48.28% LG: 51.72% (wg:  14 lg:  15) pick: 2    Online(2), 
+       vs Ertai Resurrected                (w:1 l:0 d:0), (2/1)
+       vs Arahbo, Roar of the World        (w:1 l:0 d:0), (2/0)
+       vs Edric, Spymaster of Trest        (w:0 l:2 d:0), (1/4)
+       vs Tymna the Weaver                 (w:1 l:1 d:0), (2/3)
+        + Kraum, Ludevic's Opus           
+       vs Azusa, Lost but Seeking          (w:1 l:0 d:0), (2/0)
+       vs Plagon, Lord of the Beach        (w:1 l:1 d:0), (3/2)
+       vs Glarb, Calamity's Augur          (w:0 l:1 d:0), (0/2)
+       vs Kotis, Sibsig Champion           (w:1 l:0 d:0), (2/1)
+       vs Thrasios, Triton Hero            (w:0 l:1 d:0), (0/2)
+        + Ardenn, Intrepid Archaeologist  
+
+
+= Glarb, Calamity's Augur          matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:14   WG: 57.14% LG: 42.86% (wg:   8 lg:   6) pick: 1    Online(1), 
+       vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/0)
+       vs Teferi, Temporal Archmage        (w:1 l:0 d:0), (2/0)
+       vs Rograkh, Son of Rohgahh          (w:0 l:1 d:0), (1/2)
+        + Silas Renn, Seeker Adept        
+       vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
+       vs Ertai Resurrected                (w:0 l:1 d:0), (1/2)
+       vs Thrasios, Triton Hero            (w:0 l:1 d:0), (0/2)
+        + Bruse Tarl, Boorish Herder      
+
+
+= Grist, the Hunger Tide           matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:8    WG: 37.50% LG: 62.50% (wg:   3 lg:   5) pick: 1    Online(1), 
+       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/1)
+       vs Phelia, Exuberant Shepherd       (w:0 l:1 d:0), (1/2)
+       vs Tymna the Weaver                 (w:0 l:1 d:0), (0/2)
+        + Kraum, Ludevic's Opus           
+
+
+= Hidetsugu and Kairi              matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:7    WG: 28.57% LG: 71.43% (wg:   2 lg:   5) pick: 1    Online(1), 
+       vs Rograkh, Son of Rohgahh          (w:0 l:1 d:0), (0/2)
+        + Silas Renn, Seeker Adept        
+       vs Eshki Dragonclaw                 (w:1 l:0 d:0), (2/1)
+       vs Thrasios, Triton Hero            (w:0 l:1 d:0), (0/2)
+        + Bruse Tarl, Boorish Herder      
+
+
+= Inti, Seneschal of the Sun       matches:6    WM: 16.67%  LM: 83.33%  DM:  0.00% (wm:1   lm:5   dm:0)  games:16   WG: 37.50% LG: 62.50% (wg:   6 lg:  10) pick: 1    Online(1), 
+       vs Tymna the Weaver                 (w:0 l:1 d:0), (1/2)
+        + Kraum, Ludevic's Opus           
+       vs Thrasios, Triton Hero            (w:0 l:1 d:0), (0/2)
+        + Bruse Tarl, Boorish Herder      
+       vs Eshki Dragonclaw                 (w:1 l:0 d:0), (2/0)
+       vs Ertai Resurrected                (w:0 l:1 d:0), (1/2)
+       vs Plagon, Lord of the Beach        (w:0 l:1 d:0), (1/2)
+       vs Dihada, Binder of Wills          (w:0 l:1 d:0), (1/2)
+
+
+= Kotis, Sibsig Champion           matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:16   WG: 50.00% LG: 50.00% (wg:   8 lg:   8) pick: 1    Online(1), 
+       vs Teferi, Temporal Archmage        (w:0 l:1 d:0), (1/2)
+       vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/1)
+       vs Ertai Resurrected                (w:1 l:0 d:0), (2/1)
+       vs Tymna the Weaver                 (w:0 l:1 d:0), (0/2)
+        + Kraum, Ludevic's Opus           
+       vs Geist of Saint Traft             (w:0 l:1 d:0), (1/2)
+       vs Sai, Master Thopterist           (w:1 l:0 d:0), (2/0)
+
+
+= Kroxa, Titan of Death's Hunger   matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:14   WG: 50.00% LG: 50.00% (wg:   7 lg:   7) pick: 1    Online(1), 
+       vs Grist, the Hunger Tide           (w:0 l:1 d:0), (1/2)
+       vs Wilson, Refined Grizzly          (w:1 l:0 d:0), (2/0)
+        + Sword Coast Sailor              
+       vs Sai, Master Thopterist           (w:1 l:0 d:0), (2/1)
+       vs Phelia, Exuberant Shepherd       (w:0 l:1 d:0), (0/2)
+       vs Ezio Auditore da Firenze         (w:1 l:0 d:0), (2/0)
+       vs Teferi, Temporal Archmage        (w:0 l:1 d:0), (0/2)
+
+
+= Ludevic, Necrogenius             matches:6    WM: 83.33%  LM: 16.67%  DM:  0.00% (wm:5   lm:1   dm:0)  games:15   WG: 73.33% LG: 26.67% (wg:  11 lg:   4) pick: 1    Online(1), 
+  + Tymna the Weaver            
+       vs Wilson, Refined Grizzly          (w:1 l:0 d:0), (2/0)
+        + Sword Coast Sailor              
+       vs Rograkh, Son of Rohgahh          (w:0 l:1 d:0), (1/2)
+        + Silas Renn, Seeker Adept        
+       vs Sheoldred, the Apocalypse        (w:1 l:0 d:0), (2/0)
+       vs Vial Smasher the Fierce          (w:1 l:0 d:0), (2/0)
+       vs Thrasios, Triton Hero            (w:1 l:0 d:0), (2/1)
+        + Bruse Tarl, Boorish Herder      
+       vs Edric, Spymaster of Trest        (w:1 l:0 d:0), (2/1)
+
+
+= Malcolm, Alluring Scoundrel      matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:13   WG: 69.23% LG: 30.77% (wg:   9 lg:   4) pick: 1    Online(1), 
+       vs Glarb, Calamity's Augur          (w:0 l:1 d:0), (0/2)
+       vs Ertai Resurrected                (w:0 l:1 d:0), (1/2)
+       vs Aminatou, the Fateshifter        (w:2 l:0 d:0), (4/0)
+       vs Skullbriar, the Walking Grave    (w:1 l:0 d:0), (2/0)
+       vs Arahbo, Roar of the World        (w:1 l:0 d:0), (2/0)
+
+
+= Phelia, Exuberant Shepherd       matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:14   WG: 64.29% LG: 35.71% (wg:   9 lg:   5) pick: 1    Online(1), 
+       vs Sai, Master Thopterist           (w:1 l:0 d:0), (2/0)
+       vs Grist, the Hunger Tide           (w:1 l:0 d:0), (2/1)
+       vs Plagon, Lord of the Beach        (w:0 l:1 d:0), (1/2)
+       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/0)
+       vs Tymna the Weaver                 (w:1 l:0 d:0), (2/0)
+        + Kraum, Ludevic's Opus           
+       vs Rograkh, Son of Rohgahh          (w:0 l:1 d:0), (0/2)
+        + Silas Renn, Seeker Adept        
+
+
+= Plagon, Lord of the Beach        matches:10   WM: 70.00%  LM: 30.00%  DM:  0.00% (wm:7   lm:3   dm:0)  games:25   WG: 60.00% LG: 40.00% (wg:  15 lg:  10) pick: 2    Online(2), 
+       vs Surrak Dragonclaw                (w:1 l:0 d:0), (2/0)
+       vs Ral, Monsoon Mage                (w:1 l:0 d:0), (2/1)
+       vs Phelia, Exuberant Shepherd       (w:1 l:0 d:0), (2/1)
+       vs Geist of Saint Traft             (w:1 l:1 d:0), (2/3)
+       vs Azusa, Lost but Seeking          (w:0 l:1 d:0), (1/2)
+       vs Thrasios, Triton Hero            (w:1 l:0 d:0), (2/0)
+        + Ardenn, Intrepid Archaeologist  
+       vs Inti, Seneschal of the Sun       (w:1 l:0 d:0), (2/1)
+       vs Thrasios, Triton Hero            (w:0 l:1 d:0), (0/2)
+        + Tymna the Weaver                
+       vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/0)
+
+
+= Ral, Monsoon Mage                matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:1   lm:4   dm:0)  games:12   WG: 33.33% LG: 66.67% (wg:   4 lg:   8) pick: 1    Online(1), 
+       vs Plagon, Lord of the Beach        (w:0 l:1 d:0), (1/2)
+       vs Sai, Master Thopterist           (w:0 l:1 d:0), (0/2)
+       vs Skullbriar, the Walking Grave    (w:0 l:1 d:0), (1/2)
+       vs Eshki Dragonclaw                 (w:1 l:0 d:0), (2/0)
+       vs Dihada, Binder of Wills          (w:0 l:1 d:0), (0/2)
+
+
+= Rograkh, Son of Rohgahh          matches:6    WM: 83.33%  LM: 16.67%  DM:  0.00% (wm:5   lm:1   dm:0)  games:16   WG: 68.75% LG: 31.25% (wg:  11 lg:   5) pick: 1    Online(1), 
+  + Silas Renn, Seeker Adept    
+       vs Hidetsugu and Kairi              (w:1 l:0 d:0), (2/0)
+       vs Ludevic, Necrogenius             (w:1 l:0 d:0), (2/1)
+        + Tymna the Weaver                
+       vs Glarb, Calamity's Augur          (w:1 l:0 d:0), (2/1)
+       vs Edric, Spymaster of Trest        (w:1 l:0 d:0), (2/1)
+       vs Thrasios, Triton Hero            (w:0 l:1 d:0), (1/2)
+        + Tymna the Weaver                
+       vs Phelia, Exuberant Shepherd       (w:1 l:0 d:0), (2/0)
+
+
+= Sai, Master Thopterist           matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:14   WG: 42.86% LG: 57.14% (wg:   6 lg:   8) pick: 1    Online(1), 
+       vs Phelia, Exuberant Shepherd       (w:0 l:1 d:0), (0/2)
+       vs Ral, Monsoon Mage                (w:1 l:0 d:0), (2/0)
+       vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (1/2)
+       vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/0)
+       vs Vial Smasher the Fierce          (w:0 l:1 d:0), (1/2)
+       vs Kotis, Sibsig Champion           (w:0 l:1 d:0), (0/2)
+
+
+= Sheoldred, the Apocalypse        matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:9    WG: 22.22% LG: 77.78% (wg:   2 lg:   7) pick: 1    Online(1), 
+       vs Skullbriar, the Walking Grave    (w:1 l:0 d:0), (2/1)
+       vs Ludevic, Necrogenius             (w:0 l:1 d:0), (0/2)
+        + Tymna the Weaver                
+       vs Teferi, Temporal Archmage        (w:0 l:1 d:0), (0/2)
+       vs Eshki Dragonclaw                 (w:0 l:1 d:0), (0/2)
+
+
+= Skullbriar, the Walking Grave    matches:5    WM: 20.00%  LM: 80.00%  DM:  0.00% (wm:1   lm:4   dm:0)  games:13   WG: 30.77% LG: 69.23% (wg:   4 lg:   9) pick: 1    Online(1), 
+       vs Dihada, Binder of Wills          (w:0 l:1 d:0), (1/2)
+       vs Sheoldred, the Apocalypse        (w:0 l:1 d:0), (1/2)
+       vs Ral, Monsoon Mage                (w:1 l:0 d:0), (2/1)
+       vs Malcolm, Alluring Scoundrel      (w:0 l:1 d:0), (0/2)
+       vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
+
+
+= Surrak Dragonclaw                matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:7    WG: 14.29% LG: 85.71% (wg:   1 lg:   6) pick: 1    Online(1), 
+       vs Plagon, Lord of the Beach        (w:0 l:1 d:0), (0/2)
+       vs Vial Smasher the Fierce          (w:0 l:1 d:0), (1/2)
+       vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
+
+
+= Teferi, Temporal Archmage        matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:14   WG: 64.29% LG: 35.71% (wg:   9 lg:   5) pick: 1    Online(1), 
+       vs Kotis, Sibsig Champion           (w:1 l:0 d:0), (2/1)
+       vs Glarb, Calamity's Augur          (w:0 l:1 d:0), (0/2)
+       vs Ezio Auditore da Firenze         (w:0 l:1 d:0), (1/2)
+       vs Sheoldred, the Apocalypse        (w:1 l:0 d:0), (2/0)
+       vs Azusa, Lost but Seeking          (w:1 l:0 d:0), (2/0)
+       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/0)
+
+
+= Thrasios, Triton Hero            matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:15   WG: 60.00% LG: 40.00% (wg:   9 lg:   6) pick: 1    Online(1), 
+  + Ardenn, Intrepid Archaeologi
+       vs Thrasios, Triton Hero            (w:1 l:0 d:0), (2/1)
+        + Bruse Tarl, Boorish Herder      
+       vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/1)
+       vs Thrasios, Triton Hero            (w:0 l:1 d:0), (1/2)
+        + Tymna the Weaver                
+       vs Arahbo, Roar of the World        (w:1 l:0 d:0), (2/0)
+       vs Plagon, Lord of the Beach        (w:0 l:1 d:0), (0/2)
+       vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
+
+
+= Thrasios, Triton Hero            matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:14   WG: 71.43% LG: 28.57% (wg:  10 lg:   4) pick: 1    Online(1), 
+  + Bruse Tarl, Boorish Herder  
+       vs Thrasios, Triton Hero            (w:0 l:1 d:0), (1/2)
+        + Ardenn, Intrepid Archaeologist  
+       vs Inti, Seneschal of the Sun       (w:1 l:0 d:0), (2/0)
+       vs Hidetsugu and Kairi              (w:1 l:0 d:0), (2/0)
+       vs Ezio Auditore da Firenze         (w:1 l:0 d:0), (2/0)
+       vs Ludevic, Necrogenius             (w:0 l:1 d:0), (1/2)
+        + Tymna the Weaver                
+       vs Glarb, Calamity's Augur          (w:1 l:0 d:0), (2/0)
+
+
+= Thrasios, Triton Hero            matches:6    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:6   lm:0   dm:0)  games:16   WG: 75.00% LG: 25.00% (wg:  12 lg:   4) pick: 1    Online(1), 
+  + Tymna the Weaver            
+       vs Eshki Dragonclaw                 (w:1 l:0 d:0), (2/1)
+       vs Ezio Auditore da Firenze         (w:1 l:0 d:0), (2/1)
+       vs Thrasios, Triton Hero            (w:1 l:0 d:0), (2/1)
+        + Ardenn, Intrepid Archaeologist  
+       vs Elenda, Saint of Dusk            (w:1 l:0 d:0), (2/0)
+       vs Rograkh, Son of Rohgahh          (w:1 l:0 d:0), (2/1)
+        + Silas Renn, Seeker Adept        
+       vs Plagon, Lord of the Beach        (w:1 l:0 d:0), (2/0)
+
+
+= Tymna the Weaver                 matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:14   WG: 64.29% LG: 35.71% (wg:   9 lg:   5) pick: 1    Online(1), 
+  + Kraum, Ludevic's Opus       
+       vs Inti, Seneschal of the Sun       (w:1 l:0 d:0), (2/1)
+       vs Geist of Saint Traft             (w:1 l:1 d:0), (3/2)
+       vs Grist, the Hunger Tide           (w:1 l:0 d:0), (2/0)
+       vs Kotis, Sibsig Champion           (w:1 l:0 d:0), (2/0)
+       vs Phelia, Exuberant Shepherd       (w:0 l:1 d:0), (0/2)
+
+
+= Vial Smasher the Fierce          matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:15   WG: 46.67% LG: 53.33% (wg:   7 lg:   8) pick: 1    Online(1), 
+       vs Azusa, Lost but Seeking          (w:1 l:0 d:0), (2/0)
+       vs Elenda, Saint of Dusk            (w:0 l:1 d:0), (1/2)
+       vs Surrak Dragonclaw                (w:1 l:0 d:0), (2/1)
+       vs Ludevic, Necrogenius             (w:0 l:1 d:0), (0/2)
+        + Tymna the Weaver                
+       vs Sai, Master Thopterist           (w:1 l:0 d:0), (2/1)
+       vs Ertai Resurrected                (w:0 l:1 d:0), (0/2)
+
+
+= Wilson, Refined Grizzly          matches:2    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:2   dm:0)  games:4    WG:  0.00% LG:100.00% (wg:   0 lg:   4) pick: 1    Online(1), 
+  + Sword Coast Sailor          
+       vs Ludevic, Necrogenius             (w:0 l:1 d:0), (0/2)
+        + Tymna the Weaver                
+       vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (0/2)
+
+

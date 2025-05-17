@@ -1,0 +1,216 @@
+{
+    "date": "2025_05_03",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Александр Токарев",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Дмитрий Орешкин",
+            "Hidetsugu and Kairi"
+        ],
+        [
+            "Никита Сухов",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Тимур Сайфутдинов",
+            "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Александр Смирнов",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Артём Ангурцов",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Виталий Васильев",
+            "Felothar, Dawn of the Abzan"
+        ],
+        [
+            "Максим Мещеряков",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Иван Перепелицин",
+            "Emmara, Soul of the Accord"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Дмитрий Орешкин",
+                "Виталий Васильев",
+                "Hidetsugu and Kairi",
+                "Felothar, Dawn of the Abzan",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иван Перепелицин",
+                "Тимур Сайфутдинов",
+                "Emmara, Soul of the Accord",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Александр Смирнов",
+                "Grist, the Hunger Tide",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Максим Мещеряков",
+                "Iron Man, Titan of Innovation",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Никита Сухов",
+                "Тимур Сайфутдинов",
+                "Shorikai, Genesis Engine",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Дмитрий Орешкин",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Hidetsugu and Kairi",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Иван Перепелицин",
+                "Grist, the Hunger Tide",
+                "Emmara, Soul of the Accord",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Виталий Васильев",
+                "Slimefoot and Squee",
+                "Felothar, Dawn of the Abzan",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Токарев",
+                "Дмитрий Орешкин",
+                "Grist, the Hunger Tide",
+                "Hidetsugu and Kairi",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Артём Ангурцов",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                "Iron Man, Titan of Innovation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Никита Сухов",
+                "Максим Мещеряков",
+                "Shorikai, Genesis Engine",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Иван Перепелицин",
+                "Slimefoot and Squee",
+                "Emmara, Soul of the Accord",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Токарев",
+                "Тимур Сайфутдинов",
+                "Grist, the Hunger Tide",
+                "Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Дмитрий Орешкин",
+                "Slimefoot and Squee",
+                "Hidetsugu and Kairi",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Никита Сухов",
+                "Артём Ангурцов",
+                "Shorikai, Genesis Engine",
+                "Iron Man, Titan of Innovation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Иван Перепелицин",
+                "Felothar, Dawn of the Abzan",
+                "Emmara, Soul of the Accord",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/41673"
+}

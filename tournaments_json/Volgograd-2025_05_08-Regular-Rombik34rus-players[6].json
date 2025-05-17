@@ -1,0 +1,132 @@
+{
+    "date": "2025_05_08",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Вячеслав Серпутько",
+            "Selvala, Explorer Returned"
+        ],
+        [
+            "Дмитрий Орешкин",
+            "Hidetsugu and Kairi"
+        ],
+        [
+            "Виталий Васильев",
+            "The Gitrog Monster"
+        ],
+        [
+            "Александр Смирнов",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Владимир Воровальницев",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Андрей Губин",
+            "Ezio Auditore da Firenze"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Дмитрий Орешкин",
+                "Андрей Губин",
+                "Hidetsugu and Kairi",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Вячеслав Серпутько",
+                "Slimefoot and Squee",
+                "Selvala, Explorer Returned",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Владимир Воровальницев",
+                "Виталий Васильев",
+                "Feldon, Ronom Excavator",
+                "The Gitrog Monster",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Виталий Васильев",
+                "Дмитрий Орешкин",
+                "The Gitrog Monster",
+                "Hidetsugu and Kairi",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Андрей Губин",
+                "Selvala, Explorer Returned",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Владимир Воровальницев",
+                "Александр Смирнов",
+                "Feldon, Ronom Excavator",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Орешкин",
+                "Вячеслав Серпутько",
+                "Hidetsugu and Kairi",
+                "Selvala, Explorer Returned",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Александр Смирнов",
+                "The Gitrog Monster",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Андрей Губин",
+                "Владимир Воровальницев",
+                "Ezio Auditore da Firenze",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/54561"
+}

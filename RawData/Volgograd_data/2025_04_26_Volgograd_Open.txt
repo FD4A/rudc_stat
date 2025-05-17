@@ -3,7 +3,7 @@ level::Regular
 date::2025_04_26
 organizer::ArtemovaMargo
 players::generals
-Сайфутдинов Тимур ::  Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Сайфутдинов Тимур :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
 Грабовой Филипп :: Slimefoot and Squee
 Олифер Егор :: Tymna the Weaver :+: Ludevic, Necro-Alchemist
 Орешкин Димка :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder

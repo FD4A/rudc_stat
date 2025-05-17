@@ -1,0 +1,23 @@
+location::RostovOnDon
+level::Open
+date::2025_05_15
+organizer::Constantin
+players::generals
+Smirnov Alexander :: Tivit, Seller of Secrets
+Burmistrov Pavel :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Kovalev Alexander :: Feldon, Ronom Excavator
+Antipin Constantin :: Feldon, Ronom Excavator
+Posidaylo Artem :: Phelia, Exuberant Shepherd
+Davidov Alexander :: Magda, Brazen Outlaw
+Shubenin Ilya :: Malcolm, Alluring Scoundrel
+Merkulov Vladislav :: Zabaz, the Glimmerwasp
+Cherepovskiy Roman :: Alesha, Who Laughs at Fate
+Avoid-Fateev Pavel :: Light-Paws, Emperor's Voice
+Arushanyan Tigran :: Ertai Resurrected
+Zinkovsky Sergey :: Tivit, Seller of Secrets
+Oreshkin Dmitriy :: Malcolm, the Eyes
+Somkin Constantin :: Elminster
+Vasiliy Mishin :: Ertai Resurrected
+Lukaynov Vadim :: Octavia, Living Thesis
+Round
+https://aetherhub.com/Tourney/RoundTourney/55482

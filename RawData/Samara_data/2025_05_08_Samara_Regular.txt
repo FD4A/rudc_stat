@@ -1,0 +1,18 @@
+location::Samara
+level::Regular
+date::2025_05_08
+organizer::Myakabuka
+players::generals
+Громов Михаил :: Dihada, Binder of Wills
+Сибикин Антон :: Shorikai, Genesis Engine
+Безруков Николай :: Feldon, Ronom Excavator
+Матюнин Антон :: Muxus, Goblin Grandee
+Курмакаев Игорь :: Shorikai, Genesis Engine
+Циулин Иван :: Glarb, Calamity's Augur
+Иванов Никита :: Basim Ibn Ishaq
+Васильев Кирилл :: Dihada, Binder of Wills
+Евсеев Андрей :: Geist of Saint Traft
+Тимохин Денис :: Lonis, Cryptozoologist
+Малкин Алексей :: Phelia, Exuberant Shepherd
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/55056

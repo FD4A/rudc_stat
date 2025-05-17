@@ -1,0 +1,298 @@
+{
+    "date": "2025_05_10",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Безруков Николай",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Краснов Илья",
+            "Ertai Resurrected"
+        ],
+        [
+            "Иванов Никита",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Циулин Иван",
+            "Glarb, Calamity's Augur"
+        ],
+        [
+            "Ревин Владимир",
+            "Elenda, Saint of Dusk"
+        ],
+        [
+            "Латыпов Камиль",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Шатохин Александр",
+            "Urabrask"
+        ],
+        [
+            "Кулиджанов Филипп",
+            "Gornog, the Red Reaper"
+        ],
+        [
+            "Кормаков Александр",
+            "Ukkima, Stalking Shadow"
+        ],
+        [
+            "Козлов Максим",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Васильев Кирилл",
+            "Dihada, Binder of Wills"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Иванов Никита",
+                "Матюнин Антон",
+                "Dihada, Binder of Wills",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Шатохин Александр",
+                "Кормаков Александр",
+                "Urabrask",
+                "Ukkima, Stalking Shadow",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Циулин Иван",
+                "Dihada, Binder of Wills",
+                "Glarb, Calamity's Augur",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Латыпов Камиль",
+                "Elenda, Saint of Dusk",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кулиджанов Филипп",
+                "Краснов Илья",
+                "Gornog, the Red Reaper",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Безруков Николай",
+                "Grist, the Hunger Tide",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Циулин Иван",
+                "Ertai Resurrected",
+                "Glarb, Calamity's Augur",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Матюнин Антон",
+                "Shorikai, Genesis Engine",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шатохин Александр",
+                "Ревин Владимир",
+                "Urabrask",
+                "Elenda, Saint of Dusk",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Иванов Никита",
+                "Grist, the Hunger Tide",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Латыпов Камиль",
+                "Васильев Кирилл",
+                "Ghyrson Starn, Kelermorph",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кулиджанов Филипп",
+                "Кормаков Александр",
+                "Gornog, the Red Reaper",
+                "Ukkima, Stalking Shadow",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Ревин Владимир",
+                "Краснов Илья",
+                "Elenda, Saint of Dusk",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Латыпов Камиль",
+                "Shorikai, Genesis Engine",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Матюнин Антон",
+                "Glarb, Calamity's Augur",
+                "Muxus, Goblin Grandee",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Шатохин Александр",
+                "Кулиджанов Филипп",
+                "Urabrask",
+                "Gornog, the Red Reaper",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Васильев Кирилл",
+                "Dihada, Binder of Wills",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кормаков Александр",
+                "Козлов Максим",
+                "Ukkima, Stalking Shadow",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Безруков Николай",
+                "Ertai Resurrected",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Иванов Никита",
+                "Elenda, Saint of Dusk",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шатохин Александр",
+                "Матюнин Антон",
+                "Urabrask",
+                "Muxus, Goblin Grandee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Латыпов Камиль",
+                "Кулиджанов Филипп",
+                "Ghyrson Starn, Kelermorph",
+                "Gornog, the Red Reaper",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Кормаков Александр",
+                "Glarb, Calamity's Augur",
+                "Ukkima, Stalking Shadow",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/56432"
+}

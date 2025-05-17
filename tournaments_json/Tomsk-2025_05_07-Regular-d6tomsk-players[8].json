@@ -1,0 +1,170 @@
+{
+    "date": "2025_05_07",
+    "location": "Tomsk",
+    "level": "Regular",
+    "organizer": "d6tomsk",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Иванов Алексей",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Pospelov Alexander",
+            "Winter, Cursed Rider"
+        ],
+        [
+            "Писарев Никита",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Владимиров Егор",
+            "Gut, True Soul Zealot :+: Folk Hero"
+        ],
+        [
+            "Демидов Виталий",
+            "Sarulf, Realm Eater"
+        ],
+        [
+            "Кузнецов Северин",
+            "Kykar, Wind's Fury"
+        ],
+        [
+            "Торицын Олег",
+            "Gut, True Soul Zealot :+: Agent of the Iron Throne"
+        ],
+        [
+            "Чураков Павел",
+            "Ertai Resurrected"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Писарев Никита",
+                "Демидов Виталий",
+                "Shorikai, Genesis Engine",
+                "Sarulf, Realm Eater",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Алексей",
+                "Владимиров Егор",
+                "Phelia, Exuberant Shepherd",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Торицын Олег",
+                "Кузнецов Северин",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Kykar, Wind's Fury",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Pospelov Alexander",
+                "Ertai Resurrected",
+                "Winter, Cursed Rider",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Писарев Никита",
+                "Кузнецов Северин",
+                "Shorikai, Genesis Engine",
+                "Kykar, Wind's Fury",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Pospelov Alexander",
+                "Иванов Алексей",
+                "Winter, Cursed Rider",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Демидов Виталий",
+                "Ertai Resurrected",
+                "Sarulf, Realm Eater",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Торицын Олег",
+                "Владимиров Егор",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Писарев Никита",
+                "Иванов Алексей",
+                "Shorikai, Genesis Engine",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Pospelov Alexander",
+                "Демидов Виталий",
+                "Winter, Cursed Rider",
+                "Sarulf, Realm Eater",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Владимиров Егор",
+                "Kykar, Wind's Fury",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Торицын Олег",
+                "Ertai Resurrected",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/54115"
+}

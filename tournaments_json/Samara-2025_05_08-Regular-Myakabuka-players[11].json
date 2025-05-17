@@ -1,0 +1,264 @@
+{
+    "date": "2025_05_08",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Громов Михаил",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Сибикин Антон",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Циулин Иван",
+            "Glarb, Calamity's Augur"
+        ],
+        [
+            "Иванов Никита",
+            "Basim Ibn Ishaq"
+        ],
+        [
+            "Васильев Кирилл",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Евсеев Андрей",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Тимохин Денис",
+            "Lonis, Cryptozoologist"
+        ],
+        [
+            "Малкин Алексей",
+            "Phelia, Exuberant Shepherd"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Матюнин Антон",
+                "Циулин Иван",
+                "Muxus, Goblin Grandee",
+                "Glarb, Calamity's Augur",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Безруков Николай",
+                "Dihada, Binder of Wills",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Громов Михаил",
+                "Сибикин Антон",
+                "Dihada, Binder of Wills",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Малкин Алексей",
+                "Курмакаев Игорь",
+                "Phelia, Exuberant Shepherd",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Евсеев Андрей",
+                "Lonis, Cryptozoologist",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Тимохин Денис",
+                "Громов Михаил",
+                "Lonis, Cryptozoologist",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Матюнин Антон",
+                "Shorikai, Genesis Engine",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Безруков Николай",
+                "Basim Ibn Ishaq",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Евсеев Андрей",
+                "Glarb, Calamity's Augur",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Малкин Алексей",
+                "Dihada, Binder of Wills",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Безруков Николай",
+                "Курмакаев Игорь",
+                "Feldon, Ronom Excavator",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Громов Михаил",
+                "Циулин Иван",
+                "Dihada, Binder of Wills",
+                "Glarb, Calamity's Augur",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Сибикин Антон",
+                "Lonis, Cryptozoologist",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Малкин Алексей",
+                "Basim Ibn Ishaq",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Васильев Кирилл",
+                "Muxus, Goblin Grandee",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Безруков Николай",
+                "Громов Михаил",
+                "Feldon, Ronom Excavator",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Курмакаев Игорь",
+                "Shorikai, Genesis Engine",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Иванов Никита",
+                "Muxus, Goblin Grandee",
+                "Basim Ibn Ishaq",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Циулин Иван",
+                "Lonis, Cryptozoologist",
+                "Glarb, Calamity's Augur",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Евсеев Андрей",
+                "Малкин Алексей",
+                "Geist of Saint Traft",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/55056"
+}

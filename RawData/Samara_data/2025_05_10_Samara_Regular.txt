@@ -1,0 +1,19 @@
+location::Samara
+level::Regular
+date::2025_05_10
+organizer::Myakabuka
+players::generals
+Безруков Николай :: Shorikai, Genesis Engine
+Краснов Илья :: Ertai Resurrected
+Иванов Никита :: Dihada, Binder of Wills
+Матюнин Антон :: Muxus, Goblin Grandee
+Циулин Иван :: Glarb, Calamity's Augur
+Ревин Владимир :: Elenda, Saint of Dusk
+Латыпов Камиль :: Ghyrson Starn, Kelermorph
+Шатохин Александр :: Urabrask
+Кулиджанов Филипп :: Gornog, the Red Reaper
+Кормаков Александр :: Ukkima, Stalking Shadow
+Козлов Максим :: Grist, the Hunger Tide
+Васильев Кирилл :: Dihada, Binder of Wills
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/56432

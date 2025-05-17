@@ -1,0 +1,13 @@
+location::Ussuriysk
+level::Regular
+date::2025_05_09
+organizer::Usstiger
+players::generals
+Олег Р :: Aragorn, King of Gondor
+Кирилл С :: Malcolm, the Eyes
+Вячеслав Ш :: Hashaton, Scarab's Fist
+Матвей Б :: Leovold, Emissary of Trest
+Алексей Ж :: Grist, the Hunger Tide
+Михаил С :: Urza, Lord Protector
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/55565
