@@ -1,0 +1,15 @@
+location::Samara
+level::Regular
+date::2025_05_24
+organizer::Myakabuka
+players::generals
+Курмакаев Игорь :: Grist, the Hunger Tide
+Ревин Владимир :: Elenda, Saint of Dusk
+Матюнин Антон :: Muxus, Goblin Grandee
+Громов Михаил :: Thrasios, Triton Hero :+: Francisco, Fowl Marauder
+Безруков Николай :: Feldon, Ronom Excavator
+Краснов Илья :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Кормаков Александр :: Ghired, Mirror of the Wilds
+Тимохин Денис :: Mendicant Core, Guidelight
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/57576

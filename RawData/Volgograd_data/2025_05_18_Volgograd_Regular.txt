@@ -1,0 +1,14 @@
+location::Volgograd
+level::Regular
+date::2025_05_18
+organizer::Rombik34rus
+players::generals
+Дмитрий Орешкин :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Вячеслав Серпутько :: Selvala Explorer Returned
+Александр Смирнов :: Tivit, Seller of Secrets
+Никита Сухов :: Sai, Master Thopterist
+Виталий Васильев :: The Necrobloom
+Тимур Сайфутдинов :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Артём Ангурцов :: Iron Man, Titan of Innovation
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/57417

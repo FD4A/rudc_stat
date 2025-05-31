@@ -1,0 +1,17 @@
+location::Vladivostok
+level::Regular
+date::2025_05_11
+organizer::Sunderro
+players::generals
+Жменя Алексей :: Grist, the Hunger Tide
+Кривошеев Всеволод :: Azusa, Lost but Seeking
+Гавриленко Валентин :: Taii Wakeen, Perfect Shot
+Гомзарь Макар :: Ratchet, Field Medic
+Резниченко Олег :: Aragorn, King of Gondor
+Каунасский Андрей :: Plagon, Lord of the Beach
+Булгаков Андрей :: Arwen, Mortal Queen
+Юрченко Андрей :: Glarb, Calamity's Augur
+Фетисов Константин :: Feldon, Ronom Excavator
+Середкин Михаил :: Ertai Resurrected
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/56629

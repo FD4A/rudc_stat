@@ -1,0 +1,136 @@
+{
+    "date": "2025_05_18",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Дмитрий Орешкин",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Вячеслав Серпутько",
+            "Selvala, Explorer Returned"
+        ],
+        [
+            "Александр Смирнов",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Никита Сухов",
+            "Sai, Master Thopterist"
+        ],
+        [
+            "Виталий Васильев",
+            "The Necrobloom"
+        ],
+        [
+            "Тимур Сайфутдинов",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Артём Ангурцов",
+            "Iron Man, Titan of Innovation"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Артём Ангурцов",
+                "Тимур Сайфутдинов",
+                "Iron Man, Titan of Innovation",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Никита Сухов",
+                "Selvala, Explorer Returned",
+                "Sai, Master Thopterist",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Виталий Васильев",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "The Necrobloom",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Смирнов",
+                "Тимур Сайфутдинов",
+                "Tivit, Seller of Secrets",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Никита Сухов",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Sai, Master Thopterist",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Виталий Васильев",
+                "Selvala, Explorer Returned",
+                "The Necrobloom",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Смирнов",
+                "Дмитрий Орешкин",
+                "Tivit, Seller of Secrets",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Тимур Сайфутдинов",
+                "Selvala, Explorer Returned",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Никита Сухов",
+                "Iron Man, Titan of Innovation",
+                "Sai, Master Thopterist",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/57417"
+}

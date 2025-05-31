@@ -1,0 +1,15 @@
+location::Tomsk
+level::Regular
+date::2025_05_21
+organizer::d6tomsk
+players::generals
+Pospelov Alexander :: Ral, Monsoon Mage
+Веренич Артем :: Ertai Resurrected
+Владимиров Егор :: Juri, Master of the Revue
+Иванов Алексей :: Phelia, Exuberant Shepherd
+Остапов Александр :: Feldon, Ronom Excavator
+Демидов Виталий :: The Gitrog Monster
+Торицын Олег :: Emmara, Soul of the Accord
+Чураков Павел :: Shorikai, Genesis Engine
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/57494

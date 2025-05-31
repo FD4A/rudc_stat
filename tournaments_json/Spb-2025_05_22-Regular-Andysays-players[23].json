@@ -1,0 +1,552 @@
+{
+    "date": "2025_05_22",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Коростелев Илья",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Протасов Михаил",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Красников Александр",
+            "Gut, True Soul Zealot :+: Folk Hero"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Олифер Егор",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Саушкин Андрей",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Булочко Михаил",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Артемьев Александр",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Звягин Георгий",
+            "Winter, Cynical Opportunist"
+        ],
+        [
+            "Барабаш Валентин",
+            "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker"
+        ],
+        [
+            "Муравьев Никита",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Фиткулин Антон",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Кузнецов Даня",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Егоров Павел",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Грабовой Филипп",
+            "Glarb, Calamity's Augur"
+        ],
+        [
+            "Богданов Сергей",
+            "Sheoldred, the Apocalypse"
+        ],
+        [
+            "Постоялкин Павел",
+            "Bello, Bard of the Brambles"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Звягин Георгий",
+                "Протасов Михаил",
+                "Winter, Cynical Opportunist",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Ульянов Алексей",
+                "Phelia, Exuberant Shepherd",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Поляков Герман",
+                "Ghyrson Starn, Kelermorph",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Красников Александр",
+                "Vial Smasher the Fierce",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Богданов Сергей",
+                "Glarb, Calamity's Augur",
+                "Sheoldred, the Apocalypse",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Егоров Павел",
+                "Dihada, Binder of Wills",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Булочко Михаил",
+                "Indoraptor, the Perfect Hybrid",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Постоялкин Павел",
+                "Мартынов Яков",
+                "Bello, Bard of the Brambles",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Олифер Егор",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Кузнецов Даня",
+                "Satya, Aetherflux Genius",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Фиткулин Антон",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Красников Александр",
+                "Фиткулин Антон",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Булочко Михаил",
+                "Satya, Aetherflux Genius",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Артемьев Александр",
+                "Tivit, Seller of Secrets",
+                "Ral, Monsoon Mage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Муравьев Роман",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Олифер Егор",
+                "Ghyrson Starn, Kelermorph",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Грабовой Филипп",
+                "Golos, Tireless Pilgrim",
+                "Glarb, Calamity's Augur",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Саушкин Андрей",
+                "Sheoldred, the Apocalypse",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Байков Аркадий",
+                "Phelia, Exuberant Shepherd",
+                "Vial Smasher the Fierce",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Кузнецов Даня",
+                "Winter, Cynical Opportunist",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Поляков Герман",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Постоялкин Павел",
+                "Phelia, Exuberant Shepherd",
+                "Bello, Bard of the Brambles",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Протасов Михаил",
+                "Красников Александр",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Мартынов Яков",
+                "Satya, Aetherflux Genius",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Саушкин Андрей",
+                "Golos, Tireless Pilgrim",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Булочко Михаил",
+                "Ghyrson Starn, Kelermorph",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Фиткулин Антон",
+                "Dihada, Binder of Wills",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Поляков Герман",
+                "Phelia, Exuberant Shepherd",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Богатырев Александр",
+                "Vial Smasher the Fierce",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Артемьев Александр",
+                "Winter, Cynical Opportunist",
+                "Ral, Monsoon Mage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Богданов Сергей",
+                "Shorikai, Genesis Engine",
+                "Sheoldred, the Apocalypse",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Кузнецов Даня",
+                "Phelia, Exuberant Shepherd",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Постоялкин Павел",
+                "Барабаш Валентин",
+                "Bello, Bard of the Brambles",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Коростелев Илья",
+                "Протасов Михаил",
+                "Satya, Aetherflux Genius",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Родюков Федор",
+                "Golos, Tireless Pilgrim",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Мартынов Яков",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Муравьев Роман",
+                "Teferi, Temporal Archmage",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Артемьев Александр",
+                "Indoraptor, the Perfect Hybrid",
+                "Ral, Monsoon Mage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Муравьев Никита",
+                "Shorikai, Genesis Engine",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Байков Аркадий",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Булочко Михаил",
+                "Phelia, Exuberant Shepherd",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Фиткулин Антон",
+                "Звягин Георгий",
+                "Feldon, Ronom Excavator",
+                "Winter, Cynical Opportunist",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Богданов Сергей",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                "Sheoldred, the Apocalypse",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кузнецов Даня",
+                "Постоялкин Павел",
+                "Geist of Saint Traft",
+                "Bello, Bard of the Brambles",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/57523"
+}

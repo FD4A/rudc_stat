@@ -1,0 +1,15 @@
+location::Samara
+level::Regular
+date::2025_05_15
+organizer::Myakabuka
+players::generals
+Безруков Николай :: Feldon, Ronom Excavator
+Краснов Илья :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Циулин Иван :: Dihada, Binder of Wills
+Чекулаев Дмитрий :: Feldon, Ronom Excavator
+Иванов Никита :: Dihada, Binder of Wills
+Курмакаев Игорь :: Grist, the Hunger Tide
+Малкин Алексей :: Phelia, Exuberant Shepherd
+Громов Михаил :: Basim Ibn Ishaq
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/57165

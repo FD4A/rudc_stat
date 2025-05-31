@@ -1,0 +1,33 @@
+location::Spb
+level::Regular
+date::2025_05_29
+organizer::Andysays
+players::generals
+Коростелев Илья :: Soul of Windgrace
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Олифер Егор :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Муравьев Роман :: Dihada, Binder of Wills
+Поляков Герман :: Teferi, Temporal Archmage
+Барабаш Валентин :: Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker
+Лагерев Леонид :: Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero
+Саушкин Андрей :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Мартынов Яков :: Tivit, Seller of Secrets
+Красников Александр :: Gut, True Soul Zealot :+: Folk Hero
+Корсаков Алексей :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Звягин Георгий :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Протасов Михаил :: Azusa, Lost but Seeking
+Федоров Дмитрий :: Kroxa, Titan of Death's Hunger
+Ульянов Алексей :: Geist of Saint Traft
+Грабовой Филипп :: Slimefoot and Squee
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Тепляков Антон :: Satya, Aetherflux Genius
+Байков Аркадий :: Vial Smasher the Fierce
+Оснос Владислав :: Satya, Aetherflux Genius
+Булочко Михаил :: Tivit, Seller of Secrets
+Вахитов Ривкат :: The Ur-Dragon
+Хорьков Аркадий :: Arahbo, Roar of the World
+Артемьев Александр :: Ral, Monsoon Mage
+Егоров Павел :: Phelia, Exuberant Shepherd
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/57691

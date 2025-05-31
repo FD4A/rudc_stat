@@ -1,0 +1,13 @@
+location::Ussuriysk
+level::Regular
+date::2025_05_25
+organizer::Usstiger
+players::generals
+Кирилл С :: Flamewar, Brash Veteran
+Слава Ш :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Алексей Ж :: Grist, the Hunger Tide
+Матвей Б :: Thalia and Gitrog Monster
+Михаил С :: Urza, Lord Protector
+Дима И :: Wilhelt, the Rotcleaver
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/57605

@@ -1,0 +1,170 @@
+{
+    "date": "2025_05_21",
+    "location": "Tomsk",
+    "level": "Regular",
+    "organizer": "d6tomsk",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Pospelov Alexander",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Веренич Артем",
+            "Ertai Resurrected"
+        ],
+        [
+            "Владимиров Егор",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Иванов Алексей",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Остапов Александр",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Демидов Виталий",
+            "The Gitrog Monster"
+        ],
+        [
+            "Торицын Олег",
+            "Emmara, Soul of the Accord"
+        ],
+        [
+            "Чураков Павел",
+            "Shorikai, Genesis Engine"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Pospelov Alexander",
+                "Чураков Павел",
+                "Ral, Monsoon Mage",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Владимиров Егор",
+                "The Gitrog Monster",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Остапов Александр",
+                "Иванов Алексей",
+                "Feldon, Ronom Excavator",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Торицын Олег",
+                "Веренич Артем",
+                "Emmara, Soul of the Accord",
+                "Ertai Resurrected",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Владимиров Егор",
+                "Веренич Артем",
+                "Juri, Master of the Revue",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Pospelov Alexander",
+                "Остапов Александр",
+                "Ral, Monsoon Mage",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Иванов Алексей",
+                "Shorikai, Genesis Engine",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Торицын Олег",
+                "The Gitrog Monster",
+                "Emmara, Soul of the Accord",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Pospelov Alexander",
+                "Веренич Артем",
+                "Ral, Monsoon Mage",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Владимиров Егор",
+                "Остапов Александр",
+                "Juri, Master of the Revue",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Алексей",
+                "Демидов Виталий",
+                "Phelia, Exuberant Shepherd",
+                "The Gitrog Monster",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Торицын Олег",
+                "Shorikai, Genesis Engine",
+                "Emmara, Soul of the Accord",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/57494"
+}

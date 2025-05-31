@@ -1,0 +1,170 @@
+{
+    "date": "2025_05_18",
+    "location": "Simferopl",
+    "level": "Regular",
+    "organizer": "Fenrisulfr",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Александр Гладун",
+            "Phlage, Titan of Fire's Fury"
+        ],
+        [
+            "Виталий Чайкин",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Нина Фенрис",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Игорь Гавеля Олегович",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Антон Баранюк",
+            "Arcades, the Strategist"
+        ],
+        [
+            "Владимир Данилов",
+            "Aragorn, the Uniter"
+        ],
+        [
+            "Сергей Кочегаров",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Даниил Сотников",
+            "Feldon, Ronom Excavator"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Даниил Сотников",
+                "Нина Фенрис",
+                "Feldon, Ronom Excavator",
+                "Light-Paws, Emperor's Voice",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Игорь Гавеля Олегович",
+                "Александр Гладун",
+                "Dihada, Binder of Wills",
+                "Phlage, Titan of Fire's Fury",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Антон Баранюк",
+                "Владимир Данилов",
+                "Arcades, the Strategist",
+                "Aragorn, the Uniter",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Виталий Чайкин",
+                "Сергей Кочегаров",
+                "Ghyrson Starn, Kelermorph",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Даниил Сотников",
+                "Сергей Кочегаров",
+                "Feldon, Ronom Excavator",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Антон Баранюк",
+                "Игорь Гавеля Олегович",
+                "Arcades, the Strategist",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Виталий Чайкин",
+                "Нина Фенрис",
+                "Ghyrson Starn, Kelermorph",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Гладун",
+                "Владимир Данилов",
+                "Phlage, Titan of Fire's Fury",
+                "Aragorn, the Uniter",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Виталий Чайкин",
+                "Александр Гладун",
+                "Ghyrson Starn, Kelermorph",
+                "Phlage, Titan of Fire's Fury",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сергей Кочегаров",
+                "Нина Фенрис",
+                "Feldon, Ronom Excavator",
+                "Light-Paws, Emperor's Voice",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Владимир Данилов",
+                "Игорь Гавеля Олегович",
+                "Aragorn, the Uniter",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Антон Баранюк",
+                "Даниил Сотников",
+                "Arcades, the Strategist",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/57420"
+}

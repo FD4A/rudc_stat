@@ -1,0 +1,17 @@
+location::Volgograd
+level::Regular
+date::2025_05_25
+organizer::Rombik34rus
+players::generals
+Тимур Сайфутдинов :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Дмитрий Орешкин :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Вячеслав Серпутько :: Selvala Explorer Returned
+Александр Смирнов :: Tivit, Seller of Secrets
+Александр Токарев :: Grist, the Hunger Tide,
+Андрей Губин :: Ezio Auditore da Firenze
+Виталий Васильев :: The Necrobloom
+Артём Ангурцов :: Shorikai, Genesis Engine
+Павел Знаменщиков :: Grakmaw, Skyclave Ravager
+Владимир Воровальницев :: Feldon, Ronom Excavator
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/57609

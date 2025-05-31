@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2025_05_28
+organizer::Illator
+players::generals
+Саня :: Plagon, Lord of the Beach
+Егорка :: Ghyrson Starn, Kelermorph
+Илюха :: Ertai Resurrected
+Водим :: Unctus, Grand Metatect
+Паша :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Тëма :: Lonis, Cryptozoologist
+Round
+https://aetherhub.com/Tourney/RoundTourney/57676

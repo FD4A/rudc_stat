@@ -1,0 +1,260 @@
+{
+    "date": "2025_05_18",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Тимур Сайфутдинов",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Дмитрий Орешкин",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Вячеслав Серпутько",
+            "Selvala, Explorer Returned"
+        ],
+        [
+            "Александр Смирнов",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Александр Токарев",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Андрей Губин",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Виталий Васильев",
+            "The Necrobloom"
+        ],
+        [
+            "Артём Ангурцов",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Павел Знаменщиков",
+            "Grakmaw, Skyclave Ravager"
+        ],
+        [
+            "Владимир Воровальницев",
+            "Feldon, Ronom Excavator"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Андрей Губин",
+                "Александр Токарев",
+                "Ezio Auditore da Firenze",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Виталий Васильев",
+                "Selvala, Explorer Returned",
+                "The Necrobloom",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Владимир Воровальницев",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Артём Ангурцов",
+                "Tivit, Seller of Secrets",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Павел Знаменщиков",
+                "Тимур Сайфутдинов",
+                "Grakmaw, Skyclave Ravager",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Смирнов",
+                "Вячеслав Серпутько",
+                "Tivit, Seller of Secrets",
+                "Selvala, Explorer Returned",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Тимур Сайфутдинов",
+                "Grist, the Hunger Tide",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Виталий Васильев",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "The Necrobloom",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Владимир Воровальницев",
+                "Артём Ангурцов",
+                "Feldon, Ronom Excavator",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Андрей Губин",
+                "Павел Знаменщиков",
+                "Ezio Auditore da Firenze",
+                "Grakmaw, Skyclave Ravager",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Орешкин",
+                "Александр Смирнов",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Вячеслав Серпутько",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Selvala, Explorer Returned",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Артём Ангурцов",
+                "Grist, the Hunger Tide",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Андрей Губин",
+                "Владимир Воровальницев",
+                "Ezio Auditore da Firenze",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Павел Знаменщиков",
+                "The Necrobloom",
+                "Grakmaw, Skyclave Ravager",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Смирнов",
+                "Тимур Сайфутдинов",
+                "Tivit, Seller of Secrets",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Вячеслав Серпутько",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Selvala, Explorer Returned",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Виталий Васильев",
+                "Grist, the Hunger Tide",
+                "The Necrobloom",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Андрей Губин",
+                "Артём Ангурцов",
+                "Ezio Auditore da Firenze",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Владимир Воровальницев",
+                "Павел Знаменщиков",
+                "Feldon, Ronom Excavator",
+                "Grakmaw, Skyclave Ravager",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/57609"
+}

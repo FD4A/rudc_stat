@@ -1,0 +1,644 @@
+{
+    "date": "2025_05_29",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Коростелев Илья",
+            "Soul of Windgrace"
+        ],
+        [
+            "Муравьев Никита",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Олифер Егор",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Барабаш Валентин",
+            "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker"
+        ],
+        [
+            "Лагерев Леонид",
+            "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Саушкин Андрей",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Красников Александр",
+            "Gut, True Soul Zealot :+: Folk Hero"
+        ],
+        [
+            "Корсаков Алексей",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Звягин Георгий",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Протасов Михаил",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Ульянов Алексей",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Грабовой Филипп",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Тепляков Антон",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Оснос Владислав",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Булочко Михаил",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Вахитов Ривкат",
+            "The Ur-Dragon"
+        ],
+        [
+            "Хорьков Аркадий",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Артемьев Александр",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Егоров Павел",
+            "Phelia, Exuberant Shepherd"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Коростелев Илья",
+                "Богатырев Александр",
+                "Soul of Windgrace",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Булочко Михаил",
+                "Kroxa, Titan of Death's Hunger",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Поляков Герман",
+                "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тепляков Антон",
+                "Барабаш Валентин",
+                "Satya, Aetherflux Genius",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Протасов Михаил",
+                "Geist of Saint Traft",
+                "Azusa, Lost but Seeking",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Звягин Георгий",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Хорьков Аркадий",
+                "Мартынов Яков",
+                "Arahbo, Roar of the World",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Артемьев Александр",
+                "Красников Александр",
+                "Ral, Monsoon Mage",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Олифер Егор",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Родюков Федор",
+                "Phelia, Exuberant Shepherd",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Грабовой Филипп",
+                "The Ur-Dragon",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Байков Аркадий",
+                "Phelia, Exuberant Shepherd",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Оснос Владислав",
+                "Dihada, Binder of Wills",
+                "Satya, Aetherflux Genius",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Грабовой Филипп",
+                "Муравьев Никита",
+                "Slimefoot and Squee",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Родюков Федор",
+                "Dihada, Binder of Wills",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тепляков Антон",
+                "Олифер Егор",
+                "Satya, Aetherflux Genius",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Красников Александр",
+                "Azusa, Lost but Seeking",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Саушкин Андрей",
+                "Soul of Windgrace",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Федоров Дмитрий",
+                "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Байков Аркадий",
+                "Tivit, Seller of Secrets",
+                "Vial Smasher the Fierce",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Хорьков Аркадий",
+                "Поляков Герман",
+                "Arahbo, Roar of the World",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Барабаш Валентин",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Артемьев Александр",
+                "Indoraptor, the Perfect Hybrid",
+                "Ral, Monsoon Mage",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Оснос Владислав",
+                "Geist of Saint Traft",
+                "Satya, Aetherflux Genius",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Звягин Георгий",
+                "Phelia, Exuberant Shepherd",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Вахитов Ривкат",
+                "Tivit, Seller of Secrets",
+                "The Ur-Dragon",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Родюков Федор",
+                "Лагерев Леонид",
+                "Ghyrson Starn, Kelermorph",
+                "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Олифер Егор",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Грабовой Филипп",
+                "Soul of Windgrace",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Федоров Дмитрий",
+                "Phelia, Exuberant Shepherd",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Саушкин Андрей",
+                "Vial Smasher the Fierce",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Ульянов Алексей",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Булочко Михаил",
+                "Teferi, Temporal Archmage",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Барабаш Валентин",
+                "Azusa, Lost but Seeking",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Тепляков Антон",
+                "Муравьев Роман",
+                "Satya, Aetherflux Genius",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Артемьев Александр",
+                "Мартынов Яков",
+                "Ral, Monsoon Mage",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Хорьков Аркадий",
+                "Богатырев Александр",
+                "Arahbo, Roar of the World",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Егоров Павел",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Оснос Владислав",
+                "Вахитов Ривкат",
+                "Satya, Aetherflux Genius",
+                "The Ur-Dragon",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Родюков Федор",
+                "Коростелев Илья",
+                "Ghyrson Starn, Kelermorph",
+                "Soul of Windgrace",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Муравьев Никита",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Саушкин Андрей",
+                "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Муравьев Роман",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Звягин Георгий",
+                "Teferi, Temporal Archmage",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Грабовой Филипп",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Мартынов Яков",
+                "Indoraptor, the Perfect Hybrid",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Тепляков Антон",
+                "Корсаков Алексей",
+                "Satya, Aetherflux Genius",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Федоров Дмитрий",
+                "Vial Smasher the Fierce",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Оснос Владислав",
+                "Azusa, Lost but Seeking",
+                "Satya, Aetherflux Genius",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Булочко Михаил",
+                "Geist of Saint Traft",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артемьев Александр",
+                "Хорьков Аркадий",
+                "Ral, Monsoon Mage",
+                "Arahbo, Roar of the World",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Вахитов Ривкат",
+                "Phelia, Exuberant Shepherd",
+                "The Ur-Dragon",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/57691"
+}

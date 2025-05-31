@@ -1,0 +1,30 @@
+location::Spb
+level::Regular
+date::2025_05_22
+organizer::Andysays
+players::generals
+Коростелев Илья :: Satya, Aetherflux Genius
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Протасов Михаил :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Красников Александр :: Gut, True Soul Zealot :+: Folk Hero
+Поляков Герман :: Teferi, Temporal Archmage
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Олифер Егор :: Shorikai, Genesis Engine
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Саушкин Андрей :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Булочко Михаил :: Tivit, Seller of Secrets
+Мартынов Яков :: Tivit, Seller of Secrets
+Артемьев Александр :: Ral, Monsoon Mage
+Муравьев Роман :: Dihada, Binder of Wills
+Звягин Георгий :: Winter, Cynical Opportunist
+Барабаш Валентин :: Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Байков Аркадий :: Vial Smasher the Fierce
+Фиткулин Антон :: Feldon, Ronom Excavator
+Кузнецов Даня :: Geist of Saint Traft
+Егоров Павел :: Phelia, Exuberant Shepherd
+Грабовой Филипп :: Glarb, Calamity's Augur
+Богданов Сергей :: Sheoldred, the Apocalypse
+Постоялкин Павел :: Bello, Bard of the Brambles
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/57523

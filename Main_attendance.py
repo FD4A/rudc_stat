@@ -14,7 +14,7 @@ def update_visit_list(tournament, VisitList):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser('RuDcStat')
     parser.add_argument('--tournament_folder', default='tournaments_json')
-    parser.add_argument('--start_date', default='2024_12_07')  # 0000_00_00 2024_09_00 2024_12_07
+    parser.add_argument('--start_date', default='2025_04_21')  # 0000_00_00 2024_09_00 2024_12_07
     parser.add_argument('--finish_date', default='9999_99_99')
     args = parser.parse_args()
 

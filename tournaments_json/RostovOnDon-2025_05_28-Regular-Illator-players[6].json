@@ -1,0 +1,132 @@
+{
+    "date": "2025_05_28",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Illator",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Саня",
+            "Plagon, Lord of the Beach"
+        ],
+        [
+            "Егорка",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Илюха",
+            "Ertai Resurrected"
+        ],
+        [
+            "Водим",
+            "Unctus, Grand Metatect"
+        ],
+        [
+            "Паша",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Тëма",
+            "Lonis, Cryptozoologist"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Егорка",
+                "Тëма",
+                "Ghyrson Starn, Kelermorph",
+                "Lonis, Cryptozoologist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Водим",
+                "Саня",
+                "Unctus, Grand Metatect",
+                "Plagon, Lord of the Beach",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Илюха",
+                "Паша",
+                "Ertai Resurrected",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Паша",
+                "Егорка",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Водим",
+                "Илюха",
+                "Unctus, Grand Metatect",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Саня",
+                "Тëма",
+                "Plagon, Lord of the Beach",
+                "Lonis, Cryptozoologist",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Егорка",
+                "Саня",
+                "Ghyrson Starn, Kelermorph",
+                "Plagon, Lord of the Beach",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Паша",
+                "Водим",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Unctus, Grand Metatect",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Илюха",
+                "Тëма",
+                "Ertai Resurrected",
+                "Lonis, Cryptozoologist",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/57676"
+}

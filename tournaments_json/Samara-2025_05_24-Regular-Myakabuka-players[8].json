@@ -1,0 +1,170 @@
+{
+    "date": "2025_05_24",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Ревин Владимир",
+            "Elenda, Saint of Dusk"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Громов Михаил",
+            "Thrasios, Triton Hero :+: Francisco, Fowl Marauder"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Краснов Илья",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Кормаков Александр",
+            "Ghired, Mirror of the Wilds"
+        ],
+        [
+            "Тимохин Денис",
+            "Mendicant Core, Guidelight"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Матюнин Антон",
+                "Безруков Николай",
+                "Muxus, Goblin Grandee",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Ревин Владимир",
+                "Mendicant Core, Guidelight",
+                "Elenda, Saint of Dusk",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Кормаков Александр",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Ghired, Mirror of the Wilds",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Громов Михаил",
+                "Grist, the Hunger Tide",
+                "Thrasios, Triton Hero :+: Francisco, Fowl Marauder",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Ревин Владимир",
+                "Матюнин Антон",
+                "Elenda, Saint of Dusk",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Курмакаев Игорь",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Громов Михаил",
+                "Тимохин Денис",
+                "Thrasios, Triton Hero :+: Francisco, Fowl Marauder",
+                "Mendicant Core, Guidelight",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Кормаков Александр",
+                "Feldon, Ronom Excavator",
+                "Ghired, Mirror of the Wilds",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Курмакаев Игорь",
+                "Ревин Владимир",
+                "Grist, the Hunger Tide",
+                "Elenda, Saint of Dusk",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Краснов Илья",
+                "Muxus, Goblin Grandee",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Громов Михаил",
+                "Безруков Николай",
+                "Thrasios, Triton Hero :+: Francisco, Fowl Marauder",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Кормаков Александр",
+                "Mendicant Core, Guidelight",
+                "Ghired, Mirror of the Wilds",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/57576"
+}

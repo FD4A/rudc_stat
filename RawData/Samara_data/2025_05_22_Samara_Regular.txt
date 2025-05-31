@@ -1,0 +1,15 @@
+location::Samara
+level::Regular
+date::2025_05_22
+organizer::Myakabuka
+players::generals
+Краснов Илья :: Ertai Resurrected
+Курмакаев Игорь :: Grist, the Hunger Tide
+Матюнин Антон :: Muxus, Goblin Grandee
+Безруков Николай :: Feldon, Ronom Excavator
+Циулин Ваня :: Deadpool, Trading Card
+Малкин Алексей :: Phelia, Exuberant Shepherd
+Иванов Никита :: Dihada, Binder of Wills
+Громов Михаил :: Ivora, Insatiable Heir
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/57517

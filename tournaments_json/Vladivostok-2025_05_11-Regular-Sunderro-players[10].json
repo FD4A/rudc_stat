@@ -1,0 +1,260 @@
+{
+    "date": "2025_05_11",
+    "location": "Vladivostok",
+    "level": "Regular",
+    "organizer": "Sunderro",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Жменя Алексей",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Кривошеев Всеволод",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Гавриленко Валентин",
+            "Taii Wakeen, Perfect Shot"
+        ],
+        [
+            "Гомзарь Макар",
+            "Ratchet, Field Medic"
+        ],
+        [
+            "Резниченко Олег",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Каунасский Андрей",
+            "Plagon, Lord of the Beach"
+        ],
+        [
+            "Булгаков Андрей",
+            "Arwen, Mortal Queen"
+        ],
+        [
+            "Юрченко Андрей",
+            "Glarb, Calamity's Augur"
+        ],
+        [
+            "Фетисов Константин",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Середкин Михаил",
+            "Ertai Resurrected"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Середкин Михаил",
+                "Юрченко Андрей",
+                "Ertai Resurrected",
+                "Glarb, Calamity's Augur",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Булгаков Андрей",
+                "Резниченко Олег",
+                "Arwen, Mortal Queen",
+                "Aragorn, King of Gondor",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Гомзарь Макар",
+                "Жменя Алексей",
+                "Ratchet, Field Medic",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Гавриленко Валентин",
+                "Каунасский Андрей",
+                "Taii Wakeen, Perfect Shot",
+                "Plagon, Lord of the Beach",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кривошеев Всеволод",
+                "Фетисов Константин",
+                "Azusa, Lost but Seeking",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Резниченко Олег",
+                "Гавриленко Валентин",
+                "Aragorn, King of Gondor",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кривошеев Всеволод",
+                "Жменя Алексей",
+                "Azusa, Lost but Seeking",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Середкин Михаил",
+                "Фетисов Константин",
+                "Ertai Resurrected",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Юрченко Андрей",
+                "Каунасский Андрей",
+                "Glarb, Calamity's Augur",
+                "Plagon, Lord of the Beach",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Булгаков Андрей",
+                "Гомзарь Макар",
+                "Arwen, Mortal Queen",
+                "Ratchet, Field Medic",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Гавриленко Валентин",
+                "Жменя Алексей",
+                "Taii Wakeen, Perfect Shot",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Юрченко Андрей",
+                "Резниченко Олег",
+                "Glarb, Calamity's Augur",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Фетисов Константин",
+                "Гомзарь Макар",
+                "Feldon, Ronom Excavator",
+                "Ratchet, Field Medic",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кривошеев Всеволод",
+                "Булгаков Андрей",
+                "Azusa, Lost but Seeking",
+                "Arwen, Mortal Queen",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Середкин Михаил",
+                "Каунасский Андрей",
+                "Ertai Resurrected",
+                "Plagon, Lord of the Beach",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Жменя Алексей",
+                "Резниченко Олег",
+                "Grist, the Hunger Tide",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Гавриленко Валентин",
+                "Кривошеев Всеволод",
+                "Taii Wakeen, Perfect Shot",
+                "Azusa, Lost but Seeking",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Гомзарь Макар",
+                "Юрченко Андрей",
+                "Ratchet, Field Medic",
+                "Glarb, Calamity's Augur",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Каунасский Андрей",
+                "Фетисов Константин",
+                "Plagon, Lord of the Beach",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Булгаков Андрей",
+                "Середкин Михаил",
+                "Arwen, Mortal Queen",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/56629"
+}

@@ -1,0 +1,15 @@
+location::Simferopl
+level::Regular
+date::2025_05_18
+organizer::Fenrisulfr
+players::generals
+Александр Гладун :: Phlage, Titan of Fire's Fury
+Виталий Чайкин :: Ghyrson Starn, Kelermorph
+Нина Фенрис :: Light-Paws, Emperor's Voice
+Игорь Гавеля Олегович :: Dihada, Binder of Wills
+Антон Баранюк :: Arcades, the Strategist
+Владимир Данилов :: Aragorn, the Uniter
+Сергей Кочегаров :: Feldon, Ronom Excavator
+Даниил Сотников :: Feldon, Ronom Excavator
+Round
+https://aetherhub.com/Tourney/RoundTourney/57420

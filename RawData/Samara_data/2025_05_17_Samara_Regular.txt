@@ -1,0 +1,18 @@
+location::Samara
+level::Regular
+date::2025_05_17
+organizer::Myakabuka
+players::generals
+Безруков Николай :: Feldon, Ronom Excavator
+Краснов Илья :: Ertai Resurrected
+Матюнин Антон :: Muxus, Goblin Grandee
+Курмакаев Игорь :: Grist, the Hunger Tide
+Громов Михаил :: Dihada, Binder of Wills
+Циулин Иван :: Deadpool, Trading Card
+Сибикин Антон :: Shorikai, Genesis Engine
+Кормаков Александр :: Ukkima, Stalking Shadow
+Ревин Владимир :: Elenda, Saint of Dusk
+Васильев Кирилл :: Dihada, Binder of Wills
+Тимохин Денис :: Glarb, Calamity's Augur
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/57261
