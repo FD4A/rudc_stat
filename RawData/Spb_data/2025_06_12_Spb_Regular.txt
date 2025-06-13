@@ -1,0 +1,39 @@
+location::Spb
+level::Regular
+date::2025_06_12
+organizer::Andysays
+players::generals
+Олифер Егор :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Поляков Герман :: Teferi, Temporal Archmage
+Очеповский :: Winter, Cynical Opportunist
+Протасов Михаил :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Барабаш Валентин :: Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker
+Красников Александр :: Gut, True Soul Zealot :+: Folk Hero
+Байков Аркадий :: Vial Smasher the Fierce
+Шестаков Игорь :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Мартынов Яков :: Tivit, Seller of Secrets
+Порошин Денис :: Daretti, Scrap Savant
+Муравьев Роман :: Dihada, Binder of Wills
+Цюра Максим :: Aragorn, King of Gondor
+Вахитов Ривкат :: Feldon, Ronom Excavator
+Грабовой Филипп :: Phelia, Exuberant Shepherd
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Тяпайкин Максим :: Golos, Tireless Pilgrim
+Федоров Дмитрий :: Kroxa, Titan of Death's Hunger
+Звягин Георгий :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Хорьков Аркадий :: Arahbo, Roar of the World
+Тарасенко Никита :: Tivit, Seller of Secrets
+Юсенко Глеб :: Ezio Auditore da Firenze
+Ульянов Алексей :: Slimefoot and Squee
+Иванов Дмитрий :: Ketramose, the New Dawn
+Кузнецов Даня :: Geist of Saint Traft
+Жовтобрюх Роман :: Slimefoot and Squee
+Таловер Артем :: Deadpool, Trading Card
+Сушков Дмитрий :: Gargos, Vicious Watcher
+Саушкин Андрей :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Коростелев Илья :: Satya, Aetherflux Genius
+Постоялкин Павел :: Cecil, Dark Knight
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/58059

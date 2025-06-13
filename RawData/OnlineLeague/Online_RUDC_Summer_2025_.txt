@@ -1,0 +1,43 @@
+location::Online
+level::Regular
+date::2025_05_31
+organizer::AlexSmirnov
+players::generals
+Бурмистров Павел :: Glarb, Calamity's Augur
+Павликов Владислав :: Hidetsugu and Kairi
+Редько Павел :: Arabella, Abandoned Doll
+Скляров Филипп :: Tymna the Weaver :+: Thrasios, Triton Hero
+Поляков Герман :: G'Raha Tia, Scion Reborn
+Олифер Егор :: G'Raha Tia, Scion Reborn
+Серпутько Слава :: Lightning, Army of One
+Краснов Илья :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Жменя Алексей :: Grist, the Hunger Tide
+Шестаков Игорь :: Cecil, Dark Knight
+Антипин Костя :: Deadpool, Trading Card
+Мещеряков Максим :: Tymna the Weaver :+: Thrasios, Triton Hero
+Сайфутдинов Тимур :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Череповский Роман :: Juri, Master of the Revue
+Барабаш Валентин :: Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker
+Согрин Вадим :: Feldon, Ronom Excavator
+Матюнин Антон :: Muxus, Goblin Grandee
+Костин Андрей :: Iron Man, Titan of Innovation
+Сухов Никитка :: The Wandering Minstrel
+Долганов Матвей :: Satoru, the Infiltrator
+Васильев Илья :: Deadpool, Trading Card
+Циулин Иван :: Pippin, Warden of Isengard :+: Merry, Warden of Isengard
+Шубенин Илья :: Vivi Ornitier
+Козлов Максим :: Feldon, Ronom Excavator
+Захаренко Вячеслав :: Ivy, Gleeful Spellthief
+Муравьев Роман :: Dihada, Binder of Wills
+Поспелов Александр :: Winter, Cursed Rider
+Плотников Александр :: Sai, Master Thopterist
+Ревин Владимир :: Cecil, Dark Knight
+Давыдов Александр :: Magda, Brazen Outlaw
+Лагерев Леонид :: Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero
+Петровых Дмитрий :: Clement, the Worrywort
+Третьяков Дмитрий :: Flubs, the Fool
+Штофов Арсений :: Deadpool, Trading Card
+Стрельцов Артем :: Animar, Soul of Elements
+Иванов Дмитрий :: Tivit, Seller of Secrets
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/57780

@@ -1,0 +1,17 @@
+location::Volgograd
+level::Regular
+date::2025_06_01
+organizer::Rombik34rus
+players::generals
+Артём Ангурцов :: Iron Man, Titan of Innovation
+Александр Смирнов :: Tivit, Seller of Secrets
+Дмитрий Орешкин :: Hidetsugu and Kairi
+Артём Стрельцов :: Eladamri, Lord of Leaves
+Андрей Губин :: Dihada, Binder of Wills
+Никита Сухов :: Shorikai, Genesis Engine
+Тимур Сайфутдинов :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Виталий Васильев :: The Gitrog Monster
+Андрей Костин :: Shorikai, Genesis Engine
+Иван Перепелицин :: Emmara, Soul of the Accord
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/57792
