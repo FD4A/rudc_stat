@@ -1,0 +1,16 @@
+location::Samara
+level::Regular
+date::2025_06_07
+organizer::Myakabuka
+players::generals
+Циулин Иван :: Deadpool, Trading Card
+Краснов Илья :: Ertai Resurrected
+Безруков Николай :: Feldon, Ronom Excavator
+Курмакаев Игорь :: Grist, the Hunger Tide
+Кормаков Александр :: Ghired, Mirror of the Wilds
+Матюнин Антон :: Muxus, Goblin Grandee
+Ревин Владимир :: Elenda, Saint of Dusk
+Иванов Никита :: Rograkh, Son of Rohgahh :+: Tymna the Weaver
+Козлов Максим :: Ketramose, the Nes Dawn
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/57931

@@ -1,0 +1,98 @@
+{
+    "date": "2025_06_01",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Шатохин Александр",
+            "Lier, Disciple of the Drowned"
+        ],
+        [
+            "Кормаков Александр",
+            "Ghired, Mirror of the Wilds"
+        ],
+        [
+            "Краснов Илья",
+            "Ertai Resurrected"
+        ],
+        [
+            "Иванов Никита",
+            "The War Doctor :+: Clara Oswald"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Кормаков Александр",
+                "Краснов Илья",
+                "Ghired, Mirror of the Wilds",
+                "Ertai Resurrected",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Шатохин Александр",
+                "The War Doctor :+: Clara Oswald",
+                "Lier, Disciple of the Drowned",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Курмакаев Игорь",
+                "Кормаков Александр",
+                "Grist, the Hunger Tide",
+                "Ghired, Mirror of the Wilds",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Шатохин Александр",
+                "Краснов Илья",
+                "Lier, Disciple of the Drowned",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Шатохин Александр",
+                "Курмакаев Игорь",
+                "Lier, Disciple of the Drowned",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Кормаков Александр",
+                "The War Doctor :+: Clara Oswald",
+                "Ghired, Mirror of the Wilds",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/57805"
+}

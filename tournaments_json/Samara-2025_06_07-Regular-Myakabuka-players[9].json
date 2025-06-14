@@ -1,0 +1,216 @@
+{
+    "date": "2025_06_07",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Циулин Иван",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Краснов Илья",
+            "Ertai Resurrected"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Кормаков Александр",
+            "Ghired, Mirror of the Wilds"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Ревин Владимир",
+            "Elenda, Saint of Dusk"
+        ],
+        [
+            "Иванов Никита",
+            "Rograkh, Son of Rohgahh :+: Tymna the Weaver"
+        ],
+        [
+            "Козлов Максим",
+            "Ketramose, the New Dawn"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Курмакаев Игорь",
+                "Безруков Николай",
+                "Grist, the Hunger Tide",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Краснов Илья",
+                "Elenda, Saint of Dusk",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Козлов Максим",
+                "Deadpool, Trading Card",
+                "Ketramose, the New Dawn",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Матюнин Антон",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Muxus, Goblin Grandee",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Безруков Николай",
+                "Краснов Илья",
+                "Feldon, Ronom Excavator",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Кормаков Александр",
+                "Muxus, Goblin Grandee",
+                "Ghired, Mirror of the Wilds",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Иванов Никита",
+                "Deadpool, Trading Card",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Ревин Владимир",
+                "Ketramose, the New Dawn",
+                "Elenda, Saint of Dusk",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Циулин Иван",
+                "Кормаков Александр",
+                "Deadpool, Trading Card",
+                "Ghired, Mirror of the Wilds",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Матюнин Антон",
+                "Ertai Resurrected",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Ревин Владимир",
+                "Grist, the Hunger Tide",
+                "Elenda, Saint of Dusk",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Козлов Максим",
+                "Feldon, Ronom Excavator",
+                "Ketramose, the New Dawn",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Циулин Иван",
+                "Ertai Resurrected",
+                "Deadpool, Trading Card",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кормаков Александр",
+                "Безруков Николай",
+                "Ghired, Mirror of the Wilds",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Иванов Никита",
+                "Grist, the Hunger Tide",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Козлов Максим",
+                "Muxus, Goblin Grandee",
+                "Ketramose, the New Dawn",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/57931"
+}

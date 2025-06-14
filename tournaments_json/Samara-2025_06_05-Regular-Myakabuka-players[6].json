@@ -1,0 +1,132 @@
+{
+    "date": "2025_06_05",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Чекулаев Дмитрий",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Громов Михаил",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Иванов Никита",
+            "The War Doctor :+: Clara Oswald"
+        ],
+        [
+            "Шатохин Александр",
+            "Lier, Disciple of the Drowned"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Чекулаев Дмитрий",
+                "Громов Михаил",
+                "Feldon, Ronom Excavator",
+                "Ketramose, the New Dawn",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Шатохин Александр",
+                "Безруков Николай",
+                "Lier, Disciple of the Drowned",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Курмакаев Игорь",
+                "The War Doctor :+: Clara Oswald",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Чекулаев Дмитрий",
+                "Курмакаев Игорь",
+                "Feldon, Ronom Excavator",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Иванов Никита",
+                "Feldon, Ronom Excavator",
+                "The War Doctor :+: Clara Oswald",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шатохин Александр",
+                "Громов Михаил",
+                "Lier, Disciple of the Drowned",
+                "Ketramose, the New Dawn",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Курмакаев Игорь",
+                "Безруков Николай",
+                "Grist, the Hunger Tide",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Громов Михаил",
+                "The War Doctor :+: Clara Oswald",
+                "Ketramose, the New Dawn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Чекулаев Дмитрий",
+                "Шатохин Александр",
+                "Feldon, Ronom Excavator",
+                "Lier, Disciple of the Drowned",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/57879"
+}

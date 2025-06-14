@@ -1,0 +1,13 @@
+location::Samara
+level::Regular
+date::2025_06_05
+organizer::Myakabuka
+players::generals
+Курмакаев Игорь :: Grist, the Hunger Tide
+Чекулаев Дмитрий :: Feldon, Ronom Excavator
+Безруков Николай :: Feldon, Ronom Excavator
+Громов Михаил :: Ketramose, the New Dawn
+Иванов Никита :: The War Doctor :+: Clara Oswald
+Шатохин Александр :: Lier, Disciple of the Drowned
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/57879

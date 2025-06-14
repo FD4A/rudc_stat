@@ -1,0 +1,12 @@
+location::Samara
+level::Regular
+date::2025_06_01
+organizer::Myakabuka
+players::generals
+Курмакаев Игорь :: Grist, the Hunger Tide
+Шатохин Александр :: Lier, Disciple of the Drowned
+Кормаков Александр :: Ghired, Mirror of the Wilds
+Краснов Илья :: Ertai Resurrected
+Иванов Никита :: The War Doctor :+: Clara Oswald
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/57805

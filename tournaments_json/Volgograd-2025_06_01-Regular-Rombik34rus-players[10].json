@@ -1,0 +1,260 @@
+{
+    "date": "2025_06_01",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Артём Ангурцов",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Александр Смирнов",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Дмитрий Орешкин",
+            "Hidetsugu and Kairi"
+        ],
+        [
+            "Артём Стрельцов",
+            "Eladamri, Lord of Leaves"
+        ],
+        [
+            "Андрей Губин",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Никита Сухов",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Тимур Сайфутдинов",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Виталий Васильев",
+            "The Gitrog Monster"
+        ],
+        [
+            "Андрей Костин",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Иван Перепелицин",
+            "Emmara, Soul of the Accord"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Андрей Губин",
+                "Иван Перепелицин",
+                "Dihada, Binder of Wills",
+                "Emmara, Soul of the Accord",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Андрей Костин",
+                "Тимур Сайфутдинов",
+                "Shorikai, Genesis Engine",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Артём Стрельцов",
+                "Hidetsugu and Kairi",
+                "Eladamri, Lord of Leaves",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Никита Сухов",
+                "Iron Man, Titan of Innovation",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Виталий Васильев",
+                "Tivit, Seller of Secrets",
+                "The Gitrog Monster",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Артём Ангурцов",
+                "Тимур Сайфутдинов",
+                "Iron Man, Titan of Innovation",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Андрей Губин",
+                "Александр Смирнов",
+                "Dihada, Binder of Wills",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Виталий Васильев",
+                "Hidetsugu and Kairi",
+                "The Gitrog Monster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Иван Перепелицин",
+                "Eladamri, Lord of Leaves",
+                "Emmara, Soul of the Accord",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Андрей Костин",
+                "Никита Сухов",
+                "Shorikai, Genesis Engine",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Орешкин",
+                "Александр Смирнов",
+                "Hidetsugu and Kairi",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Андрей Губин",
+                "Iron Man, Titan of Innovation",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Андрей Костин",
+                "Eladamri, Lord of Leaves",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Никита Сухов",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Иван Перепелицин",
+                "The Gitrog Monster",
+                "Emmara, Soul of the Accord",
+                [
+                    1,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Смирнов",
+                "Артём Ангурцов",
+                "Tivit, Seller of Secrets",
+                "Iron Man, Titan of Innovation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Виталий Васильев",
+                "Eladamri, Lord of Leaves",
+                "The Gitrog Monster",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иван Перепелицин",
+                "Никита Сухов",
+                "Emmara, Soul of the Accord",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Тимур Сайфутдинов",
+                "Hidetsugu and Kairi",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Андрей Губин",
+                "Андрей Костин",
+                "Dihada, Binder of Wills",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/57792"
+}

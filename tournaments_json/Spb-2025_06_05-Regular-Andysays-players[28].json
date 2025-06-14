@@ -1,0 +1,692 @@
+{
+    "date": "2025_06_05",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Протасов Михаил",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Ульянов Алексей",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Саушкин Андрей",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Красников Александр",
+            "Gut, True Soul Zealot :+: Folk Hero"
+        ],
+        [
+            "Муравьев Никита",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Олифер Егор",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Жовтобрюх Роман",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Таловер Артем",
+            "Winter, Cynical Opportunist"
+        ],
+        [
+            "Барабаш Валентин",
+            "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker"
+        ],
+        [
+            "Оснос Владислав",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Кеворков Артур",
+            "Vivien on the Hunt"
+        ],
+        [
+            "Лагерев Леонид",
+            "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Егоров Павел",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Шестаков Игорь",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Мартынов Владислав",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Постоялкин Павел",
+            "Bello, Bard of the Brambles"
+        ],
+        [
+            "Брук Роман",
+            "Urabrask"
+        ],
+        [
+            "Яковлев Николай",
+            "The Wise Mothman"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Булочко Михаил",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Вахитов Ривкат",
+            "The Ur-Dragon"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Кеворков Артур",
+                "Жовтобрюх Роман",
+                "Vivien on the Hunt",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Таловер Артем",
+                "Deadpool, Trading Card",
+                "Winter, Cynical Opportunist",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Вахитов Ривкат",
+                "Tivit, Seller of Secrets",
+                "The Ur-Dragon",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Ульянов Алексей",
+                "Ghyrson Starn, Kelermorph",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Брук Роман",
+                "Teferi, Temporal Archmage",
+                "Urabrask",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Мартынов Владислав",
+                "Dihada, Binder of Wills",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Постоялкин Павел",
+                "Протасов Михаил",
+                "Bello, Bard of the Brambles",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Богатырев Александр",
+                "Phelia, Exuberant Shepherd",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Барабаш Валентин",
+                "Tivit, Seller of Secrets",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Оснос Владислав",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Satya, Aetherflux Genius",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Лагерев Леонид",
+                "Juri, Master of the Revue",
+                "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Федоров Дмитрий",
+                "Phelia, Exuberant Shepherd",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Байков Аркадий",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Яковлев Николай",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "The Wise Mothman",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Жовтобрюх Роман",
+                "Олифер Егор",
+                "Slimefoot and Squee",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Барабаш Валентин",
+                "Phelia, Exuberant Shepherd",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Протасов Михаил",
+                "Geist of Saint Traft",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Поляков Герман",
+                "Winter, Cynical Opportunist",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Саушкин Андрей",
+                "Tivit, Seller of Secrets",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Семенов Дмитрий",
+                "Муравьев Никита",
+                "Juri, Master of the Revue",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Муравьев Роман",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Владислав",
+                "Лагерев Леонид",
+                "Tivit, Seller of Secrets",
+                "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Байков Аркадий",
+                "Indoraptor, the Perfect Hybrid",
+                "Vial Smasher the Fierce",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Постоялкин Павел",
+                "Кеворков Артур",
+                "Bello, Bard of the Brambles",
+                "Vivien on the Hunt",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Булочко Михаил",
+                "Ghyrson Starn, Kelermorph",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Оснос Владислав",
+                "Федоров Дмитрий",
+                "Satya, Aetherflux Genius",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Вахитов Ривкат",
+                "The Wise Mothman",
+                "The Ur-Dragon",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Брук Роман",
+                "Deadpool, Trading Card",
+                "Urabrask",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Саушкин Андрей",
+                "Teferi, Temporal Archmage",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Барабаш Валентин",
+                "Phelia, Exuberant Shepherd",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Жовтобрюх Роман",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Ульянов Алексей",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Семенов Дмитрий",
+                "Deadpool, Trading Card",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Кеворков Артур",
+                "Phelia, Exuberant Shepherd",
+                "Vivien on the Hunt",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Лагерев Леонид",
+                "Tivit, Seller of Secrets",
+                "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Оснос Владислав",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Satya, Aetherflux Genius",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Байков Аркадий",
+                "Winter, Cynical Opportunist",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Муравьев Роман",
+                "The Wise Mothman",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Мартынов Владислав",
+                "Tivit, Seller of Secrets",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Федоров Дмитрий",
+                "Ghyrson Starn, Kelermorph",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Постоялкин Павел",
+                "Вахитов Ривкат",
+                "Bello, Bard of the Brambles",
+                "The Ur-Dragon",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Брук Роман",
+                "Indoraptor, the Perfect Hybrid",
+                "Urabrask",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Муравьев Никита",
+                "Протасов Михаил",
+                "Phelia, Exuberant Shepherd",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Семенов Дмитрий",
+                "Teferi, Temporal Archmage",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Жовтобрюх Роман",
+                "Красников Александр",
+                "Slimefoot and Squee",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Саушкин Андрей",
+                "Winter, Cynical Opportunist",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Олифер Егор",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кеворков Артур",
+                "Ульянов Алексей",
+                "Vivien on the Hunt",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Муравьев Роман",
+                "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Мартынов Яков",
+                "Vial Smasher the Fierce",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Яковлев Николай",
+                "Phelia, Exuberant Shepherd",
+                "The Wise Mothman",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Оснос Владислав",
+                "Постоялкин Павел",
+                "Satya, Aetherflux Genius",
+                "Bello, Bard of the Brambles",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Федоров Дмитрий",
+                "Deadpool, Trading Card",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Брук Роман",
+                "Мартынов Владислав",
+                "Urabrask",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Богатырев Александр",
+                "Tivit, Seller of Secrets",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Вахитов Ривкат",
+                "Ghyrson Starn, Kelermorph",
+                "The Ur-Dragon",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/57880"
+}

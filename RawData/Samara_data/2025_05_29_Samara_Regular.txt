@@ -1,0 +1,15 @@
+location::Samara
+level::Regular
+date::2025_05_29
+organizer::Myakabuka
+players::generals
+Чекулаев Дмитрий :: Feldon, Ronom Excavator
+Курмакаев Игорь :: Grist, the Hunger Tide
+Малкин Алексей :: Phelia, Exuberant Shepherd
+Иванов Никита :: The War Doctor :+: Clara Oswald
+Безруков Николай :: Feldon, Ronom Excavator
+Краснов Илья :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Тимохин Денис :: Mendicant Core, Guidelight
+Васильев Кирилл :: Dihada, Binder of Wills
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/57696
