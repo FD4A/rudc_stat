@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2025_06_11
+organizer::Illator
+players::generals
+Исаев Александр :: Plagon, Lord of the Beach
+Посидайло Артëм :: Grist, the Hunger Tide
+Шубенин Илья :: Vivi Ornitier
+Бурмистров Павел :: Glarb, Calamity's Augur
+Палеха Егор :: Ghyrson Starn, Kelermorph
+Лукьянов Вадим :: Golbez, Crystal Collector
+Round
+https://aetherhub.com/Tourney/RoundTourney/58034

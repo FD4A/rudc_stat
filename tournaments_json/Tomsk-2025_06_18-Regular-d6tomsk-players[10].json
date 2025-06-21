@@ -1,0 +1,260 @@
+{
+    "date": "2025_06_18",
+    "location": "Tomsk",
+    "level": "Regular",
+    "organizer": "d6tomsk",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Владимиров Егор",
+            "Gut, True Soul Zealot :+: Folk Hero"
+        ],
+        [
+            "Дмитриев Сергей",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Поспелов Александр",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Демидов Виталий",
+            "The Gitrog Monster"
+        ],
+        [
+            "Веренич Артем",
+            "Edric, Spymaster of Trest"
+        ],
+        [
+            "Торицын Олег",
+            "Gut, True Soul Zealot :+: Agent of the Iron Throne"
+        ],
+        [
+            "Фурсов Владимир",
+            "Balmor, Battlemage Captain"
+        ],
+        [
+            "Черепов Антон",
+            "Tourach, Dread Cantor"
+        ],
+        [
+            "Чураков Павел",
+            "Sai, Master Thopterist"
+        ],
+        [
+            "Кузнецов Северин",
+            "Kykar, Wind's Fury"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Черепов Антон",
+                "Веренич Артем",
+                "Tourach, Dread Cantor",
+                "Edric, Spymaster of Trest",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Кузнецов Северин",
+                "Ral, Monsoon Mage",
+                "Kykar, Wind's Fury",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Торицын Олег",
+                "Фурсов Владимир",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Balmor, Battlemage Captain",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дмитриев Сергей",
+                "Чураков Павел",
+                "Feldon, Ronom Excavator",
+                "Sai, Master Thopterist",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Владимиров Егор",
+                "The Gitrog Monster",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Фурсов Владимир",
+                "Веренич Артем",
+                "Balmor, Battlemage Captain",
+                "Edric, Spymaster of Trest",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Владимиров Егор",
+                "Дмитриев Сергей",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Торицын Олег",
+                "Ral, Monsoon Mage",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Демидов Виталий",
+                "Kykar, Wind's Fury",
+                "The Gitrog Monster",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Черепов Антон",
+                "Sai, Master Thopterist",
+                "Tourach, Dread Cantor",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Владимиров Егор",
+                "Веренич Артем",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Edric, Spymaster of Trest",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Фурсов Владимир",
+                "Ral, Monsoon Mage",
+                "Balmor, Battlemage Captain",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дмитриев Сергей",
+                "Черепов Антон",
+                "Feldon, Ronom Excavator",
+                "Tourach, Dread Cantor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Торицын Олег",
+                "Kykar, Wind's Fury",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Чураков Павел",
+                "The Gitrog Monster",
+                "Sai, Master Thopterist",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Владимиров Егор",
+                "Поспелов Александр",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Ral, Monsoon Mage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Веренич Артем",
+                "Дмитриев Сергей",
+                "Edric, Spymaster of Trest",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Фурсов Владимир",
+                "The Gitrog Monster",
+                "Balmor, Battlemage Captain",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Черепов Антон",
+                "Торицын Олег",
+                "Tourach, Dread Cantor",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Чураков Павел",
+                "Kykar, Wind's Fury",
+                "Sai, Master Thopterist",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58205"
+}

@@ -1,0 +1,36 @@
+= Elminster                        matches:3    WM: 33.33%  LM: 33.33%  DM: 33.33% (wm:1   lm:1   dm:1)  games:4    WG: 50.00% LG: 50.00% (wg:   2 lg:   2) pick: 1    RostovOnDon(1), 
+       vs Ertai Resurrected                (w:0 l:1 d:0), (0/1)
+       vs Zabaz, the Glimmerwasp           (w:0 l:0 d:1), (1/1)
+       vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (1/0)
+
+
+= Ertai Resurrected                matches:3    WM: 33.33%  LM: 33.33%  DM: 33.33% (wm:1   lm:1   dm:1)  games:4    WG: 50.00% LG: 50.00% (wg:   2 lg:   2) pick: 1    RostovOnDon(1), 
+       vs Elminster                        (w:1 l:0 d:0), (1/0)
+       vs Grist, the Hunger Tide           (w:0 l:0 d:1), (1/1)
+       vs Zabaz, the Glimmerwasp           (w:0 l:1 d:0), (0/1)
+
+
+= Golos, Tireless Pilgrim          matches:3    WM:  0.00%  LM: 66.67%  DM: 33.33% (wm:0   lm:2   dm:1)  games:5    WG: 20.00% LG: 80.00% (wg:   1 lg:   4) pick: 1    RostovOnDon(1), 
+       vs Grist, the Hunger Tide           (w:0 l:1 d:0), (0/2)
+       vs Vivien on the Hunt               (w:0 l:0 d:1), (1/1)
+       vs Elminster                        (w:0 l:1 d:0), (0/1)
+
+
+= Grist, the Hunger Tide           matches:3    WM: 33.33%  LM: 33.33%  DM: 33.33% (wm:1   lm:1   dm:1)  games:6    WG: 50.00% LG: 50.00% (wg:   3 lg:   3) pick: 1    RostovOnDon(1), 
+       vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/0)
+       vs Ertai Resurrected                (w:0 l:0 d:1), (1/1)
+       vs Vivien on the Hunt               (w:0 l:1 d:0), (0/2)
+
+
+= Vivien on the Hunt               matches:3    WM: 66.67%  LM:  0.00%  DM: 33.33% (wm:2   lm:0   dm:1)  games:6    WG: 83.33% LG: 16.67% (wg:   5 lg:   1) pick: 1    RostovOnDon(1), 
+       vs Zabaz, the Glimmerwasp           (w:1 l:0 d:0), (2/0)
+       vs Golos, Tireless Pilgrim          (w:0 l:0 d:1), (1/1)
+       vs Grist, the Hunger Tide           (w:1 l:0 d:0), (2/0)
+
+
+= Zabaz, the Glimmerwasp           matches:3    WM: 33.33%  LM: 33.33%  DM: 33.33% (wm:1   lm:1   dm:1)  games:5    WG: 40.00% LG: 60.00% (wg:   2 lg:   3) pick: 1    RostovOnDon(1), 
+       vs Vivien on the Hunt               (w:0 l:1 d:0), (0/2)
+       vs Elminster                        (w:0 l:0 d:1), (1/1)
+       vs Ertai Resurrected                (w:1 l:0 d:0), (1/0)
+
+

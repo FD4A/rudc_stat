@@ -1,0 +1,132 @@
+{
+    "date": "2025_06_15",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Illator",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Shubenin Ilya",
+            "Vivien on the Hunt"
+        ],
+        [
+            "Merkulov Vladislav",
+            "Zabaz, the Glimmerwasp"
+        ],
+        [
+            "Posidaylo Artem",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Mishin Vasily",
+            "Ertai Resurrected"
+        ],
+        [
+            "Somkin Constantin",
+            "Elminster"
+        ],
+        [
+            "Lukaynov Vadim",
+            "Golos, Tireless Pilgrim"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Posidaylo Artem",
+                "Lukaynov Vadim",
+                "Grist, the Hunger Tide",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Merkulov Vladislav",
+                "Shubenin Ilya",
+                "Zabaz, the Glimmerwasp",
+                "Vivien on the Hunt",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Mishin Vasily",
+                "Elminster",
+                "Ertai Resurrected",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Mishin Vasily",
+                "Posidaylo Artem",
+                "Ertai Resurrected",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Shubenin Ilya",
+                "Lukaynov Vadim",
+                "Vivien on the Hunt",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Merkulov Vladislav",
+                "Somkin Constantin",
+                "Zabaz, the Glimmerwasp",
+                "Elminster",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Posidaylo Artem",
+                "Shubenin Ilya",
+                "Grist, the Hunger Tide",
+                "Vivien on the Hunt",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Merkulov Vladislav",
+                "Mishin Vasily",
+                "Zabaz, the Glimmerwasp",
+                "Ertai Resurrected",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Somkin Constantin",
+                "Golos, Tireless Pilgrim",
+                "Elminster",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58145"
+}

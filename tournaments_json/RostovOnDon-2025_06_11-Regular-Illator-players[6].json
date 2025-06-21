@@ -1,0 +1,132 @@
+{
+    "date": "2025_06_11",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Illator",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Исаев Александр",
+            "Plagon, Lord of the Beach"
+        ],
+        [
+            "Посидайло Артëм",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Шубенин Илья",
+            "Vivien on the Hunt"
+        ],
+        [
+            "Бурмистров Павел",
+            "Glarb, Calamity's Augur"
+        ],
+        [
+            "Палеха Егор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Лукьянов Вадим",
+            "Umori, the Collector"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Исаев Александр",
+                "Бурмистров Павел",
+                "Plagon, Lord of the Beach",
+                "Glarb, Calamity's Augur",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Посидайло Артëм",
+                "Vivien on the Hunt",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Палеха Егор",
+                "Лукьянов Вадим",
+                "Ghyrson Starn, Kelermorph",
+                "Umori, the Collector",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Посидайло Артëм",
+                "Палеха Егор",
+                "Grist, the Hunger Tide",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Исаев Александр",
+                "Лукьянов Вадим",
+                "Plagon, Lord of the Beach",
+                "Umori, the Collector",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Бурмистров Павел",
+                "Шубенин Илья",
+                "Glarb, Calamity's Augur",
+                "Vivien on the Hunt",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Посидайло Артëм",
+                "Исаев Александр",
+                "Grist, the Hunger Tide",
+                "Plagon, Lord of the Beach",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Палеха Егор",
+                "Vivien on the Hunt",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Бурмистров Павел",
+                "Лукьянов Вадим",
+                "Glarb, Calamity's Augur",
+                "Umori, the Collector",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58034"
+}

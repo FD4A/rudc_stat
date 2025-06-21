@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2025_06_15
+organizer::Illator
+players::generals
+Shubenin Ilya :: Vivi Ornitier
+Merkulov Vladislav :: Zabaz, the Glimmerwasp
+Posidaylo Artem :: Grist, the Hunger Tide
+Mishin Vasily :: Ertai Resurrected
+Somkin Constantin :: Elminster
+Lukaynov Vadim :: Golos, Tireless Pilgrim
+Round
+https://aetherhub.com/Tourney/RoundTourney/58145

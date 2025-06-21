@@ -1,0 +1,42 @@
+location::Spb
+level::Regular
+date::2025_06_19
+organizer::Andysays
+players::generals
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Олифер Егор :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Оснос Владислав :: Satya, Aetherflux Genius
+Тяпайкин Максим :: Golos, Tireless Pilgrim
+Красников Александр :: Gut, True Soul Zealot :+: Folk Hero
+Мартынов Яков :: Tivit, Seller of Secrets
+Протасов Михаил :: Tivit, Seller of Secrets
+Саушкин Андрей :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Булочко Михаил :: Tivit, Seller of Secrets
+Муравьев Роман :: Dihada, Binder of Wills
+Коростелев Илья :: Golos, Tireless Pilgrim
+Кеворков Артур :: Terra, Magical Adept
+Вахитов Ривкат :: Feldon, Ronom Excavator
+Хорьков Аркадий :: Arahbo, Roar of the World
+Шестаков Игорь :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Таловер Артем :: Winter, Cynical Opportunist
+Порошин Денис :: Daretti, Scrap Savant
+Ульянов Алексей :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Богданов Сергей :: Sheoldred, the Apocalypse
+Медведев Константин :: Terra, Magical Adept
+Федоров Дмитрий :: Sorin of House Markov
+Поляков Герман :: Teferi, Temporal Archmage
+Юсенко Глеб :: Ezio Auditore da Firenze
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Барабаш Валентин :: Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker
+Звягин Георгий :: Winter, Cynical Opportunist
+Байков Аркадий :: Vial Smasher the Fierce
+Егоров Павел :: Phelia, Exuberant Shepherd
+Яфаров Руслан :: Deadpool, Trading Card
+Жовтобрюх Роман :: Slimefoot and Squee
+Беднов Виктор :: Caesar, Legion's Emperor
+Сивцов Даниил :: Oloro, Ageless Ascetic
+Евстифеев Арсений :: Koma, World-Eater
+Корсаков Алексей :: Bello, Bard of the Brambles
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/58226

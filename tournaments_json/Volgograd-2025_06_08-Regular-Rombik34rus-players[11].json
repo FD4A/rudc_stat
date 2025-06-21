@@ -1,0 +1,264 @@
+{
+    "date": "2025_06_08",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Никита Сухов",
+            "Glarb, Calamity's Augur"
+        ],
+        [
+            "Максим Мещеряков",
+            "Thrasios, Triton Hero :+: Tymna the Weaver"
+        ],
+        [
+            "Вячеслав Серпутько",
+            "Selvala, Explorer Returned"
+        ],
+        [
+            "Андрей Костин",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Артём Стрельцов",
+            "Lonis, Cryptozoologist"
+        ],
+        [
+            "Артём Ангурцов",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Дмитрий Орешкин",
+            "Hidetsugu and Kairi"
+        ],
+        [
+            "Александр Токарев",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Александр Смирнов",
+            "Lier, Disciple of the Drowned"
+        ],
+        [
+            "Тимур Сайфутдинов",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Виталий Васильев",
+            "The Gitrog Monster"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Артём Стрельцов",
+                "Дмитрий Орешкин",
+                "Lonis, Cryptozoologist",
+                "Hidetsugu and Kairi",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Александр Смирнов",
+                "Grist, the Hunger Tide",
+                "Lier, Disciple of the Drowned",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Никита Сухов",
+                "Tivit, Seller of Secrets",
+                "Glarb, Calamity's Augur",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Андрей Костин",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Iron Man, Titan of Innovation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Вячеслав Серпутько",
+                "The Gitrog Monster",
+                "Selvala, Explorer Returned",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Артём Стрельцов",
+                "Андрей Костин",
+                "Lonis, Cryptozoologist",
+                "Iron Man, Titan of Innovation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Александр Смирнов",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                "Lier, Disciple of the Drowned",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Никита Сухов",
+                "Selvala, Explorer Returned",
+                "Glarb, Calamity's Augur",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Александр Токарев",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Виталий Васильев",
+                "Hidetsugu and Kairi",
+                "The Gitrog Monster",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Артём Стрельцов",
+                "Никита Сухов",
+                "Lonis, Cryptozoologist",
+                "Glarb, Calamity's Augur",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Дмитрий Орешкин",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                "Hidetsugu and Kairi",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Андрей Костин",
+                "Tivit, Seller of Secrets",
+                "Iron Man, Titan of Innovation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Вячеслав Серпутько",
+                "Lier, Disciple of the Drowned",
+                "Selvala, Explorer Returned",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Виталий Васильев",
+                "Grist, the Hunger Tide",
+                "The Gitrog Monster",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Никита Сухов",
+                "Максим Мещеряков",
+                "Glarb, Calamity's Augur",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Вячеслав Серпутько",
+                "Lonis, Cryptozoologist",
+                "Selvala, Explorer Returned",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Андрей Костин",
+                "Александр Токарев",
+                "Iron Man, Titan of Innovation",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Александр Смирнов",
+                "Tivit, Seller of Secrets",
+                "Lier, Disciple of the Drowned",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Тимур Сайфутдинов",
+                "Hidetsugu and Kairi",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/57959"
+}

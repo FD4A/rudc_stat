@@ -1,0 +1,18 @@
+location::Volgograd
+level::Regular
+date::2025_06_08
+organizer::Rombik34rus
+players::generals
+Никита Сухов :: Glarb, Calamity's Augur
+Максим Мещеряков :: Thrasios, Triton Hero :+: Tymna the Weaver
+Вячеслав Серпутько :: Selvala, Explorer Returned
+Андрей Костин :: Iron Man, Titan of Innovation
+Артём Стрельцов :: Lonis, Cryptozoologist
+Артём Ангурцов :: Tivit, Seller of Secrets
+Дмитрий Орешкин :: Hidetsugu and Kairi
+Александр Токарев :: Grist, the Hunger Tide
+Александр Смирнов :: Lier Disciple of the Drowned
+Тимур Сайфутдинов :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Виталий Васильев :: The Gitrog Monster
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/57959
