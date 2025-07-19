@@ -1,0 +1,1208 @@
+{
+    "date": "2025_06_25",
+    "location": "Online",
+    "level": "Regular",
+    "organizer": "AlexSmirnov",
+    "roundsCount": 6,
+    "players": [
+        [
+            "Бурмистров Павел",
+            "Glarb, Calamity's Augur"
+        ],
+        [
+            "Павликов Владислав",
+            "Hidetsugu and Kairi"
+        ],
+        [
+            "Редько Павел",
+            "Arabella, Abandoned Doll"
+        ],
+        [
+            "Скляров Филипп",
+            "Tymna the Weaver :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Поляков Герман",
+            "Rowan, Scion of War"
+        ],
+        [
+            "Олифер Егор",
+            "Rowan, Scion of War"
+        ],
+        [
+            "Серпутько Слава",
+            "Liliana, Waker of the Dead"
+        ],
+        [
+            "Краснов Илья",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Жменя Алексей",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Шестаков Игорь",
+            "Cecil, Dark Knight"
+        ],
+        [
+            "Антипин Костя",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Мещеряков Максим",
+            "Tymna the Weaver :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Сайфутдинов Тимур",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Череповский Роман",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Барабаш Валентин",
+            "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker"
+        ],
+        [
+            "Согрин Вадим",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Костин Андрей",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Сухов Никитка",
+            "The Wandering Rescuer"
+        ],
+        [
+            "Долганов Матвей",
+            "Satoru, the Infiltrator"
+        ],
+        [
+            "Васильев Илья",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Циулин Иван",
+            "Pippin, Warden of Isengard :+: Merry, Warden of Isengard"
+        ],
+        [
+            "Шубенин Илья",
+            "Vivien on the Hunt"
+        ],
+        [
+            "Козлов Максим",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Захаренко Вячеслав",
+            "Ivy, Gleeful Spellthief"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Поспелов Александр",
+            "Winter, Cursed Rider"
+        ],
+        [
+            "Плотников Александр",
+            "Sai, Master Thopterist"
+        ],
+        [
+            "Ревин Владимир",
+            "Cecil, Dark Knight"
+        ],
+        [
+            "Давыдов Александр",
+            "Magda, Brazen Outlaw"
+        ],
+        [
+            "Лагерев Леонид",
+            "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Петровых Дмитрий",
+            "Clement, the Worrywort"
+        ],
+        [
+            "Третьяков Дмитрий",
+            "Flubs, the Fool"
+        ],
+        [
+            "Штофов Арсений",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Стрельцов Артем",
+            "Animar, Soul of Elements"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Tivit, Seller of Secrets"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Костин Андрей",
+                "Поспелов Александр",
+                "Iron Man, Titan of Innovation",
+                "Winter, Cursed Rider",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Третьяков Дмитрий",
+                "Краснов Илья",
+                "Flubs, the Fool",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Давыдов Александр",
+                "Серпутько Слава",
+                "Magda, Brazen Outlaw",
+                "Liliana, Waker of the Dead",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Бурмистров Павел",
+                "Muxus, Goblin Grandee",
+                "Glarb, Calamity's Augur",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Скляров Филипп",
+                "Cecil, Dark Knight",
+                "Tymna the Weaver :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Долганов Матвей",
+                "Tivit, Seller of Secrets",
+                "Satoru, the Infiltrator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Согрин Вадим",
+                "Arabella, Abandoned Doll",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Циулин Иван",
+                "Cecil, Dark Knight",
+                "Pippin, Warden of Isengard :+: Merry, Warden of Isengard",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Лагерев Леонид",
+                "Rowan, Scion of War",
+                "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васильев Илья",
+                "Стрельцов Артем",
+                "Deadpool, Trading Card",
+                "Animar, Soul of Elements",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Мещеряков Максим",
+                "Dihada, Binder of Wills",
+                "Tymna the Weaver :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Захаренко Вячеслав",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Ivy, Gleeful Spellthief",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Штофов Арсений",
+                "Жменя Алексей",
+                "Deadpool, Trading Card",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Антипин Костя",
+                "Шубенин Илья",
+                "Deadpool, Trading Card",
+                "Vivien on the Hunt",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Павликов Владислав",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                "Hidetsugu and Kairi",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сухов Никитка",
+                "Плотников Александр",
+                "The Wandering Rescuer",
+                "Sai, Master Thopterist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Петровых Дмитрий",
+                "Rowan, Scion of War",
+                "Clement, the Worrywort",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Череповский Роман",
+                "Feldon, Ronom Excavator",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Костин Андрей",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Iron Man, Titan of Innovation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Антипин Костя",
+                "Бурмистров Павел",
+                "Deadpool, Trading Card",
+                "Glarb, Calamity's Augur",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Сайфутдинов Тимур",
+                "Rowan, Scion of War",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Жменя Алексей",
+                "Долганов Матвей",
+                "Grist, the Hunger Tide",
+                "Satoru, the Infiltrator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Павликов Владислав",
+                "Сухов Никитка",
+                "Hidetsugu and Kairi",
+                "The Wandering Rescuer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Череповский Роман",
+                "Олифер Егор",
+                "Juri, Master of the Revue",
+                "Rowan, Scion of War",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мещеряков Максим",
+                "Скляров Филипп",
+                "Tymna the Weaver :+: Thrasios, Triton Hero",
+                "Tymna the Weaver :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Серпутько Слава",
+                "Cecil, Dark Knight",
+                "Liliana, Waker of the Dead",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Васильев Илья",
+                "Редько Павел",
+                "Deadpool, Trading Card",
+                "Arabella, Abandoned Doll",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Третьяков Дмитрий",
+                "Pippin, Warden of Isengard :+: Merry, Warden of Isengard",
+                "Flubs, the Fool",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Согрин Вадим",
+                "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Штофов Арсений",
+                "Vivien on the Hunt",
+                "Deadpool, Trading Card",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Матюнин Антон",
+                "Tivit, Seller of Secrets",
+                "Muxus, Goblin Grandee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Петровых Дмитрий",
+                "Барабаш Валентин",
+                "Clement, the Worrywort",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Давыдов Александр",
+                "Козлов Максим",
+                "Magda, Brazen Outlaw",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Стрельцов Артем",
+                "Муравьев Роман",
+                "Animar, Soul of Elements",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Захаренко Вячеслав",
+                "Ревин Владимир",
+                "Ivy, Gleeful Spellthief",
+                "Cecil, Dark Knight",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Плотников Александр",
+                "Поспелов Александр",
+                "Sai, Master Thopterist",
+                "Winter, Cursed Rider",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Серпутько Слава",
+                "Скляров Филипп",
+                "Liliana, Waker of the Dead",
+                "Tymna the Weaver :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Редько Павел",
+                "Rowan, Scion of War",
+                "Arabella, Abandoned Doll",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Павликов Владислав",
+                "Краснов Илья",
+                "Hidetsugu and Kairi",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Бурмистров Павел",
+                "Rowan, Scion of War",
+                "Glarb, Calamity's Augur",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Жменя Алексей",
+                "Сайфутдинов Тимур",
+                "Grist, the Hunger Tide",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Долганов Матвей",
+                "Череповский Роман",
+                "Satoru, the Infiltrator",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Костин Андрей",
+                "Мещеряков Максим",
+                "Iron Man, Titan of Innovation",
+                "Tymna the Weaver :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Согрин Вадим",
+                "Козлов Максим",
+                "Feldon, Ronom Excavator",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Шестаков Игорь",
+                "Muxus, Goblin Grandee",
+                "Cecil, Dark Knight",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Захаренко Вячеслав",
+                "Vivien on the Hunt",
+                "Ivy, Gleeful Spellthief",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Васильев Илья",
+                "Pippin, Warden of Isengard :+: Merry, Warden of Isengard",
+                "Deadpool, Trading Card",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Сухов Никитка",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                "The Wandering Rescuer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Антипин Костя",
+                "Dihada, Binder of Wills",
+                "Deadpool, Trading Card",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Давыдов Александр",
+                "Winter, Cursed Rider",
+                "Magda, Brazen Outlaw",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Плотников Александр",
+                "Штофов Арсений",
+                "Sai, Master Thopterist",
+                "Deadpool, Trading Card",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Третьяков Дмитрий",
+                "Иванов Дмитрий",
+                "Flubs, the Fool",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Стрельцов Артем",
+                "Лагерев Леонид",
+                "Animar, Soul of Elements",
+                "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Петровых Дмитрий",
+                "Ревин Владимир",
+                "Clement, the Worrywort",
+                "Cecil, Dark Knight",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Скляров Филипп",
+                "Rowan, Scion of War",
+                "Tymna the Weaver :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Олифер Егор",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Rowan, Scion of War",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мещеряков Максим",
+                "Редько Павел",
+                "Tymna the Weaver :+: Thrasios, Triton Hero",
+                "Arabella, Abandoned Doll",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Бурмистров Павел",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Glarb, Calamity's Augur",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Шестаков Игорь",
+                "Feldon, Ronom Excavator",
+                "Cecil, Dark Knight",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Серпутько Слава",
+                "Павликов Владислав",
+                "Liliana, Waker of the Dead",
+                "Hidetsugu and Kairi",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Захаренко Вячеслав",
+                "Долганов Матвей",
+                "Ivy, Gleeful Spellthief",
+                "Satoru, the Infiltrator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Муравьев Роман",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Жменя Алексей",
+                "Васильев Илья",
+                "Grist, the Hunger Tide",
+                "Deadpool, Trading Card",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Циулин Иван",
+                "Muxus, Goblin Grandee",
+                "Pippin, Warden of Isengard :+: Merry, Warden of Isengard",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Согрин Вадим",
+                "Cecil, Dark Knight",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Штофов Арсений",
+                "Костин Андрей",
+                "Deadpool, Trading Card",
+                "Iron Man, Titan of Innovation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Третьяков Дмитрий",
+                "Антипин Костя",
+                "Flubs, the Fool",
+                "Deadpool, Trading Card",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сухов Никитка",
+                "Шубенин Илья",
+                "The Wandering Rescuer",
+                "Vivien on the Hunt",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Череповский Роман",
+                "Winter, Cursed Rider",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Плотников Александр",
+                "Лагерев Леонид",
+                "Sai, Master Thopterist",
+                "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Петровых Дмитрий",
+                "Стрельцов Артем",
+                "Clement, the Worrywort",
+                "Animar, Soul of Elements",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Давыдов Александр",
+                "Tivit, Seller of Secrets",
+                "Magda, Brazen Outlaw",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Поляков Герман",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Rowan, Scion of War",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Захаренко Вячеслав",
+                "Шестаков Игорь",
+                "Ivy, Gleeful Spellthief",
+                "Cecil, Dark Knight",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Скляров Филипп",
+                "Dihada, Binder of Wills",
+                "Tymna the Weaver :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Бурмистров Павел",
+                "Васильев Илья",
+                "Glarb, Calamity's Augur",
+                "Deadpool, Trading Card",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Серпутько Слава",
+                "Rowan, Scion of War",
+                "Liliana, Waker of the Dead",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Жменя Алексей",
+                "Arabella, Abandoned Doll",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Антипин Костя",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Deadpool, Trading Card",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Павликов Владислав",
+                "Шубенин Илья",
+                "Hidetsugu and Kairi",
+                "Vivien on the Hunt",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Козлов Максим",
+                "Pippin, Warden of Isengard :+: Merry, Warden of Isengard",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Лагерев Леонид",
+                "Cecil, Dark Knight",
+                "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Костин Андрей",
+                "Барабаш Валентин",
+                "Iron Man, Titan of Innovation",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Долганов Матвей",
+                "Winter, Cursed Rider",
+                "Satoru, the Infiltrator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мещеряков Максим",
+                "Сухов Никитка",
+                "Tymna the Weaver :+: Thrasios, Triton Hero",
+                "The Wandering Rescuer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Давыдов Александр",
+                "Матюнин Антон",
+                "Magda, Brazen Outlaw",
+                "Muxus, Goblin Grandee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Согрин Вадим",
+                "Стрельцов Артем",
+                "Feldon, Ronom Excavator",
+                "Animar, Soul of Elements",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Череповский Роман",
+                "Плотников Александр",
+                "Juri, Master of the Revue",
+                "Sai, Master Thopterist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Третьяков Дмитрий",
+                "Петровых Дмитрий",
+                "Flubs, the Fool",
+                "Clement, the Worrywort",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Васильев Илья",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Deadpool, Trading Card",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Муравьев Роман",
+                "Rowan, Scion of War",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Серпутько Слава",
+                "Захаренко Вячеслав",
+                "Liliana, Waker of the Dead",
+                "Ivy, Gleeful Spellthief",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Скляров Филипп",
+                "Олифер Егор",
+                "Tymna the Weaver :+: Thrasios, Triton Hero",
+                "Rowan, Scion of War",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Редько Павел",
+                "Павликов Владислав",
+                "Arabella, Abandoned Doll",
+                "Hidetsugu and Kairi",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Бурмистров Павел",
+                "Cecil, Dark Knight",
+                "Glarb, Calamity's Augur",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мещеряков Максим",
+                "Жменя Алексей",
+                "Tymna the Weaver :+: Thrasios, Triton Hero",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Антипин Костя",
+                "Циулин Иван",
+                "Deadpool, Trading Card",
+                "Pippin, Warden of Isengard :+: Merry, Warden of Isengard",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Долганов Матвей",
+                "Ревин Владимир",
+                "Satoru, the Infiltrator",
+                "Cecil, Dark Knight",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Сайфутдинов Тимур",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Костин Андрей",
+                "Третьяков Дмитрий",
+                "Iron Man, Titan of Innovation",
+                "Flubs, the Fool",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Стрельцов Артем",
+                "Шубенин Илья",
+                "Animar, Soul of Elements",
+                "Vivien on the Hunt",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Череповский Роман",
+                "Muxus, Goblin Grandee",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Поспелов Александр",
+                "Feldon, Ronom Excavator",
+                "Winter, Cursed Rider",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Давыдов Александр",
+                "Плотников Александр",
+                "Magda, Brazen Outlaw",
+                "Sai, Master Thopterist",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/57780"
+}

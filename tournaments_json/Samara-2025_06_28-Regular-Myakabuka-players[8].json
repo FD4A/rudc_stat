@@ -1,0 +1,170 @@
+{
+    "date": "2025_06_28",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Сибикин Антон",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Громов Михаил",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Кормаков Александр",
+            "Ghired, Mirror of the Wilds"
+        ],
+        [
+            "Краснов Илья",
+            "Ertai Resurrected"
+        ],
+        [
+            "Циулин Иван",
+            "Kellan, Daring Traveler"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Иванов Никита",
+            "Rograkh, Son of Rohgahh :+: Tymna the Weaver"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Кормаков Александр",
+                "Громов Михаил",
+                "Ghired, Mirror of the Wilds",
+                "Ketramose, the New Dawn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Безруков Николай",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Иванов Никита",
+                "Kellan, Daring Traveler",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Краснов Илья",
+                "Grist, the Hunger Tide",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Громов Михаил",
+                "Курмакаев Игорь",
+                "Ketramose, the New Dawn",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Циулин Иван",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Kellan, Daring Traveler",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Безруков Николай",
+                "Ertai Resurrected",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Кормаков Александр",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Ghired, Mirror of the Wilds",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Громов Михаил",
+                "Сибикин Антон",
+                "Ketramose, the New Dawn",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Кормаков Александр",
+                "Grist, the Hunger Tide",
+                "Ghired, Mirror of the Wilds",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Краснов Илья",
+                "Kellan, Daring Traveler",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Иванов Никита",
+                "Feldon, Ronom Excavator",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58479"
+}

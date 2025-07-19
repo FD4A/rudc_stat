@@ -1,0 +1,160 @@
+{
+    "date": "2025_07_10",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Isaev Alexander",
+            "Plagon, Lord of the Beach"
+        ],
+        [
+            "Cherepovskiy Roman",
+            "Gut, True Soul Zealot :+: Agent of the Iron Throne"
+        ],
+        [
+            "Shubenin Ilya",
+            "Vivien on the Hunt"
+        ],
+        [
+            "Somkin Constantin",
+            "Elas il-Kor, Sadistic Pilgrim :+: Lurrus of the Dream-Den"
+        ],
+        [
+            "Alexandrov Nikita",
+            "Bounteous Kirin"
+        ],
+        [
+            "Elinskiy Denis",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Bespalov Taras",
+            "Bristly Bill, Spine Sower"
+        ],
+        [
+            "Fedorov Dmitriy",
+            "Arahbo, Roar of the World"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Cherepovskiy Roman",
+                "Shubenin Ilya",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Vivien on the Hunt",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Alexandrov Nikita",
+                "Isaev Alexander",
+                "Bounteous Kirin",
+                "Plagon, Lord of the Beach",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Fedorov Dmitriy",
+                "Elas il-Kor, Sadistic Pilgrim :+: Lurrus of the Dream-Den",
+                "Arahbo, Roar of the World",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Elinskiy Denis",
+                "Bespalov Taras",
+                "Phelia, Exuberant Shepherd",
+                "Bristly Bill, Spine Sower",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Cherepovskiy Roman",
+                "Isaev Alexander",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Plagon, Lord of the Beach",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Elinskiy Denis",
+                "Somkin Constantin",
+                "Phelia, Exuberant Shepherd",
+                "Elas il-Kor, Sadistic Pilgrim :+: Lurrus of the Dream-Den",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Fedorov Dmitriy",
+                "Bespalov Taras",
+                "Arahbo, Roar of the World",
+                "Bristly Bill, Spine Sower",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Shubenin Ilya",
+                "Alexandrov Nikita",
+                "Vivien on the Hunt",
+                "Bounteous Kirin",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Isaev Alexander",
+                "Somkin Constantin",
+                "Plagon, Lord of the Beach",
+                "Elas il-Kor, Sadistic Pilgrim :+: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Elinskiy Denis",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Shubenin Ilya",
+                "Bespalov Taras",
+                "Vivien on the Hunt",
+                "Bristly Bill, Spine Sower",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58755"
+}

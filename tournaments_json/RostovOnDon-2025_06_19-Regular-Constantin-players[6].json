@@ -1,0 +1,112 @@
+{
+    "date": "2025_06_19",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Cherepovskiy Roman",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Shubenin Ilya",
+            "Vivien on the Hunt"
+        ],
+        [
+            "Lukaynov Vadim",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Isaev Alexander",
+            "Plagon, Lord of the Beach"
+        ],
+        [
+            "Somkin Constantin",
+            "Elminster"
+        ],
+        [
+            "Posidaylo Artem",
+            "Phelia, Exuberant Shepherd"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Isaev Alexander",
+                "Lukaynov Vadim",
+                "Plagon, Lord of the Beach",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Posidaylo Artem",
+                "Cherepovskiy Roman",
+                "Phelia, Exuberant Shepherd",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Shubenin Ilya",
+                "Elminster",
+                "Vivien on the Hunt",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Cherepovskiy Roman",
+                "Shubenin Ilya",
+                "Kroxa, Titan of Death's Hunger",
+                "Vivien on the Hunt",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Isaev Alexander",
+                "Somkin Constantin",
+                "Plagon, Lord of the Beach",
+                "Elminster",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Cherepovskiy Roman",
+                "Isaev Alexander",
+                "Kroxa, Titan of Death's Hunger",
+                "Plagon, Lord of the Beach",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Somkin Constantin",
+                "Golos, Tireless Pilgrim",
+                "Elminster",
+                [
+                    1,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58227"
+}

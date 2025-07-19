@@ -1,0 +1,15 @@
+location::Samara
+level::Regular
+date::2025_06_19
+organizer::Myakabuka
+players::generals
+Громов Михаил :: Ketramose, the New Dawn
+Курмакаев Игорь :: Grist, the Hunger Tide
+Циулин Иван :: Kellan, Daring Traveler
+Иванов Никита :: Rograkh, Son of Rohgahh :+: Tymna the Weaver
+Сибикин Антон :: Shorikai, Genesis Engine
+Матюнин Антон :: Muxus, Goblin Grandee
+Краснов Илья :: Ertai Resurrected
+Безруков Николай :: Feldon, Ronom Excavator
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/58225

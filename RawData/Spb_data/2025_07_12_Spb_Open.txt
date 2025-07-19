@@ -1,5 +1,9 @@
-str_list_ = [
-"""Костин Андрей :: Iron Man, Titan of Innovation
+location::Spb
+level::Open
+date::2025_07_12
+organizer::Andysays
+players::generals
+Костин Андрей :: Iron Man, Titan of Innovation
 Фролов Евгений :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
 Семенов Павел :: Cloud, Midgar Mercenary
 Долганов Матвей :: Gut, True Soul Zealot :+: Folk Hero
@@ -51,43 +55,6 @@ str_list_ = [
 Муравьев Никита :: Phelia, Exuberant Shepherd
 Хорьков Аркадий :: Arahbo, Roar of the World
 Протасов Михаил :: Tivit, Seller of Secrets
-Падве Владимир :: Phelia, Exuberant Shepherd"""
-]
-
-# print(str_list_)
-str_list = str_list_[0].split('\n')
-# print(str_list)
-
-for i in range(len(str_list)):
-    str_list[i] = str_list[i].split(' :: ')
-# str_list.sort(key=lambda x: x[1], reverse=False)
-# for i in range(len(str_list)):
-#     print(str_list[i][1])
-
-str_list_new = []
-for i in range(len(str_list)):
-    str_list_new.append(str_list[i][1])
-# print(str_list_new)
-
-str_list_new2 = []
-for i in range(len(str_list_new)):
-    str_list_new2.append(str_list_new.count(str_list_new[i]))
-
-str_list_new3 = []
-for i in range(len(str_list_new)):
-    str_list_new3.append([str_list_new[i], str_list_new2[i]])
-str_list_new3.sort(key=lambda x: (-x[1], x[0]))
-# str_list_new3.sort(key=lambda x: x[0], reverse=False)
-
-data = {}
-for i in range(len(str_list_new3)):
-    data.update({str_list_new3[i][0]: str_list_new3[i][1]})
-# s = set(str_list_new3)
-# print(data)
-
-sum = 0
-for k, v in data.items():
-    print(v, k)
-    sum += v
-print(sum)
-
+Падве Владимир :: Phelia, Exuberant Shepherd
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/58762

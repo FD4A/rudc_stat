@@ -1,0 +1,132 @@
+{
+    "date": "2025_06_30",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Illator",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Диана",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Шубенин Илья",
+            "Vivien on the Hunt"
+        ],
+        [
+            "Лукьянов Вадим",
+            "Glarb, Calamity's Augur"
+        ],
+        [
+            "Александр Плотников",
+            "Lonis, Cryptozoologist"
+        ],
+        [
+            "Артём Посидайло",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Птиц",
+            "Kasla, the Broken Halo"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Александр Плотников",
+                "Артём Посидайло",
+                "Lonis, Cryptozoologist",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Диана",
+                "Шубенин Илья",
+                "Phelia, Exuberant Shepherd",
+                "Vivien on the Hunt",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лукьянов Вадим",
+                "Птиц",
+                "Glarb, Calamity's Augur",
+                "Kasla, the Broken Halo",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Плотников",
+                "Диана",
+                "Lonis, Cryptozoologist",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Лукьянов Вадим",
+                "Шубенин Илья",
+                "Glarb, Calamity's Augur",
+                "Vivien on the Hunt",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Артём Посидайло",
+                "Птиц",
+                "Grist, the Hunger Tide",
+                "Kasla, the Broken Halo",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Диана",
+                "Артём Посидайло",
+                "Phelia, Exuberant Shepherd",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Александр Плотников",
+                "Лукьянов Вадим",
+                "Lonis, Cryptozoologist",
+                "Glarb, Calamity's Augur",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Птиц",
+                "Vivien on the Hunt",
+                "Kasla, the Broken Halo",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58536"
+}

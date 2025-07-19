@@ -1,0 +1,132 @@
+{
+    "date": "2025_07_13",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Shubenin Ilya",
+            "Vivien on the Hunt"
+        ],
+        [
+            "Lukaynov Vadim",
+            "Liliana, Waker of the Dead"
+        ],
+        [
+            "Somkin Constantin",
+            "Elas il-Kor, Sadistic Pilgrim :+: Lurrus of the Dream-Den"
+        ],
+        [
+            "Cherepovskiy Roman",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Merkulov Vladislav",
+            "Zabaz, the Glimmerwasp"
+        ],
+        [
+            "Faydysh Diana",
+            "Phelia, Exuberant Shepherd"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Lukaynov Vadim",
+                "Faydysh Diana",
+                "Liliana, Waker of the Dead",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Merkulov Vladislav",
+                "Cherepovskiy Roman",
+                "Zabaz, the Glimmerwasp",
+                "Arahbo, Roar of the World",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Shubenin Ilya",
+                "Elas il-Kor, Sadistic Pilgrim :+: Lurrus of the Dream-Den",
+                "Vivien on the Hunt",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Shubenin Ilya",
+                "Lukaynov Vadim",
+                "Vivien on the Hunt",
+                "Liliana, Waker of the Dead",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Merkulov Vladislav",
+                "Somkin Constantin",
+                "Zabaz, the Glimmerwasp",
+                "Elas il-Kor, Sadistic Pilgrim :+: Lurrus of the Dream-Den",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Faydysh Diana",
+                "Arahbo, Roar of the World",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Shubenin Ilya",
+                "Cherepovskiy Roman",
+                "Vivien on the Hunt",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Merkulov Vladislav",
+                "Liliana, Waker of the Dead",
+                "Zabaz, the Glimmerwasp",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Faydysh Diana",
+                "Elas il-Kor, Sadistic Pilgrim :+: Lurrus of the Dream-Den",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58847"
+}

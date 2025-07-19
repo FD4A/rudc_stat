@@ -1,0 +1,264 @@
+{
+    "date": "2025_06_21",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Сибикин Антон",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Иванов Никита",
+            "Rograkh, Son of Rohgahh :+: Tymna the Weaver"
+        ],
+        [
+            "Евсеев Андрей",
+            "Aminatou, the Fateshifter"
+        ],
+        [
+            "Громов Михаил",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Краснов Илья",
+            "Ertai Resurrected"
+        ],
+        [
+            "Тимохин Денис",
+            "Flubs, the Fool"
+        ],
+        [
+            "Циулин Иван",
+            "Kellan, Daring Traveler"
+        ],
+        [
+            "Кормаков Александр",
+            "Ghired, Mirror of the Wilds"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Сибикин Антон",
+                "Тимохин Денис",
+                "Shorikai, Genesis Engine",
+                "Flubs, the Fool",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Курмакаев Игорь",
+                "Muxus, Goblin Grandee",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кормаков Александр",
+                "Циулин Иван",
+                "Ghired, Mirror of the Wilds",
+                "Kellan, Daring Traveler",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Громов Михаил",
+                "Безруков Николай",
+                "Ketramose, the New Dawn",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Краснов Илья",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Громов Михаил",
+                "Сибикин Антон",
+                "Ketramose, the New Dawn",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Евсеев Андрей",
+                "Циулин Иван",
+                "Aminatou, the Fateshifter",
+                "Kellan, Daring Traveler",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Иванов Никита",
+                "Grist, the Hunger Tide",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Кормаков Александр",
+                "Ertai Resurrected",
+                "Ghired, Mirror of the Wilds",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Безруков Николай",
+                "Muxus, Goblin Grandee",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Евсеев Андрей",
+                "Курмакаев Игорь",
+                "Aminatou, the Fateshifter",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Циулин Иван",
+                "Shorikai, Genesis Engine",
+                "Kellan, Daring Traveler",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Громов Михаил",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Ketramose, the New Dawn",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Матюнин Антон",
+                "Flubs, the Fool",
+                "Muxus, Goblin Grandee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Безруков Николай",
+                "Ertai Resurrected",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Курмакаев Игорь",
+                "Сибикин Антон",
+                "Grist, the Hunger Tide",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Евсеев Андрей",
+                "Матюнин Антон",
+                "Aminatou, the Fateshifter",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Тимохин Денис",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Flubs, the Fool",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Громов Михаил",
+                "Циулин Иван",
+                "Ketramose, the New Dawn",
+                "Kellan, Daring Traveler",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Кормаков Александр",
+                "Feldon, Ronom Excavator",
+                "Ghired, Mirror of the Wilds",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58290"
+}

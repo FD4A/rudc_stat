@@ -1,0 +1,18 @@
+location::Samara
+level::Regular
+date::2025_06_21
+organizer::Myakabuka
+players::generals
+Курмакаев Игорь :: Grist, the Hunger Tide
+Матюнин Антон :: Muxus, Goblin Grandee
+Сибикин Антон :: Shorikai, Genesis Engine
+Иванов Никита :: Rograkh, Son of Rohgahh :+: Tymna the Weaver
+Евсеев Андрей :: Aminatou, the Fateshifter
+Громов Михаил :: Ketramose, the New Dawn
+Безруков Николай :: Feldon, Ronom Excavator
+Краснов Илья :: Ertai Resurrected
+Тимохин Денис :: Flubs, the Fool
+Циулин Иван :: Kellan, Daring Traveler
+Кормаков Александр :: Ghired, Mirror of the Wilds
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/58290

@@ -6,7 +6,7 @@ players::generals
 Александр Токарев :: Grist, the Hunger Tide
 Дмитрий Орешкин :: Hidetsugu and Kairi
 Никита Сухов :: Shorikai, Genesis Engine
-Тимур Сайфутдинов :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Тимур Сайфутдинов :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
 Александр Смирнов :: Slimefoot and Squee
 Артём Ангурцов :: Iron Man Titan of Innovation
 Виталий Васильев :: Felothar, Dawn of the Abzan

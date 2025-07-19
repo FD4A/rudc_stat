@@ -25,7 +25,7 @@ players::generals
 Краснов Илья :: Ertai Resurrected
 Поспелов Александр :: Ral, Monsoon Mage
 Васильев Илья :: Eshki Dragonclaw
-Сайфутдинов Тимур :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Сайфутдинов Тимур :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
 Матюнин Антон :: Inti, Seneschal of the Sun
 Захаренко Вячеслав :: Skullbriar, the Walking Grave
 Сомкин Константин :: Kotis, Sibsig Champion

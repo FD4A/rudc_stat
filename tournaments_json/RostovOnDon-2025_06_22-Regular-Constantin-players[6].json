@@ -1,0 +1,132 @@
+{
+    "date": "2025_06_22",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Merkulov Vladislav",
+            "Zabaz, the Glimmerwasp"
+        ],
+        [
+            "Somkin Constantin",
+            "Elminster"
+        ],
+        [
+            "Kovalev Alexander",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Shubenin Ilya",
+            "Vivien on the Hunt"
+        ],
+        [
+            "Lukaynov Vadim",
+            "Gut, True Soul Zealot :+: Folk Hero"
+        ],
+        [
+            "Faydysh Diana",
+            "Phelia, Exuberant Shepherd"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Faydysh Diana",
+                "Shubenin Ilya",
+                "Phelia, Exuberant Shepherd",
+                "Vivien on the Hunt",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Kovalev Alexander",
+                "Merkulov Vladislav",
+                "Ezio Auditore da Firenze",
+                "Zabaz, the Glimmerwasp",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Somkin Constantin",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Elminster",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Somkin Constantin",
+                "Shubenin Ilya",
+                "Elminster",
+                "Vivien on the Hunt",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Merkulov Vladislav",
+                "Lukaynov Vadim",
+                "Zabaz, the Glimmerwasp",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Kovalev Alexander",
+                "Faydysh Diana",
+                "Ezio Auditore da Firenze",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Kovalev Alexander",
+                "Somkin Constantin",
+                "Ezio Auditore da Firenze",
+                "Elminster",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Merkulov Vladislav",
+                "Shubenin Ilya",
+                "Zabaz, the Glimmerwasp",
+                "Vivien on the Hunt",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Faydysh Diana",
+                "Lukaynov Vadim",
+                "Phelia, Exuberant Shepherd",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58312"
+}

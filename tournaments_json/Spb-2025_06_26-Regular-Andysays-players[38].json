@@ -1,0 +1,922 @@
+{
+    "date": "2025_06_26",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Шестаков Игорь",
+            "The Wandering Rescuer"
+        ],
+        [
+            "Коростелев Илья",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Олифер Егор",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Бажанов Михаил",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Протасов Михаил",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Митрохин Никита",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Таловер Артем",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Звягин Георгий",
+            "Winter, Cynical Opportunist"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Ильин Даниил",
+            "The Gitrog Monster"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Постоялкин Павел",
+            "Jedit Ojanen, Mercenary"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Мартынов Влад",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Жевтобрюх Роман",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Барабаш Валентин",
+            "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker"
+        ],
+        [
+            "Лагерев Леонид",
+            "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Красников Александр",
+            "Gut, True Soul Zealot :+: Folk Hero"
+        ],
+        [
+            "Цюра Максим",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Юсенко Глеб",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Кувяткин Илья",
+            "Legacy Weapon"
+        ],
+        [
+            "Семенов Дмитрий",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Иванов Дмитрий",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Муравьев Никита",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Булочко Михаил",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Сивцов Даниил",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Зубакин Егор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Вахитов Ривкат",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Корсаков Алексей",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Порошин Денис",
+            "Daretti, Scrap Savant"
+        ],
+        [
+            "Оснос Владислав",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Егоров Павел",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Зоев Олег",
+            "Mathas, Fiend Seeker"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Мартынов Влад",
+                "Протасов Михаил",
+                "Tivit, Seller of Secrets",
+                "Deadpool, Trading Card",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Оснос Владислав",
+                "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero",
+                "Satya, Aetherflux Genius",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Красников Александр",
+                "Ghyrson Starn, Kelermorph",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Шестаков Игорь",
+                "Dihada, Binder of Wills",
+                "The Wandering Rescuer",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ильин Даниил",
+                "Жевтобрюх Роман",
+                "The Gitrog Monster",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Калашников  Глеб",
+                "Зубакин Егор",
+                "unknown",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Бажанов Михаил",
+                "Сивцов Даниил",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Митрохин Никита",
+                "Звягин Георгий",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Winter, Cynical Opportunist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Цюра Максим",
+                "Кувяткин Илья",
+                "Aragorn, King of Gondor",
+                "Legacy Weapon",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Поляков Герман",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Федоров Дмитрий",
+                "Vial Smasher the Fierce",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Булочко Михаил",
+                "Feldon, Ronom Excavator",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Зоев Олег",
+                "Коростелев Илья",
+                "Mathas, Fiend Seeker",
+                "Satya, Aetherflux Genius",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Юсенко Глеб",
+                "Муравьев Никита",
+                "Ezio Auditore da Firenze",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Мартынов Яков",
+                "Grist, the Hunger Tide",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Постоялкин Павел",
+                "Барабаш Валентин",
+                "Jedit Ojanen, Mercenary",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Корсаков Алексей",
+                "Golos, Tireless Pilgrim",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Семенов Дмитрий",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Ульянов Алексей",
+                "Phelia, Exuberant Shepherd",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Тяпайкин Максим",
+                "Кувяткин Илья",
+                "Golos, Tireless Pilgrim",
+                "Legacy Weapon",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Ильин Даниил",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "The Gitrog Monster",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Зубакин Егор",
+                "Vial Smasher the Fierce",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Лагерев Леонид",
+                "Deadpool, Trading Card",
+                "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Шестаков Игорь",
+                "Ghyrson Starn, Kelermorph",
+                "The Wandering Rescuer",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Бажанов Михаил",
+                "Митрохин Никита",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Постоялкин Павел",
+                "Коростелев Илья",
+                "Jedit Ojanen, Mercenary",
+                "Satya, Aetherflux Genius",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Таловер Артем",
+                "Teferi, Temporal Archmage",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Ульянов Алексей",
+                "Tivit, Seller of Secrets",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Юсенко Глеб",
+                "Егоров Павел",
+                "Ezio Auditore da Firenze",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Цюра Максим",
+                "Phelia, Exuberant Shepherd",
+                "Aragorn, King of Gondor",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Зоев Олег",
+                "Мартынов Влад",
+                "Mathas, Fiend Seeker",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Семенов Дмитрий",
+                "Tivit, Seller of Secrets",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Жевтобрюх Роман",
+                "Сивцов Даниил",
+                "Slimefoot and Squee",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Муравьев Роман",
+                "Kroxa, Titan of Death's Hunger",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Вахитов Ривкат",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Калашников  Глеб",
+                "Барабаш Валентин",
+                "unknown",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Иванов Дмитрий",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Оснос Владислав",
+                "Звягин Георгий",
+                "Satya, Aetherflux Genius",
+                "Winter, Cynical Opportunist",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Протасов Михаил",
+                "Шестаков Игорь",
+                "Deadpool, Trading Card",
+                "The Wandering Rescuer",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Бажанов Михаил",
+                "Grist, the Hunger Tide",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Коростелев Илья",
+                "Vial Smasher the Fierce",
+                "Satya, Aetherflux Genius",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ильин Даниил",
+                "Тяпайкин Максим",
+                "The Gitrog Monster",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Кувяткин Илья",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Legacy Weapon",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Юсенко Глеб",
+                "Golos, Tireless Pilgrim",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Жевтобрюх Роман",
+                "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero",
+                "Slimefoot and Squee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Цюра Максим",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вахитов Ривкат",
+                "Постоялкин Павел",
+                "Feldon, Ronom Excavator",
+                "Jedit Ojanen, Mercenary",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Семенов Дмитрий",
+                "Teferi, Temporal Archmage",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Митрохин Никита",
+                "Иванов Дмитрий",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Влад",
+                "Звягин Георгий",
+                "Tivit, Seller of Secrets",
+                "Winter, Cynical Opportunist",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Зубакин Егор",
+                "Dihada, Binder of Wills",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Булочко Михаил",
+                "Ghyrson Starn, Kelermorph",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Егоров Павел",
+                "Phelia, Exuberant Shepherd",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Оснос Владислав",
+                "Tivit, Seller of Secrets",
+                "Satya, Aetherflux Genius",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Сивцов Даниил",
+                "Красников Александр",
+                "Slimefoot and Squee",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Зоев Олег",
+                "Kroxa, Titan of Death's Hunger",
+                "Mathas, Fiend Seeker",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Калашников  Глеб",
+                "Корсаков Алексей",
+                "unknown",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Коростелев Илья",
+                "Бажанов Михаил",
+                "Satya, Aetherflux Genius",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Ульянов Алексей",
+                "The Wandering Rescuer",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Тяпайкин Максим",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Постоялкин Павел",
+                "Teferi, Temporal Archmage",
+                "Jedit Ojanen, Mercenary",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Жевтобрюх Роман",
+                "Deadpool, Trading Card",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Барабаш Валентин",
+                "Vial Smasher the Fierce",
+                "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Митрохин Никита",
+                "Ghyrson Starn, Kelermorph",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Звягин Георгий",
+                "Dihada, Binder of Wills",
+                "Winter, Cynical Opportunist",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Таловер Артем",
+                "Кувяткин Илья",
+                "Grist, the Hunger Tide",
+                "Legacy Weapon",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Ильин Даниил",
+                "Phelia, Exuberant Shepherd",
+                "The Gitrog Monster",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Юсенко Глеб",
+                "Семенов Дмитрий",
+                "Ezio Auditore da Firenze",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Зубакин Егор",
+                "Красников Александр",
+                "Ghyrson Starn, Kelermorph",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Корсаков Алексей",
+                "Мартынов Влад",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Федоров Дмитрий",
+                "Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сивцов Даниил",
+                "Цюра Максим",
+                "Slimefoot and Squee",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Дмитрий",
+                "Булочко Михаил",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Оснос Владислав",
+                "Калашников  Глеб",
+                "Satya, Aetherflux Genius",
+                "unknown",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Зоев Олег",
+                "Tivit, Seller of Secrets",
+                "Mathas, Fiend Seeker",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58405"
+}

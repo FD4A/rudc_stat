@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2025_06_30
+organizer::Illator
+players::generals
+Диана :: Phelia, Exuberant Shepherd
+Шубенин Илья :: Vivi Ornitier
+Лукьянов Вадим :: Glarb, Calamity's Augur
+Александр Плотников :: Lonis, Cryptozoologist
+Артём Посидайло :: Grist, the Hunger Tide
+Птиц :: Kasla, the Broken Halo
+Round
+https://aetherhub.com/Tourney/RoundTourney/58536

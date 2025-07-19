@@ -1,0 +1,136 @@
+{
+    "date": "2025_06_26",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Isaev Alexander",
+            "Plagon, Lord of the Beach"
+        ],
+        [
+            "Kovalev Alexander",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Shubenin Ilya",
+            "Vivien on the Hunt"
+        ],
+        [
+            "Merkulov Vladislav",
+            "Zabaz, the Glimmerwasp"
+        ],
+        [
+            "Mishin Vasily",
+            "Ertai Resurrected"
+        ],
+        [
+            "Somkin Constantin",
+            "Elminster"
+        ],
+        [
+            "Cherepovskiy Roman",
+            "Gut, True Soul Zealot :+: Agent of the Iron Throne"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Mishin Vasily",
+                "Kovalev Alexander",
+                "Ertai Resurrected",
+                "Ezio Auditore da Firenze",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Merkulov Vladislav",
+                "Isaev Alexander",
+                "Zabaz, the Glimmerwasp",
+                "Plagon, Lord of the Beach",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Shubenin Ilya",
+                "Cherepovskiy Roman",
+                "Vivien on the Hunt",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Kovalev Alexander",
+                "Isaev Alexander",
+                "Ezio Auditore da Firenze",
+                "Plagon, Lord of the Beach",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Shubenin Ilya",
+                "Somkin Constantin",
+                "Vivien on the Hunt",
+                "Elminster",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Mishin Vasily",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Ertai Resurrected",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Isaev Alexander",
+                "Shubenin Ilya",
+                "Plagon, Lord of the Beach",
+                "Vivien on the Hunt",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Kovalev Alexander",
+                "Elminster",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Merkulov Vladislav",
+                "Mishin Vasily",
+                "Zabaz, the Glimmerwasp",
+                "Ertai Resurrected",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58407"
+}

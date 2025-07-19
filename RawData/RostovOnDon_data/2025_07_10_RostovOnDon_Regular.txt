@@ -1,0 +1,15 @@
+location::RostovOnDon
+level::Regular
+date::2025_07_10
+organizer::Constantin
+players::generals
+Isaev Alexander :: Plagon, Lord of the Beach
+Cherepovskiy Roman :: Gut, True Soul Zealot :+: Agent of the Iron Throne
+Shubenin Ilya :: Vivi Ornitier
+Somkin Constantin :: Elas il-Kor, Sadistic Pilgrim :+: Lurrus of the Dream-Den
+Alexandrov Nikita :: Ferrous Rokiric
+Elinskiy Denis :: Phelia, Exuberant Shepherd
+Bespalov Taras :: Bristly Bill, Spine Sower
+Fedorov Dmitriy :: Arahbo, Roar of the World
+Round
+https://aetherhub.com/Tourney/RoundTourney/58755

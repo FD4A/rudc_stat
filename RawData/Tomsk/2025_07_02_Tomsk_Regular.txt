@@ -1,0 +1,19 @@
+location::Tomsk
+level::Regular
+date::2025_07_02
+organizer::d6tomsk
+players::generals
+Поспелов Александр :: Ral, Monsoon Mage
+Черепов Антон :: Tourach, Dread Cantor
+Владимиров Егор :: Gut, True Soul Zealot :+: Folk Hero
+Веренич Артем :: Edric, Spymaster of Trest
+Иванов Алексей :: Phelia, Exuberant Shepherd
+Дмитриев Сергей :: Feldon, Ronom Excavator
+Нагаев Никита :: Shroofus Sproutsire
+Чураков Павел :: Sai, Master Thopterist
+Купцевич Ярослав :: Isshin, Two Heavens as One
+Торицын Олег :: Gut, True Soul Zealot :+: Agent of the Iron Throne
+Мораль Август :: Sai, Master Thopterist
+Кузнецов Северин :: Kykar, Wind's Fury
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/58569

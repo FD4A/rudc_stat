@@ -1,0 +1,32 @@
+= Elminster                        matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:5    WG: 40.00% LG: 60.00% (wg:   2 lg:   3) pick: 1    RostovOnDon(1), 
+       vs Vivien on the Hunt               (w:0 l:1 d:0), (0/2)
+       vs Plagon, Lord of the Beach        (w:1 l:0 d:0), (2/0)
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/1)
+
+
+= Golos, Tireless Pilgrim          matches:2    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:1   lm:1   dm:0)  games:3    WG: 33.33% LG: 66.67% (wg:   1 lg:   2) pick: 1    RostovOnDon(1), 
+       vs Plagon, Lord of the Beach        (w:0 l:1 d:0), (0/2)
+       vs Elminster                        (w:1 l:0 d:0), (1/0)
+
+
+= Kroxa, Titan of Death's Hunger   matches:3    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:3   lm:0   dm:0)  games:8    WG: 75.00% LG: 25.00% (wg:   6 lg:   2) pick: 1    RostovOnDon(1), 
+       vs Phelia, Exuberant Shepherd       (w:1 l:0 d:0), (2/0)
+       vs Vivien on the Hunt               (w:1 l:0 d:0), (2/1)
+       vs Plagon, Lord of the Beach        (w:1 l:0 d:0), (2/1)
+
+
+= Phelia, Exuberant Shepherd       matches:1    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:1   dm:0)  games:2    WG:  0.00% LG:100.00% (wg:   0 lg:   2) pick: 1    RostovOnDon(1), 
+       vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (0/2)
+
+
+= Plagon, Lord of the Beach        matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:7    WG: 42.86% LG: 57.14% (wg:   3 lg:   4) pick: 1    RostovOnDon(1), 
+       vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/0)
+       vs Elminster                        (w:0 l:1 d:0), (0/2)
+       vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (1/2)
+
+
+= Vivien on the Hunt               matches:2    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:1   lm:1   dm:0)  games:5    WG: 60.00% LG: 40.00% (wg:   3 lg:   2) pick: 1    RostovOnDon(1), 
+       vs Elminster                        (w:1 l:0 d:0), (2/0)
+       vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (1/2)
+
+

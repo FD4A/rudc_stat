@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2025_06_22
+organizer::Constantin
+players::generals
+Merkulov Vladislav :: Zabaz, the Glimmerwasp
+Somkin Constantin :: Elminster
+Kovalev Alexander :: Ezio Auditore da Firenze
+Shubenin Ilya :: Vivi Ornitier
+Lukaynov Vadim :: Gut, True Soul Zealot :+: Folk Hero
+Faydysh Diana :: Phelia, Exuberant Shepherd
+Round
+https://aetherhub.com/Tourney/RoundTourney/58312

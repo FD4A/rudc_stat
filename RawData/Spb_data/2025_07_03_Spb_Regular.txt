@@ -1,0 +1,36 @@
+location::Spb
+level::Regular
+date::2025_07_03
+organizer::Andysays
+players::generals
+Семенов Павел :: Cloud, Midgar Mercenary
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Поляков Герман :: Teferi, Temporal Archmage
+Булочко Михаил :: Tivit, Seller of Secrets
+Юсенко Глеб :: Ezio Auditore da Firenze
+Сивцов Даниил :: Slimefoot and Squee
+Жовтобрюх Роман :: Deadpool, Trading Card
+Коростелев Илья :: Soul of Windgrace
+Мартынов Яков :: Tivit, Seller of Secrets
+Грабовой Филипп :: Slimefoot and Squee
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Таловер Артем :: Grist, the Hunger Tide
+Звягин Георгий :: Winter, Cynical Opportunist
+Кеворков Артур :: Vivi Ornitier
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Егоров Павел :: Tifa Lockhart
+Федоров Дмитрий :: Lurrus of the Dream-Den
+Елисеев Степан :: Grist, the Hunger Tide
+Корсаков Алексей :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Мацкевич Никита :: Aragorn, King of Gondor
+Красников Александр :: Gut, True Soul Zealot :+: Folk Hero
+Лагерев Леонид :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Хорьков Аркадий :: Arahbo, Roar of the World
+Брук Роман :: Urabrask
+Шестаков Игорь :: The Wandering Minstrel
+Байков Аркадий :: Vial Smasher the Fierce
+Токмачев Сергей :: Satya, Aetherflux Genius
+Постояклин Павел :: Cloud, Midgar Mercenary
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/58595

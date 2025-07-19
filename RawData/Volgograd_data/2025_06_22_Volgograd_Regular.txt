@@ -1,0 +1,16 @@
+location::Volgograd
+level::Regular
+date::2025_06_22
+organizer::Rombik34rus
+players::generals
+Андрей Костин :: Iron Man, Titan of Innovation
+Вячеслав Серпутько :: Selvala, Explorer Returned
+Артём Ангурцов :: Iron Man, Titan of Innovation
+Виталий Васильев :: Queen Marchesa
+Александр Смирнов :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Михаил Козлов :: Winota, Joiner of Forces
+Максим Мещеряков :: Thrasios, Triton Hero :+: Tymna the Weaver
+Павел Ходырев :: Wilhelt, the Rotcleaver
+Дмитрий Орешкин :: Ertai Resurrected
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/58308

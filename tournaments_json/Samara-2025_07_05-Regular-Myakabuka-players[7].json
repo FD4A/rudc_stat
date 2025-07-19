@@ -1,0 +1,136 @@
+{
+    "date": "2025_07_05",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Сибикин Антон",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Краснов Илья",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Циулин Иван",
+            "Kellan, Daring Traveler"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Громов Михаил",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Иванов Никита",
+            "Rograkh, Son of Rohgahh :+: Tymna the Weaver"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Громов Михаил",
+                "Матюнин Антон",
+                "Dihada, Binder of Wills",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Циулин Иван",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Kellan, Daring Traveler",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Краснов Илья",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Сибикин Антон",
+                "Shorikai, Genesis Engine",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Громов Михаил",
+                "Курмакаев Игорь",
+                "Dihada, Binder of Wills",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Матюнин Антон",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Курмакаев Игорь",
+                "Сибикин Антон",
+                "Shorikai, Genesis Engine",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Громов Михаил",
+                "Shorikai, Genesis Engine",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Матюнин Антон",
+                "Kellan, Daring Traveler",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58646"
+}

@@ -1,0 +1,23 @@
+location::Samara
+level::Regular
+date::2025_07_12
+organizer::Myakabuka
+players::generals
+Краснов Илья :: Shorikai, Genesis Engine
+Громов Михаил :: Satoru, the Infiltrator
+Шатохин Александр :: Urabrask
+Сибикин Антон :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Иванов Никита :: Rograkh, Son of Rohgahh :+: Tymna the Weaver
+Ревин Владимир :: Elenda, Saint of Dusk
+Безруков Николай :: Feldon, Ronom Excavator
+Козин Игорь :: Shorikai, Genesis Engine
+Курмакаев Игорь :: Grist, the Hunger Tide
+Матюнин Антон :: Muxus, Goblin Grandee
+Циулин Иван :: Kellan, Daring Traveler
+Трифонов Тимур :: Azusa, Lost but Seeking
+Латыпов Камиль :: Ghyrson Starn, Kelermorph
+Кормаков Александр :: Ghired, Mirror of the Wilds
+Тимохин Денис :: Amalia Benavides Aguirre :+: Lurrus of the Dream-Den
+Козлов Максим :: Lier, Disciple of the Drowned
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/58809

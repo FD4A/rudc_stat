@@ -1,6 +1,6 @@
 location::Online
 level::Regular
-date::2025_05_31
+date::2025_06_25
 organizer::AlexSmirnov
 players::generals
 Бурмистров Павел :: Glarb, Calamity's Augur
@@ -15,7 +15,7 @@ players::generals
 Шестаков Игорь :: Cecil, Dark Knight
 Антипин Костя :: Deadpool, Trading Card
 Мещеряков Максим :: Tymna the Weaver :+: Thrasios, Triton Hero
-Сайфутдинов Тимур :: Thrasios, Triton Hero :+: Bruse Tarl, Boorish Herder
+Сайфутдинов Тимур :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
 Череповский Роман :: Juri, Master of the Revue
 Барабаш Валентин :: Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker
 Согрин Вадим :: Feldon, Ronom Excavator

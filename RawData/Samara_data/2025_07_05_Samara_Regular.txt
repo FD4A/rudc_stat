@@ -1,0 +1,14 @@
+location::Samara
+level::Regular
+date::2025_07_05
+organizer::Myakabuka
+players::generals
+Сибикин Антон :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Краснов Илья :: Shorikai, Genesis Engine
+Циулин Иван :: Kellan, Daring Traveler
+Курмакаев Игорь :: Shorikai, Genesis Engine
+Громов Михаил :: Dihada, Binder of Wills
+Иванов Никита :: Rograkh, Son of Rohgahh :+: Tymna the Weaver
+Матюнин Антон :: Muxus, Goblin Grandee
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/58646

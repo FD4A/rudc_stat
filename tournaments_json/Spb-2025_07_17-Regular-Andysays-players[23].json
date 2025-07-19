@@ -1,0 +1,542 @@
+{
+    "date": "2025_07_17",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Грабовой Филипп",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Юсенко Глеб",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Гусев Денис",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Протасов Михаил",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Антипин Константин",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Лейбович Александр",
+            "Vivien on the Hunt"
+        ],
+        [
+            "Красников Александр",
+            "Gut, True Soul Zealot :+: Folk Hero"
+        ],
+        [
+            "Муравьев Никита",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Постояклин Павел",
+            "Jedit Ojanen, Mercenary"
+        ],
+        [
+            "Булочко Михаил",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Кеворков Артур",
+            "Sharuum the Hegemon"
+        ],
+        [
+            "Сивцов Даниил",
+            "Dargo, the Shipwrecker :+: Ikra Shidiqi, the Usurper"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Ульянов Алексей",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Сушков Дмитрий",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Богданов Сергей",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Леванов Алексей",
+            "Hashaton, Scarab's Fist"
+        ],
+        [
+            "Медведев Константин",
+            "Bruse Tarl, Boorish Herder :+: Ikra Shidiqi, the Usurper"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Lurrus of the Dream-Den"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Муравьев Никита",
+                "Леванов Алексей",
+                "Phelia, Exuberant Shepherd",
+                "Hashaton, Scarab's Fist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Постояклин Павел",
+                "Kroxa, Titan of Death's Hunger",
+                "Jedit Ojanen, Mercenary",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Богатырев Александр",
+                "Lurrus of the Dream-Den",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Гусев Денис",
+                "Azusa, Lost but Seeking",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Медведев Константин",
+                "Антипин Константин",
+                "Bruse Tarl, Boorish Herder :+: Ikra Shidiqi, the Usurper",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Поляков Герман",
+                "Iron Man, Titan of Innovation",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Юсенко Глеб",
+                "Кеворков Артур",
+                "Ezio Auditore da Firenze",
+                "Sharuum the Hegemon",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Сушков Дмитрий",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лейбович Александр",
+                "Ульянов Алексей",
+                "Vivien on the Hunt",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Мартынов Яков",
+                "Vial Smasher the Fierce",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Сивцов Даниил",
+                "Dihada, Binder of Wills",
+                "Dargo, the Shipwrecker :+: Ikra Shidiqi, the Usurper",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Муравьев Никита",
+                "Гусев Денис",
+                "Phelia, Exuberant Shepherd",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Юсенко Глеб",
+                "Tivit, Seller of Secrets",
+                "Ezio Auditore da Firenze",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Антипин Константин",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Постояклин Павел",
+                "Поляков Герман",
+                "Jedit Ojanen, Mercenary",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Муравьев Роман",
+                "Phelia, Exuberant Shepherd",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Ульянов Алексей",
+                "Indoraptor, the Perfect Hybrid",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Федоров Дмитрий",
+                "Iron Man, Titan of Innovation",
+                "Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Кеворков Артур",
+                "Vial Smasher the Fierce",
+                "Sharuum the Hegemon",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сушков Дмитрий",
+                "Медведев Константин",
+                "Indoraptor, the Perfect Hybrid",
+                "Bruse Tarl, Boorish Herder :+: Ikra Shidiqi, the Usurper",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сивцов Даниил",
+                "Леванов Алексей",
+                "Dargo, the Shipwrecker :+: Ikra Shidiqi, the Usurper",
+                "Hashaton, Scarab's Fist",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Лейбович Александр",
+                "Kroxa, Titan of Death's Hunger",
+                "Vivien on the Hunt",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Красников Александр",
+                "Муравьев Никита",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Юсенко Глеб",
+                "Поляков Герман",
+                "Ezio Auditore da Firenze",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Богатырев Александр",
+                "Phelia, Exuberant Shepherd",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Антипин Константин",
+                "Булочко Михаил",
+                "Feldon, Ronom Excavator",
+                "Iron Man, Titan of Innovation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сушков Дмитрий",
+                "Гусев Денис",
+                "Indoraptor, the Perfect Hybrid",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Ульянов Алексей",
+                "Tivit, Seller of Secrets",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Муравьев Роман",
+                "Azusa, Lost but Seeking",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лейбович Александр",
+                "Байков Аркадий",
+                "Vivien on the Hunt",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сивцов Даниил",
+                "Постояклин Павел",
+                "Dargo, the Shipwrecker :+: Ikra Shidiqi, the Usurper",
+                "Jedit Ojanen, Mercenary",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Леванов Алексей",
+                "Медведев Константин",
+                "Hashaton, Scarab's Fist",
+                "Bruse Tarl, Boorish Herder :+: Ikra Shidiqi, the Usurper",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Федоров Дмитрий",
+                "Kroxa, Titan of Death's Hunger",
+                "Lurrus of the Dream-Den",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Юсенко Глеб",
+                "Грабовой Филипп",
+                "Ezio Auditore da Firenze",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Мартынов Яков",
+                "Phelia, Exuberant Shepherd",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Лейбович Александр",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Vivien on the Hunt",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Поляков Герман",
+                "Azusa, Lost but Seeking",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Гусев Денис",
+                "Постояклин Павел",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Jedit Ojanen, Mercenary",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Антипин Константин",
+                "Indoraptor, the Perfect Hybrid",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сивцов Даниил",
+                "Богданов Сергей",
+                "Dargo, the Shipwrecker :+: Ikra Shidiqi, the Usurper",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Леванов Алексей",
+                "Iron Man, Titan of Innovation",
+                "Hashaton, Scarab's Fist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Кеворков Артур",
+                "Dihada, Binder of Wills",
+                "Sharuum the Hegemon",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Медведев Константин",
+                "Lurrus of the Dream-Den",
+                "Bruse Tarl, Boorish Herder :+: Ikra Shidiqi, the Usurper",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58935"
+}

@@ -1,0 +1,30 @@
+location::Spb
+level::Regular
+date::2025_07_17
+organizer::Andysays
+players::generals
+Грабовой Филипп :: Phelia, Exuberant Shepherd
+Юсенко Глеб :: Ezio Auditore da Firenze
+Гусев Денис :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Протасов Михаил :: Azusa, Lost but Seeking
+Мартынов Яков :: Tivit, Seller of Secrets
+Антипин Константин :: Feldon, Ronom Excavator
+Лейбович Александр :: Vivi Ornitier
+Красников Александр :: Gut, True Soul Zealot :+: Folk Hero
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Поляков Герман :: Teferi, Temporal Archmage
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Постояклин Павел :: Cloud, Midgar Mercenary
+Булочко Михаил :: Iron Man, Titan of Innovation
+Кеворков Артур :: Sonic the Hedgehog
+Сивцов Даниил :: Dargo, the Shipwrecker :+: Ikra Shidiqi, the Usurper
+Муравьев Роман :: Dihada, Binder of Wills
+Байков Аркадий :: Vial Smasher the Fierce
+Ульянов Алексей :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Сушков Дмитрий :: Indoraptor, the Perfect Hybrid
+Богданов Сергей :: Kroxa, Titan of Death's Hunger
+Леванов Алексей :: Hashaton, Scarab's Fist
+Медведев Константин :: Bruse Tarl, Boorish Herder :+: Ikra Shidiqi, the Usurper
+Федоров Дмитрий :: Lurrus of the Dream-Den
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/58935

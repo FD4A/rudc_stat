@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2025_07_13
+organizer::Constantin
+players::generals
+Shubenin Ilya :: Vivi Ornitier
+Lukaynov Vadim :: Lightning, Army of One
+Somkin Constantin :: Elas il-Kor, Sadistic Pilgrim :+: Lurrus of the Dream-Den
+Cherepovskiy Roman :: Arahbo, Roar of the World
+Merkulov Vladislav :: Zabaz, the Glimmerwasp
+Faydysh Diana :: Phelia, Exuberant Shepherd
+Round
+https://aetherhub.com/Tourney/RoundTourney/58847

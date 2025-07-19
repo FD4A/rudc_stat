@@ -1,0 +1,19 @@
+location::Tomsk
+level::Regular
+date::2025_07_16
+organizer::d6tomsk
+players::generals
+Иванов Алексей :: Phelia, Exuberant Shepherd
+Владимиров Егор :: Ketramose, the New Dawn
+Кузнецов Северин :: Kykar, Wind's Fury
+Демидов Виталий :: The Gitrog Monster
+Черепов Антон :: Tourach, Dread Cantor
+Барышев Максим :: Ghyrson Starn, Kelermorph
+Писарев Никита :: Sythis, Harvest's Hand
+Фурсов Владимир :: Laelia, the Blade Reforged
+Нагаев Никита :: Shorofus Sproutsire
+Торицын Олег :: Gut, True Soul Zealot :+: Agent of the Iron Throne
+Чураков Павел :: Sai, Master Thopterist
+Прохоров Арсений :: The Scarab God
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/58907
