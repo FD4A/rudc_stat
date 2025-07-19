@@ -1,0 +1,136 @@
+{
+    "date": "2025_07_10",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Громов Михаил",
+            "Satoru, the Infiltrator"
+        ],
+        [
+            "Циулин Иван",
+            "Kellan, Daring Traveler"
+        ],
+        [
+            "Краснов Илья",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Сибикин Антон",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Иванов Никита",
+            "Rograkh, Son of Rohgahh :+: Tymna the Weaver"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Громов Михаил",
+                "Курмакаев Игорь",
+                "Satoru, the Infiltrator",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Иванов Никита",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Матюнин Антон",
+                "Shorikai, Genesis Engine",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Никита",
+                "Громов Михаил",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Satoru, the Infiltrator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Краснов Илья",
+                "Kellan, Daring Traveler",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Сибикин Антон",
+                "Grist, the Hunger Tide",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Циулин Иван",
+                "Громов Михаил",
+                "Kellan, Daring Traveler",
+                "Satoru, the Infiltrator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Иванов Никита",
+                "Shorikai, Genesis Engine",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Сибикин Антон",
+                "Muxus, Goblin Grandee",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58749"
+}

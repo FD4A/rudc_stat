@@ -1,0 +1,170 @@
+{
+    "date": "2025_06_19",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Громов Михаил",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Циулин Иван",
+            "Kellan, Daring Traveler"
+        ],
+        [
+            "Иванов Никита",
+            "Rograkh, Son of Rohgahh :+: Tymna the Weaver"
+        ],
+        [
+            "Сибикин Антон",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Краснов Илья",
+            "Ertai Resurrected"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Краснов Илья",
+                "Курмакаев Игорь",
+                "Ertai Resurrected",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Иванов Никита",
+                "Kellan, Daring Traveler",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Безруков Николай",
+                "Shorikai, Genesis Engine",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Громов Михаил",
+                "Матюнин Антон",
+                "Ketramose, the New Dawn",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Курмакаев Игорь",
+                "Громов Михаил",
+                "Grist, the Hunger Tide",
+                "Ketramose, the New Dawn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Циулин Иван",
+                "Shorikai, Genesis Engine",
+                "Kellan, Daring Traveler",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Безруков Николай",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Матюнин Антон",
+                "Ertai Resurrected",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Громов Михаил",
+                "Иванов Никита",
+                "Ketramose, the New Dawn",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Курмакаев Игорь",
+                "Shorikai, Genesis Engine",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Циулин Иван",
+                "Ertai Resurrected",
+                "Kellan, Daring Traveler",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Безруков Николай",
+                "Muxus, Goblin Grandee",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58225"
+}

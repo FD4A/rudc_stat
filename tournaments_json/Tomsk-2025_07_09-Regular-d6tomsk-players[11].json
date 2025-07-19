@@ -1,0 +1,264 @@
+{
+    "date": "2025_07_09",
+    "location": "Tomsk",
+    "level": "Regular",
+    "organizer": "d6tomsk",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Поспелов Александр",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Черепов Антон",
+            "Tourach, Dread Cantor"
+        ],
+        [
+            "Владимиров Егор",
+            "Gut, True Soul Zealot :+: Folk Hero"
+        ],
+        [
+            "Иванов Алексей",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Демидов Виталий",
+            "The Gitrog Monster"
+        ],
+        [
+            "Нагаев Никита",
+            "Felothar, Dawn of the Abzan"
+        ],
+        [
+            "Веренич Артём",
+            "Edric, Spymaster of Trest"
+        ],
+        [
+            "Кузнецов Северин",
+            "Kykar, Wind's Fury"
+        ],
+        [
+            "Торицын Олег",
+            "Gut, True Soul Zealot :+: Agent of the Iron Throne"
+        ],
+        [
+            "Чураков Павел",
+            "Sai, Master Thopterist"
+        ],
+        [
+            "Барышев Максим",
+            "Ghyrson Starn, Kelermorph"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Барышев Максим",
+                "Чураков Павел",
+                "Ghyrson Starn, Kelermorph",
+                "Sai, Master Thopterist",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Нагаев Никита",
+                "Ral, Monsoon Mage",
+                "Felothar, Dawn of the Abzan",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Торицын Олег",
+                "Черепов Антон",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Tourach, Dread Cantor",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Алексей",
+                "Владимиров Егор",
+                "Phelia, Exuberant Shepherd",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Веренич Артем",
+                "The Gitrog Monster",
+                "unknown",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Алексей",
+                "Черепов Антон",
+                "Phelia, Exuberant Shepherd",
+                "Tourach, Dread Cantor",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Нагаев Никита",
+                "Веренич Артем",
+                "Felothar, Dawn of the Abzan",
+                "unknown",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Владимиров Егор",
+                "Торицын Олег",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Чураков Павел",
+                "Ral, Monsoon Mage",
+                "Sai, Master Thopterist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Кузнецов Северин",
+                "The Gitrog Monster",
+                "Kykar, Wind's Fury",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Черепов Антон",
+                "Поспелов Александр",
+                "Tourach, Dread Cantor",
+                "Ral, Monsoon Mage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Иванов Алексей",
+                "Kykar, Wind's Fury",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Барышев Максим",
+                "The Gitrog Monster",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Владимиров Егор",
+                "Sai, Master Thopterist",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Веренич Артем",
+                "Торицын Олег",
+                "unknown",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Поспелов Александр",
+                "Демидов Виталий",
+                "Ral, Monsoon Mage",
+                "The Gitrog Monster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Черепов Антон",
+                "Веренич Артем",
+                "Tourach, Dread Cantor",
+                "unknown",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Владимиров Егор",
+                "Кузнецов Северин",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Kykar, Wind's Fury",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Нагаев Никита",
+                "Чураков Павел",
+                "Felothar, Dawn of the Abzan",
+                "Sai, Master Thopterist",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Алексей",
+                "Барышев Максим",
+                "Phelia, Exuberant Shepherd",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58724"
+}

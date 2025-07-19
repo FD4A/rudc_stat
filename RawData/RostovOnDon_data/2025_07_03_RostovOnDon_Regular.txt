@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2025_07_03
+organizer::Illator
+players::generals
+Cherepovskiy Roman :: Arahbo, Roar of the World
+Isaev Alexander :: Plagon, Lord of the Beach
+Somkin Constantin :: Elas il-Kor, Sadistic Pilgrim :+: Lurrus of the Dream-Den
+Shubenin Ilya :: Vivi Ornitier
+Mishin Vasily :: Ertai Resurrected
+Faydysh Diana :: Phelia, Exuberant Shepherd
+Round
+https://aetherhub.com/Tourney/RoundTourney/58598

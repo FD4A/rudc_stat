@@ -1,0 +1,14 @@
+location::Samara
+level::Regular
+date::2025_07_10
+organizer::Myakabuka
+players::generals
+Громов Михаил :: Satoru, the Infiltrator
+Циулин Иван :: Kellan, Daring Traveler
+Краснов Илья :: Shorikai, Genesis Engine
+Сибикин Антон :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Курмакаев Игорь :: Grist, the Hunger Tide
+Иванов Никита :: Rograkh, Son of Rohgahh :+: Tymna the Weaver
+Матюнин Антон :: Muxus, Goblin Grandee
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/58749

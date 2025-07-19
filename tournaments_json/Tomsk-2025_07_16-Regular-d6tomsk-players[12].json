@@ -1,0 +1,308 @@
+{
+    "date": "2025_07_16",
+    "location": "Tomsk",
+    "level": "Regular",
+    "organizer": "d6tomsk",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Иванов Алексей",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Владимиров Егор",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Кузнецов Северин",
+            "Kykar, Wind's Fury"
+        ],
+        [
+            "Демидов Виталий",
+            "The Gitrog Monster"
+        ],
+        [
+            "Черепов Антон",
+            "Tourach, Dread Cantor"
+        ],
+        [
+            "Барышев Максим",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Писарев Никита",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Фурсов Владимир",
+            "Laelia, the Blade Reforged"
+        ],
+        [
+            "Нагаев Никита",
+            "Shroofus Sproutsire"
+        ],
+        [
+            "Торицын Олег",
+            "Gut, True Soul Zealot :+: Agent of the Iron Throne"
+        ],
+        [
+            "Чураков Павел",
+            "Sai, Master Thopterist"
+        ],
+        [
+            "Прохоров Арсений",
+            "The Scarab God"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Иванов Алексей",
+                "Нагаев Никита",
+                "Phelia, Exuberant Shepherd",
+                "Shroofus Sproutsire",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Прохоров Арсений",
+                "Владимиров Егор",
+                "The Scarab God",
+                "Ketramose, the New Dawn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Фурсов Владимир",
+                "Торицын Олег",
+                "Laelia, the Blade Reforged",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Черепов Антон",
+                "Писарев Никита",
+                "Tourach, Dread Cantor",
+                "Sythis, Harvest's Hand",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Барышев Максим",
+                "Kykar, Wind's Fury",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Чураков Павел",
+                "The Gitrog Monster",
+                "Sai, Master Thopterist",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Алексей",
+                "Торицын Олег",
+                "Phelia, Exuberant Shepherd",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Владимиров Егор",
+                "Барышев Максим",
+                "Ketramose, the New Dawn",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Писарев Никита",
+                "The Gitrog Monster",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Нагаев Никита",
+                "Фурсов Владимир",
+                "Shroofus Sproutsire",
+                "Laelia, the Blade Reforged",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Черепов Антон",
+                "Чураков Павел",
+                "Tourach, Dread Cantor",
+                "Sai, Master Thopterist",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Прохоров Арсений",
+                "Kykar, Wind's Fury",
+                "The Scarab God",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Алексей",
+                "Владимиров Егор",
+                "Phelia, Exuberant Shepherd",
+                "Ketramose, the New Dawn",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Черепов Антон",
+                "The Gitrog Monster",
+                "Tourach, Dread Cantor",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Торицын Олег",
+                "Писарев Никита",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Sythis, Harvest's Hand",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Барышев Максим",
+                "Фурсов Владимир",
+                "Ghyrson Starn, Kelermorph",
+                "Laelia, the Blade Reforged",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Чураков Павел",
+                "Kykar, Wind's Fury",
+                "Sai, Master Thopterist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Прохоров Арсений",
+                "Нагаев Никита",
+                "The Scarab God",
+                "Shroofus Sproutsire",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Алексей",
+                "Демидов Виталий",
+                "Phelia, Exuberant Shepherd",
+                "The Gitrog Monster",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Владимиров Егор",
+                "Писарев Никита",
+                "Ketramose, the New Dawn",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барышев Максим",
+                "Черепов Антон",
+                "Ghyrson Starn, Kelermorph",
+                "Tourach, Dread Cantor",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Торицын Олег",
+                "Kykar, Wind's Fury",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Нагаев Никита",
+                "Чураков Павел",
+                "Shroofus Sproutsire",
+                "Sai, Master Thopterist",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Фурсов Владимир",
+                "Прохоров Арсений",
+                "Laelia, the Blade Reforged",
+                "The Scarab God",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58907"
+}

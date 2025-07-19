@@ -1,0 +1,308 @@
+{
+    "date": "2025_07_02",
+    "location": "Tomsk",
+    "level": "Regular",
+    "organizer": "d6tomsk",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Поспелов Александр",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Черепов Антон",
+            "Tourach, Dread Cantor"
+        ],
+        [
+            "Владимиров Егор",
+            "Gut, True Soul Zealot :+: Folk Hero"
+        ],
+        [
+            "Веренич Артем",
+            "Edric, Spymaster of Trest"
+        ],
+        [
+            "Иванов Алексей",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Дмитриев Сергей",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Нагаев Никита",
+            "Shroofus Sproutsire"
+        ],
+        [
+            "Чураков Павел",
+            "Sai, Master Thopterist"
+        ],
+        [
+            "Купцевич Ярослав",
+            "Isshin, Two Heavens as One"
+        ],
+        [
+            "Торицын Олег",
+            "Gut, True Soul Zealot :+: Agent of the Iron Throne"
+        ],
+        [
+            "Мораль Август",
+            "Sai, Master Thopterist"
+        ],
+        [
+            "Кузнецов Северин",
+            "Kykar, Wind's Fury"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Торицын Олег",
+                "Веренич Артем",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Edric, Spymaster of Trest",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Поспелов Александр",
+                "Sai, Master Thopterist",
+                "Ral, Monsoon Mage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Алексей",
+                "Владимиров Егор",
+                "Phelia, Exuberant Shepherd",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Черепов Антон",
+                "Kykar, Wind's Fury",
+                "Tourach, Dread Cantor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Купцевич Ярослав",
+                "Дмитриев Сергей",
+                "Isshin, Two Heavens as One",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Нагаев Никита",
+                "Мораль Август",
+                "Shroofus Sproutsire",
+                "Sai, Master Thopterist",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Черепов Антон",
+                "Мораль Август",
+                "Tourach, Dread Cantor",
+                "Sai, Master Thopterist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Алексей",
+                "Дмитриев Сергей",
+                "Phelia, Exuberant Shepherd",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Торицын Олег",
+                "Ral, Monsoon Mage",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Купцевич Ярослав",
+                "Веренич Артем",
+                "Isshin, Two Heavens as One",
+                "Edric, Spymaster of Trest",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Владимиров Егор",
+                "Нагаев Никита",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Shroofus Sproutsire",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Кузнецов Северин",
+                "Sai, Master Thopterist",
+                "Kykar, Wind's Fury",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитриев Сергей",
+                "Черепов Антон",
+                "Feldon, Ronom Excavator",
+                "Tourach, Dread Cantor",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Мораль Август",
+                "Ral, Monsoon Mage",
+                "Sai, Master Thopterist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Владимиров Егор",
+                "Торицын Олег",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Алексей",
+                "Веренич Артем",
+                "Phelia, Exuberant Shepherd",
+                "Edric, Spymaster of Trest",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Нагаев Никита",
+                "Sai, Master Thopterist",
+                "Shroofus Sproutsire",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Купцевич Ярослав",
+                "Kykar, Wind's Fury",
+                "Isshin, Two Heavens as One",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Черепов Антон",
+                "Поспелов Александр",
+                "Tourach, Dread Cantor",
+                "Ral, Monsoon Mage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дмитриев Сергей",
+                "Владимиров Егор",
+                "Feldon, Ronom Excavator",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Веренич Артем",
+                "Мораль Август",
+                "Edric, Spymaster of Trest",
+                "Sai, Master Thopterist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Торицын Олег",
+                "Иванов Алексей",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Купцевич Ярослав",
+                "Sai, Master Thopterist",
+                "Isshin, Two Heavens as One",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Нагаев Никита",
+                "Кузнецов Северин",
+                "Shroofus Sproutsire",
+                "Kykar, Wind's Fury",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58569"
+}

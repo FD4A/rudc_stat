@@ -1,0 +1,170 @@
+{
+    "date": "2025_07_17",
+    "location": "Ulyanovsk",
+    "level": "Regular",
+    "organizer": "FIN",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Фридман Сергей",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Кащихин Игорь",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Фридман Виталий",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Азизов Рустам",
+            "Lier, Disciple of the Drowned"
+        ],
+        [
+            "Ильин Александр",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Гавриков Никита",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Кириллов Александр",
+            "Thrasios, Triton Hero :+: Prava of the Steel Legion"
+        ],
+        [
+            "Фирсов Александр",
+            "Kaalia of the Vast"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Кащихин Игорь",
+                "Гавриков Никита",
+                "Arahbo, Roar of the World",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Фридман Виталий",
+                "Фридман Сергей",
+                "Ezio Auditore da Firenze",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Фирсов Александр",
+                "Азизов Рустам",
+                "Kaalia of the Vast",
+                "Lier, Disciple of the Drowned",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кириллов Александр",
+                "Ильин Александр",
+                "Thrasios, Triton Hero :+: Prava of the Steel Legion",
+                "Deadpool, Trading Card",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Ильин Александр",
+                "Фридман Сергей",
+                "Deadpool, Trading Card",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кащихин Игорь",
+                "Азизов Рустам",
+                "Arahbo, Roar of the World",
+                "Lier, Disciple of the Drowned",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кириллов Александр",
+                "Фридман Виталий",
+                "Thrasios, Triton Hero :+: Prava of the Steel Legion",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Гавриков Никита",
+                "Фирсов Александр",
+                "Vial Smasher the Fierce",
+                "Kaalia of the Vast",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Фридман Сергей",
+                "Кащихин Игорь",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Гавриков Никита",
+                "Азизов Рустам",
+                "Vial Smasher the Fierce",
+                "Lier, Disciple of the Drowned",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ильин Александр",
+                "Фридман Виталий",
+                "Deadpool, Trading Card",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кириллов Александр",
+                "Фирсов Александр",
+                "Thrasios, Triton Hero :+: Prava of the Steel Legion",
+                "Kaalia of the Vast",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58927"
+}

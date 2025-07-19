@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2025_06_19
+organizer::Constantin
+players::generals
+Cherepovskiy Roman :: Kroxa, Titan of Death's Hunger
+Shubenin Ilya :: Vivi Ornitier
+Lukaynov Vadim :: Golos, Tireless Pilgrim
+Isaev Alexander :: Plagon, Lord of the Beach
+Somkin Constantin :: Elminster
+Posidaylo Artem :: Phelia, Exuberant Shepherd
+Round
+https://aetherhub.com/Tourney/RoundTourney/58227

@@ -1,0 +1,249 @@
+= Aragorn, King of Gondor          matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 50.00% LG: 50.00% (wg:   5 lg:   5) pick: 1    Spb(1), 
+       vs Legacy Weapon                    (w:0 l:1 d:0), (1/2)
+       vs Phelia, Exuberant Shepherd       (w:1 l:0 d:0), (2/1)
+       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
+        + Dargo, the Shipwrecker          
+       vs Slimefoot and Squee              (w:1 l:0 d:0), (2/0)
+
+
+= Bruse Tarl, Boorish Herder       matches:4    WM: 25.00%  LM: 50.00%  DM: 25.00% (wm:1   lm:2   dm:1)  games:10   WG: 40.00% LG: 60.00% (wg:   4 lg:   6) pick: 1    Spb(1), 
+  + Thrasios, Triton Hero       
+       vs Teferi, Temporal Archmage        (w:0 l:1 d:0), (0/2)
+       vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
+        + Kraum, Ludevic's Opus           
+       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
+        + Bruse Tarl, Boorish Herder      
+       vs Tivit, Seller of Secrets         (w:0 l:0 d:1), (1/1)
+
+
+
+= Deadpool, Trading Card           matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:8    WG: 75.00% LG: 25.00% (wg:   6 lg:   2) pick: 1    Spb(1), 
+       vs Tivit, Seller of Secrets         (w:1 l:0 d:0), (2/0)
+       vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
+        + Thrasios, Triton Hero           
+       vs The Wandering Rescuer            (w:0 l:1 d:0), (0/2)
+       vs Slimefoot and Squee              (w:1 l:0 d:0), (2/0)
+
+
+= Dihada, Binder of Wills          matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 55.56% LG: 44.44% (wg:   5 lg:   4) pick: 1    Spb(1), 
+       vs The Wandering Rescuer            (w:0 l:1 d:0), (0/2)
+       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/0)
+       vs Ghyrson Starn, Kelermorph        (w:1 l:0 d:0), (2/0)
+       vs Winter, Cynical Opportunist      (w:0 l:1 d:0), (1/2)
+
+
+= Ezio Auditore da Firenze         matches:4    WM: 25.00%  LM: 25.00%  DM: 50.00% (wm:1   lm:1   dm:2)  games:9    WG: 55.56% LG: 44.44% (wg:   5 lg:   4) pick: 1    Spb(1), 
+       vs Phelia, Exuberant Shepherd       (w:1 l:0 d:1), (3/1)
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (1/2)
+       vs Grist, the Hunger Tide           (w:0 l:0 d:1), (1/1)
+
+
+= Feldon, Ronom Excavator          matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:8    WG: 25.00% LG: 75.00% (wg:   2 lg:   6) pick: 1    Spb(1), 
+       vs Tivit, Seller of Secrets         (w:0 l:1 d:0), (1/2)
+       vs Gut, True Soul Zealot            (w:0 l:1 d:0), (0/2)
+        + Folk Hero                       
+       vs Jedit Ojanen, Mercenary          (w:0 l:1 d:0), (1/2)
+
+
+= Ghyrson Starn, Kelermorph        matches:7    WM: 28.57%  LM: 71.43%  DM:  0.00% (wm:2   lm:5   dm:0)  games:15   WG: 26.67% LG: 73.33% (wg:   4 lg:  11) pick: 2    Spb(2), 
+       vs Gut, True Soul Zealot            (w:1 l:1 d:0), (2/2)
+        + Folk Hero                       
+       vs Vial Smasher the Fierce          (w:0 l:1 d:0), (0/2)
+       vs The Wandering Rescuer            (w:0 l:1 d:0), (0/2)
+       vs Dihada, Binder of Wills          (w:0 l:1 d:0), (0/2)
+       vs Tivit, Seller of Secrets         (w:1 l:0 d:0), (2/1)
+       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
+        + Bruse Tarl, Boorish Herder      
+
+
+= Golos, Tireless Pilgrim          matches:8    WM: 50.00%  LM: 25.00%  DM: 25.00% (wm:4   lm:2   dm:2)  games:21   WG: 52.38% LG: 47.62% (wg:  11 lg:  10) pick: 2    Spb(2), 
+       vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
+        + Kraum, Ludevic's Opus           
+       vs Phelia, Exuberant Shepherd       (w:0 l:0 d:1), (1/1)
+       vs Legacy Weapon                    (w:0 l:0 d:1), (1/1)
+       vs Tivit, Seller of Secrets         (w:1 l:0 d:0), (2/1)
+       vs The Gitrog Monster               (w:1 l:0 d:0), (2/1)
+       vs Ezio Auditore da Firenze         (w:1 l:0 d:0), (2/1)
+       vs The Wandering Rescuer            (w:0 l:1 d:0), (1/2)
+       vs Rograkh, Son of Rohgahh          (w:0 l:1 d:0), (0/2)
+        + Silas Renn, Seeker Adept        
+
+
+= Grist, the Hunger Tide           matches:8    WM: 50.00%  LM: 37.50%  DM: 12.50% (wm:4   lm:3   dm:1)  games:20   WG: 55.00% LG: 45.00% (wg:  11 lg:   9) pick: 2    Spb(2), 
+       vs Tivit, Seller of Secrets         (w:2 l:0 d:0), (4/0)
+       vs Rograkh, Son of Rohgahh          (w:0 l:1 d:0), (1/2)
+        + Silas Renn, Seeker Adept        
+       vs Teferi, Temporal Archmage        (w:1 l:1 d:0), (2/3)
+       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
+        + Kraum, Ludevic's Opus           
+       vs Legacy Weapon                    (w:1 l:0 d:0), (2/1)
+       vs Ezio Auditore da Firenze         (w:0 l:0 d:1), (1/1)
+
+
+= Gut, True Soul Zealot            matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 55.56% LG: 44.44% (wg:   5 lg:   4) pick: 1    Spb(1), 
+  + Folk Hero                   
+       vs Ghyrson Starn, Kelermorph        (w:1 l:1 d:0), (2/2)
+       vs Feldon, Ronom Excavator          (w:1 l:0 d:0), (2/0)
+       vs Slimefoot and Squee              (w:0 l:1 d:0), (1/2)
+
+
+= Jedit Ojanen, Mercenary          matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:11   WG: 45.45% LG: 54.55% (wg:   5 lg:   6) pick: 1    Spb(1), 
+       vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
+        + Dargo, the Shipwrecker          
+       vs Satya, Aetherflux Genius         (w:0 l:1 d:0), (0/2)
+       vs Feldon, Ronom Excavator          (w:1 l:0 d:0), (2/1)
+       vs Teferi, Temporal Archmage        (w:0 l:1 d:0), (1/2)
+
+
+= Kroxa, Titan of Death's Hunger   matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:9    WG: 33.33% LG: 66.67% (wg:   3 lg:   6) pick: 1    Spb(1), 
+       vs Vial Smasher the Fierce          (w:0 l:1 d:0), (0/2)
+       vs Dihada, Binder of Wills          (w:0 l:1 d:0), (0/2)
+       vs Mathas, Fiend Seeker             (w:1 l:0 d:0), (2/0)
+       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
+        + Thrasios, Triton Hero           
+
+
+= Legacy Weapon                    matches:4    WM: 25.00%  LM: 50.00%  DM: 25.00% (wm:1   lm:2   dm:1)  games:11   WG: 45.45% LG: 54.55% (wg:   5 lg:   6) pick: 1    Spb(1), 
+       vs Aragorn, King of Gondor          (w:1 l:0 d:0), (2/1)
+       vs Golos, Tireless Pilgrim          (w:0 l:0 d:1), (1/1)
+       vs Rograkh, Son of Rohgahh          (w:0 l:1 d:0), (1/2)
+        + Silas Renn, Seeker Adept        
+       vs Grist, the Hunger Tide           (w:0 l:1 d:0), (1/2)
+
+
+= Mathas, Fiend Seeker             matches:4    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:4   dm:0)  games:8    WG:  0.00% LG:100.00% (wg:   0 lg:   8) pick: 1    Spb(1), 
+       vs Satya, Aetherflux Genius         (w:0 l:1 d:0), (0/2)
+       vs Tivit, Seller of Secrets         (w:0 l:2 d:0), (0/4)
+       vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (0/2)
+
+
+= Phelia, Exuberant Shepherd       matches:5    WM:  0.00%  LM: 60.00%  DM: 40.00% (wm:0   lm:3   dm:2)  games:11   WG: 27.27% LG: 72.73% (wg:   3 lg:   8) pick: 2    Spb(2), 
+       vs Ezio Auditore da Firenze         (w:0 l:1 d:1), (1/3)
+       vs Golos, Tireless Pilgrim          (w:0 l:0 d:1), (1/1)
+       vs Aragorn, King of Gondor          (w:0 l:1 d:0), (1/2)
+       vs The Gitrog Monster               (w:0 l:1 d:0), (0/2)
+
+
+= Rograkh, Son of Rohgahh          matches:4    WM: 75.00%  LM:  0.00%  DM: 25.00% (wm:3   lm:0   dm:1)  games:10   WG: 70.00% LG: 30.00% (wg:   7 lg:   3) pick: 1    Spb(1), 
+  + Silas Renn, Seeker Adept    
+       vs Grist, the Hunger Tide           (w:1 l:0 d:0), (2/1)
+       vs The Gitrog Monster               (w:0 l:0 d:1), (1/1)
+       vs Legacy Weapon                    (w:1 l:0 d:0), (2/1)
+       vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/0)
+
+
+= Satya, Aetherflux Genius         matches:7    WM: 57.14%  LM: 28.57%  DM: 14.29% (wm:4   lm:2   dm:1)  games:16   WG: 62.50% LG: 37.50% (wg:  10 lg:   6) pick: 2    Spb(2), 
+       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
+        + Thrasios, Triton Hero           
+       vs Mathas, Fiend Seeker             (w:1 l:0 d:0), (2/0)
+       vs Jedit Ojanen, Mercenary          (w:1 l:0 d:0), (2/0)
+       vs Winter, Cynical Opportunist      (w:0 l:1 d:0), (0/2)
+       vs Vial Smasher the Fierce          (w:1 l:0 d:0), (2/0)
+       vs Tivit, Seller of Secrets         (w:0 l:0 d:1), (1/1)
+       vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
+        + Kraum, Ludevic's Opus           
+
+
+= Slimefoot and Squee              matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:14   WG: 28.57% LG: 71.43% (wg:   4 lg:  10) pick: 2    Spb(2), 
+       vs The Gitrog Monster               (w:0 l:1 d:0), (0/2)
+       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
+        + Kraum, Ludevic's Opus           
+       vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
+        + Thrasios, Triton Hero           
+       vs Gut, True Soul Zealot            (w:1 l:0 d:0), (2/1)
+        + Folk Hero                       
+       vs Deadpool, Trading Card           (w:0 l:1 d:0), (0/2)
+       vs Aragorn, King of Gondor          (w:0 l:1 d:0), (0/2)
+
+
+= Teferi, Temporal Archmage        matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:10   WG: 70.00% LG: 30.00% (wg:   7 lg:   3) pick: 1    Spb(1), 
+       vs Bruse Tarl, Boorish Herder       (w:1 l:0 d:0), (2/0)
+        + Thrasios, Triton Hero           
+       vs Grist, the Hunger Tide           (w:1 l:1 d:0), (3/2)
+       vs Jedit Ojanen, Mercenary          (w:1 l:0 d:0), (2/1)
+
+
+= The Gitrog Monster               matches:4    WM: 50.00%  LM: 25.00%  DM: 25.00% (wm:2   lm:1   dm:1)  games:9    WG: 66.67% LG: 33.33% (wg:   6 lg:   3) pick: 1    Spb(1), 
+       vs Slimefoot and Squee              (w:1 l:0 d:0), (2/0)
+       vs Rograkh, Son of Rohgahh          (w:0 l:0 d:1), (1/1)
+        + Silas Renn, Seeker Adept        
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (1/2)
+       vs Phelia, Exuberant Shepherd       (w:1 l:0 d:0), (2/0)
+
+
+= The Wandering Rescuer            matches:4    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:4   lm:0   dm:0)  games:9    WG: 88.89% LG: 11.11% (wg:   8 lg:   1) pick: 1    Spb(1), 
+       vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/0)
+       vs Ghyrson Starn, Kelermorph        (w:1 l:0 d:0), (2/0)
+       vs Deadpool, Trading Card           (w:1 l:0 d:0), (2/0)
+       vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/1)
+
+
+= Tivit, Seller of Secrets         matches:12   WM: 33.33%  LM: 50.00%  DM: 16.67% (wm:4   lm:6   dm:2)  games:27   WG: 44.44% LG: 55.56% (wg:  12 lg:  15) pick: 3    Spb(3), 
+       vs Deadpool, Trading Card           (w:0 l:1 d:0), (0/2)
+       vs Feldon, Ronom Excavator          (w:1 l:0 d:0), (2/1)
+       vs Grist, the Hunger Tide           (w:0 l:2 d:0), (0/4)
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (1/2)
+       vs Mathas, Fiend Seeker             (w:2 l:0 d:0), (4/0)
+       vs Winter, Cynical Opportunist      (w:0 l:1 d:0), (0/2)
+       vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (1/2)
+       vs Satya, Aetherflux Genius         (w:0 l:0 d:1), (1/1)
+       vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
+        + Kraum, Ludevic's Opus           
+       vs Bruse Tarl, Boorish Herder       (w:0 l:0 d:1), (1/1)
+        + Thrasios, Triton Hero           
+
+
+= Vial Smasher the Fierce          matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:9    WG: 66.67% LG: 33.33% (wg:   6 lg:   3) pick: 1    Spb(1), 
+       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/0)
+       vs Ghyrson Starn, Kelermorph        (w:1 l:0 d:0), (2/0)
+       vs Satya, Aetherflux Genius         (w:0 l:1 d:0), (0/2)
+       vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
+        + Dargo, the Shipwrecker          
+
+
+= Winter, Cynical Opportunist      matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:9    WG: 66.67% LG: 33.33% (wg:   6 lg:   3) pick: 1    Spb(1), 
+       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
+        + Bruse Tarl, Boorish Herder      
+       vs Satya, Aetherflux Genius         (w:1 l:0 d:0), (2/0)
+       vs Tivit, Seller of Secrets         (w:1 l:0 d:0), (2/0)
+       vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/1)
+
+
+= Yoshimaru, Ever Faithful         matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:10   WG: 70.00% LG: 30.00% (wg:   7 lg:   3) pick: 1    Spb(1), 
+  + Bruse Tarl, Boorish Herder  
+       vs Winter, Cynical Opportunist      (w:1 l:0 d:0), (2/0)
+       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
+        + Kraum, Ludevic's Opus           
+       vs Bruse Tarl, Boorish Herder       (w:1 l:0 d:0), (2/1)
+        + Thrasios, Triton Hero           
+       vs Ghyrson Starn, Kelermorph        (w:1 l:0 d:0), (2/0)
+
+
+= Yoshimaru, Ever Faithful         matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:8    WG: 50.00% LG: 50.00% (wg:   4 lg:   4) pick: 1    Spb(1), 
+  + Dargo, the Shipwrecker      
+       vs Jedit Ojanen, Mercenary          (w:0 l:1 d:0), (1/2)
+       vs Aragorn, King of Gondor          (w:1 l:0 d:0), (2/0)
+       vs Vial Smasher the Fierce          (w:0 l:1 d:0), (1/2)
+
+
+= Yoshimaru, Ever Faithful         matches:7    WM: 42.86%  LM: 57.14%  DM:  0.00% (wm:3   lm:4   dm:0)  games:19   WG: 47.37% LG: 52.63% (wg:   9 lg:  10) pick: 2    Spb(2), 
+  + Kraum, Ludevic's Opus       
+       vs Slimefoot and Squee              (w:1 l:0 d:0), (2/0)
+       vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (1/2)
+       vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
+        + Bruse Tarl, Boorish Herder      
+       vs Bruse Tarl, Boorish Herder       (w:0 l:1 d:0), (1/2)
+        + Thrasios, Triton Hero           
+       vs Grist, the Hunger Tide           (w:1 l:0 d:0), (2/1)
+       vs Satya, Aetherflux Genius         (w:0 l:1 d:0), (1/2)
+       vs Tivit, Seller of Secrets         (w:0 l:1 d:0), (0/2)
+
+
+= Yoshimaru, Ever Faithful         matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:11   WG: 45.45% LG: 54.55% (wg:   5 lg:   6) pick: 1    Spb(1), 
+  + Thrasios, Triton Hero       
+       vs Satya, Aetherflux Genius         (w:1 l:0 d:0), (2/1)
+       vs Deadpool, Trading Card           (w:0 l:1 d:0), (0/2)
+       vs Slimefoot and Squee              (w:0 l:1 d:0), (1/2)
+       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/1)
+
+

@@ -1,0 +1,132 @@
+{
+    "date": "2025_07_03",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Illator",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Cherepovskiy Roman",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Isaev Alexander",
+            "Plagon, Lord of the Beach"
+        ],
+        [
+            "Somkin Constantin",
+            "Elas il-Kor, Sadistic Pilgrim :+: Lurrus of the Dream-Den"
+        ],
+        [
+            "Shubenin Ilya",
+            "Vivien on the Hunt"
+        ],
+        [
+            "Mishin Vasily",
+            "Ertai Resurrected"
+        ],
+        [
+            "Faydysh Diana",
+            "Phelia, Exuberant Shepherd"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Faydysh Diana",
+                "Isaev Alexander",
+                "Phelia, Exuberant Shepherd",
+                "Plagon, Lord of the Beach",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Shubenin Ilya",
+                "Arahbo, Roar of the World",
+                "Vivien on the Hunt",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Mishin Vasily",
+                "Elas il-Kor, Sadistic Pilgrim :+: Lurrus of the Dream-Den",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Cherepovskiy Roman",
+                "Somkin Constantin",
+                "Arahbo, Roar of the World",
+                "Elas il-Kor, Sadistic Pilgrim :+: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Isaev Alexander",
+                "Shubenin Ilya",
+                "Plagon, Lord of the Beach",
+                "Vivien on the Hunt",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Faydysh Diana",
+                "Mishin Vasily",
+                "Phelia, Exuberant Shepherd",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Cherepovskiy Roman",
+                "Isaev Alexander",
+                "Arahbo, Roar of the World",
+                "Plagon, Lord of the Beach",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Shubenin Ilya",
+                "Mishin Vasily",
+                "Vivien on the Hunt",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Faydysh Diana",
+                "Elas il-Kor, Sadistic Pilgrim :+: Lurrus of the Dream-Den",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58598"
+}

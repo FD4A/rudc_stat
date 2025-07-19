@@ -1,0 +1,43 @@
+location::Spb
+level::Regular
+date::2025_07_10
+organizer::Andysays
+players::generals
+Олифер Егор :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Митрохин Никита :: Iron Man, Titan of Innovation
+Поляков Герман :: Teferi, Temporal Archmage
+Соловьев Валентин :: Aminatou, the Fateshifter
+Муравьев Роман :: Dihada, Binder of Wills
+Таловер Артем :: Tifa Lockhart
+Корсаков Алексей :: Terra, Magical Adept
+Протасов Михаил :: Deadpool, Trading Card
+Семенов Дмитрий :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Мартынов Влад :: Tivit, Seller of Secrets
+Письменицкий Артем :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Булочко Михаил :: Tivit, Seller of Secrets
+Лагерев Леонид :: Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero
+Жевтобрюх Роман :: Deadpool, Trading Card
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Барабаш Валентин :: Basim Ibn Ishaq
+Хорьков Аркадий :: Arahbo, Roar of the World
+Семенов Павел :: Cloud, Midgar Mercenary
+Коростелев Илья :: Satya, Aetherflux Genius
+Мартынов Яков :: Tivit, Seller of Secrets
+Звягин Георгий :: Winter, Cynical Opportunist
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Сивцов Даниил :: Dargo, the Shipwrecker :+: Ikra Shidiqi, the Usurper
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Юсенко Глеб :: Ezio Auditore da Firenze
+Красников Александр :: Gut, True Soul Zealot :+: Folk Hero
+Кузнецов Даня :: Geist of Saint Traft
+Федоров Дмитрий :: Lurrus of the Dream-Den
+Постояклин Павел :: Cloud, Midgar Mercenary
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Кувяткин Илья :: Diamond Weapon
+Егоров Павел :: Tifa Lockhart
+Богданов Сергей :: Geist of Saint Traft
+Фукин Дмитрий :: Edric, Spymaster of Trest
+Байков Аркадий :: Vial Smasher the Fierce
+Иванов Дмитрий :: Grist, the Hunger Tide
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/58748

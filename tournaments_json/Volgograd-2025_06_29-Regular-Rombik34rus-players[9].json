@@ -1,0 +1,216 @@
+{
+    "date": "2025_06_29",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Андрей Костин",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Никита Сухов",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Артём Ангурцов",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Вячеслав Серпутько",
+            "Selvala, Explorer Returned"
+        ],
+        [
+            "Михаил Козлов",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Александр Смирнов",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Дмитрий Орешкин",
+            "Hidetsugu and Kairi"
+        ],
+        [
+            "Артём Стрельцов",
+            "Ardenn, Intrepid Archaeologist :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Леонид Богачев",
+            "Arahbo, Roar of the World"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Артём Ангурцов",
+                "Дмитрий Орешкин",
+                "Iron Man, Titan of Innovation",
+                "Hidetsugu and Kairi",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Михаил Козлов",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Winota, Joiner of Forces",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Леонид Богачев",
+                "Никита Сухов",
+                "Arahbo, Roar of the World",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Андрей Костин",
+                "Артём Стрельцов",
+                "Iron Man, Titan of Innovation",
+                "Ardenn, Intrepid Archaeologist :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Никита Сухов",
+                "Андрей Костин",
+                "Shorikai, Genesis Engine",
+                "Iron Man, Titan of Innovation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Артём Ангурцов",
+                "Selvala, Explorer Returned",
+                "Iron Man, Titan of Innovation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Михаил Козлов",
+                "Леонид Богачев",
+                "Winota, Joiner of Forces",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Дмитрий Орешкин",
+                "Ardenn, Intrepid Archaeologist :+: Thrasios, Triton Hero",
+                "Hidetsugu and Kairi",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Михаил Козлов",
+                "Андрей Костин",
+                "Winota, Joiner of Forces",
+                "Iron Man, Titan of Innovation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Никита Сухов",
+                "Selvala, Explorer Returned",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Дмитрий Орешкин",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Hidetsugu and Kairi",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Артём Стрельцов",
+                "Iron Man, Titan of Innovation",
+                "Ardenn, Intrepid Archaeologist :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Андрей Костин",
+                "Вячеслав Серпутько",
+                "Iron Man, Titan of Innovation",
+                "Selvala, Explorer Returned",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Михаил Козлов",
+                "Никита Сухов",
+                "Winota, Joiner of Forces",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Артём Ангурцов",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Iron Man, Titan of Innovation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Леонид Богачев",
+                "Дмитрий Орешкин",
+                "Arahbo, Roar of the World",
+                "Hidetsugu and Kairi",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58514"
+}

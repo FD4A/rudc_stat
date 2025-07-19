@@ -1,6 +1,6 @@
 location::Online
 level::Regular
-date::2025_05_31
+date::2025_06_25
 organizer::AlexSmirnov
 players::generals
 Бурмистров Павел :: Glarb, Calamity's Augur

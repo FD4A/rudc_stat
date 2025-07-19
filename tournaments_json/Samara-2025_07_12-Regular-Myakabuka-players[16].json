@@ -1,0 +1,404 @@
+{
+    "date": "2025_07_12",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Краснов Илья",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Громов Михаил",
+            "Satoru, the Infiltrator"
+        ],
+        [
+            "Шатохин Александр",
+            "Urabrask"
+        ],
+        [
+            "Сибикин Антон",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Иванов Никита",
+            "Rograkh, Son of Rohgahh :+: Tymna the Weaver"
+        ],
+        [
+            "Ревин Владимир",
+            "Elenda, Saint of Dusk"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Козин Игорь",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Циулин Иван",
+            "Kellan, Daring Traveler"
+        ],
+        [
+            "Трифонов Тимур",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Латыпов Камиль",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Кормаков Александр",
+            "Ghired, Mirror of the Wilds"
+        ],
+        [
+            "Тимохин Денис",
+            "Amalia Benavides Aguirre :+: Lurrus of the Dream-Den"
+        ],
+        [
+            "Козлов Максим",
+            "Lier, Disciple of the Drowned"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Иванов Никита",
+                "Громов Михаил",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Satoru, the Infiltrator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Краснов Илья",
+                "Elenda, Saint of Dusk",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Матюнин Антон",
+                "Feldon, Ronom Excavator",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Козин Игорь",
+                "Сибикин Антон",
+                "Shorikai, Genesis Engine",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Козлов Максим",
+                "Grist, the Hunger Tide",
+                "Lier, Disciple of the Drowned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шатохин Александр",
+                "Тимохин Денис",
+                "Urabrask",
+                "Amalia Benavides Aguirre :+: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Трифонов Тимур",
+                "Кормаков Александр",
+                "Azusa, Lost but Seeking",
+                "Ghired, Mirror of the Wilds",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Латыпов Камиль",
+                "Kellan, Daring Traveler",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Шатохин Александр",
+                "Сибикин Антон",
+                "Urabrask",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Латыпов Камиль",
+                "Краснов Илья",
+                "Ghyrson Starn, Kelermorph",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Громов Михаил",
+                "Grist, the Hunger Tide",
+                "Satoru, the Infiltrator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кормаков Александр",
+                "Безруков Николай",
+                "Ghired, Mirror of the Wilds",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Ревин Владимир",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Elenda, Saint of Dusk",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Козин Игорь",
+                "Amalia Benavides Aguirre :+: Lurrus of the Dream-Den",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Матюнин Антон",
+                "Lier, Disciple of the Drowned",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Трифонов Тимур",
+                "Циулин Иван",
+                "Azusa, Lost but Seeking",
+                "Kellan, Daring Traveler",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Шатохин Александр",
+                "Краснов Илья",
+                "Urabrask",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Громов Михаил",
+                "Feldon, Ronom Excavator",
+                "Satoru, the Infiltrator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Кормаков Александр",
+                "Grist, the Hunger Tide",
+                "Ghired, Mirror of the Wilds",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Козин Игорь",
+                "Иванов Никита",
+                "Shorikai, Genesis Engine",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Сибикин Антон",
+                "Kellan, Daring Traveler",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Латыпов Камиль",
+                "Muxus, Goblin Grandee",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Трифонов Тимур",
+                "Козлов Максим",
+                "Azusa, Lost but Seeking",
+                "Lier, Disciple of the Drowned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Тимохин Денис",
+                "Elenda, Saint of Dusk",
+                "Amalia Benavides Aguirre :+: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Громов Михаил",
+                "Краснов Илья",
+                "Satoru, the Infiltrator",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шатохин Александр",
+                "Безруков Николай",
+                "Urabrask",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Иванов Никита",
+                "Grist, the Hunger Tide",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Матюнин Антон",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Латыпов Камиль",
+                "Ревин Владимир",
+                "Ghyrson Starn, Kelermorph",
+                "Elenda, Saint of Dusk",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Козин Игорь",
+                "Кормаков Александр",
+                "Shorikai, Genesis Engine",
+                "Ghired, Mirror of the Wilds",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Козлов Максим",
+                "Kellan, Daring Traveler",
+                "Lier, Disciple of the Drowned",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Трифонов Тимур",
+                "Тимохин Денис",
+                "Azusa, Lost but Seeking",
+                "Amalia Benavides Aguirre :+: Lurrus of the Dream-Den",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58809"
+}

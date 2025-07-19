@@ -1,0 +1,14 @@
+location::Samara
+level::Regular
+date::2025_06_26
+organizer::Myakabuka
+players::generals
+Безруков Николай :: Feldon, Ronom Excavator
+Сибикин Антон :: Shorikai, Genesis Engine
+Иванов Никита :: ograkh, Son of Rohgahh :+: Tymna the Weaver
+Курмакаев Игорь :: Grist, the Hunger Tide
+Громов Михаил :: Ketramose, the New Dawn
+Циулин Иван :: Kellan, Daring Traveler
+Краснов Илья :: Ertai Resurrected
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/58406

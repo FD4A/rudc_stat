@@ -56,14 +56,16 @@ if __name__ == '__main__':
     save_name = []
     for tournament_filename in tournament_list:
         tournament = Tournament.load_from_json(tournament_filename)
-        # if tournament.location != 'Samara':
+        # print(tournament_filename)
+        # if tournament.location != 'Volgograd':
         #     continue
+
         # in json must be already fixed names
-        # [ok, error_string] = tournament.fix_generals_names(lb)
-        # if not ok:
-        #     print(f"Fail check general names for tournament [{tournament_filename}]")
-        #     print(error_string)
-        #     exit(1)
+        [ok, error_string] = tournament.fix_generals_names(lb)
+        if not ok:
+            print(f"Fail check general names for tournament [{tournament_filename}]")
+            print(error_string)
+            exit(1)
 
         one_tournament_stat = Statistic()
         one_tournament_stat.add_tournament(tournament)

@@ -1,0 +1,15 @@
+location::Ulyanovsk
+level::Regular
+date::2025_07_17
+organizer::FIN
+players::generals
+Фридман Сергей :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Кащихин Игорь :: Arahbo, Roar of the World
+Фридман Виталий :: Ezio Auditore da Firenze
+Азизов Рустам :: Lier, Disciple of the Drowned
+Ильин Александр :: Deadpool, Trading Card
+Гавриков Никита :: Vial Smasher the Fierce
+Кириллов Александр :: Thrasios, Triton Hero :+: Prava of the Steel Legion
+Фирсов Александр :: Kaalia of the Vast
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/58927

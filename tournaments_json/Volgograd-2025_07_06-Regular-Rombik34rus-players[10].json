@@ -1,0 +1,260 @@
+{
+    "date": "2025_07_06",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Александр Смирнов",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Максим Мещеряков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Артём Ангурцов",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Андрей Костин",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Дмитрий Орешкин",
+            "Magda, Brazen Outlaw"
+        ],
+        [
+            "Тимур Сайфутдинов",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Вячеслав Серпутько",
+            "Selvala, Explorer Returned"
+        ],
+        [
+            "Виталий Васильев",
+            "Queen Marchesa"
+        ],
+        [
+            "Михаил Козлов",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Артём Стрельцов",
+            "Rofellos, Llanowar Emissary"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Артём Ангурцов",
+                "Дмитрий Орешкин",
+                "Iron Man, Titan of Innovation",
+                "Magda, Brazen Outlaw",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Михаил Козлов",
+                "Selvala, Explorer Returned",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Виталий Васильев",
+                "Rofellos, Llanowar Emissary",
+                "Queen Marchesa",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Александр Смирнов",
+                "Tivit, Seller of Secrets",
+                "Satya, Aetherflux Genius",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Андрей Костин",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Imskir Iron-Eater",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитрий Орешкин",
+                "Андрей Костин",
+                "Magda, Brazen Outlaw",
+                "Imskir Iron-Eater",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Виталий Васильев",
+                "Satya, Aetherflux Genius",
+                "Queen Marchesa",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Максим Мещеряков",
+                "Selvala, Explorer Returned",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Михаил Козлов",
+                "Тимур Сайфутдинов",
+                "Winota, Joiner of Forces",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Артём Стрельцов",
+                "Iron Man, Titan of Innovation",
+                "Rofellos, Llanowar Emissary",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Смирнов",
+                "Андрей Костин",
+                "Satya, Aetherflux Genius",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Виталий Васильев",
+                "Tivit, Seller of Secrets",
+                "Queen Marchesa",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Тимур Сайфутдинов",
+                "Selvala, Explorer Returned",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Михаил Козлов",
+                "Iron Man, Titan of Innovation",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Артём Стрельцов",
+                "Magda, Brazen Outlaw",
+                "Rofellos, Llanowar Emissary",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Александр Смирнов",
+                "Дмитрий Орешкин",
+                "Satya, Aetherflux Genius",
+                "Magda, Brazen Outlaw",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Андрей Костин",
+                "Максим Мещеряков",
+                "Imskir Iron-Eater",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Артём Ангурцов",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Iron Man, Titan of Innovation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Вячеслав Серпутько",
+                "Queen Marchesa",
+                "Selvala, Explorer Returned",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Михаил Козлов",
+                "Артём Стрельцов",
+                "Winota, Joiner of Forces",
+                "Rofellos, Llanowar Emissary",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58671"
+}

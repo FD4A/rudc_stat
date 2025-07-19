@@ -1,0 +1,216 @@
+{
+    "date": "2025_06_22",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Андрей Костин",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Вячеслав Серпутько",
+            "Selvala, Explorer Returned"
+        ],
+        [
+            "Артём Ангурцов",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Виталий Васильев",
+            "Queen Marchesa"
+        ],
+        [
+            "Александр Смирнов",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Михаил Козлов",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Максим Мещеряков",
+            "Thrasios, Triton Hero :+: Tymna the Weaver"
+        ],
+        [
+            "Павел Ходырев",
+            "Wilhelt, the Rotcleaver"
+        ],
+        [
+            "Дмитрий Орешкин",
+            "Ertai Resurrected"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Александр Смирнов",
+                "Андрей Костин",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Iron Man, Titan of Innovation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Дмитрий Орешкин",
+                "Iron Man, Titan of Innovation",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Михаил Козлов",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                "Winota, Joiner of Forces",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Вячеслав Серпутько",
+                "Queen Marchesa",
+                "Selvala, Explorer Returned",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Андрей Костин",
+                "Павел Ходырев",
+                "Iron Man, Titan of Innovation",
+                "Wilhelt, the Rotcleaver",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Михаил Козлов",
+                "Iron Man, Titan of Innovation",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Максим Мещеряков",
+                "Selvala, Explorer Returned",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Виталий Васильев",
+                "Ertai Resurrected",
+                "Queen Marchesa",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Андрей Костин",
+                "Вячеслав Серпутько",
+                "Iron Man, Titan of Innovation",
+                "Selvala, Explorer Returned",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Виталий Васильев",
+                "Iron Man, Titan of Innovation",
+                "Queen Marchesa",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Павел Ходырев",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Wilhelt, the Rotcleaver",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Михаил Козлов",
+                "Дмитрий Орешкин",
+                "Winota, Joiner of Forces",
+                "Ertai Resurrected",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Андрей Костин",
+                "Виталий Васильев",
+                "Iron Man, Titan of Innovation",
+                "Queen Marchesa",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Вячеслав Серпутько",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Selvala, Explorer Returned",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Павел Ходырев",
+                "Iron Man, Titan of Innovation",
+                "Wilhelt, the Rotcleaver",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Максим Мещеряков",
+                "Ertai Resurrected",
+                "Thrasios, Triton Hero :+: Tymna the Weaver",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58308"
+}

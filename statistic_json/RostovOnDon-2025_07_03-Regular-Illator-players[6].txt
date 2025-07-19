@@ -1,0 +1,40 @@
+= Arahbo, Roar of the World        matches:3    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:3   lm:0   dm:0)  games:7    WG: 85.71% LG: 14.29% (wg:   6 lg:   1) pick: 1    RostovOnDon(1), 
+       vs Vivien on the Hunt               (w:1 l:0 d:0), (2/1)
+       vs Elas il-Kor, Sadistic Pilgrim    (w:1 l:0 d:0), (2/0)
+        + Lurrus of the Dream-Den         
+       vs Plagon, Lord of the Beach        (w:1 l:0 d:0), (2/0)
+
+
+= Elas il-Kor, Sadistic Pilgrim    matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:6    WG: 66.67% LG: 33.33% (wg:   4 lg:   2) pick: 1    RostovOnDon(1), 
+  + Lurrus of the Dream-Den     
+       vs Ertai Resurrected                (w:1 l:0 d:0), (2/0)
+       vs Arahbo, Roar of the World        (w:0 l:1 d:0), (0/2)
+       vs Phelia, Exuberant Shepherd       (w:1 l:0 d:0), (2/0)
+
+
+= Ertai Resurrected                matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:6    WG: 33.33% LG: 66.67% (wg:   2 lg:   4) pick: 1    RostovOnDon(1), 
+       vs Elas il-Kor, Sadistic Pilgrim    (w:0 l:1 d:0), (0/2)
+        + Lurrus of the Dream-Den         
+       vs Phelia, Exuberant Shepherd       (w:1 l:0 d:0), (2/0)
+       vs Vivien on the Hunt               (w:0 l:1 d:0), (0/2)
+
+
+= Phelia, Exuberant Shepherd       matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:6    WG:  0.00% LG:100.00% (wg:   0 lg:   6) pick: 1    RostovOnDon(1), 
+       vs Plagon, Lord of the Beach        (w:0 l:1 d:0), (0/2)
+       vs Ertai Resurrected                (w:0 l:1 d:0), (0/2)
+       vs Elas il-Kor, Sadistic Pilgrim    (w:0 l:1 d:0), (0/2)
+        + Lurrus of the Dream-Den         
+
+
+= Plagon, Lord of the Beach        matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:6    WG: 66.67% LG: 33.33% (wg:   4 lg:   2) pick: 1    RostovOnDon(1), 
+       vs Phelia, Exuberant Shepherd       (w:1 l:0 d:0), (2/0)
+       vs Vivien on the Hunt               (w:1 l:0 d:0), (2/0)
+       vs Arahbo, Roar of the World        (w:0 l:1 d:0), (0/2)
+
+
+= Vivien on the Hunt               matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:7    WG: 42.86% LG: 57.14% (wg:   3 lg:   4) pick: 1    RostovOnDon(1), 
+       vs Arahbo, Roar of the World        (w:0 l:1 d:0), (1/2)
+       vs Plagon, Lord of the Beach        (w:0 l:1 d:0), (0/2)
+       vs Ertai Resurrected                (w:1 l:0 d:0), (2/0)
+
+

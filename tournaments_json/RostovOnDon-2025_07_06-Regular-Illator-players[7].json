@@ -1,0 +1,168 @@
+{
+    "date": "2025_07_06",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Illator",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Shubenin Ilya",
+            "Vivien on the Hunt"
+        ],
+        [
+            "Somkin Constantin",
+            "Elas il-Kor, Sadistic Pilgrim :+: Lurrus of the Dream-Den"
+        ],
+        [
+            "Alexandrov Nikita",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Lukaynov Vadim",
+            "Liliana, Waker of the Dead"
+        ],
+        [
+            "Cherepovskiy Roman",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Marchenko Oleg",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Mishin Vasily",
+            "Ertai Resurrected"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Shubenin Ilya",
+                "Lukaynov Vadim",
+                "Vivien on the Hunt",
+                "Liliana, Waker of the Dead",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Marchenko Oleg",
+                "Alexandrov Nikita",
+                "Deadpool, Trading Card",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Mishin Vasily",
+                "Arahbo, Roar of the World",
+                "Ertai Resurrected",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Lukaynov Vadim",
+                "Cherepovskiy Roman",
+                "Liliana, Waker of the Dead",
+                "Arahbo, Roar of the World",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Marchenko Oleg",
+                "Elas il-Kor, Sadistic Pilgrim :+: Lurrus of the Dream-Den",
+                "Deadpool, Trading Card",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Mishin Vasily",
+                "Alexandrov Nikita",
+                "Ertai Resurrected",
+                "Sythis, Harvest's Hand",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Cherepovskiy Roman",
+                "Somkin Constantin",
+                "Arahbo, Roar of the World",
+                "Elas il-Kor, Sadistic Pilgrim :+: Lurrus of the Dream-Den",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Marchenko Oleg",
+                "Shubenin Ilya",
+                "Deadpool, Trading Card",
+                "Vivien on the Hunt",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Alexandrov Nikita",
+                "Liliana, Waker of the Dead",
+                "Sythis, Harvest's Hand",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Somkin Constantin",
+                "Shubenin Ilya",
+                "Elas il-Kor, Sadistic Pilgrim :+: Lurrus of the Dream-Den",
+                "Vivien on the Hunt",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Marchenko Oleg",
+                "Mishin Vasily",
+                "Deadpool, Trading Card",
+                "Ertai Resurrected",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Alexandrov Nikita",
+                "Arahbo, Roar of the World",
+                "Sythis, Harvest's Hand",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58676"
+}

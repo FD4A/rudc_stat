@@ -1,0 +1,16 @@
+location::Volgograd
+level::Regular
+date::2025_06_29
+organizer::Rombik34rus
+players::generals
+Андрей Костин :: Iron Man, Titan of Innovation
+Никита Сухов :: Shorikai Genesis Engine
+Артём Ангурцов :: Iron Man, Titan of Innovation
+Вячеслав Серпутько :: Selvala, Explorer Returned
+Михаил Козлов :: Winota Joiner of Forces
+Александр Смирнов :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Дмитрий Орешкин :: Hidetsugu and Kairi
+Артём Стрельцов :: Ardenn, Intrepid Archaeologist :+: Thrasios, Triton Hero
+Леонид Богачев :: Arahbo, Roar of the World
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/58514

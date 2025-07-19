@@ -1,0 +1,45 @@
+location::Spb
+level::Regular
+date::2025_06_26
+organizer::Andysays
+players::generals
+Шестаков Игорь :: The Wandering Minstrel
+Коростелев Илья :: Satya, Aetherflux Genius
+Олифер Егор :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Бажанов Михаил :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Протасов Михаил :: Deadpool, Trading Card
+Митрохин Никита :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Байков Аркадий :: Vial Smasher the Fierce
+Таловер Артем :: Grist, the Hunger Tide
+Звягин Георгий :: Winter, Cynical Opportunist
+Поляков Герман :: Teferi, Temporal Archmage
+Ильин Даниил :: The Gitrog Monster
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Тяпайкин Максим :: Golos, Tireless Pilgrim
+Постоялкин Павел :: Cloud, Midgar Mercenary
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Муравьев Роман :: Dihada, Binder of Wills
+Мартынов Влад :: Tivit, Seller of Secrets
+Жевтобрюх Роман :: Slimefoot and Squee
+Барабаш Валентин :: Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker
+Лагерев Леонид :: Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero
+Красников Александр :: Gut, True Soul Zealot :+: Folk Hero
+Цюра Максим :: Aragorn, King of Gondor
+Юсенко Глеб :: Ezio Auditore da Firenze
+Кувяткин Илья :: Diamond Weapon
+Семенов Дмитрий :: Grist, the Hunger Tide
+Иванов Дмитрий :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Булочко Михаил :: Tivit, Seller of Secrets
+Мартынов Яков :: Tivit, Seller of Secrets
+Сивцов Даниил :: Slimefoot and Squee
+Федоров Дмитрий :: Kroxa, Titan of Death's Hunger
+Зубакин Егор :: Ghyrson Starn, Kelermorph
+Вахитов Ривкат :: Feldon, Ronom Excavator
+Корсаков Алексей :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Порошин Денис :: Daretti, Scrap Savant
+Оснос Владислав :: Satya, Aetherflux Genius
+Егоров Павел :: Phelia, Exuberant Shepherd
+Зоев Олег :: Mathas, Fiend Seeker
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/58405

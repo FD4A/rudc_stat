@@ -1,0 +1,14 @@
+location::RostovOnDon
+level::Regular
+date::2025_06_29
+organizer::Constantin
+players::generals
+Shubenin Ilya :: Vivi Ornitier
+Somkin Constantin :: Elas il-Kor, Sadistic Pilgrim :+: Lurrus of the Dream-Den
+Alexandrov Nikita :: Sythis, Harvest's Hand
+Lukaynov Vadim :: Lightning, Army of One
+Cherepovskiy Roman :: Arahbo, Roar of the World
+Marchenko Oleg :: Deadpool, Trading Card
+Mishin Vasily :: Ertai Resurrected
+Round
+https://aetherhub.com/Tourney/RoundTourney/58676

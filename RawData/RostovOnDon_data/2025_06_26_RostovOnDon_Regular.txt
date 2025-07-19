@@ -1,0 +1,14 @@
+location::RostovOnDon
+level::Regular
+date::2025_06_26
+organizer::Constantin
+players::generals
+Isaev Alexander :: Plagon, Lord of the Beach
+Kovalev Alexander :: Ezio Auditore da Firenze
+Shubenin Ilya :: Vivi Ornitier
+Merkulov Vladislav :: Zabaz, the Glimmerwasp
+Mishin Vasily :: Ertai Resurrected
+Somkin Constantin :: Elminster
+Cherepovskiy Roman :: Gut, True Soul Zealot :+: Agent of the Iron Throne
+Round
+https://aetherhub.com/Tourney/RoundTourney/58407

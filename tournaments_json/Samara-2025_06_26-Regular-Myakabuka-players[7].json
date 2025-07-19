@@ -1,0 +1,136 @@
+{
+    "date": "2025_06_26",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Сибикин Антон",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Иванов Никита",
+            "Rograkh, Son of Rohgahh :+: Tymna the Weaver"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Громов Михаил",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Циулин Иван",
+            "Kellan, Daring Traveler"
+        ],
+        [
+            "Краснов Илья",
+            "Ertai Resurrected"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Циулин Иван",
+                "Сибикин Антон",
+                "Kellan, Daring Traveler",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Иванов Никита",
+                "Feldon, Ronom Excavator",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Громов Михаил",
+                "Краснов Илья",
+                "Ketramose, the New Dawn",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Безруков Николай",
+                "Курмакаев Игорь",
+                "Feldon, Ronom Excavator",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Громов Михаил",
+                "Сибикин Антон",
+                "Ketramose, the New Dawn",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Циулин Иван",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Kellan, Daring Traveler",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Безруков Николай",
+                "Сибикин Антон",
+                "Feldon, Ronom Excavator",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Громов Михаил",
+                "Grist, the Hunger Tide",
+                "Ketramose, the New Dawn",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Краснов Илья",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Ertai Resurrected",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58406"
+}
