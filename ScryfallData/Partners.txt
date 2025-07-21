@@ -2,6 +2,8 @@ Akiri, Line-Slinger :: RW
 Akroma, Vision of Ixidor :: W
 Alena, Kessig Trapper :: R
 Alharu, Solemn Ritualist :: W
+Alisaie Leveilleur :: W
+Alphinaud Leveilleur :: U
 Amy Pond :: R
 Anara, Wolvid Familiar :: G
 Ardenn, Intrepid Archaeologist :: W

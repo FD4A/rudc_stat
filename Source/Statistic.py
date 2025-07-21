@@ -2,6 +2,7 @@ import json
 import io
 
 from Source.Tournament import Tournament
+# from Source.PlayerGeneralObject import replace_yoshi
 
 
 class Matchup:
@@ -187,6 +188,10 @@ class Statistic:
             return
         if general1 == 'unknown' or general2 == 'unknown':
             return
+
+        # general1 = replace_yoshi(general1)
+        # general2 = replace_yoshi(general2)
+
         if general1 == general2:
             return  # no mirror in stat, because this move rates to 50%
 

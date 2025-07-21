@@ -8,8 +8,8 @@ GetParams = namedtuple('GetParams', ['date_after', 'date_before', 'open', 'regul
 
 class RequestFrom:
     first_time = True
-    default_date_after = '2023_06_01'
-    default_date_before = '2025_01_01'
+    default_date_after = '2024_12_07'
+    default_date_before = '9999_99_99'
     legend_base = None
 
     def __init__(self, legend_base: LegendaryBase):

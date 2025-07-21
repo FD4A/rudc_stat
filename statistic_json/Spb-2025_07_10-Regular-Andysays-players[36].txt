@@ -30,9 +30,22 @@
        vs Ezio Auditore da Firenze         (w:1 l:0 d:0), (2/0)
 
 
+= Cloud, Midgar Mercenary          matches:8    WM: 37.50%  LM: 62.50%  DM:  0.00% (wm:3   lm:5   dm:0)  games:21   WG: 42.86% LG: 57.14% (wg:   9 lg:  12) pick: 2    Spb(2), 
+       vs Dihada, Binder of Wills          (w:0 l:1 d:0), (1/2)
+       vs Dargo, the Shipwrecker           (w:0 l:1 d:0), (1/2)
+        + Ikra Shidiqi, the Usurper       
+       vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
+       vs Diaochan, Artful Beauty          (w:1 l:0 d:0), (2/1)
+       vs Teferi, Temporal Archmage        (w:0 l:1 d:0), (0/2)
+       vs Lurrus of the Dream-Den          (w:1 l:0 d:0), (2/1)
+       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
+        + Bruse Tarl, Boorish Herder      
+       vs Satya, Aetherflux Genius         (w:0 l:1 d:0), (0/2)
+
+
 = Dargo, the Shipwrecker           matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 50.00% LG: 50.00% (wg:   5 lg:   5) pick: 1    Spb(1), 
   + Ikra Shidiqi, the Usurper   
-       vs Jedit Ojanen, Mercenary          (w:1 l:0 d:0), (2/1)
+       vs Cloud, Midgar Mercenary          (w:1 l:0 d:0), (2/1)
        vs Diaochan, Artful Beauty          (w:0 l:1 d:0), (0/2)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
         + Thrasios, Triton Hero           
@@ -56,7 +69,7 @@
         + Thrasios, Triton Hero           
        vs Dargo, the Shipwrecker           (w:1 l:0 d:0), (2/0)
         + Ikra Shidiqi, the Usurper       
-       vs Jedit Ojanen, Mercenary          (w:0 l:1 d:0), (1/2)
+       vs Cloud, Midgar Mercenary          (w:0 l:1 d:0), (1/2)
        vs Phelia, Exuberant Shepherd       (w:1 l:0 d:0), (2/1)
        vs Legacy Weapon                    (w:1 l:0 d:0), (2/1)
        vs Iron Man, Titan of Innovation    (w:0 l:1 d:0), (0/2)
@@ -64,7 +77,7 @@
 
 
 = Dihada, Binder of Wills          matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:10   WG: 60.00% LG: 40.00% (wg:   6 lg:   4) pick: 1    Spb(1), 
-       vs Jedit Ojanen, Mercenary          (w:1 l:0 d:0), (2/1)
+       vs Cloud, Midgar Mercenary          (w:1 l:0 d:0), (2/1)
        vs Basim Ibn Ishaq                  (w:1 l:0 d:0), (2/0)
        vs Deadpool, Trading Card           (w:1 l:0 d:0), (2/1)
        vs Rograkh, Son of Rohgahh          (w:0 l:1 d:0), (0/2)
@@ -88,7 +101,7 @@
        vs Diaochan, Artful Beauty          (w:1 l:0 d:0), (2/1)
        vs Teferi, Temporal Archmage        (w:0 l:0 d:1), (1/1)
        vs Iron Man, Titan of Innovation    (w:0 l:1 d:0), (1/2)
-       vs Jedit Ojanen, Mercenary          (w:0 l:1 d:0), (0/2)
+       vs Cloud, Midgar Mercenary          (w:0 l:1 d:0), (0/2)
        vs Arahbo, Roar of the World        (w:0 l:1 d:0), (0/2)
        vs Tivit, Seller of Secrets         (w:0 l:1 d:0), (0/2)
        vs Dargo, the Shipwrecker           (w:0 l:1 d:0), (0/2)
@@ -139,19 +152,6 @@
        vs Diaochan, Artful Beauty          (w:1 l:0 d:0), (2/0)
 
 
-= Jedit Ojanen, Mercenary          matches:8    WM: 37.50%  LM: 62.50%  DM:  0.00% (wm:3   lm:5   dm:0)  games:21   WG: 42.86% LG: 57.14% (wg:   9 lg:  12) pick: 2    Spb(2), 
-       vs Dihada, Binder of Wills          (w:0 l:1 d:0), (1/2)
-       vs Dargo, the Shipwrecker           (w:0 l:1 d:0), (1/2)
-        + Ikra Shidiqi, the Usurper       
-       vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
-       vs Diaochan, Artful Beauty          (w:1 l:0 d:0), (2/1)
-       vs Teferi, Temporal Archmage        (w:0 l:1 d:0), (0/2)
-       vs Lurrus of the Dream-Den          (w:1 l:0 d:0), (2/1)
-       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
-        + Bruse Tarl, Boorish Herder      
-       vs Satya, Aetherflux Genius         (w:0 l:1 d:0), (0/2)
-
-
 = Legacy Weapon                    matches:3    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:3   dm:0)  games:8    WG: 25.00% LG: 75.00% (wg:   2 lg:   6) pick: 1    Spb(1), 
        vs Ezio Auditore da Firenze         (w:0 l:1 d:0), (1/2)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
@@ -162,7 +162,7 @@
 = Lurrus of the Dream-Den          matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:11   WG: 36.36% LG: 63.64% (wg:   4 lg:   7) pick: 1    Spb(1), 
        vs Ghyrson Starn, Kelermorph        (w:1 l:0 d:0), (2/1)
        vs Teferi, Temporal Archmage        (w:0 l:1 d:0), (0/2)
-       vs Jedit Ojanen, Mercenary          (w:0 l:1 d:0), (1/2)
+       vs Cloud, Midgar Mercenary          (w:0 l:1 d:0), (1/2)
        vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (1/2)
 
 
@@ -187,13 +187,13 @@
        vs Vial Smasher the Fierce          (w:1 l:0 d:0), (2/0)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
         + Bruse Tarl, Boorish Herder      
-       vs Jedit Ojanen, Mercenary          (w:1 l:0 d:0), (2/0)
+       vs Cloud, Midgar Mercenary          (w:1 l:0 d:0), (2/0)
 
 
 = Teferi, Temporal Archmage        matches:4    WM: 75.00%  LM:  0.00%  DM: 25.00% (wm:3   lm:0   dm:1)  games:9    WG: 77.78% LG: 22.22% (wg:   7 lg:   2) pick: 1    Spb(1), 
        vs Geist of Saint Traft             (w:0 l:0 d:1), (1/1)
        vs Lurrus of the Dream-Den          (w:1 l:0 d:0), (2/0)
-       vs Jedit Ojanen, Mercenary          (w:1 l:0 d:0), (2/0)
+       vs Cloud, Midgar Mercenary          (w:1 l:0 d:0), (2/0)
        vs Arahbo, Roar of the World        (w:1 l:0 d:0), (2/1)
 
 
@@ -240,7 +240,7 @@
        vs Vial Smasher the Fierce          (w:1 l:0 d:0), (2/0)
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (1/2)
        vs Satya, Aetherflux Genius         (w:1 l:0 d:0), (2/0)
-       vs Jedit Ojanen, Mercenary          (w:1 l:0 d:0), (2/1)
+       vs Cloud, Midgar Mercenary          (w:1 l:0 d:0), (2/1)
 
 
 = Yoshimaru, Ever Faithful         matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:11   WG: 54.55% LG: 45.45% (wg:   6 lg:   5) pick: 1    Spb(1), 

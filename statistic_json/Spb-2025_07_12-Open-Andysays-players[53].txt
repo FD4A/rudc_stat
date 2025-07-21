@@ -28,6 +28,14 @@
        vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/1)
 
 
+= Cloud, Midgar Mercenary          matches:6    WM: 83.33%  LM: 16.67%  DM:  0.00% (wm:5   lm:1   dm:0)  games:16   WG: 68.75% LG: 31.25% (wg:  11 lg:   5) pick: 1    Spb(1), 
+       vs Iron Man, Titan of Innovation    (w:0 l:1 d:0), (1/2)
+       vs Tivit, Seller of Secrets         (w:2 l:0 d:0), (4/2)
+       vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/1)
+       vs Feldon, Ronom Excavator          (w:1 l:0 d:0), (2/0)
+       vs Ghyrson Starn, Kelermorph        (w:1 l:0 d:0), (2/0)
+
+
 = Daretti, Scrap Savant            matches:5    WM: 40.00%  LM: 60.00%  DM:  0.00% (wm:2   lm:3   dm:0)  games:12   WG: 50.00% LG: 50.00% (wg:   6 lg:   6) pick: 1    Spb(1), 
        vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (1/2)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
@@ -66,7 +74,7 @@
        vs Diaochan, Artful Beauty          (w:1 l:0 d:0), (2/0)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
         + Bruse Tarl, Boorish Herder      
-       vs Jedit Ojanen, Mercenary          (w:0 l:1 d:0), (1/2)
+       vs Cloud, Midgar Mercenary          (w:0 l:1 d:0), (1/2)
        vs Slimefoot and Squee              (w:0 l:1 d:0), (0/2)
        vs Golos, Tireless Pilgrim          (w:0 l:1 d:0), (0/2)
 
@@ -99,7 +107,7 @@
        vs Vivien on the Hunt               (w:1 l:0 d:0), (2/1)
        vs Aminatou, the Fateshifter        (w:0 l:1 d:0), (0/2)
        vs Azusa, Lost but Seeking          (w:1 l:1 d:0), (3/2)
-       vs Jedit Ojanen, Mercenary          (w:0 l:1 d:0), (0/2)
+       vs Cloud, Midgar Mercenary          (w:0 l:1 d:0), (0/2)
        vs Indoraptor, the Perfect Hybrid   (w:0 l:0 d:1), (0/0)
        vs Hashaton, Scarab's Fist          (w:0 l:1 d:0), (0/2)
 
@@ -124,7 +132,7 @@
        vs Tivit, Seller of Secrets         (w:1 l:0 d:0), (2/1)
        vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/1)
        vs Iron Man, Titan of Innovation    (w:0 l:1 d:0), (0/2)
-       vs Jedit Ojanen, Mercenary          (w:0 l:1 d:0), (0/2)
+       vs Cloud, Midgar Mercenary          (w:0 l:1 d:0), (0/2)
 
 
 = Golos, Tireless Pilgrim          matches:17   WM: 52.94%  LM: 41.18%  DM:  5.88% (wm:9   lm:7   dm:1)  games:43   WG: 51.16% LG: 48.84% (wg:  22 lg:  21) pick: 3    Spb(3), 
@@ -192,7 +200,7 @@
 
 = Iron Man, Titan of Innovation    matches:12   WM: 75.00%  LM:  8.33%  DM: 16.67% (wm:9   lm:1   dm:2)  games:26   WG: 73.08% LG: 19.23% (wg:  19 lg:   5) pick: 2    Spb(2), 
        vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/0)
-       vs Jedit Ojanen, Mercenary          (w:1 l:0 d:0), (2/1)
+       vs Cloud, Midgar Mercenary          (w:1 l:0 d:0), (2/1)
        vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/0)
        vs Diaochan, Artful Beauty          (w:1 l:0 d:0), (2/1)
        vs Winter, Cynical Opportunist      (w:1 l:0 d:0), (2/0)
@@ -204,14 +212,6 @@
        vs Gut, True Soul Zealot            (w:0 l:0 d:1), (0/0)
         + Folk Hero                       
        vs Vial Smasher the Fierce          (w:0 l:0 d:1), (0/0)
-
-
-= Jedit Ojanen, Mercenary          matches:6    WM: 83.33%  LM: 16.67%  DM:  0.00% (wm:5   lm:1   dm:0)  games:16   WG: 68.75% LG: 31.25% (wg:  11 lg:   5) pick: 1    Spb(1), 
-       vs Iron Man, Titan of Innovation    (w:0 l:1 d:0), (1/2)
-       vs Tivit, Seller of Secrets         (w:2 l:0 d:0), (4/2)
-       vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/1)
-       vs Feldon, Ronom Excavator          (w:1 l:0 d:0), (2/0)
-       vs Ghyrson Starn, Kelermorph        (w:1 l:0 d:0), (2/0)
 
 
 = Niv-Mizzet, Parun                matches:5    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:5   dm:0)  games:13   WG: 23.08% LG: 76.92% (wg:   3 lg:  10) pick: 1    Spb(1), 
@@ -291,7 +291,7 @@
        vs Vial Smasher the Fierce          (w:0 l:2 d:0), (2/4)
        vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (1/2)
        vs Phelia, Exuberant Shepherd       (w:2 l:1 d:0), (3/2)
-       vs Jedit Ojanen, Mercenary          (w:0 l:2 d:0), (2/4)
+       vs Cloud, Midgar Mercenary          (w:0 l:2 d:0), (2/4)
        vs Hashaton, Scarab's Fist          (w:0 l:1 d:0), (0/2)
        vs Selvala, Explorer Returned       (w:1 l:1 d:0), (3/2)
        vs Deadpool, Trading Card           (w:1 l:0 d:0), (2/0)

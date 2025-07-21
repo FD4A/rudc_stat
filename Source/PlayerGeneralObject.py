@@ -1,6 +1,19 @@
 from Source.LegendaryBase import LegendaryBase
 
 
+def replace_yoshi(general: str):
+    concatenate = ["Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                   "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                   "Yoshimaru, Ever Faithful :+: Dargo, the Shipwrecker",
+                   "Yoshimaru, Ever Faithful :+: Tana, the Bloodsower",
+                   "Yoshimaru, Ever Faithful :+: Jeska, Thrice Reborn",
+                   "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                   ]
+    if general in concatenate:
+        return "Yoshimaru, Ever Faithful :+: Rx"
+    return general
+
+
 class PlayerGeneralObject:
     """
     input line: 'player_name :: general1 :+: general2 or background :++: companion'
@@ -42,6 +55,9 @@ class PlayerGeneralObject:
             self.command_zone += f" :++: {self.generals[1][0]}"
             for item in self.generals[1][1:]:
                 self.command_zone += item
+
+        # self.command_zone = replace_yoshi(self.command_zone)
+
 
     def get_like_complex_list(self):
         """

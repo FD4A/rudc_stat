@@ -14,13 +14,13 @@ out_folder = './tournaments_json/'
 #     tournament = parser.get_tournament_from_txt(filename)
 #     tournament.dump_to_json(out_folder)
 
-# # online daily
-filenames = glob('RawData/OnlineLeague/Online_RUDC_Spring_City_of_Traitors_2025_04_09.txt')
-for filename in filenames:
-    parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_aetherhub, legendary_base)
-    tournament = parser.get_tournament_from_txt(filename)
-    print(tournament)
-    tournament.dump_to_json(out_folder)
+# # # online daily
+# filenames = glob('RawData/OnlineLeague/Online_RUDC_Spring_City_of_Traitors_2025_04_09.txt')
+# for filename in filenames:
+#     parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_aetherhub, legendary_base)
+#     tournament = parser.get_tournament_from_txt(filename)
+#     print(tournament)
+#     tournament.dump_to_json(out_folder)
 
 
 # # Krasnodar data

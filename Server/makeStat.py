@@ -1,11 +1,13 @@
 from reqForm import GetParams
 from Source.Statistic import Statistic
+from Source.LegendaryBase import LegendaryBase
 
 
 def make_stat(get_params: GetParams, tournament_list):
     start_date = get_params.date_after
     finish_date = get_params.date_before
     stat = Statistic()
+    lb = LegendaryBase('../ScryfallData')
     for tournament in tournament_list:
         if not (get_params.location == 'all' or tournament.location == get_params.location):
             continue
@@ -15,6 +17,7 @@ def make_stat(get_params: GetParams, tournament_list):
                (tournament.level == 'Other' and get_params.other) or \
                (tournament.level == 'League' and get_params.league):
                 if len(tournament.players) >= get_params.min_players:
+                    # [ok, error_string] = tournament.fix_generals_names(lb)
                     stat.add_tournament(tournament)
     for_delete = []
     for elem in stat.generalStat.values():

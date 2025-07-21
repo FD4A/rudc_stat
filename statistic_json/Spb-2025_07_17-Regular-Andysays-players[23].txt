@@ -20,11 +20,20 @@
        vs Tivit, Seller of Secrets         (w:0 l:1 d:0), (0/2)
 
 
+= Cloud, Midgar Mercenary          matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 60.00% LG: 40.00% (wg:   6 lg:   4) pick: 1    Spb(1), 
+       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/0)
+       vs Teferi, Temporal Archmage        (w:0 l:1 d:0), (1/2)
+       vs Dargo, the Shipwrecker           (w:1 l:0 d:0), (2/0)
+        + Ikra Shidiqi, the Usurper       
+       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
+        + Kraum, Ludevic's Opus           
+
+
 = Dargo, the Shipwrecker           matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 44.44% LG: 55.56% (wg:   4 lg:   5) pick: 1    Spb(1), 
   + Ikra Shidiqi, the Usurper   
        vs Dihada, Binder of Wills          (w:0 l:1 d:0), (0/2)
        vs Hashaton, Scarab's Fist          (w:1 l:0 d:0), (2/1)
-       vs Jedit Ojanen, Mercenary          (w:0 l:1 d:0), (0/2)
+       vs Cloud, Midgar Mercenary          (w:0 l:1 d:0), (0/2)
        vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/0)
 
 
@@ -90,17 +99,8 @@
        vs Hashaton, Scarab's Fist          (w:1 l:0 d:0), (2/0)
 
 
-= Jedit Ojanen, Mercenary          matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:10   WG: 60.00% LG: 40.00% (wg:   6 lg:   4) pick: 1    Spb(1), 
-       vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/0)
-       vs Teferi, Temporal Archmage        (w:0 l:1 d:0), (1/2)
-       vs Dargo, the Shipwrecker           (w:1 l:0 d:0), (2/0)
-        + Ikra Shidiqi, the Usurper       
-       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
-        + Kraum, Ludevic's Opus           
-
-
 = Kroxa, Titan of Death's Hunger   matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:9    WG: 22.22% LG: 77.78% (wg:   2 lg:   7) pick: 1    Spb(1), 
-       vs Jedit Ojanen, Mercenary          (w:0 l:1 d:0), (0/2)
+       vs Cloud, Midgar Mercenary          (w:0 l:1 d:0), (0/2)
        vs Vivien on the Hunt               (w:0 l:1 d:0), (0/2)
        vs Lurrus of the Dream-Den          (w:1 l:0 d:0), (2/1)
        vs Dargo, the Shipwrecker           (w:0 l:1 d:0), (0/2)
@@ -135,7 +135,7 @@
 
 = Teferi, Temporal Archmage        matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:11   WG: 54.55% LG: 45.45% (wg:   6 lg:   5) pick: 1    Spb(1), 
        vs Iron Man, Titan of Innovation    (w:1 l:0 d:0), (2/0)
-       vs Jedit Ojanen, Mercenary          (w:1 l:0 d:0), (2/1)
+       vs Cloud, Midgar Mercenary          (w:1 l:0 d:0), (2/1)
        vs Ezio Auditore da Firenze         (w:0 l:1 d:0), (1/2)
        vs Azusa, Lost but Seeking          (w:0 l:1 d:0), (1/2)
 
@@ -168,6 +168,6 @@
        vs Azusa, Lost but Seeking          (w:1 l:0 d:0), (2/1)
        vs Phelia, Exuberant Shepherd       (w:0 l:1 d:0), (0/2)
        vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/0)
-       vs Jedit Ojanen, Mercenary          (w:1 l:0 d:0), (2/1)
+       vs Cloud, Midgar Mercenary          (w:1 l:0 d:0), (2/1)
 
 

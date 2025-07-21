@@ -4,7 +4,7 @@ date::2025_06_19
 organizer::Constantin
 players::generals
 Cherepovskiy Roman :: Kroxa, Titan of Death's Hunger
-Shubenin Ilya :: Vivi Ornitier
+Shubenin Ilya ::  Ornitier
 Lukaynov Vadim :: Golos, Tireless Pilgrim
 Isaev Alexander :: Plagon, Lord of the Beach
 Somkin Constantin :: Elminster
