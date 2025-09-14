@@ -1,0 +1,24 @@
+location::Spb
+level::Regular
+date::2025_08_28
+organizer::Andysays
+players::generals
+Олифер Егор :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Муравьев Роман :: Dihada, Binder of Wills
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Красников Александр :: Gut, True Soul Zealot :+: Folk Hero
+Протасов Михаил :: Deadpool, Trading Card
+Коростелев Илья :: Satya, Aetherflux Genius
+Юферов Владимир :: Lightning, Army of One
+Лагерев Леонид :: Minsc, Beloved Ranger
+Медведев Константин :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Федоров Дмитрий :: Kroxa, Titan of Death's Hunger
+Булочко Михаил :: Tivit, Seller of Secrets
+Звягин Георгий :: Slimefoot and Squee
+Федоров Дмитрий Юн :: Ghyrson Starn, Kelermorph
+Байков Аркадий :: Soul of Windgrace
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Саушкин Андрей :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Роднов Александр :: Cloud, Midgar Mercenary
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93230

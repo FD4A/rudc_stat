@@ -1,0 +1,15 @@
+location::RostovOnDon
+level::Regular
+date::2025_08_15
+organizer::Constantin
+players::generals
+Faydysh Diana :: Phelia, Exuberant Shepherd
+Kovalev Alexander :: Iron Man, Titan of Innovation
+Somkin Constantin :: Elminster
+Fedorov Dmitriy :: Ghyrson Starn, Kelermorph
+Posidaylo Artem :: Thalia and The Gitrog Monster
+Lukaynov Vadim :: Orvar, the All-Form
+Merkulov Vladislav :: Zabaz, the Glimmerwasp
+Mishin Vasily :: Sheoldred, the Apocalypse
+Round
+https://aetherhub.com/Tourney/RoundTourney/84189

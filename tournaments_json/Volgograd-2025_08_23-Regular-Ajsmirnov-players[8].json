@@ -1,0 +1,160 @@
+{
+    "date": "2025_08_23",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Ajsmirnov",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Артём Ангурцов",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Тимур Сайфутдинов",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Игорь Курмакаев",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Артём Стрельцов",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Константин Сомкин",
+            "Elminster"
+        ],
+        [
+            "Максим Обора",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Евгений Сафаргалиев",
+            "Tifa Lockhart"
+        ],
+        [
+            "Виталий Васильев",
+            "Queen Marchesa"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Виталий Васильев",
+                "Артём Ангурцов",
+                "Queen Marchesa",
+                "Deadpool, Trading Card",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Евгений Сафаргалиев",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Tifa Lockhart",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Игорь Курмакаев",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Максим Обора",
+                "Константин Сомкин",
+                "Arahbo, Roar of the World",
+                "Elminster",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Артём Ангурцов",
+                "Артём Стрельцов",
+                "Deadpool, Trading Card",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Максим Обора",
+                "Тимур Сайфутдинов",
+                "Arahbo, Roar of the World",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Игорь Курмакаев",
+                "Queen Marchesa",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Константин Сомкин",
+                "Евгений Сафаргалиев",
+                "Elminster",
+                "Tifa Lockhart",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Тимур Сайфутдинов",
+                "Артём Ангурцов",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Deadpool, Trading Card",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Максим Обора",
+                "Игорь Курмакаев",
+                "Arahbo, Roar of the World",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Константин Сомкин",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Elminster",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93090"
+}

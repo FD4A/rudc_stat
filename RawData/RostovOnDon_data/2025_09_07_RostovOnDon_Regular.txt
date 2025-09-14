@@ -1,0 +1,15 @@
+location::RostovOnDon
+level::Regular
+date::2025_09_07
+organizer::Constantin
+players::generals
+Burmistrov Pavel :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Lukaynov Vadim :: Lightning, Army of One
+Merkulov Vladislav :: Zabaz, the Glimmerwasp
+Posidaylo Artem :: Thalia and The Gitrog Monster
+Faydysh Diana :: Phelia, Exuberant Shepherd
+Somkin Constantin :: Ultima, Origin of Oblivion
+Maliy Sergey :: Tivit, Seller of Secrets
+Korshunov Svytoslav :: Klothys, God of Destiny
+Round
+https://aetherhub.com/Tourney/RoundTourney/93541

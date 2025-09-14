@@ -1,0 +1,15 @@
+location::Ulyanovsk
+level::Regular
+date::2025_09_14
+organizer::FIN
+players::generals
+Ильин Александр :: Kefka, Court Mage
+Кириллов Александр :: The Gitrog Monster
+Фридман Сергей :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Гавриков Никита :: Kefka, Court Mage
+Фролов Евгений :: Geist of Saint Traft
+Кукурузняк Константин :: Commodore Guff
+Кащихин Игорь :: Arahbo, Roar of the World
+Азизов Рустам :: Tifa Lockhart
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93685

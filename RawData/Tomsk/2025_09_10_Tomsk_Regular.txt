@@ -1,0 +1,15 @@
+location::Tomsk
+level::Regular
+date::2025_09_10
+organizer::d6tomsk
+players::generals
+Астапов Александр :: Light-Paws, Emperor's Voice
+Владимиров Егор :: Deadpool, Trading Card
+Дмитриев Сергей :: Feldon, Ronom Excavator
+Поспелов Александр :: Ral, Monsoon Mage
+Иванов Алексей :: Phelia, Exuberant Shepherd
+Демидов Виталий :: The Gitrog Monster
+Кузнецов Северин :: Sonic the Hedgehog
+Чураков Павел :: Mm'menon, the Right Hand
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93597

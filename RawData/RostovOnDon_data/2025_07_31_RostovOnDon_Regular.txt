@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2025_07_31
+organizer::Constantin
+players::generals
+Kovalev Alexander :: Ezio Auditore da Firenze
+Fedorov Dmitriy :: Ghyrson Starn, Kelermorph
+Cherepovskiy Roman :: Juri, Master of the Revue
+Somkin Constantin :: Elminster
+Posidaylo Artem :: Rocco, Cabaretti Caterer
+Maliy Sergey :: Tivit, Seller of Secrets
+Round
+https://aetherhub.com/Tourney/RoundTourney/67773

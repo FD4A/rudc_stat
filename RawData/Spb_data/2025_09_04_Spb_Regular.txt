@@ -1,0 +1,23 @@
+location::Spb
+level::Regular
+date::2025_09_04
+organizer::Andysays
+players::generals
+Поляков Герман :: G'raha Tia, Scion Reborn
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Лагерев Леонид :: Glissa Sunslayer
+Ульянов Алексей :: Golos, Tireless Pilgrim
+Федоров Дмитрий :: Kroxa, Titan of Death's Hunger
+Протасов Михаил :: Azusa, Lost but Seeking
+Шестаков Игорь :: Kefka, Court Mage
+Булочко Михаил :: Iron Man, Titan of Innovation
+Лейбович Александр :: Vivi Ornitier
+Постояклин Павел :: Cloud, Midgar Mercenary
+Муравьев Роман :: Dihada, Binder of Wills
+Юсенко Глеб :: Ezio Auditore da Firenze
+Звягин Георгий :: Grist, the Hunger Tide
+Барабаш Валентин :: Iron Man, Titan of Innovation
+Егоров Павел :: G'raha Tia, Scion Reborn
+Тяпайкин Максим :: Flubs, the Fool
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93434

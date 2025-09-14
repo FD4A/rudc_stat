@@ -1,0 +1,27 @@
+location::Spb
+level::Regular
+date::2025_08_07
+organizer::Andysays
+players::generals
+Муравьев Роман :: Dihada, Binder of Wills
+Булочко Михаил :: Iron Man, Titan of Innovation
+Юсенко Глеб :: Ezio Auditore da Firenze
+Мартынов Яков :: Tivit, Seller of Secrets
+Ульянов Алексей :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Шестаков Игорь :: Kefka, Court Mage
+Байков Аркадий :: Vial Smasher the Fierce
+Барабаш Валентин :: Shorikai, Genesis Engine
+Федоров Дмитрий :: Kroxa, Titan of Death's Hunger
+Грабовой Филипп :: Cloud, Midgar Mercenary
+Кувяткин Илья :: Thrasios, Triton Hero :+: Dargo, the Shipwrecker
+Антипин Константин :: Feldon, Ronom Excavator
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Егоров Павел :: Tifa Lockhart
+Звягин Георгий :: Deadpool, Trading Card
+Тяпайкин Максим :: Golos, Tireless Pilgrim
+Красников Александр :: Muxus, Goblin Grandee
+Яковлев Николай :: The Wise Mothman
+Роднов Александр :: Aragorn, King of Gondor
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/73981

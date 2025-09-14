@@ -1,0 +1,264 @@
+{
+    "date": "2025_08_10",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Вячеслав Серпутько",
+            "Six"
+        ],
+        [
+            "Дмитрий Орешкин",
+            "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist"
+        ],
+        [
+            "Михаил Козлов",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Артём Ангурцов",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Никита Сухов",
+            "Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools"
+        ],
+        [
+            "Максим Мещеряков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Тимур Сайфутдинов",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Виталий Васильев",
+            "Queen Marchesa"
+        ],
+        [
+            "Артём Стрельцов",
+            "Heliod, Sun-Crowned"
+        ],
+        [
+            "Максим Обора",
+            "Tifa Lockhart"
+        ],
+        [
+            "Александр Токарев",
+            "Grist, the Hunger Tide"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Тимур Сайфутдинов",
+                "Никита Сухов",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Дмитрий Орешкин",
+                "Deadpool, Trading Card",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Александр Токарев",
+                "Queen Marchesa",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Вячеслав Серпутько",
+                "Heliod, Sun-Crowned",
+                "Six",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Михаил Козлов",
+                "Tivit, Seller of Secrets",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Михаил Козлов",
+                "Александр Токарев",
+                "Dihada, Binder of Wills",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Никита Сухов",
+                "Six",
+                "Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Максим Обора",
+                "Дмитрий Орешкин",
+                "Tifa Lockhart",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Артём Ангурцов",
+                "Queen Marchesa",
+                "Deadpool, Trading Card",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Максим Мещеряков",
+                "Heliod, Sun-Crowned",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Вячеслав Серпутько",
+                "Дмитрий Орешкин",
+                "Six",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Михаил Козлов",
+                "Максим Обора",
+                "Dihada, Binder of Wills",
+                "Tifa Lockhart",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Никита Сухов",
+                "Максим Мещеряков",
+                "Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Александр Токарев",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Артём Стрельцов",
+                "Deadpool, Trading Card",
+                "Heliod, Sun-Crowned",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Михаил Козлов",
+                "Вячеслав Серпутько",
+                "Dihada, Binder of Wills",
+                "Six",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Максим Мещеряков",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Тимур Сайфутдинов",
+                "Deadpool, Trading Card",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Никита Сухов",
+                "Александр Токарев",
+                "Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Максим Обора",
+                "Виталий Васильев",
+                "Tifa Lockhart",
+                "Queen Marchesa",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/76494"
+}

@@ -1,0 +1,160 @@
+{
+    "date": "2025_08_15",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Faydysh Diana",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Kovalev Alexander",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Somkin Constantin",
+            "Elminster"
+        ],
+        [
+            "Fedorov Dmitriy",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Posidaylo Artem",
+            "Thalia and The Gitrog Monster"
+        ],
+        [
+            "Lukaynov Vadim",
+            "Orvar, the All-Form"
+        ],
+        [
+            "Merkulov Vladislav",
+            "Zabaz, the Glimmerwasp"
+        ],
+        [
+            "Mishin Vasily",
+            "Sheoldred, the Apocalypse"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Mishin Vasily",
+                "Kovalev Alexander",
+                "Sheoldred, the Apocalypse",
+                "Iron Man, Titan of Innovation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Faydysh Diana",
+                "Lukaynov Vadim",
+                "Phelia, Exuberant Shepherd",
+                "Orvar, the All-Form",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Merkulov Vladislav",
+                "Elminster",
+                "Zabaz, the Glimmerwasp",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Fedorov Dmitriy",
+                "Posidaylo Artem",
+                "Ghyrson Starn, Kelermorph",
+                "Thalia and The Gitrog Monster",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Faydysh Diana",
+                "Fedorov Dmitriy",
+                "Phelia, Exuberant Shepherd",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Kovalev Alexander",
+                "Merkulov Vladislav",
+                "Iron Man, Titan of Innovation",
+                "Zabaz, the Glimmerwasp",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Mishin Vasily",
+                "Elminster",
+                "Sheoldred, the Apocalypse",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Posidaylo Artem",
+                "Lukaynov Vadim",
+                "Thalia and The Gitrog Monster",
+                "Orvar, the All-Form",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Faydysh Diana",
+                "Kovalev Alexander",
+                "Phelia, Exuberant Shepherd",
+                "Iron Man, Titan of Innovation",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Fedorov Dmitriy",
+                "Elminster",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Posidaylo Artem",
+                "Merkulov Vladislav",
+                "Thalia and The Gitrog Monster",
+                "Zabaz, the Glimmerwasp",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/84189"
+}

@@ -1,0 +1,14 @@
+location::Tomsk
+level::Regular
+date::2025_08_27
+organizer::d6tomsk
+players::generals
+Поспелов Александр :: Ral, Monsoon Mage
+Иванов Алексей :: Phelia, Exuberant Shepherd
+Владимиров Егор :: Deadpool, Trading Card
+Демидов Виталий :: The Gitrog Monster
+Черепов Антон :: Tourach, Dread Cantor
+Чураков Павел :: Shorikai, Genesis Engine
+Кузнецов Северин :: Kykar, Wind's Fury
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93197

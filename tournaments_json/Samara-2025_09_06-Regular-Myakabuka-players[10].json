@@ -1,0 +1,260 @@
+{
+    "date": "2025_09_06",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Краснов Илья",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Сибикин Антон",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Васильев Кирилл",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Циулин Иван",
+            "Niv-Mizzet Reborn"
+        ],
+        [
+            "Кормаков Александр",
+            "Errant and Giada"
+        ],
+        [
+            "Тимохин Денис",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Ревин Владимир",
+            "Cecil, Dark Knight"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Безруков Николай",
+                "Циулин Иван",
+                "Feldon, Ronom Excavator",
+                "Niv-Mizzet Reborn",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Ревин Владимир",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Cecil, Dark Knight",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Тимохин Денис",
+                "Grist, the Hunger Tide",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Кормаков Александр",
+                "Muxus, Goblin Grandee",
+                "Errant and Giada",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Краснов Илья",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Безруков Николай",
+                "Васильев Кирилл",
+                "Feldon, Ronom Excavator",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Кормаков Александр",
+                "Shorikai, Genesis Engine",
+                "Errant and Giada",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Циулин Иван",
+                "Grist, the Hunger Tide",
+                "Niv-Mizzet Reborn",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Матюнин Антон",
+                "Cecil, Dark Knight",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Тимохин Денис",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Безруков Николай",
+                "Shorikai, Genesis Engine",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Сибикин Антон",
+                "Grist, the Hunger Tide",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Кормаков Александр",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Errant and Giada",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Тимохин Денис",
+                "Cecil, Dark Knight",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Циулин Иван",
+                "Muxus, Goblin Grandee",
+                "Niv-Mizzet Reborn",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Безруков Николай",
+                "Сибикин Антон",
+                "Feldon, Ronom Excavator",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Васильев Кирилл",
+                "Shorikai, Genesis Engine",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Кормаков Александр",
+                "Grist, the Hunger Tide",
+                "Errant and Giada",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Матюнин Антон",
+                "Shorikai, Genesis Engine",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Циулин Иван",
+                "Cecil, Dark Knight",
+                "Niv-Mizzet Reborn",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93498"
+}

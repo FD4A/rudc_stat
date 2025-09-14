@@ -1,0 +1,19 @@
+location::Volgograd
+level::Regular
+date::2025_08_31
+organizer::Rombik34rus
+players::generals
+Артем Стрельцов :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Никита Сухов :: Shorikai, Genesis Engine
+Константин Антипин :: Tivit, Seller of Secrets
+Дмитрий Орешкин :: Juri, Master of the Revue
+Тимур Сайфутдинов :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Александр Токарев :: Grist, the Hunger Tide
+Виктор Бутримов :: Slimefoot and Squee
+Артём Ангурцов :: Iron Man, Titan of Innovation
+Александр Смирнов :: Cloud, Midgar Mercenary
+Максим Мещеряков :: Kefka, Court Mage
+Виталий Васильев :: Queen Marchesa
+Максим Обора :: Ghyrson Starn, Kelermorph
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93332

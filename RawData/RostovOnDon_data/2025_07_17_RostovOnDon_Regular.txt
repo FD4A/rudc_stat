@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2025_07_17
+organizer::Constantin
+players::generals
+Роман Череповский :: Juri, Master of the Revue
+Шубенин Илья :: Vivi Ornitier
+Тарас Довольный :: Phelia, Exuberant Shepherd
+Артём Посидайло :: Eshki Dragonclaw
+Диана Файдыш :: Phelia, Exuberant Shepherd
+Дима Фёдоров :: Ghyrson Starn, Kelermorph
+Round
+https://aetherhub.com/Tourney/RoundTourney/58931

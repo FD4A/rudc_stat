@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2025_07_24
+organizer::Constantin
+players::generals
+Иса :: Plagon, Lord of the Beach
+Саша :: Ezio Auditore da Firenze
+Вадим :: Lightning, Army of One
+Диана :: Phelia, Exuberant Shepherd
+Артём :: Rocco, Cabaretti Caterer
+Дима :: Ghyrson Starn, Kelermorph
+Round
+https://aetherhub.com/Tourney/RoundTourney/64733

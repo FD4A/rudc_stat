@@ -1,0 +1,34 @@
+location::Spb
+level::Regular
+date::2025_07_24
+organizer::Andysays
+players::generals
+Олифер Егор :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Шестаков Игорь :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Медведев Константин :: Bruse Tarl, Boorish Herder :+: Ikra Shidiqi, the Usurper
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Байков Аркадий :: Vial Smasher the Fierce
+Лейбович Александр :: Vivi Ornitier
+Ульянов Алексей :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Тяпайкин Максим :: Geist of Saint Traft
+Юсенко Глеб :: Ezio Auditore da Firenze
+Мартынов Владислав :: Atraxa, Grand Unifier
+Антипин Константин :: Feldon, Ronom Excavator
+Муравьев Роман :: Dihada, Binder of Wills
+Шашин Илья :: unknown
+Звягин Георгий :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Барабаш Валентин :: Mm'menon, the Right Hand
+Красников Александр :: unknown
+Егоров Павел :: Vivi Ornitier
+Хорьков Аркадий :: Arahbo, Roar of the World
+Федоров Дмитрий :: Karlov of the Ghost Council :++: Lurrus of the Dream-Den
+Мартынов Яков :: Tivit, Seller of Secrets
+Кеворков Артур :: Anafenza, the Foremost
+Протасов Михаил :: Tivit, Seller of Secrets
+Булочко Михаил :: Iron Man, Titan of Innovation
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Саушкин Андрей :: Bruse Tarl, Boorish Herder :+: Ikra Shidiqi, the Usurper
+Лагерев Леонид :: Leovold, Emissary of Trest
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/64729

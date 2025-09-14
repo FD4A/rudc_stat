@@ -1,0 +1,136 @@
+{
+    "date": "2025_08_28",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Сибикин Антон",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Краснов Илья",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Васильев Кирилл",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Малкин Алексей",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Громов Михаил",
+            "Indominus Rex, Alpha"
+        ],
+        [
+            "Иванов Никита",
+            "Rograkh, Son of Rohgahh :+: Tymna the Weaver"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Малкин Алексей",
+                "Сибикин Антон",
+                "Phelia, Exuberant Shepherd",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Громов Михаил",
+                "Краснов Илья",
+                "Indominus Rex, Alpha",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Иванов Никита",
+                "Muxus, Goblin Grandee",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Никита",
+                "Краснов Илья",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Сибикин Антон",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Громов Михаил",
+                "Малкин Алексей",
+                "Indominus Rex, Alpha",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Сибикин Антон",
+                "Краснов Илья",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Иванов Никита",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Малкин Алексей",
+                "Матюнин Антон",
+                "Phelia, Exuberant Shepherd",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93226"
+}

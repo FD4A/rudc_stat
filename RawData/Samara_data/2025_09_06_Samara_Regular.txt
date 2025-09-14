@@ -1,0 +1,17 @@
+location::Samara
+level::Regular
+date::2025_09_06
+organizer::Myakabuka
+players::generals
+Безруков Николай :: Feldon, Ronom Excavator
+Краснов Илья :: Shorikai, Genesis Engine
+Курмакаев Игорь :: Grist, the Hunger Tide
+Сибикин Антон :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Васильев Кирилл :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Матюнин Антон :: Muxus, Goblin Grandee
+Циулин Иван :: Niv-Mizzet Reborn
+Кормаков Александр :: Errant and Giada
+Тимохин Денис :: Shorikai, Genesis Engine
+Ревин Владимир :: Cecil, Dark Knight
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93498

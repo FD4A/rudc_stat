@@ -1,0 +1,308 @@
+{
+    "date": "2025_07_30",
+    "location": "Tomsk",
+    "level": "Regular",
+    "organizer": "d6tomsk",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Владимиров Егор",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Дмитриев Сергей",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Иванов Алексей",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Кузнецов Северин",
+            "Kykar, Wind's Fury"
+        ],
+        [
+            "Демидов Виталий",
+            "The Gitrog Monster"
+        ],
+        [
+            "Поспелов Александр",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Чураков Павел",
+            "Sai, Master Thopterist"
+        ],
+        [
+            "Писарев Никита",
+            "Maelstrom Wanderer"
+        ],
+        [
+            "Веренич Артем",
+            "Edric, Spymaster of Trest"
+        ],
+        [
+            "Нагаев Никита",
+            "Marwyn, the Nurturer"
+        ],
+        [
+            "Дубровин Илья",
+            "Zaxara, the Exemplary"
+        ],
+        [
+            "Черепов Антон",
+            "Tourach, Dread Cantor"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Кузнецов Северин",
+                "Писарев Никита",
+                "Kykar, Wind's Fury",
+                "Maelstrom Wanderer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дмитриев Сергей",
+                "Дубровин Илья",
+                "Feldon, Ronom Excavator",
+                "Zaxara, the Exemplary",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Нагаев Никита",
+                "Иванов Алексей",
+                "Marwyn, the Nurturer",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Владимиров Егор",
+                "Черепов Антон",
+                "Ketramose, the New Dawn",
+                "Tourach, Dread Cantor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Веренич Артем",
+                "Чураков Павел",
+                "Edric, Spymaster of Trest",
+                "Sai, Master Thopterist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Поспелов Александр",
+                "The Gitrog Monster",
+                "Ral, Monsoon Mage",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитриев Сергей",
+                "Иванов Алексей",
+                "Feldon, Ronom Excavator",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Владимиров Егор",
+                "Ral, Monsoon Mage",
+                "Ketramose, the New Dawn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Веренич Артем",
+                "Kykar, Wind's Fury",
+                "Edric, Spymaster of Trest",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Черепов Антон",
+                "The Gitrog Monster",
+                "Tourach, Dread Cantor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Писарев Никита",
+                "Sai, Master Thopterist",
+                "Maelstrom Wanderer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Нагаев Никита",
+                "Дубровин Илья",
+                "Marwyn, the Nurturer",
+                "Zaxara, the Exemplary",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Владимиров Егор",
+                "Дмитриев Сергей",
+                "Ketramose, the New Dawn",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Демидов Виталий",
+                "Kykar, Wind's Fury",
+                "The Gitrog Monster",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Веренич Артем",
+                "Иванов Алексей",
+                "Edric, Spymaster of Trest",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Нагаев Никита",
+                "Ral, Monsoon Mage",
+                "Marwyn, the Nurturer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Черепов Антон",
+                "Sai, Master Thopterist",
+                "Tourach, Dread Cantor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Писарев Никита",
+                "Дубровин Илья",
+                "Maelstrom Wanderer",
+                "Zaxara, the Exemplary",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Владимиров Егор",
+                "Иванов Алексей",
+                "Ketramose, the New Dawn",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитриев Сергей",
+                "Поспелов Александр",
+                "Feldon, Ronom Excavator",
+                "Ral, Monsoon Mage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Кузнецов Северин",
+                "Sai, Master Thopterist",
+                "Kykar, Wind's Fury",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Веренич Артем",
+                "Демидов Виталий",
+                "Edric, Spymaster of Trest",
+                "The Gitrog Monster",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Нагаев Никита",
+                "Писарев Никита",
+                "Marwyn, the Nurturer",
+                "Maelstrom Wanderer",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Черепов Антон",
+                "Дубровин Илья",
+                "Tourach, Dread Cantor",
+                "Zaxara, the Exemplary",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/66801"
+}

@@ -1,0 +1,170 @@
+{
+    "date": "2025_08_06",
+    "location": "Tomsk",
+    "level": "Regular",
+    "organizer": "d6tomsk",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Владимиров Егор",
+            "Inti, Seneschal of the Sun"
+        ],
+        [
+            "Поспелов Александр",
+            "Kess, Dissident Mage"
+        ],
+        [
+            "Дмитриев Сергей",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Торицын Олег",
+            "Gut, True Soul Zealot :+: Agent of the Iron Throne"
+        ],
+        [
+            "Демидов Виталий",
+            "The Gitrog Monster"
+        ],
+        [
+            "Черепов Антон",
+            "Tourach, Dread Cantor"
+        ],
+        [
+            "Нагаев Никита",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Чураков Павел",
+            "Sai, Master Thopterist"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Черепов Антон",
+                "Торицын Олег",
+                "Tourach, Dread Cantor",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Нагаев Никита",
+                "The Gitrog Monster",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Владимиров Егор",
+                "Дмитриев Сергей",
+                "Inti, Seneschal of the Sun",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Чураков Павел",
+                "Kess, Dissident Mage",
+                "Sai, Master Thopterist",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Торицын Олег",
+                "Поспелов Александр",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Kess, Dissident Mage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Владимиров Егор",
+                "The Gitrog Monster",
+                "Inti, Seneschal of the Sun",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Нагаев Никита",
+                "Sai, Master Thopterist",
+                "Sythis, Harvest's Hand",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дмитриев Сергей",
+                "Черепов Антон",
+                "Feldon, Ronom Excavator",
+                "Tourach, Dread Cantor",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Владимиров Егор",
+                "Поспелов Александр",
+                "Inti, Seneschal of the Sun",
+                "Kess, Dissident Mage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Торицын Олег",
+                "The Gitrog Monster",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дмитриев Сергей",
+                "Нагаев Никита",
+                "Feldon, Ronom Excavator",
+                "Sythis, Harvest's Hand",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Черепов Антон",
+                "Sai, Master Thopterist",
+                "Tourach, Dread Cantor",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/72754"
+}

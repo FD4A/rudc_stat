@@ -1,0 +1,494 @@
+{
+    "date": "2025_08_14",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Лагерев Леонид",
+            "Minsc, Beloved Ranger"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Олифер Егор",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Звягин Георгий",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Антипин Константин",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Фукин Дмитрий",
+            "G'raha Tia, Scion Reborn"
+        ],
+        [
+            "Хорьков Аркадий",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Булочко Михаил",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Шестаков Игорь",
+            "Kefka, Court Mage"
+        ],
+        [
+            "Муравьев Никита",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Постояклин Павел",
+            "Cloud, Midgar Mercenary"
+        ],
+        [
+            "Лейбович Александр",
+            "Vivi Ornitier"
+        ],
+        [
+            "Красников Александр",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Егоров Павел",
+            "Vivi Ornitier"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Барабаш Валентин",
+            "Shorikai, Genesis Engine"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Постояклин Павел",
+                "Муравьев Роман",
+                "Cloud, Midgar Mercenary",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Родюков Федор",
+                "Vial Smasher the Fierce",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Мартынов Яков",
+                "Iron Man, Titan of Innovation",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Красников Александр",
+                "Minsc, Beloved Ranger",
+                "Ral, Monsoon Mage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Лейбович Александр",
+                "Shorikai, Genesis Engine",
+                "Vivi Ornitier",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Поляков Герман",
+                "Kroxa, Titan of Death's Hunger",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Егоров Павел",
+                "Juri, Master of the Revue",
+                "Vivi Ornitier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Антипин Константин",
+                "Шестаков Игорь",
+                "Feldon, Ronom Excavator",
+                "Kefka, Court Mage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Фукин Дмитрий",
+                "Indoraptor, the Perfect Hybrid",
+                "G'raha Tia, Scion Reborn",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Муравьев Никита",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Постояклин Павел",
+                "Звягин Георгий",
+                "Cloud, Midgar Mercenary",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Хорьков Аркадий",
+                "Minsc, Beloved Ranger",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Шестаков Игорь",
+                "Ghyrson Starn, Kelermorph",
+                "Kefka, Court Mage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Лейбович Александр",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Vivi Ornitier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Поляков Герман",
+                "Tivit, Seller of Secrets",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Фукин Дмитрий",
+                "Муравьев Никита",
+                "G'raha Tia, Scion Reborn",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Егоров Павел",
+                "Indoraptor, the Perfect Hybrid",
+                "Vivi Ornitier",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Федоров Дмитрий",
+                "Dihada, Binder of Wills",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Антипин Константин",
+                "Vial Smasher the Fierce",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Барабаш Валентин",
+                "Ral, Monsoon Mage",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Лагерев Леонид",
+                "Teferi, Temporal Archmage",
+                "Minsc, Beloved Ranger",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Звягин Георгий",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Федоров Дмитрий",
+                "Ghyrson Starn, Kelermorph",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лейбович Александр",
+                "Егоров Павел",
+                "Vivi Ornitier",
+                "Vivi Ornitier",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Аркадий",
+                "Шестаков Игорь",
+                "Arahbo, Roar of the World",
+                "Kefka, Court Mage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Постояклин Павел",
+                "Антипин Константин",
+                "Cloud, Midgar Mercenary",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Мартынов Яков",
+                "Phelia, Exuberant Shepherd",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Богатырев Александр",
+                "Iron Man, Titan of Innovation",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Фукин Дмитрий",
+                "Shorikai, Genesis Engine",
+                "G'raha Tia, Scion Reborn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Муравьев Роман",
+                "Ral, Monsoon Mage",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Лагерев Леонид",
+                "Олифер Егор",
+                "Minsc, Beloved Ranger",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Булочко Михаил",
+                "Ghyrson Starn, Kelermorph",
+                "Iron Man, Titan of Innovation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Поляков Герман",
+                "Juri, Master of the Revue",
+                "Teferi, Temporal Archmage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Антипин Константин",
+                "Лейбович Александр",
+                "Feldon, Ronom Excavator",
+                "Vivi Ornitier",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Хорьков Аркадий",
+                "Мартынов Яков",
+                "Arahbo, Roar of the World",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Фукин Дмитрий",
+                "Муравьев Роман",
+                "G'raha Tia, Scion Reborn",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Егоров Павел",
+                "Phelia, Exuberant Shepherd",
+                "Vivi Ornitier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Постояклин Павел",
+                "Федоров Дмитрий",
+                "Cloud, Midgar Mercenary",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Богатырев Александр",
+                "Kefka, Court Mage",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/81430"
+}

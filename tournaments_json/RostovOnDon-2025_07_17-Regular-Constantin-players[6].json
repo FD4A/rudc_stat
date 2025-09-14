@@ -1,0 +1,132 @@
+{
+    "date": "2025_07_17",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Роман Череповский",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Шубенин Илья",
+            "Vivi Ornitier"
+        ],
+        [
+            "Тарас Довольный",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Артём Посидайло",
+            "Eshki Dragonclaw"
+        ],
+        [
+            "Диана Файдыш",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Дима Фёдоров",
+            "Ghyrson Starn, Kelermorph"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Диана Файдыш",
+                "Роман Череповский",
+                "Phelia, Exuberant Shepherd",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Артём Посидайло",
+                "Vivi Ornitier",
+                "Eshki Dragonclaw",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тарас Довольный",
+                "Дима Фёдоров",
+                "Phelia, Exuberant Shepherd",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Роман Череповский",
+                "Шубенин Илья",
+                "Juri, Master of the Revue",
+                "Vivi Ornitier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тарас Довольный",
+                "Артём Посидайло",
+                "Phelia, Exuberant Shepherd",
+                "Eshki Dragonclaw",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Дима Фёдоров",
+                "Диана Файдыш",
+                "Ghyrson Starn, Kelermorph",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Роман Череповский",
+                "Тарас Довольный",
+                "Juri, Master of the Revue",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шубенин Илья",
+                "Диана Файдыш",
+                "Vivi Ornitier",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Посидайло",
+                "Дима Фёдоров",
+                "Eshki Dragonclaw",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58931"
+}

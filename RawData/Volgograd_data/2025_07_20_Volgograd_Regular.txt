@@ -1,0 +1,16 @@
+location::Volgograd
+level::Regular
+date::2025_07_20
+organizer::Ajsmirnov
+players::generals
+Тимур Сайфутдинов :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Дмитрий Орешкин :: Deadpool, Trading Card
+Вячеслав Серпутько :: Golos, Tireless Pilgrim
+Андрей Губин :: Dihada, Binder of Wills
+Максим Мещеряков :: Kefka, Court Mage
+Максим Обора :: Tivit, Seller of Secrets
+Александр Токарев :: Dihada, Binder of Wills
+Виталий Васильев :: Queen Marchesa
+Артём Стрельцов :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/62580

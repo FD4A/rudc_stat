@@ -1,0 +1,19 @@
+location::Tomsk
+level::Regular
+date::2025_07_30
+organizer::d6tomsk
+players::generals
+Владимиров Егор :: Ketramose, the New Dawn
+Дмитриев Сергей :: Feldon, Ronom Excavator
+Иванов Алексей :: Phelia, Exuberant Shepherd
+Кузнецов Северин :: Kykar, Wind's Fury
+Демидов Виталий :: The Gitrog Monster
+Поспелов Александр :: Ral, Monsoon Mage
+Чураков Павел :: Sai, Master Thopterist
+Писарев Никита :: Maelstrom Wanderer
+Веренич Артем :: Edric, Spymaster of Trest
+Нагаев Никита :: Marwyn, the Nurturer
+Дубровин Илья :: Zaxara the Exemplary
+Черепов Антон :: Tourach, Dread Cantor
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/66801

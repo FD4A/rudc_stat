@@ -14,7 +14,7 @@ def update_visit_list(tournament, VisitList):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser('RuDcStat')
     parser.add_argument('--tournament_folder', default='tournaments_json')
-    parser.add_argument('--start_date', default='2025_04_21')  # 0000_00_00 2024_09_00 2024_12_07
+    parser.add_argument('--start_date', default='2025_04_00')  # 0000_00_00 2024_09_00 2024_12_07
     parser.add_argument('--finish_date', default='9999_99_99')
     args = parser.parse_args()
 
@@ -28,7 +28,7 @@ if __name__ == '__main__':
     tournament_filenames = []
     for tournament_filename in tournament_list:
         tournament = Tournament.load_from_json(tournament_filename)
-        if tournament.location != 'Spb':
+        if tournament.location != 'Tomsk':  # RostovOnDon Spb
             continue
         if not (tournament.before_date(finish_date) and tournament.after_date(start_date)):
             continue

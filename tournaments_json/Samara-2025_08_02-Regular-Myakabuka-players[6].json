@@ -1,0 +1,132 @@
+{
+    "date": "2025_08_02",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Курмакаев Игорь",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Краснов Илья",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Васильев Кирилл",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Тимохин Денис",
+            "The Lunar Whale"
+        ],
+        [
+            "Циулин Иван",
+            "Kellan, Daring Traveler"
+        ],
+        [
+            "Кормаков Александр",
+            "Ghired, Mirror of the Wilds"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Краснов Илья",
+                "Васильев Кирилл",
+                "Shorikai, Genesis Engine",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кормаков Александр",
+                "Циулин Иван",
+                "Ghired, Mirror of the Wilds",
+                "Kellan, Daring Traveler",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Курмакаев Игорь",
+                "The Lunar Whale",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Циулин Иван",
+                "Краснов Илья",
+                "Kellan, Daring Traveler",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Васильев Кирилл",
+                "Feldon, Ronom Excavator",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кормаков Александр",
+                "Тимохин Денис",
+                "Ghired, Mirror of the Wilds",
+                "The Lunar Whale",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Курмакаев Игорь",
+                "Shorikai, Genesis Engine",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Кормаков Александр",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Ghired, Mirror of the Wilds",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Тимохин Денис",
+                "Kellan, Daring Traveler",
+                "The Lunar Whale",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/68812"
+}

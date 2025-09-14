@@ -1,0 +1,132 @@
+{
+    "date": "2025_07_31",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Kovalev Alexander",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Fedorov Dmitriy",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Cherepovskiy Roman",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Somkin Constantin",
+            "Elminster"
+        ],
+        [
+            "Posidaylo Artem",
+            "Rocco, Cabaretti Caterer"
+        ],
+        [
+            "Maliy Sergey",
+            "Tivit, Seller of Secrets"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Kovalev Alexander",
+                "Somkin Constantin",
+                "Ezio Auditore da Firenze",
+                "Elminster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Maliy Sergey",
+                "Cherepovskiy Roman",
+                "Tivit, Seller of Secrets",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Posidaylo Artem",
+                "Fedorov Dmitriy",
+                "Rocco, Cabaretti Caterer",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Kovalev Alexander",
+                "Cherepovskiy Roman",
+                "Ezio Auditore da Firenze",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Fedorov Dmitriy",
+                "Maliy Sergey",
+                "Ghyrson Starn, Kelermorph",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Posidaylo Artem",
+                "Elminster",
+                "Rocco, Cabaretti Caterer",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Fedorov Dmitriy",
+                "Kovalev Alexander",
+                "Ghyrson Starn, Kelermorph",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Posidaylo Artem",
+                "Juri, Master of the Revue",
+                "Rocco, Cabaretti Caterer",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Maliy Sergey",
+                "Somkin Constantin",
+                "Tivit, Seller of Secrets",
+                "Elminster",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/67773"
+}

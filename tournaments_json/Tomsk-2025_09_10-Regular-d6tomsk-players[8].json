@@ -1,0 +1,170 @@
+{
+    "date": "2025_09_10",
+    "location": "Tomsk",
+    "level": "Regular",
+    "organizer": "d6tomsk",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Астапов Александр",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Владимиров Егор",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Дмитриев Сергей",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Поспелов Александр",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Иванов Алексей",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Демидов Виталий",
+            "The Gitrog Monster"
+        ],
+        [
+            "Кузнецов Северин",
+            "Sonic the Hedgehog"
+        ],
+        [
+            "Чураков Павел",
+            "Mm'menon, the Right Hand"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Демидов Виталий",
+                "Астапов Александр",
+                "The Gitrog Monster",
+                "Light-Paws, Emperor's Voice",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Иванов Алексей",
+                "Mm'menon, the Right Hand",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Владимиров Егор",
+                "Кузнецов Северин",
+                "Deadpool, Trading Card",
+                "Sonic the Hedgehog",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Дмитриев Сергей",
+                "Ral, Monsoon Mage",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Алексей",
+                "Астапов Александр",
+                "Phelia, Exuberant Shepherd",
+                "Light-Paws, Emperor's Voice",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Владимиров Егор",
+                "Поспелов Александр",
+                "Deadpool, Trading Card",
+                "Ral, Monsoon Mage",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Дмитриев Сергей",
+                "Sonic the Hedgehog",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Демидов Виталий",
+                "Mm'menon, the Right Hand",
+                "The Gitrog Monster",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Астапов Александр",
+                "Поспелов Александр",
+                "Light-Paws, Emperor's Voice",
+                "Ral, Monsoon Mage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Владимиров Егор",
+                "Иванов Алексей",
+                "Deadpool, Trading Card",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Дмитриев Сергей",
+                "The Gitrog Monster",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Чураков Павел",
+                "Sonic the Hedgehog",
+                "Mm'menon, the Right Hand",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93597"
+}

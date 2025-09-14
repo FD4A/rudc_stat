@@ -1,0 +1,628 @@
+{
+    "date": "2025_07_24",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Олифер Егор",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Шестаков Игорь",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Муравьев Никита",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Медведев Константин",
+            "Bruse Tarl, Boorish Herder :+: Ikra Shidiqi, the Usurper"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Лейбович Александр",
+            "Vivi Ornitier"
+        ],
+        [
+            "Ульянов Алексей",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Юсенко Глеб",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Мартынов Владислав",
+            "Atraxa, Grand Unifier"
+        ],
+        [
+            "Антипин Константин",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Шашин Илья",
+            "Anowon, the Ruin Sage"
+        ],
+        [
+            "Звягин Георгий",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Барабаш Валентин",
+            "Mm'menon, the Right Hand"
+        ],
+        [
+            "Красников Александр",
+            "Anowon, the Ruin Sage"
+        ],
+        [
+            "Егоров Павел",
+            "Vivi Ornitier"
+        ],
+        [
+            "Хорьков Аркадий",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Karlov of the Ghost Council :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Кеворков Артур",
+            "Anafenza, the Foremost"
+        ],
+        [
+            "Протасов Михаил",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Булочко Михаил",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Богатырев Александр",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Саушкин Андрей",
+            "Bruse Tarl, Boorish Herder :+: Ikra Shidiqi, the Usurper"
+        ],
+        [
+            "Лагерев Леонид",
+            "Leovold, Emissary of Trest"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Егоров Павел",
+                "Мартынов Яков",
+                "Vivi Ornitier",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Муравьев Никита",
+                "Mm'menon, the Right Hand",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Лейбович Александр",
+                "Bruse Tarl, Boorish Herder :+: Ikra Shidiqi, the Usurper",
+                "Vivi Ornitier",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Шестаков Игорь",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Федоров Дмитрий",
+                "Geist of Saint Traft",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богатырев Александр",
+                "Протасов Михаил",
+                "Indoraptor, the Perfect Hybrid",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Звягин Георгий",
+                "Ghyrson Starn, Kelermorph",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Хорьков Аркадий",
+                "Iron Man, Titan of Innovation",
+                "Arahbo, Roar of the World",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Антипин Константин",
+                "Лагерев Леонид",
+                "Feldon, Ronom Excavator",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кеворков Артур",
+                "Юсенко Глеб",
+                "Anafenza, the Foremost",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Мартынов Владислав",
+                "Dihada, Binder of Wills",
+                "Atraxa, Grand Unifier",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Шашин Илья",
+                "Олифер Егор",
+                "Anowon, the Ruin Sage",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Медведев Константин",
+                "Anowon, the Ruin Sage",
+                "Bruse Tarl, Boorish Herder :+: Ikra Shidiqi, the Usurper",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Шестаков Игорь",
+                "Егоров Павел",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Vivi Ornitier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Тяпайкин Максим",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Юсенко Глеб",
+                "Протасов Михаил",
+                "Ezio Auditore da Firenze",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Антипин Константин",
+                "Родюков Федор",
+                "Feldon, Ronom Excavator",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Муравьев Никита",
+                "Vial Smasher the Fierce",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Владислав",
+                "Лейбович Александр",
+                "Atraxa, Grand Unifier",
+                "Vivi Ornitier",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Медведев Константин",
+                "Хорьков Аркадий",
+                "Bruse Tarl, Boorish Herder :+: Ikra Shidiqi, the Usurper",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Богатырев Александр",
+                "Dihada, Binder of Wills",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Барабаш Валентин",
+                "Anowon, the Ruin Sage",
+                "Mm'menon, the Right Hand",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Саушкин Андрей",
+                "Tivit, Seller of Secrets",
+                "Bruse Tarl, Boorish Herder :+: Ikra Shidiqi, the Usurper",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Ульянов Алексей",
+                "Iron Man, Titan of Innovation",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Шашин Илья",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Anowon, the Ruin Sage",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Кеворков Артур",
+                "Leovold, Emissary of Trest",
+                "Anafenza, the Foremost",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Олифер Егор",
+                "Лейбович Александр",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Vivi Ornitier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Юсенко Глеб",
+                "Шестаков Игорь",
+                "Ezio Auditore da Firenze",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Медведев Константин",
+                "Родюков Федор",
+                "Bruse Tarl, Boorish Herder :+: Ikra Shidiqi, the Usurper",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Мартынов Яков",
+                "Phelia, Exuberant Shepherd",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Мартынов Владислав",
+                "Tivit, Seller of Secrets",
+                "Atraxa, Grand Unifier",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Кеворков Артур",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Anafenza, the Foremost",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Муравьев Роман",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Хорьков Аркадий",
+                "Байков Аркадий",
+                "Arahbo, Roar of the World",
+                "Vial Smasher the Fierce",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Тяпайкин Максим",
+                "Anowon, the Ruin Sage",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Антипин Константин",
+                "Егоров Павел",
+                "Feldon, Ronom Excavator",
+                "Vivi Ornitier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шашин Илья",
+                "Саушкин Андрей",
+                "Anowon, the Ruin Sage",
+                "Bruse Tarl, Boorish Herder :+: Ikra Shidiqi, the Usurper",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Богатырев Александр",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Лагерев Леонид",
+                "Iron Man, Titan of Innovation",
+                "Leovold, Emissary of Trest",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Шестаков Игорь",
+                "Олифер Егор",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Медведев Константин",
+                "Муравьев Никита",
+                "Bruse Tarl, Boorish Herder :+: Ikra Shidiqi, the Usurper",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Юсенко Глеб",
+                "Родюков Федор",
+                "Ezio Auditore da Firenze",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Антипин Константин",
+                "Мартынов Владислав",
+                "Feldon, Ronom Excavator",
+                "Atraxa, Grand Unifier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лейбович Александр",
+                "Байков Аркадий",
+                "Vivi Ornitier",
+                "Vial Smasher the Fierce",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Муравьев Роман",
+                "Geist of Saint Traft",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Шашин Илья",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Anowon, the Ruin Sage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Федоров Дмитрий",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Хорьков Аркадий",
+                "Красников Александр",
+                "Arahbo, Roar of the World",
+                "Anowon, the Ruin Sage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Булочко Михаил",
+                "Tivit, Seller of Secrets",
+                "Iron Man, Titan of Innovation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Богатырев Александр",
+                "Leovold, Emissary of Trest",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/64729"
+}

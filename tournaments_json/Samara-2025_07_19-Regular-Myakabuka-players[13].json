@@ -1,0 +1,292 @@
+{
+    "date": "2025_07_19",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Сибикин Антон",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Козлов Максим",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Малкин Алексей",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Краснов Илья",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Громов Михаил",
+            "Satoru, the Infiltrator"
+        ],
+        [
+            "Циулин Иван",
+            "Kellan, Daring Traveler"
+        ],
+        [
+            "Козин Игорь",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Иванов Никита",
+            "Rograkh, Son of Rohgahh :+: Tymna the Weaver"
+        ],
+        [
+            "Путилин Никита",
+            "The Ancient One"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Васильев Кирилл",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Громов Михаил",
+                "Матюнин Антон",
+                "Satoru, the Infiltrator",
+                "Muxus, Goblin Grandee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Сибикин Антон",
+                "Feldon, Ronom Excavator",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Путилин Никита",
+                "Grist, the Hunger Tide",
+                "The Ancient One",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Иванов Никита",
+                "Feldon, Ronom Excavator",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Козин Игорь",
+                "Shorikai, Genesis Engine",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Циулин Иван",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Kellan, Daring Traveler",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Курмакаев Игорь",
+                "Shorikai, Genesis Engine",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Циулин Иван",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Kellan, Daring Traveler",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Малкин Алексей",
+                "Иванов Никита",
+                "Phelia, Exuberant Shepherd",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Безруков Николай",
+                "Muxus, Goblin Grandee",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Козин Игорь",
+                "Васильев Кирилл",
+                "Shorikai, Genesis Engine",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Путилин Никита",
+                "Громов Михаил",
+                "The Ancient One",
+                "Satoru, the Infiltrator",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Курмакаев Игорь",
+                "Матюнин Антон",
+                "Grist, the Hunger Tide",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Иванов Никита",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Малкин Алексей",
+                "Краснов Илья",
+                "Phelia, Exuberant Shepherd",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Козин Игорь",
+                "Feldon, Ronom Excavator",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Громов Михаил",
+                "Циулин Иван",
+                "Satoru, the Infiltrator",
+                "Kellan, Daring Traveler",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Матюнин Антон",
+                "Сибикин Антон",
+                "Muxus, Goblin Grandee",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Громов Михаил",
+                "Grist, the Hunger Tide",
+                "Satoru, the Infiltrator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Козлов Максим",
+                "Shorikai, Genesis Engine",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Циулин Иван",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Kellan, Daring Traveler",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Малкин Алексей",
+                "Путилин Никита",
+                "Phelia, Exuberant Shepherd",
+                "The Ancient One",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/62143"
+}

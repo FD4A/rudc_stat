@@ -1,0 +1,37 @@
+location::Volgograd
+level::Regular
+date::2025_08_18
+organizer::Rombik34rus
+players::generals
+Максим Мещеряков 	9 	3 - 0 	48.1481% 	100.0000% 	53.3333%
+Артём Ангурцов 	6 	2 - 1 	66.6666% 	66.6666% 	63.4920%
+Виталий Васильев 	6 	2 - 1 	44.4444% 	57.1428% 	44.4444%
+4 	Максим Обора 	4 	1 - 1 - 1 	59.2592% 	60.0000% 	63.4920%
+5 	Максим Обора 	4 	1 - 1 - 1 	37.0370% 	57.1428% 	42.2222%
+6 	Вячеслав Серпутько 	3 	1 - 2 	70.3703% 	28.5714% 	71.4285%
+7 	Михаил Козлов 	3 	1 - 2 	48.1481% 	28.5714% 	53.3333%
+8 	Андрей Костин 	0 	0 - 3 	48.1481% 	25.0000% 	49.2063%
+
+1. Макс Мещеряков Yoshi Ludevic,
+2. Артем Ангурцов Iron Man,
+3. Васильев Виталик Queen Marcheasa,
+4. Максим Обора Tivit,
+5. Саша Смирнов Ivora,
+6. Слава Серпутькo Six,
+7. Миша Козлов Dihada,
+8. Костин Андрей Iron Man.
+
+Вячеслав Серпутько :: Six
+Дмитрий Орешкин :: Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist
+Никита Сухов :: Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools
+Максим Мещеряков :: Tivit, Seller of Secrets
+Артём Ангурцов :: Iron Man, Titan of Innovation
+Тимур Сайфутдинов :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Михаил Козлов :: Dihada, Binder of Wills
+Виталий Васильев :: Queen Marchesa
+Александр Токарев :: Grist, the Hunger Tide
+Андрей Костин :: Imskir Iron-Eater
+Максим Обора ::
+Артём Стрельцов :: Seton, Krosan Protector
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/87590

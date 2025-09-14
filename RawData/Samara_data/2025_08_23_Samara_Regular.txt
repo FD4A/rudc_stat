@@ -1,0 +1,13 @@
+location::Samara
+level::Regular
+date::2025_08_23
+organizer::Myakabuka
+players::generals
+Кормаков Александр :: Errant and Giada
+Васильев Кирилл :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Безруков Николай :: Feldon, Ronom Excavator
+Матюнин Антон :: Gut, True Soul Zealot :+: Folk Hero
+Сибикин Антон :: Satoru, the Infiltrator
+Тимохин Денис :: Shorikai, Genesis Engine
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93077

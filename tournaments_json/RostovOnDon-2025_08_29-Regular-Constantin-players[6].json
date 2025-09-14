@@ -1,0 +1,132 @@
+{
+    "date": "2025_08_29",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Somkin Constantin",
+            "Elminster"
+        ],
+        [
+            "Umarov Mirzakerim",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "Merkulov Vladislav",
+            "Zabaz, the Glimmerwasp"
+        ],
+        [
+            "Cherepovskiy Roman",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Lukaynov Vadim",
+            "Lightning, Army of One"
+        ],
+        [
+            "Faydysh Diana",
+            "Phelia, Exuberant Shepherd"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Lukaynov Vadim",
+                "Merkulov Vladislav",
+                "Lightning, Army of One",
+                "Zabaz, the Glimmerwasp",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Faydysh Diana",
+                "Cherepovskiy Roman",
+                "Phelia, Exuberant Shepherd",
+                "Juri, Master of the Revue",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Umarov Mirzakerim",
+                "Elminster",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Somkin Constantin",
+                "Lukaynov Vadim",
+                "Elminster",
+                "Lightning, Army of One",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Faydysh Diana",
+                "Merkulov Vladislav",
+                "Phelia, Exuberant Shepherd",
+                "Zabaz, the Glimmerwasp",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Umarov Mirzakerim",
+                "Juri, Master of the Revue",
+                "Winota, Joiner of Forces",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Somkin Constantin",
+                "Merkulov Vladislav",
+                "Elminster",
+                "Zabaz, the Glimmerwasp",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Cherepovskiy Roman",
+                "Lightning, Army of One",
+                "Juri, Master of the Revue",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Umarov Mirzakerim",
+                "Faydysh Diana",
+                "Winota, Joiner of Forces",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93268"
+}

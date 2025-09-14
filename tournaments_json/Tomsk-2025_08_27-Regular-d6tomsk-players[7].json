@@ -1,0 +1,136 @@
+{
+    "date": "2025_08_27",
+    "location": "Tomsk",
+    "level": "Regular",
+    "organizer": "d6tomsk",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Поспелов Александр",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Иванов Алексей",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Владимиров Егор",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Демидов Виталий",
+            "The Gitrog Monster"
+        ],
+        [
+            "Черепов Антон",
+            "Tourach, Dread Cantor"
+        ],
+        [
+            "Чураков Павел",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Кузнецов Северин",
+            "Kykar, Wind's Fury"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Иванов Алексей",
+                "Кузнецов Северин",
+                "Phelia, Exuberant Shepherd",
+                "Kykar, Wind's Fury",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Черепов Антон",
+                "Владимиров Егор",
+                "Tourach, Dread Cantor",
+                "Deadpool, Trading Card",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Чураков Павел",
+                "The Gitrog Monster",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Владимиров Егор",
+                "Демидов Виталий",
+                "Deadpool, Trading Card",
+                "The Gitrog Monster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Алексей",
+                "Поспелов Александр",
+                "Phelia, Exuberant Shepherd",
+                "Ral, Monsoon Mage",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Чураков Павел",
+                "Kykar, Wind's Fury",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Владимиров Егор",
+                "Поспелов Александр",
+                "Deadpool, Trading Card",
+                "Ral, Monsoon Mage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Черепов Антон",
+                "Демидов Виталий",
+                "Tourach, Dread Cantor",
+                "The Gitrog Monster",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Иванов Алексей",
+                "Чураков Павел",
+                "Phelia, Exuberant Shepherd",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93197"
+}

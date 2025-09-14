@@ -1,0 +1,16 @@
+location::Samara
+level::Regular
+date::2025_09_04
+organizer::Myakabuka
+players::generals
+Краснов Илья :: Shorikai, Genesis Engine
+Тимохин Денис :: Shorikai, Genesis Engine
+Сибикин Антон :: Shorikai, Genesis Engine
+Безруков Николай :: Feldon, Ronom Excavator
+Матюнин Антон :: Taii Wakeen, Perfect Shot
+Иванов Никита :: Rograkh, Son of Rohgahh :+: Tymna the Weaver
+Малкин Алексей :: Phelia, Exuberant Shepherd
+Циулин Иван :: Niv-Mizzet Reborn
+Громов Михаил :: Indominus Rex, Alpha
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93431

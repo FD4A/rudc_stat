@@ -1,0 +1,17 @@
+location::Tomsk
+level::Regular
+date::2025_09_03
+organizer::d6tomsk
+players::generals
+Черепов Антон :: Tourach, Dread Cantor
+Поспелов Александр :: Ral, Monsoon Mage
+Дмитриев Сергей :: Feldon, Ronom Excavator
+Нагаев Никита :: Sythis, Harvest's Hand
+Иванов Алексей :: Phelia, Exuberant Shepherd
+Астапов Александр :: Light-Paws, Emperor's Voice
+Кузнецов Северин :: Kykar, Wind's Fury
+Владимиров Егор :: Deadpool, Trading Card
+Торицын Олег :: Gut, True Soul Zealot :+: Agent of the Iron Throne
+Чураков Павел :: Shorikai, Genesis Engine
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93403

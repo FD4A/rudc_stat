@@ -1,0 +1,216 @@
+{
+    "date": "2025_07_26",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Курмакаев Игорь",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Краснов Илья",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Козин Игорь",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Матюнин Антон",
+            "Gut, True Soul Zealot :+: Folk Hero"
+        ],
+        [
+            "Васильев Кирилл",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Циулин Иван",
+            "Kellan, Daring Traveler"
+        ],
+        [
+            "Чекулаев Дмитрий",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Малкин Алексей",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Иванов Никита",
+            "Rograkh, Son of Rohgahh :+: Tymna the Weaver"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Краснов Илья",
+                "Иванов Никита",
+                "Shorikai, Genesis Engine",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Малкин Алексей",
+                "Курмакаев Игорь",
+                "Phelia, Exuberant Shepherd",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Чекулаев Дмитрий",
+                "Циулин Иван",
+                "Feldon, Ronom Excavator",
+                "Kellan, Daring Traveler",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Васильев Кирилл",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Васильев Кирилл",
+                "Shorikai, Genesis Engine",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Козин Игорь",
+                "Курмакаев Игорь",
+                "Shorikai, Genesis Engine",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Чекулаев Дмитрий",
+                "Малкин Алексей",
+                "Feldon, Ronom Excavator",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Иванов Никита",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Курмакаев Игорь",
+                "Краснов Илья",
+                "Feldon, Ronom Excavator",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Малкин Алексей",
+                "Kellan, Daring Traveler",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Козин Игорь",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Чекулаев Дмитрий",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Курмакаев Игорь",
+                "Васильев Кирилл",
+                "Feldon, Ronom Excavator",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Циулин Иван",
+                "Shorikai, Genesis Engine",
+                "Kellan, Daring Traveler",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Малкин Алексей",
+                "Матюнин Антон",
+                "Phelia, Exuberant Shepherd",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Козин Игорь",
+                "Иванов Никита",
+                "Shorikai, Genesis Engine",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/67765"
+}

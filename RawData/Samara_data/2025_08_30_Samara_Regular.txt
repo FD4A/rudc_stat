@@ -1,0 +1,13 @@
+location::Samara
+level::Regular
+date::2025_08_30
+organizer::Myakabuka
+players::generals
+Матюнин Антон :: Muxus, Goblin Grandee
+Краснов Илья :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Кормаков Александр :: Errant and Giada
+Сибикин Антон :: Shorikai, Genesis Engine
+Ревин Владимир :: Cecil, Dark Knight
+Курмакаев Игорь :: Grist, the Hunger Tide
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93303

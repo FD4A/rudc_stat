@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException, InvalidArgumentException
 from selenium.common.exceptions import NoSuchElementException
+from selenium.webdriver.chrome.options import Options
 import re
 
 from Source.Tournament import Tournament
@@ -15,9 +16,11 @@ class AetherhubParser:
         self.lb = lb
 
     def parse_tournament(self):
-        driver = webdriver.Chrome()
+        chrome_options = Options()
+        chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+        driver = webdriver.Chrome(options=chrome_options)
+        driver.set_page_load_timeout(3)
 
-        driver.set_page_load_timeout(1)
         try:
             driver.get(self.url)
         except TimeoutException:
@@ -26,11 +29,9 @@ class AetherhubParser:
             print(f"ERROR: problem driver.get({self.url})")
             exit(1)
 
-        # self.parse_description(driver)
         self.tr.roundsCount = self.get_curr_round_number(driver.page_source)
-        # self.get_date(driver.page_source)
-        # self.get_organizer(driver.page_source)
         self.parse_round(driver.page_source)
+        # print(f"FDA {self.tr.roundsCount}")
 
         cur_round = self.tr.roundsCount - 1
         while cur_round != 0:
@@ -39,8 +40,12 @@ class AetherhubParser:
                 round_url = self.url + f"?p={cur_round}"
             else:
                 round_url = self.url[:idx_eq] + f"={cur_round}"
-                print(round_url)
             try:
+                driver.quit()  # because cloudfare broke parsing
+                chrome_options = Options()
+                chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
+                driver = webdriver.Chrome(options=chrome_options)
+                driver.set_page_load_timeout(3)
                 driver.get(round_url)
             except TimeoutException:
                 pass

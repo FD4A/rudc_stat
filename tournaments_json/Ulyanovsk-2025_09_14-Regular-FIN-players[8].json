@@ -1,0 +1,170 @@
+{
+    "date": "2025_09_14",
+    "location": "Ulyanovsk",
+    "level": "Regular",
+    "organizer": "FIN",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Ильин Александр",
+            "Kefka, Court Mage"
+        ],
+        [
+            "Кириллов Александр",
+            "The Gitrog Monster"
+        ],
+        [
+            "Фридман Сергей",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Гавриков Никита",
+            "Kefka, Court Mage"
+        ],
+        [
+            "Фролов Евгений",
+            "Geist of Saint Traft"
+        ],
+        [
+            "Кукурузняк Константин",
+            "Commodore Guff"
+        ],
+        [
+            "Кащихин Игорь",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Азизов Рустам",
+            "Tifa Lockhart"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Азизов Рустам",
+                "Кукурузняк Константин",
+                "Tifa Lockhart",
+                "Commodore Guff",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кащихин Игорь",
+                "Фролов Евгений",
+                "Arahbo, Roar of the World",
+                "Geist of Saint Traft",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кириллов Александр",
+                "Фридман Сергей",
+                "The Gitrog Monster",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Гавриков Никита",
+                "Ильин Александр",
+                "Kefka, Court Mage",
+                "Kefka, Court Mage",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Кириллов Александр",
+                "Кукурузняк Константин",
+                "The Gitrog Monster",
+                "Commodore Guff",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ильин Александр",
+                "Фролов Евгений",
+                "Kefka, Court Mage",
+                "Geist of Saint Traft",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Гавриков Никита",
+                "Кащихин Игорь",
+                "Kefka, Court Mage",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Азизов Рустам",
+                "Фридман Сергей",
+                "Tifa Lockhart",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Ильин Александр",
+                "Кириллов Александр",
+                "Kefka, Court Mage",
+                "The Gitrog Monster",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Азизов Рустам",
+                "Кащихин Игорь",
+                "Tifa Lockhart",
+                "Arahbo, Roar of the World",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кукурузняк Константин",
+                "Фридман Сергей",
+                "Commodore Guff",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Гавриков Никита",
+                "Фролов Евгений",
+                "Kefka, Court Mage",
+                "Geist of Saint Traft",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93685"
+}

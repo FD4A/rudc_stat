@@ -1,0 +1,404 @@
+{
+    "date": "2025_09_04",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Поляков Герман",
+            "G'raha Tia, Scion Reborn"
+        ],
+        [
+            "Муравьев Никита",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Лагерев Леонид",
+            "Glissa Sunslayer"
+        ],
+        [
+            "Ульянов Алексей",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Протасов Михаил",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Шестаков Игорь",
+            "Kefka, Court Mage"
+        ],
+        [
+            "Булочко Михаил",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Лейбович Александр",
+            "Vivi Ornitier"
+        ],
+        [
+            "Постояклин Павел",
+            "Cloud, Midgar Mercenary"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Юсенко Глеб",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Звягин Георгий",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Барабаш Валентин",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Егоров Павел",
+            "G'raha Tia, Scion Reborn"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Flubs, the Fool"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Шестаков Игорь",
+                "Лейбович Александр",
+                "Kefka, Court Mage",
+                "Vivi Ornitier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Барабаш Валентин",
+                "Phelia, Exuberant Shepherd",
+                "Iron Man, Titan of Innovation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Поляков Герман",
+                "Glissa Sunslayer",
+                "G'raha Tia, Scion Reborn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Булочко Михаил",
+                "Golos, Tireless Pilgrim",
+                "Iron Man, Titan of Innovation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Юсенко Глеб",
+                "Azusa, Lost but Seeking",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Муравьев Роман",
+                "Flubs, the Fool",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Постояклин Павел",
+                "Звягин Георгий",
+                "Cloud, Midgar Mercenary",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Егоров Павел",
+                "Kroxa, Titan of Death's Hunger",
+                "G'raha Tia, Scion Reborn",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Шестаков Игорь",
+                "Лейбович Александр",
+                "Kefka, Court Mage",
+                "Vivi Ornitier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Барабаш Валентин",
+                "Phelia, Exuberant Shepherd",
+                "Iron Man, Titan of Innovation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Поляков Герман",
+                "Glissa Sunslayer",
+                "G'raha Tia, Scion Reborn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Булочко Михаил",
+                "Golos, Tireless Pilgrim",
+                "Iron Man, Titan of Innovation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Юсенко Глеб",
+                "Azusa, Lost but Seeking",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Муравьев Роман",
+                "Flubs, the Fool",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Постояклин Павел",
+                "Звягин Георгий",
+                "Cloud, Midgar Mercenary",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Егоров Павел",
+                "Kroxa, Titan of Death's Hunger",
+                "G'raha Tia, Scion Reborn",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Шестаков Игорь",
+                "G'raha Tia, Scion Reborn",
+                "Kefka, Court Mage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Ульянов Алексей",
+                "Phelia, Exuberant Shepherd",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лейбович Александр",
+                "Муравьев Роман",
+                "Vivi Ornitier",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Булочко Михаил",
+                "Iron Man, Titan of Innovation",
+                "Iron Man, Titan of Innovation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Федоров Дмитрий",
+                "Azusa, Lost but Seeking",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Лагерев Леонид",
+                "Grist, the Hunger Tide",
+                "Glissa Sunslayer",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Тяпайкин Максим",
+                "Постояклин Павел",
+                "Flubs, the Fool",
+                "Cloud, Midgar Mercenary",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Юсенко Глеб",
+                "Егоров Павел",
+                "Ezio Auditore da Firenze",
+                "G'raha Tia, Scion Reborn",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Муравьев Никита",
+                "G'raha Tia, Scion Reborn",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Шестаков Игорь",
+                "Golos, Tireless Pilgrim",
+                "Kefka, Court Mage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Булочко Михаил",
+                "Glissa Sunslayer",
+                "Iron Man, Titan of Innovation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лейбович Александр",
+                "Федоров Дмитрий",
+                "Vivi Ornitier",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Барабаш Валентин",
+                "Azusa, Lost but Seeking",
+                "Iron Man, Titan of Innovation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Звягин Георгий",
+                "Dihada, Binder of Wills",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Постояклин Павел",
+                "Егоров Павел",
+                "Cloud, Midgar Mercenary",
+                "G'raha Tia, Scion Reborn",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Юсенко Глеб",
+                "Тяпайкин Максим",
+                "Ezio Auditore da Firenze",
+                "Flubs, the Fool",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93434"
+}

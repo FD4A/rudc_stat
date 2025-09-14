@@ -1,0 +1,398 @@
+{
+    "date": "2025_08_28",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Олифер Егор",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Муравьев Никита",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Красников Александр",
+            "Gut, True Soul Zealot :+: Folk Hero"
+        ],
+        [
+            "Протасов Михаил",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Коростелев Илья",
+            "Satya, Aetherflux Genius"
+        ],
+        [
+            "Юферов Владимир",
+            "Lightning, Army of One"
+        ],
+        [
+            "Лагерев Леонид",
+            "Minsc, Beloved Ranger"
+        ],
+        [
+            "Медведев Константин",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Булочко Михаил",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Звягин Георгий",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Федоров Дмитрий Юн",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Байков Аркадий",
+            "Soul of Windgrace"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Саушкин Андрей",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Роднов Александр",
+            "Cloud, Midgar Mercenary"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Протасов Михаил",
+                "Муравьев Роман",
+                "Deadpool, Trading Card",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Саушкин Андрей",
+                "Slimefoot and Squee",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Медведев Константин",
+                "Красников Александр",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Коростелев Илья",
+                "Федоров Дмитрий",
+                "Satya, Aetherflux Genius",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Булочко Михаил",
+                "Ghyrson Starn, Kelermorph",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Роднов Александр",
+                "Олифер Егор",
+                "Cloud, Midgar Mercenary",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Юферов Владимир",
+                "Лагерев Леонид",
+                "Lightning, Army of One",
+                "Minsc, Beloved Ranger",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Байков Аркадий",
+                "Phelia, Exuberant Shepherd",
+                "Soul of Windgrace",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Юферов Владимир",
+                "Олифер Егор",
+                "Lightning, Army of One",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Федоров Дмитрий Юн",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Булочко Михаил",
+                "Dihada, Binder of Wills",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Коростелев Илья",
+                "Phelia, Exuberant Shepherd",
+                "Satya, Aetherflux Genius",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Федоров Дмитрий",
+                "Slimefoot and Squee",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Протасов Михаил",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Deadpool, Trading Card",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Роднов Александр",
+                "Байков Аркадий",
+                "Cloud, Midgar Mercenary",
+                "Soul of Windgrace",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Медведев Константин",
+                "Родюков Федор",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Муравьев Никита",
+                "Красников Александр",
+                "Phelia, Exuberant Shepherd",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Звягин Георгий",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Протасов Михаил",
+                "Tivit, Seller of Secrets",
+                "Deadpool, Trading Card",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Лагерев Леонид",
+                "Dihada, Binder of Wills",
+                "Minsc, Beloved Ranger",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Юферов Владимир",
+                "Коростелев Илья",
+                "Lightning, Army of One",
+                "Satya, Aetherflux Genius",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Медведев Константин",
+                "Soul of Windgrace",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Родюков Федор",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Роднов Александр",
+                "Kroxa, Titan of Death's Hunger",
+                "Cloud, Midgar Mercenary",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Муравьев Никита",
+                "Олифер Егор",
+                "Phelia, Exuberant Shepherd",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Коростелев Илья",
+                "Dihada, Binder of Wills",
+                "Satya, Aetherflux Genius",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Медведев Константин",
+                "Deadpool, Trading Card",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Булочко Михаил",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Лагерев Леонид",
+                "Slimefoot and Squee",
+                "Minsc, Beloved Ranger",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Федоров Дмитрий",
+                "Ghyrson Starn, Kelermorph",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Юферов Владимир",
+                "Роднов Александр",
+                "Lightning, Army of One",
+                "Cloud, Midgar Mercenary",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93230"
+}

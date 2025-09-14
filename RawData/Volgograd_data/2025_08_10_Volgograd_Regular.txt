@@ -1,0 +1,18 @@
+location::Volgograd
+level::Regular
+date::2025_08_10
+organizer::Rombik34rus
+players::generals
+Вячеслав Серпутько :: Six
+Дмитрий Орешкин :: Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist
+Михаил Козлов :: Dihada, Binder of Wills
+Артём Ангурцов :: Deadpool, Trading Card
+Никита Сухов :: Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools
+Максим Мещеряков :: Tivit, Seller of Secrets
+Тимур Сайфутдинов :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Виталий Васильев :: Queen Marchesa
+Артём Стрельцов :: Heliod, Sun-Crowned
+Максим Обора :: Tifa Lockhart
+Александр Токарев :: Grist, the Hunger Tide
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/76494

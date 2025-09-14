@@ -1,0 +1,17 @@
+location::Samara
+level::Regular
+date::2025_07_26
+organizer::Myakabuka
+players::generals
+Циулин Иван :: Kellan, Daring Traveler
+Сибикин Антон :: Muxus, Goblin Grandee
+Матюнин Антон :: Gut, True Soul Zealot :+: Folk Hero
+Ревин Владимир :: Cecil, Dark Knight
+Кормаков Александр :: Ghired, Mirror of the Wilds
+Краснов Илья :: Shorikai, Genesis Engine
+Тимохин Денис :: The Lunar Whale
+Иванов Никита :: Rograkh, Son of Rohgahh :+: Tymna the Weaver
+Курмакаев Игорь :: Grist, the Hunger Tide
+Безруков Николай :: Feldon, Ronom Excavator
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/65085

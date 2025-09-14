@@ -1,0 +1,132 @@
+{
+    "date": "2025_07_24",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Иса",
+            "Plagon, Lord of the Beach"
+        ],
+        [
+            "Саша",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Вадим",
+            "Lightning, Army of One"
+        ],
+        [
+            "Диана",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Артём",
+            "Rocco, Cabaretti Caterer"
+        ],
+        [
+            "Дима",
+            "Ghyrson Starn, Kelermorph"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Артём",
+                "Диана",
+                "Rocco, Cabaretti Caterer",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дима",
+                "Саша",
+                "Ghyrson Starn, Kelermorph",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вадим",
+                "Иса",
+                "Lightning, Army of One",
+                "Plagon, Lord of the Beach",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Иса",
+                "Саша",
+                "Plagon, Lord of the Beach",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Диана",
+                "Вадим",
+                "Phelia, Exuberant Shepherd",
+                "Lightning, Army of One",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дима",
+                "Артём",
+                "Ghyrson Starn, Kelermorph",
+                "Rocco, Cabaretti Caterer",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Иса",
+                "Диана",
+                "Plagon, Lord of the Beach",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём",
+                "Саша",
+                "Rocco, Cabaretti Caterer",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вадим",
+                "Дима",
+                "Lightning, Army of One",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/64733"
+}

@@ -1,0 +1,446 @@
+{
+    "date": "2025_07_31",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Булочко Михаил",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Барабаш Валентин",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Красников Александр",
+            "Gut, True Soul Zealot :+: Folk Hero"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Шестаков Игорь",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Лейбович Александр",
+            "Vivi Ornitier"
+        ],
+        [
+            "Антипин Константин",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Karlov of the Ghost Council :++: Lurrus of the Dream-Den"
+        ],
+        [
+            "Звягин Георгий",
+            "Celes, Rune Knight"
+        ],
+        [
+            "Кеворков Артур",
+            "Anafenza, the Foremost"
+        ],
+        [
+            "Муравьев Никита",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Котыхов Виктор",
+            "Wilhelt, the Rotcleaver"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Постояклин Павел",
+            "Cloud, Midgar Mercenary"
+        ],
+        [
+            "Вахитов Ривкат",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Лагерев Леонид",
+            "Tasigur, the Golden Fang"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Федоров Дмитрий",
+                "Вахитов Ривкат",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Муравьев Роман",
+                "Tasigur, the Golden Fang",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Родюков Федор",
+                "Tivit, Seller of Secrets",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Муравьев Никита",
+                "Celes, Rune Knight",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Котыхов Виктор",
+                "Shorikai, Genesis Engine",
+                "Wilhelt, the Rotcleaver",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Антипин Константин",
+                "Teferi, Temporal Archmage",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Кеворков Артур",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Anafenza, the Foremost",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Лейбович Александр",
+                "Vial Smasher the Fierce",
+                "Vivi Ornitier",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Красников Александр",
+                "Iron Man, Titan of Innovation",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Муравьев Роман",
+                "Булочко Михаил",
+                "Dihada, Binder of Wills",
+                "Iron Man, Titan of Innovation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Шестаков Игорь",
+                "Ghyrson Starn, Kelermorph",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Поляков Герман",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Муравьев Никита",
+                "Vial Smasher the Fierce",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Звягин Георгий",
+                "Shorikai, Genesis Engine",
+                "Celes, Rune Knight",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Антипин Константин",
+                "Красников Александр",
+                "Feldon, Ronom Excavator",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Вахитов Ривкат",
+                "Tivit, Seller of Secrets",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Постояклин Павел",
+                "Кеворков Артур",
+                "Cloud, Midgar Mercenary",
+                "Anafenza, the Foremost",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Лейбович Александр",
+                "Tasigur, the Golden Fang",
+                "Vivi Ornitier",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Байков Аркадий",
+                "Teferi, Temporal Archmage",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Родюков Федор",
+                "Iron Man, Titan of Innovation",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Кеворков Артур",
+                "Shorikai, Genesis Engine",
+                "Anafenza, the Foremost",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Мартынов Яков",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Красников Александр",
+                "Phelia, Exuberant Shepherd",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Котыхов Виктор",
+                "Муравьев Роман",
+                "Wilhelt, the Rotcleaver",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Лейбович Александр",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                "Vivi Ornitier",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Лагерев Леонид",
+                "Celes, Rune Knight",
+                "Tasigur, the Golden Fang",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Антипин Константин",
+                "Вахитов Ривкат",
+                "Feldon, Ronom Excavator",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Булочко Михаил",
+                "Teferi, Temporal Archmage",
+                "Iron Man, Titan of Innovation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Муравьев Роман",
+                "Shorikai, Genesis Engine",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Родюков Федор",
+                "Vial Smasher the Fierce",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лейбович Александр",
+                "Шестаков Игорь",
+                "Vivi Ornitier",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Звягин Георгий",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Celes, Rune Knight",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Федоров Дмитрий",
+                "Tivit, Seller of Secrets",
+                "Karlov of the Ghost Council :++: Lurrus of the Dream-Den",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Постояклин Павел",
+                "Антипин Константин",
+                "Cloud, Midgar Mercenary",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Котыхов Виктор",
+                "Вахитов Ривкат",
+                "Wilhelt, the Rotcleaver",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/67766"
+}

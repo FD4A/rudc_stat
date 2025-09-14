@@ -1,0 +1,34 @@
+= Indominus Rex, Alpha             matches:2    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:2   dm:0)  games:5    WG: 20.00% LG: 80.00% (wg:   1 lg:   4) pick: 1    Samara(1), 
+       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
+        + Bruse Tarl, Boorish Herder      
+       vs Phelia, Exuberant Shepherd       (w:0 l:1 d:0), (1/2)
+
+
+= Muxus, Goblin Grandee            matches:2    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:2   dm:0)  games:6    WG: 33.33% LG: 66.67% (wg:   2 lg:   4) pick: 1    Samara(1), 
+       vs Rograkh, Son of Rohgahh          (w:0 l:1 d:0), (1/2)
+        + Tymna the Weaver                
+       vs Phelia, Exuberant Shepherd       (w:0 l:1 d:0), (1/2)
+
+
+= Phelia, Exuberant Shepherd       matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:9    WG: 55.56% LG: 44.44% (wg:   5 lg:   4) pick: 1    Samara(1), 
+       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
+        + Bruse Tarl, Boorish Herder      
+       vs Indominus Rex, Alpha             (w:1 l:0 d:0), (2/1)
+       vs Muxus, Goblin Grandee            (w:1 l:0 d:0), (2/1)
+
+
+= Rograkh, Son of Rohgahh          matches:3    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:1   lm:2   dm:0)  games:7    WG: 28.57% LG: 71.43% (wg:   2 lg:   5) pick: 1    Samara(1), 
+  + Tymna the Weaver            
+       vs Muxus, Goblin Grandee            (w:1 l:0 d:0), (2/1)
+       vs Yoshimaru, Ever Faithful         (w:0 l:2 d:0), (0/4)
+        + Bruse Tarl, Boorish Herder      
+
+
+= Yoshimaru, Ever Faithful         matches:4    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:4   lm:0   dm:0)  games:9    WG: 88.89% LG: 11.11% (wg:   8 lg:   1) pick: 3    Samara(3), 
+  + Bruse Tarl, Boorish Herder  
+       vs Phelia, Exuberant Shepherd       (w:1 l:0 d:0), (2/1)
+       vs Indominus Rex, Alpha             (w:1 l:0 d:0), (2/0)
+       vs Rograkh, Son of Rohgahh          (w:2 l:0 d:0), (4/0)
+        + Tymna the Weaver                
+
+

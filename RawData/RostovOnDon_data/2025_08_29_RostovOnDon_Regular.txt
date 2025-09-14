@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2025_08_29
+organizer::Constantin
+players::generals
+Somkin Constantin :: Elminster
+Umarov Mirzakerim :: Winota, Joiner of Forces
+Merkulov Vladislav :: Zabaz, the Glimmerwasp
+Cherepovskiy Roman :: Juri, Master of the Revue
+Lukaynov Vadim :: Lightning, Army of One
+Faydysh Diana :: Phelia, Exuberant Shepherd
+Round
+https://aetherhub.com/Tourney/RoundTourney/93268

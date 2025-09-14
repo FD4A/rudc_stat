@@ -1,0 +1,250 @@
+{
+    "date": "2025_07_26",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Циулин Иван",
+            "Kellan, Daring Traveler"
+        ],
+        [
+            "Сибикин Антон",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Матюнин Антон",
+            "Gut, True Soul Zealot :+: Folk Hero"
+        ],
+        [
+            "Ревин Владимир",
+            "Cecil, Dark Knight"
+        ],
+        [
+            "Кормаков Александр",
+            "Ghired, Mirror of the Wilds"
+        ],
+        [
+            "Краснов Илья",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Тимохин Денис",
+            "The Lunar Whale"
+        ],
+        [
+            "Иванов Никита",
+            "Rograkh, Son of Rohgahh :+: Tymna the Weaver"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Тимохин Денис",
+                "Матюнин Антон",
+                "The Lunar Whale",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кормаков Александр",
+                "Ревин Владимир",
+                "Ghired, Mirror of the Wilds",
+                "Cecil, Dark Knight",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Краснов Илья",
+                "Muxus, Goblin Grandee",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Безруков Николай",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Циулин Иван",
+                "Grist, the Hunger Tide",
+                "Kellan, Daring Traveler",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Матюнин Антон",
+                "Безруков Николай",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Сибикин Антон",
+                "Kellan, Daring Traveler",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кормаков Александр",
+                "Краснов Илья",
+                "Ghired, Mirror of the Wilds",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Тимохин Денис",
+                "Cecil, Dark Knight",
+                "The Lunar Whale",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Иванов Никита",
+                "Grist, the Hunger Tide",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Циулин Иван",
+                "Матюнин Антон",
+                "Kellan, Daring Traveler",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Краснов Илья",
+                "Cecil, Dark Knight",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Сибикин Антон",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Muxus, Goblin Grandee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Кормаков Александр",
+                "Feldon, Ronom Excavator",
+                "Ghired, Mirror of the Wilds",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Тимохин Денис",
+                "Grist, the Hunger Tide",
+                "The Lunar Whale",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Циулин Иван",
+                "Краснов Илья",
+                "Kellan, Daring Traveler",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Сибикин Антон",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Иванов Никита",
+                "Cecil, Dark Knight",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кормаков Александр",
+                "Тимохин Денис",
+                "Ghired, Mirror of the Wilds",
+                "The Lunar Whale",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/65085"
+}

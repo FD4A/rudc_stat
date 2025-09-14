@@ -1,0 +1,170 @@
+{
+    "date": "2025_08_16",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Краснов Илья",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Тимохин Денис",
+            "The Lunar Whale"
+        ],
+        [
+            "Кормаков Александр",
+            "Ghired, Mirror of the Wilds"
+        ],
+        [
+            "Васильев Кирилл",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Козлов Максим",
+            "Rograkh, Son of Rohgahh :+: Tymna the Weaver"
+        ],
+        [
+            "Путилин Никита",
+            "The Ancient One"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Васильев Кирилл",
+                "Путилин Никита",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "The Ancient One",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Безруков Николай",
+                "The Lunar Whale",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Курмакаев Игорь",
+                "Shorikai, Genesis Engine",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кормаков Александр",
+                "Козлов Максим",
+                "Ghired, Mirror of the Wilds",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Безруков Николай",
+                "Васильев Кирилл",
+                "Feldon, Ronom Excavator",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кормаков Александр",
+                "Краснов Илья",
+                "Ghired, Mirror of the Wilds",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Путилин Никита",
+                "Тимохин Денис",
+                "The Ancient One",
+                "The Lunar Whale",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Козлов Максим",
+                "Grist, the Hunger Tide",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Безруков Николай",
+                "Shorikai, Genesis Engine",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Кормаков Александр",
+                "The Lunar Whale",
+                "Ghired, Mirror of the Wilds",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Курмакаев Игорь",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Путилин Никита",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "The Ancient One",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/86586"
+}

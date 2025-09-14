@@ -1,0 +1,292 @@
+{
+    "date": "2025_07_17",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Громов Михаил",
+            "Satoru, the Infiltrator"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Сибикин Антон",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Краснов Илья",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Иванов Никита",
+            "Rograkh, Son of Rohgahh :+: Tymna the Weaver"
+        ],
+        [
+            "Кормаков Александр",
+            "Ghired, Mirror of the Wilds"
+        ],
+        [
+            "Козлов Максим",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Чекулаев Дмитрий",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Богатов Алексей",
+            "Grenzo, Dungeon Warden"
+        ],
+        [
+            "Пичужкин Александр",
+            "Dina, Soul Steeper"
+        ],
+        [
+            "Васильев Кирилл",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Курмакаев Игорь",
+                "Безруков Николай",
+                "Grist, the Hunger Tide",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Чекулаев Дмитрий",
+                "Сибикин Антон",
+                "Feldon, Ronom Excavator",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кормаков Александр",
+                "Васильев Кирилл",
+                "Ghired, Mirror of the Wilds",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Пичужкин Александр",
+                "Богатов Алексей",
+                "Dina, Soul Steeper",
+                "Grenzo, Dungeon Warden",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Громов Михаил",
+                "Muxus, Goblin Grandee",
+                "Satoru, the Infiltrator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Краснов Илья",
+                "Azusa, Lost but Seeking",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Сибикин Антон",
+                "Кормаков Александр",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Ghired, Mirror of the Wilds",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Богатов Алексей",
+                "Краснов Илья",
+                "Grenzo, Dungeon Warden",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Громов Михаил",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Satoru, the Infiltrator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Козлов Максим",
+                "Grist, the Hunger Tide",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Матюнин Антон",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Пичужкин Александр",
+                "Feldon, Ronom Excavator",
+                "Dina, Soul Steeper",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Сибикин Антон",
+                "Громов Михаил",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Satoru, the Infiltrator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Краснов Илья",
+                "Grist, the Hunger Tide",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Чекулаев Дмитрий",
+                "Безруков Николай",
+                "Feldon, Ronom Excavator",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Кормаков Александр",
+                "Muxus, Goblin Grandee",
+                "Ghired, Mirror of the Wilds",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Васильев Кирилл",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Курмакаев Игорь",
+                "Громов Михаил",
+                "Grist, the Hunger Tide",
+                "Satoru, the Infiltrator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Сибикин Антон",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Козлов Максим",
+                "Матюнин Антон",
+                "Azusa, Lost but Seeking",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Васильев Кирилл",
+                "Feldon, Ronom Excavator",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кормаков Александр",
+                "Краснов Илья",
+                "Ghired, Mirror of the Wilds",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/58930"
+}

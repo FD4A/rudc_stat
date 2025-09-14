@@ -1,0 +1,21 @@
+location::Spb
+level::Regular
+date::2025_08_21
+organizer::Andysays
+players::generals
+Поляков Герман :: Teferi, Temporal Archmage
+Постояклин Павел :: Cloud, Midgar Mercenary
+Булочко Михаил :: Iron Man, Titan of Innovation
+Саушкин Андрей :: Aragorn, King of Gondor
+Красников Александр :: Gut, True Soul Zealot :+: Folk Hero
+Юсенко Глеб :: Ezio Auditore da Firenze
+Барабаш Валентин :: Iron Man, Titan of Innovation
+Шестаков Игорь :: Kefka, Court Mage
+Муравьев Роман :: Dihada, Binder of Wills
+Хорьков Аркадий :: Arahbo, Roar of the World
+Федоров Дмитрий :: Kroxa, Titan of Death's Hunger
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Егоров Павел :: Tifa Lockhart
+Звягин Георгий :: Juri, Master of the Revue
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/81430

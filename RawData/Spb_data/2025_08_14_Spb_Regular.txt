@@ -1,0 +1,28 @@
+location::Spb
+level::Regular
+date::2025_08_14
+organizer::Andysays
+players::generals
+Лагерев Леонид :: Minsc, Beloved Ranger
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Олифер Егор :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Звягин Георгий :: Juri, Master of the Revue
+Мартынов Яков :: Tivit, Seller of Secrets
+Антипин Константин :: Feldon, Ronom Excavator
+Фукин Дмитрий :: G'raha Tia, Scion Reborn
+Хорьков Аркадий :: Arahbo, Roar of the World
+Поляков Герман :: Teferi, Temporal Archmage
+Булочко Михаил :: Iron Man, Titan of Innovation
+Шестаков Игорь :: Kefka, Court Mage
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Постояклин Павел :: Cloud, Midgar Mercenary
+Лейбович Александр :: Vivi Ornitier
+Красников Александр :: Ral, Monsoon Mage
+Байков Аркадий :: Vial Smasher the Fierce
+Федоров Дмитрий :: Kroxa, Titan of Death's Hunger
+Егоров Павел :: Vivi Ornitier
+Муравьев Роман :: Dihada, Binder of Wills
+Богатырев Александр :: Indoraptor, the Perfect Hybrid
+Барабаш Валентин :: Shorikai, Genesis Engine
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/81430

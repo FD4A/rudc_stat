@@ -1,0 +1,170 @@
+{
+    "date": "2025_09_07",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Burmistrov Pavel",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Lukaynov Vadim",
+            "Lightning, Army of One"
+        ],
+        [
+            "Merkulov Vladislav",
+            "Zabaz, the Glimmerwasp"
+        ],
+        [
+            "Posidaylo Artem",
+            "Thalia and The Gitrog Monster"
+        ],
+        [
+            "Faydysh Diana",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Somkin Constantin",
+            "Ultima, Origin of Oblivion"
+        ],
+        [
+            "Maliy Sergey",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Korshunov Svytoslav",
+            "Klothys, God of Destiny"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Posidaylo Artem",
+                "Korshunov Svytoslav",
+                "Thalia and The Gitrog Monster",
+                "Klothys, God of Destiny",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Burmistrov Pavel",
+                "Lukaynov Vadim",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Lightning, Army of One",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Merkulov Vladislav",
+                "Ultima, Origin of Oblivion",
+                "Zabaz, the Glimmerwasp",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Faydysh Diana",
+                "Maliy Sergey",
+                "Phelia, Exuberant Shepherd",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Merkulov Vladislav",
+                "Faydysh Diana",
+                "Zabaz, the Glimmerwasp",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Burmistrov Pavel",
+                "Posidaylo Artem",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Thalia and The Gitrog Monster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Maliy Sergey",
+                "Korshunov Svytoslav",
+                "Tivit, Seller of Secrets",
+                "Klothys, God of Destiny",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Somkin Constantin",
+                "Lightning, Army of One",
+                "Ultima, Origin of Oblivion",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Burmistrov Pavel",
+                "Faydysh Diana",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Merkulov Vladislav",
+                "Posidaylo Artem",
+                "Zabaz, the Glimmerwasp",
+                "Thalia and The Gitrog Monster",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Maliy Sergey",
+                "Lightning, Army of One",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Korshunov Svytoslav",
+                "Ultima, Origin of Oblivion",
+                "Klothys, God of Destiny",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93541"
+}

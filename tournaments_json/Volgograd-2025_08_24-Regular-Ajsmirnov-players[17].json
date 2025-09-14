@@ -1,0 +1,470 @@
+{
+    "date": "2025_08_24",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Ajsmirnov",
+    "roundsCount": 5,
+    "players": [
+        [
+            "Герман Поляков",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Константин Антипин",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Александр Ильин",
+            "Kefka, Court Mage"
+        ],
+        [
+            "Артём Ангурцов",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Михаил Протасов",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Игорь Кащихин",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Евгений Сафаргалиев",
+            "Tifa Lockhart"
+        ],
+        [
+            "Максим Мещеряков",
+            "Kefka, Court Mage"
+        ],
+        [
+            "Виталий Васильев",
+            "Queen Marchesa"
+        ],
+        [
+            "Игорь Курмакаев",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Филипп Грабовой",
+            "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist"
+        ],
+        [
+            "Максим Тяпайкин",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Сергей Ижерский",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Яков Филинков",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Максим Обора",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Рустам Азизов",
+            "Tifa Lockhart"
+        ],
+        [
+            "Константин Сомкин",
+            "Elminster"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Константин Сомкин",
+                "Рустам Азизов",
+                "Elminster",
+                "Tifa Lockhart",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Максим Обора",
+                "Максим Мещеряков",
+                "Arahbo, Roar of the World",
+                "Kefka, Court Mage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Яков Филинков",
+                "Герман Поляков",
+                "Golos, Tireless Pilgrim",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Игорь Курмакаев",
+                "Максим Тяпайкин",
+                "Grist, the Hunger Tide",
+                "Deadpool, Trading Card",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Михаил Протасов",
+                "Евгений Сафаргалиев",
+                "Deadpool, Trading Card",
+                "Tifa Lockhart",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Александр Ильин",
+                "Филипп Грабовой",
+                "Kefka, Court Mage",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Игорь Кащихин",
+                "Сергей Ижерский",
+                "Arahbo, Roar of the World",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Виталий Васильев",
+                "Deadpool, Trading Card",
+                "Queen Marchesa",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Максим Мещеряков",
+                "Евгений Сафаргалиев",
+                "Kefka, Court Mage",
+                "Tifa Lockhart",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Константин Антипин",
+                "Константин Сомкин",
+                "Feldon, Ronom Excavator",
+                "Elminster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Игорь Курмакаев",
+                "Артём Ангурцов",
+                "Grist, the Hunger Tide",
+                "Deadpool, Trading Card",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Герман Поляков",
+                "Александр Ильин",
+                "Teferi, Temporal Archmage",
+                "Kefka, Court Mage",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сергей Ижерский",
+                "Виталий Васильев",
+                "Golos, Tireless Pilgrim",
+                "Queen Marchesa",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Игорь Кащихин",
+                "Михаил Протасов",
+                "Arahbo, Roar of the World",
+                "Deadpool, Trading Card",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Филипп Грабовой",
+                "Рустам Азизов",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                "Tifa Lockhart",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Максим Тяпайкин",
+                "Яков Филинков",
+                "Deadpool, Trading Card",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Артём Ангурцов",
+                "Константин Антипин",
+                "Deadpool, Trading Card",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Герман Поляков",
+                "Евгений Сафаргалиев",
+                "Teferi, Temporal Archmage",
+                "Tifa Lockhart",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Филипп Грабовой",
+                "Kefka, Court Mage",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Михаил Протасов",
+                "Максим Обора",
+                "Deadpool, Trading Card",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Яков Филинков",
+                "Игорь Курмакаев",
+                "Golos, Tireless Pilgrim",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Константин Сомкин",
+                "Queen Marchesa",
+                "Elminster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Ильин",
+                "Сергей Ижерский",
+                "Kefka, Court Mage",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Игорь Кащихин",
+                "Рустам Азизов",
+                "Arahbo, Roar of the World",
+                "Tifa Lockhart",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Константин Антипин",
+                "Герман Поляков",
+                "Feldon, Ronom Excavator",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Филипп Грабовой",
+                "Deadpool, Trading Card",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Евгений Сафаргалиев",
+                "Александр Ильин",
+                "Tifa Lockhart",
+                "Kefka, Court Mage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Михаил Протасов",
+                "Виталий Васильев",
+                "Deadpool, Trading Card",
+                "Queen Marchesa",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Яков Филинков",
+                "Игорь Кащихин",
+                "Golos, Tireless Pilgrim",
+                "Arahbo, Roar of the World",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Игорь Курмакаев",
+                "Максим Обора",
+                "Grist, the Hunger Tide",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Максим Тяпайкин",
+                "Константин Сомкин",
+                "Deadpool, Trading Card",
+                "Elminster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Сергей Ижерский",
+                "Kefka, Court Mage",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Константин Антипин",
+                "Александр Ильин",
+                "Feldon, Ronom Excavator",
+                "Kefka, Court Mage",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Герман Поляков",
+                "Артём Ангурцов",
+                "Teferi, Temporal Archmage",
+                "Deadpool, Trading Card",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Михаил Протасов",
+                "Игорь Курмакаев",
+                "Deadpool, Trading Card",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Игорь Кащихин",
+                "Queen Marchesa",
+                "Arahbo, Roar of the World",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Максим Тяпайкин",
+                "Максим Мещеряков",
+                "Deadpool, Trading Card",
+                "Kefka, Court Mage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Евгений Сафаргалиев",
+                "Максим Обора",
+                "Tifa Lockhart",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93114"
+}

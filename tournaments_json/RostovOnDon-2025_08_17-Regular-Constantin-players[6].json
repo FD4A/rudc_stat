@@ -1,0 +1,132 @@
+{
+    "date": "2025_08_17",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Posidaylo Artem",
+            "Thalia and The Gitrog Monster"
+        ],
+        [
+            "Fedorov Dmitriy",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Faydysh Diana",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Somkin Constantin",
+            "Elminster"
+        ],
+        [
+            "Kovalev Alexander",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Lukaynov Vadim",
+            "Indoraptor, the Perfect Hybrid"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Somkin Constantin",
+                "Kovalev Alexander",
+                "Elminster",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Posidaylo Artem",
+                "Indoraptor, the Perfect Hybrid",
+                "Thalia and The Gitrog Monster",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Faydysh Diana",
+                "Fedorov Dmitriy",
+                "Phelia, Exuberant Shepherd",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Posidaylo Artem",
+                "Fedorov Dmitriy",
+                "Thalia and The Gitrog Monster",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Faydysh Diana",
+                "Elminster",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Kovalev Alexander",
+                "Lukaynov Vadim",
+                "Ezio Auditore da Firenze",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Posidaylo Artem",
+                "Kovalev Alexander",
+                "Thalia and The Gitrog Monster",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Fedorov Dmitriy",
+                "Somkin Constantin",
+                "Ghyrson Starn, Kelermorph",
+                "Elminster",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Lukaynov Vadim",
+                "Faydysh Diana",
+                "Indoraptor, the Perfect Hybrid",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/87604"
+}

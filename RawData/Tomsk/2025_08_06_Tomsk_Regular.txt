@@ -1,0 +1,15 @@
+location::Tomsk
+level::Regular
+date::2025_08_06
+organizer::d6tomsk
+players::generals
+Владимиров Егор :: Inti, Seneschal of the Sun
+Поспелов Александр :: Kess, Dissident Mage
+Дмитриев Сергей :: Feldon, Ronom Excavator
+Торицын Олег :: Gut, True Soul Zealot :+: Agent of the Iron Throne
+Демидов Виталий :: The Gitrog Monster
+Черепов Антон :: Tourach, Dread Cantor
+Нагаев Никита :: Sythis, Harvest's Hand
+Чураков Павел :: Sai, Master Thopterist
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/72754

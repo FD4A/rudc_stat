@@ -1,0 +1,258 @@
+{
+    "date": "2025_07_20",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Ajsmirnov",
+    "roundsCount": 5,
+    "players": [
+        [
+            "Тимур Сайфутдинов",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Дмитрий Орешкин",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Вячеслав Серпутько",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Андрей Губин",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Максим Мещеряков",
+            "Kefka, Court Mage"
+        ],
+        [
+            "Максим Обора",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Александр Токарев",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Виталий Васильев",
+            "Queen Marchesa"
+        ],
+        [
+            "Артём Стрельцов",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Александр Токарев",
+                "Артём Стрельцов",
+                "Dihada, Binder of Wills",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Дмитрий Орешкин",
+                "Kefka, Court Mage",
+                "Deadpool, Trading Card",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Андрей Губин",
+                "Виталий Васильев",
+                "Dihada, Binder of Wills",
+                "Queen Marchesa",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Максим Обора",
+                "Тимур Сайфутдинов",
+                "Tivit, Seller of Secrets",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Максим Мещеряков",
+                "Тимур Сайфутдинов",
+                "Kefka, Court Mage",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Андрей Губин",
+                "Dihada, Binder of Wills",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Максим Обора",
+                "Golos, Tireless Pilgrim",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Виталий Васильев",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Queen Marchesa",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Андрей Губин",
+                "Тимур Сайфутдинов",
+                "Dihada, Binder of Wills",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Максим Мещеряков",
+                "Golos, Tireless Pilgrim",
+                "Kefka, Court Mage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Артём Стрельцов",
+                "Deadpool, Trading Card",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Виталий Васильев",
+                "Dihada, Binder of Wills",
+                "Queen Marchesa",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Андрей Губин",
+                "Вячеслав Серпутько",
+                "Dihada, Binder of Wills",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Тимур Сайфутдинов",
+                "Dihada, Binder of Wills",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Максим Обора",
+                "Deadpool, Trading Card",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Виталий Васильев",
+                "Kefka, Court Mage",
+                "Queen Marchesa",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Андрей Губин",
+                "Дмитрий Орешкин",
+                "Dihada, Binder of Wills",
+                "Deadpool, Trading Card",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Тимур Сайфутдинов",
+                "Golos, Tireless Pilgrim",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Александр Токарев",
+                "Kefka, Court Mage",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Максим Обора",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/62580"
+}

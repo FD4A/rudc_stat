@@ -1,0 +1,356 @@
+{
+    "date": "2025_09_11",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Поляков Герман",
+            "G'raha Tia, Scion Reborn"
+        ],
+        [
+            "Протасов Михаил",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Красников Александр",
+            "Gut, True Soul Zealot :+: Folk Hero"
+        ],
+        [
+            "Олифер Егор",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Булочко Михаил",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Кувяткин Илья",
+            "Thrasios, Triton Hero :+: Dargo, the Shipwrecker"
+        ],
+        [
+            "Лычковский Алексей",
+            "Oloro, Ageless Ascetic"
+        ],
+        [
+            "Лейбович Александр",
+            "Vivi Ornitier"
+        ],
+        [
+            "Звягин Георгий",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Лагерев Леонид",
+            "Glissa Sunslayer"
+        ],
+        [
+            "Письменицкий Артем",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Постоялкин Павел",
+            "Cloud, Midgar Mercenary"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Красников Александр",
+                "Олифер Егор",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Протасов Михаил",
+                "G'raha Tia, Scion Reborn",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лычковский Алексей",
+                "Лагерев Леонид",
+                "Oloro, Ageless Ascetic",
+                "Glissa Sunslayer",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Кувяткин Илья",
+                "Лейбович Александр",
+                "Thrasios, Triton Hero :+: Dargo, the Shipwrecker",
+                "Vivi Ornitier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Постоялкин Павел",
+                "Iron Man, Titan of Innovation",
+                "Cloud, Midgar Mercenary",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Мартынов Яков",
+                "Deadpool, Trading Card",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Письменицкий Артем",
+                "Dihada, Binder of Wills",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Булочко Михаил",
+                "Муравьев Роман",
+                "Iron Man, Titan of Innovation",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лычковский Алексей",
+                "Мартынов Яков",
+                "Oloro, Ageless Ascetic",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Кувяткин Илья",
+                "G'raha Tia, Scion Reborn",
+                "Thrasios, Triton Hero :+: Dargo, the Shipwrecker",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Протасов Михаил",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Azusa, Lost but Seeking",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лейбович Александр",
+                "Олифер Егор",
+                "Vivi Ornitier",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Постоялкин Павел",
+                "Glissa Sunslayer",
+                "Cloud, Midgar Mercenary",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Письменицкий Артем",
+                "Deadpool, Trading Card",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Булочко Михаил",
+                "Лычковский Алексей",
+                "Iron Man, Titan of Innovation",
+                "Oloro, Ageless Ascetic",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Мартынов Яков",
+                "G'raha Tia, Scion Reborn",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Муравьев Роман",
+                "Deadpool, Trading Card",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кувяткин Илья",
+                "Олифер Егор",
+                "Thrasios, Triton Hero :+: Dargo, the Shipwrecker",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Лагерев Леонид",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Glissa Sunslayer",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Письменицкий Артем",
+                "Azusa, Lost but Seeking",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Лейбович Александр",
+                "Постоялкин Павел",
+                "Vivi Ornitier",
+                "Cloud, Midgar Mercenary",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Булочко Михаил",
+                "Поляков Герман",
+                "Iron Man, Titan of Innovation",
+                "G'raha Tia, Scion Reborn",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лычковский Алексей",
+                "Протасов Михаил",
+                "Oloro, Ageless Ascetic",
+                "Azusa, Lost but Seeking",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Звягин Георгий",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Deadpool, Trading Card",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Олифер Егор",
+                "Мартынов Яков",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Кувяткин Илья",
+                "Dihada, Binder of Wills",
+                "Thrasios, Triton Hero :+: Dargo, the Shipwrecker",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Лейбович Александр",
+                "Glissa Sunslayer",
+                "Vivi Ornitier",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Постоялкин Павел",
+                "Письменицкий Артем",
+                "Cloud, Midgar Mercenary",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93622"
+}

@@ -1,0 +1,15 @@
+location::Volgograd
+level::Regular
+date::2025_08_23
+organizer::Ajsmirnov
+players::generals
+Артём Ангурцов :: Deadpool, Trading Card
+Тимур Сайфутдинов :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Игорь Курмакаев :: Grist, the Hunger Tide
+Артём Стрельцов :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Константин Сомкин :: Elminister
+Максим Обора :: Arahbo, Roar of the World
+Евгений Сафаргалиев :: Tifa Lockhart
+Виталий Васильев :: Queen Marchesa
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93090

@@ -1,0 +1,17 @@
+location::Volgograd
+level::Regular
+date::2025_08_25
+organizer::Ajsmirnov
+players::generals
+Виталий Фридман :: Ezio Auditore da Firenze
+Сергей Фридман :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Андрей Костин :: Imskir, Iron Eater
+Константин Сомкин :: Elminister
+Вячеслав Серпутько :: Six
+Артём Ангурцов :: Deadpool, Trading Card
+Евгений Фролов :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Никита Иванов :: Rograkh, Son of Rohgahh :+: Tymna the Weaver
+Рустам Азизов :: Tifa Lockhart
+Аркадий Байков :: Vial Smasher the Fierce
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93129

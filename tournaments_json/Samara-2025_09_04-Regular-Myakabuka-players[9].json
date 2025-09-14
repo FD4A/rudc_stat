@@ -1,0 +1,216 @@
+{
+    "date": "2025_09_04",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Краснов Илья",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Тимохин Денис",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Сибикин Антон",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Матюнин Антон",
+            "Taii Wakeen, Perfect Shot"
+        ],
+        [
+            "Иванов Никита",
+            "Rograkh, Son of Rohgahh :+: Tymna the Weaver"
+        ],
+        [
+            "Малкин Алексей",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Циулин Иван",
+            "Niv-Mizzet Reborn"
+        ],
+        [
+            "Громов Михаил",
+            "Indominus Rex, Alpha"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Иванов Никита",
+                "Малкин Алексей",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Краснов Илья",
+                "Shorikai, Genesis Engine",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Громов Михаил",
+                "Циулин Иван",
+                "Indominus Rex, Alpha",
+                "Niv-Mizzet Reborn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Матюнин Антон",
+                "Feldon, Ronom Excavator",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Сибикин Антон",
+                "Безруков Николай",
+                "Shorikai, Genesis Engine",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Краснов Илья",
+                "Niv-Mizzet Reborn",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Тимохин Денис",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Shorikai, Genesis Engine",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Громов Михаил",
+                "Малкин Алексей",
+                "Indominus Rex, Alpha",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Безруков Николай",
+                "Shorikai, Genesis Engine",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Сибикин Антон",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Циулин Иван",
+                "Shorikai, Genesis Engine",
+                "Niv-Mizzet Reborn",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Малкин Алексей",
+                "Taii Wakeen, Perfect Shot",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Матюнин Антон",
+                "Shorikai, Genesis Engine",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Тимохин Денис",
+                "Feldon, Ronom Excavator",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Циулин Иван",
+                "Shorikai, Genesis Engine",
+                "Niv-Mizzet Reborn",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Громов Михаил",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Indominus Rex, Alpha",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93431"
+}

@@ -1,0 +1,16 @@
+location::Samara
+level::Regular
+date::2025_07_26
+organizer::Myakabuka
+players::generals
+Курмакаев Игорь :: Feldon, Ronom Excavator
+Краснов Илья :: Shorikai, Genesis Engine
+Козин Игорь :: Shorikai, Genesis Engine
+Матюнин Антон :: Gut, True Soul Zealot :+: Folk Hero
+Васильев Кирилл :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Циулин Иван :: Kellan, Daring Traveler
+Чекулаев Дмитрий :: Feldon, Ronom Excavator
+Малкин Алексей :: Phelia, Exuberant Shepherd
+Иванов Никита :: Rograkh, Son of Rohgahh :+: Tymna the Weaver
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/67765

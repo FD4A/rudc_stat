@@ -1,0 +1,490 @@
+{
+    "date": "2025_08_07",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Булочко Михаил",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Юсенко Глеб",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Ульянов Алексей",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Шестаков Игорь",
+            "Kefka, Court Mage"
+        ],
+        [
+            "Байков Аркадий",
+            "Vial Smasher the Fierce"
+        ],
+        [
+            "Барабаш Валентин",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Грабовой Филипп",
+            "Cloud, Midgar Mercenary"
+        ],
+        [
+            "Кувяткин Илья",
+            "Thrasios, Triton Hero :+: Dargo, the Shipwrecker"
+        ],
+        [
+            "Антипин Константин",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Родюков Федор",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Муравьев Никита",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Егоров Павел",
+            "Tifa Lockhart"
+        ],
+        [
+            "Звягин Георгий",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Тяпайкин Максим",
+            "Golos, Tireless Pilgrim"
+        ],
+        [
+            "Красников Александр",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Яковлев Николай",
+            "The Wise Mothman"
+        ],
+        [
+            "Роднов Александр",
+            "Aragorn, King of Gondor"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Булочко Михаил",
+                "Грабовой Филипп",
+                "Iron Man, Titan of Innovation",
+                "Cloud, Midgar Mercenary",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Тяпайкин Максим",
+                "Tivit, Seller of Secrets",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Егоров Павел",
+                "Dihada, Binder of Wills",
+                "Tifa Lockhart",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Антипин Константин",
+                "Kroxa, Titan of Death's Hunger",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Юсенко Глеб",
+                "Deadpool, Trading Card",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Красников Александр",
+                "Kefka, Court Mage",
+                "Muxus, Goblin Grandee",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Байков Аркадий",
+                "Shorikai, Genesis Engine",
+                "Vial Smasher the Fierce",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Роднов Александр",
+                "Муравьев Никита",
+                "Aragorn, King of Gondor",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Кувяткин Илья",
+                "Ghyrson Starn, Kelermorph",
+                "Thrasios, Triton Hero :+: Dargo, the Shipwrecker",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Яковлев Николай",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "The Wise Mothman",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Мартынов Яков",
+                "Юсенко Глеб",
+                "Tivit, Seller of Secrets",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кувяткин Илья",
+                "Шестаков Игорь",
+                "Thrasios, Triton Hero :+: Dargo, the Shipwrecker",
+                "Kefka, Court Mage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Муравьев Роман",
+                "Kroxa, Titan of Death's Hunger",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Муравьев Никита",
+                "Iron Man, Titan of Innovation",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Ульянов Алексей",
+                "Shorikai, Genesis Engine",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Байков Аркадий",
+                "The Wise Mothman",
+                "Vial Smasher the Fierce",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Грабовой Филипп",
+                "Muxus, Goblin Grandee",
+                "Cloud, Midgar Mercenary",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Родюков Федор",
+                "Deadpool, Trading Card",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Роднов Александр",
+                "Tifa Lockhart",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Антипин Константин",
+                "Тяпайкин Максим",
+                "Feldon, Ronom Excavator",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Муравьев Роман",
+                "Юсенко Глеб",
+                "Dihada, Binder of Wills",
+                "Ezio Auditore da Firenze",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Ульянов Алексей",
+                "Kefka, Court Mage",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Байков Аркадий",
+                "Phelia, Exuberant Shepherd",
+                "Vial Smasher the Fierce",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Антипин Константин",
+                "Iron Man, Titan of Innovation",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кувяткин Илья",
+                "Мартынов Яков",
+                "Thrasios, Triton Hero :+: Dargo, the Shipwrecker",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Звягин Георгий",
+                "Cloud, Midgar Mercenary",
+                "Deadpool, Trading Card",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Федоров Дмитрий",
+                "Tifa Lockhart",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Яковлев Николай",
+                "Барабаш Валентин",
+                "The Wise Mothman",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Родюков Федор",
+                "Muxus, Goblin Grandee",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Роднов Александр",
+                "Тяпайкин Максим",
+                "Aragorn, King of Gondor",
+                "Golos, Tireless Pilgrim",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Муравьев Роман",
+                "Шестаков Игорь",
+                "Dihada, Binder of Wills",
+                "Kefka, Court Mage",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Байков Аркадий",
+                "Булочко Михаил",
+                "Vial Smasher the Fierce",
+                "Iron Man, Titan of Innovation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Федоров Дмитрий",
+                "Tivit, Seller of Secrets",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Грабовой Филипп",
+                "Юсенко Глеб",
+                "Cloud, Midgar Mercenary",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ульянов Алексей",
+                "Муравьев Никита",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Тяпайкин Максим",
+                "Shorikai, Genesis Engine",
+                "Golos, Tireless Pilgrim",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Антипин Константин",
+                "Звягин Георгий",
+                "Feldon, Ronom Excavator",
+                "Deadpool, Trading Card",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Родюков Федор",
+                "Егоров Павел",
+                "Ghyrson Starn, Kelermorph",
+                "Tifa Lockhart",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кувяткин Илья",
+                "Роднов Александр",
+                "Thrasios, Triton Hero :+: Dargo, the Shipwrecker",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/73981"
+}

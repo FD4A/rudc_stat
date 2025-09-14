@@ -1,0 +1,15 @@
+location::Samara
+level::Regular
+date::2025_08_16
+organizer::Myakabuka
+players::generals
+Краснов Илья :: Shorikai, Genesis Engine
+Безруков Николай :: Feldon, Ronom Excavator
+Курмакаев Игорь :: Grist, the Hunger Tide
+Тимохин Денис :: The Lunar Whale
+Кормаков Александр :: Ghired, Mirror of the Wilds
+Васильев Кирилл :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Козлов Максим :: Rograkh, Son of Rohgahh :+: Tymna the Weaver
+Путилин Никита :: The Ancient One
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/86586

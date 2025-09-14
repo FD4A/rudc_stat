@@ -1,0 +1,20 @@
+location::Samara
+level::Regular
+date::2025_07_19
+organizer::Myakabuka
+players::generals
+Сибикин Антон :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Матюнин Антон :: Muxus, Goblin Grandee
+Курмакаев Игорь :: Grist, the Hunger Tide
+Козлов Максим :: Feldon, Ronom Excavator
+Малкин Алексей :: Phelia, Exuberant Shepherd
+Краснов Илья :: Shorikai, Genesis Engine
+Громов Михаил :: Satoru, the Infiltrator
+Циулин Иван :: Kellan, Daring Traveler
+Козин Игорь :: Shorikai, Genesis Engine
+Иванов Никита :: Rograkh, Son of Rohgahh :+: Tymna the Weaver
+Путилин Никита :: The Ancient One
+Безруков Николай :: Feldon, Ronom Excavator
+Васильев Кирилл :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/62143

@@ -1,0 +1,370 @@
+{
+    "date": "2025_08_31",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 5,
+    "players": [
+        [
+            "Артем Стрельцов",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Никита Сухов",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Константин Антипин",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Дмитрий Орешкин",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Тимур Сайфутдинов",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Александр Токарев",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Виктор Бутримов",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Артём Ангурцов",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Александр Смирнов",
+            "Cloud, Midgar Mercenary"
+        ],
+        [
+            "Максим Мещеряков",
+            "Kefka, Court Mage"
+        ],
+        [
+            "Виталий Васильев",
+            "Queen Marchesa"
+        ],
+        [
+            "Максим Обора",
+            "Ghyrson Starn, Kelermorph"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Константин Антипин",
+                "Виталий Васильев",
+                "Tivit, Seller of Secrets",
+                "Queen Marchesa",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Артем Стрельцов",
+                "Cloud, Midgar Mercenary",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Максим Обора",
+                "Grist, the Hunger Tide",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Никита Сухов",
+                "Артём Ангурцов",
+                "Shorikai, Genesis Engine",
+                "Iron Man, Titan of Innovation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Виктор Бутримов",
+                "Juri, Master of the Revue",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Максим Мещеряков",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Kefka, Court Mage",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Константин Антипин",
+                "Дмитрий Орешкин",
+                "Tivit, Seller of Secrets",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Никита Сухов",
+                "Grist, the Hunger Tide",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Артем Стрельцов",
+                "Тимур Сайфутдинов",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Виктор Бутримов",
+                "Максим Обора",
+                "Slimefoot and Squee",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Александр Смирнов",
+                "Kefka, Court Mage",
+                "Cloud, Midgar Mercenary",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Артём Ангурцов",
+                "Queen Marchesa",
+                "Iron Man, Titan of Innovation",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Константин Антипин",
+                "Никита Сухов",
+                "Tivit, Seller of Secrets",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Артем Стрельцов",
+                "Александр Токарев",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Виктор Бутримов",
+                "Kefka, Court Mage",
+                "Slimefoot and Squee",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Тимур Сайфутдинов",
+                "Juri, Master of the Revue",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Александр Смирнов",
+                "Iron Man, Titan of Innovation",
+                "Cloud, Midgar Mercenary",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Максим Обора",
+                "Виталий Васильев",
+                "Ghyrson Starn, Kelermorph",
+                "Queen Marchesa",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Никита Сухов",
+                "Артем Стрельцов",
+                "Shorikai, Genesis Engine",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Виктор Бутримов",
+                "Константин Антипин",
+                "Slimefoot and Squee",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Александр Токарев",
+                "Juri, Master of the Revue",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Виталий Васильев",
+                "Cloud, Midgar Mercenary",
+                "Queen Marchesa",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Артём Ангурцов",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Iron Man, Titan of Innovation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Максим Обора",
+                "Kefka, Court Mage",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Артем Стрельцов",
+                "Константин Антипин",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Никита Сухов",
+                "Дмитрий Орешкин",
+                "Shorikai, Genesis Engine",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тимур Сайфутдинов",
+                "Виктор Бутримов",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Смирнов",
+                "Александр Токарев",
+                "Cloud, Midgar Mercenary",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Виталий Васильев",
+                "Kefka, Court Mage",
+                "Queen Marchesa",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Максим Обора",
+                "Iron Man, Titan of Innovation",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93332"
+}

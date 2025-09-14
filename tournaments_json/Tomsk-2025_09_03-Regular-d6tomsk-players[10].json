@@ -1,0 +1,260 @@
+{
+    "date": "2025_09_03",
+    "location": "Tomsk",
+    "level": "Regular",
+    "organizer": "d6tomsk",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Черепов Антон",
+            "Tourach, Dread Cantor"
+        ],
+        [
+            "Поспелов Александр",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Дмитриев Сергей",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Нагаев Никита",
+            "Sythis, Harvest's Hand"
+        ],
+        [
+            "Иванов Алексей",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Астапов Александр",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Кузнецов Северин",
+            "Kykar, Wind's Fury"
+        ],
+        [
+            "Владимиров Егор",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Торицын Олег",
+            "Gut, True Soul Zealot :+: Agent of the Iron Throne"
+        ],
+        [
+            "Чураков Павел",
+            "Shorikai, Genesis Engine"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Владимиров Егор",
+                "Черепов Антон",
+                "Deadpool, Trading Card",
+                "Tourach, Dread Cantor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Торицын Олег",
+                "Shorikai, Genesis Engine",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                "Иванов Алексей",
+                "Кузнецов Северин",
+                "Phelia, Exuberant Shepherd",
+                "Kykar, Wind's Fury",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дмитриев Сергей",
+                "Нагаев Никита",
+                "Feldon, Ronom Excavator",
+                "Sythis, Harvest's Hand",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Астапов Александр",
+                "Ral, Monsoon Mage",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Поспелов Александр",
+                "Иванов Алексей",
+                "Ral, Monsoon Mage",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Торицын Олег",
+                "Черепов Антон",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Tourach, Dread Cantor",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитриев Сергей",
+                "Астапов Александр",
+                "Feldon, Ronom Excavator",
+                "Light-Paws, Emperor's Voice",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Нагаев Никита",
+                "Владимиров Егор",
+                "Sythis, Harvest's Hand",
+                "Deadpool, Trading Card",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Кузнецов Северин",
+                "Shorikai, Genesis Engine",
+                "Kykar, Wind's Fury",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Поспелов Александр",
+                "Черепов Антон",
+                "Ral, Monsoon Mage",
+                "Tourach, Dread Cantor",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Алексей",
+                "Владимиров Егор",
+                "Phelia, Exuberant Shepherd",
+                "Deadpool, Trading Card",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Астапов Александр",
+                "Kykar, Wind's Fury",
+                "Light-Paws, Emperor's Voice",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Торицын Олег",
+                "Дмитриев Сергей",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Нагаев Никита",
+                "Чураков Павел",
+                "Sythis, Harvest's Hand",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Черепов Антон",
+                "Иванов Алексей",
+                "Tourach, Dread Cantor",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Кузнецов Северин",
+                "Ral, Monsoon Mage",
+                "Kykar, Wind's Fury",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Дмитриев Сергей",
+                "Владимиров Егор",
+                "Feldon, Ronom Excavator",
+                "Deadpool, Trading Card",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Нагаев Никита",
+                "Торицын Олег",
+                "Sythis, Harvest's Hand",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Астапов Александр",
+                "Чураков Павел",
+                "Light-Paws, Emperor's Voice",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93403"
+}

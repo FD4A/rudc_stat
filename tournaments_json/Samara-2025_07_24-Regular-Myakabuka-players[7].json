@@ -1,0 +1,136 @@
+{
+    "date": "2025_07_24",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Матюнин Антон",
+            "Muxus, Goblin Grandee"
+        ],
+        [
+            "Сибикин Антон",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Краснов Илья",
+            "Shorikai, Genesis Engine"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Циулин Иван",
+            "Kellan, Daring Traveler"
+        ],
+        [
+            "Иванов Никита",
+            "Rograkh, Son of Rohgahh :+: Tymna the Weaver"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Курмакаев Игорь",
+                "Безруков Николай",
+                "Grist, the Hunger Tide",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Циулин Иван",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Kellan, Daring Traveler",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Сибикин Антон",
+                "Shorikai, Genesis Engine",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Безруков Николай",
+                "Матюнин Антон",
+                "Feldon, Ronom Excavator",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Циулин Иван",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Kellan, Daring Traveler",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Иванов Никита",
+                "Shorikai, Genesis Engine",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Сибикин Антон",
+                "Матюнин Антон",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Muxus, Goblin Grandee",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Краснов Илья",
+                "Feldon, Ronom Excavator",
+                "Shorikai, Genesis Engine",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Курмакаев Игорь",
+                "Kellan, Daring Traveler",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/64736"
+}

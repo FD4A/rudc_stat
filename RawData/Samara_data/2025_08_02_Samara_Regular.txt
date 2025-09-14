@@ -1,0 +1,13 @@
+location::Samara
+level::Regular
+date::2025_08_02
+organizer::Myakabuka
+players::generals
+Курмакаев Игорь :: Feldon, Ronom Excavator
+Краснов Илья :: Shorikai, Genesis Engine
+Васильев Кирилл :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Тимохин Денис :: The Lunar Whale
+Циулин Иван :: Kellan, Daring Traveler
+Кормаков Александр :: Ghired, Mirror of the Wilds
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/68812

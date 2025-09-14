@@ -1,0 +1,132 @@
+{
+    "date": "2025_08_23",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Кормаков Александр",
+            "Errant and Giada"
+        ],
+        [
+            "Васильев Кирилл",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Матюнин Антон",
+            "Gut, True Soul Zealot :+: Folk Hero"
+        ],
+        [
+            "Сибикин Антон",
+            "Satoru, the Infiltrator"
+        ],
+        [
+            "Тимохин Денис",
+            "Shorikai, Genesis Engine"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Безруков Николай",
+                "Васильев Кирилл",
+                "Feldon, Ronom Excavator",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Кормаков Александр",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Errant and Giada",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Сибикин Антон",
+                "Shorikai, Genesis Engine",
+                "Satoru, the Infiltrator",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Кормаков Александр",
+                "Сибикин Антон",
+                "Errant and Giada",
+                "Satoru, the Infiltrator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Матюнин Антон",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Безруков Николай",
+                "Shorikai, Genesis Engine",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Кормаков Александр",
+                "Васильев Кирилл",
+                "Errant and Giada",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Сибикин Антон",
+                "Feldon, Ronom Excavator",
+                "Satoru, the Infiltrator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Тимохин Денис",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Shorikai, Genesis Engine",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93077"
+}

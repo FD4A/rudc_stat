@@ -1,0 +1,26 @@
+location::Spb
+level::Regular
+date::2025_07_31
+organizer::Andysays
+players::generals
+Булочко Михаил :: Iron Man, Titan of Innovation
+Барабаш Валентин :: Shorikai, Genesis Engine
+Поляков Герман :: Teferi, Temporal Archmage
+Красников Александр :: Gut, True Soul Zealot :+: Folk Hero
+Байков Аркадий :: Vial Smasher the Fierce
+Шестаков Игорь :: Yoshimaru, Ever Faithful :+: Bruse
+Родюков Федор :: Ghyrson Starn, Kelermorph
+Муравьев Роман :: Dihada, Binder of Wills
+Лейбович Александр :: Vivi Ornitier
+Антипин Константин :: Feldon, Ronom Excavator
+Федоров Дмитрий :: Karlov of the Ghost Council :++: Lurrus
+Звягин Георгий :: Celes, Rune Knight
+Кеворков Артур :: Anafenza, the Foremost
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Котыхов Виктор :: Wilhelt, the Rotcleaver
+Мартынов Яков :: Tivit, Seller of Secrets
+Постояклин Павел :: Cloud, Midgar Mercenary
+Вахитов Ривкат :: Feldon, Ronom Excavator
+Лагерев Леонид :: Tasigur, the Golden Fang
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/67766

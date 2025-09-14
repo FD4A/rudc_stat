@@ -1,0 +1,21 @@
+location::Spb
+level::Regular
+date::2025_09_11
+organizer::Andysays
+players::generals
+Поляков Герман :: G'raha Tia, Scion Reborn
+Протасов Михаил :: Azusa, Lost but Seeking
+Красников Александр :: Gut, True Soul Zealot :+: Folk Hero
+Олифер Егор :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Булочко Михаил :: Iron Man, Titan of Innovation
+Кувяткин Илья :: Thrasios, Triton Hero :+: Dargo, the Shipwrecker
+Лычковский Алексей :: Oloro, Ageless Ascetic
+Лейбович Александр :: Vivi Ornitier
+Звягин Георгий :: Deadpool, Trading Card
+Мартынов Яков :: Tivit, Seller of Secrets
+Муравьев Роман :: Dihada, Binder of Wills
+Лагерев Леонид :: Glissa Sunslayer
+Письменицкий Артем :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Постоялкин Павел :: Cloud, Midgar Mercenary
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93622

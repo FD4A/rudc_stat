@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2025_08_17
+organizer::Constantin
+players::generals
+Posidaylo Artem :: Thalia and The Gitrog Monster
+Fedorov Dmitriy :: Ghyrson Starn, Kelermorph
+Faydysh Diana :: Phelia, Exuberant Shepherd
+Somkin Constantin :: Elminster
+Kovalev Alexander :: Ezio Auditore da Firenze
+Lukaynov Vadim :: Indoraptor, the Perfect Hybrid
+Round
+https://aetherhub.com/Tourney/RoundTourney/87604

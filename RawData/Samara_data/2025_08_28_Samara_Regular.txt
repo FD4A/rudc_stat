@@ -1,0 +1,14 @@
+location::Samara
+level::Regular
+date::2025_08_28
+organizer::Myakabuka
+players::generals
+Сибикин Антон :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Краснов Илья :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Васильев Кирилл :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Малкин Алексей :: Phelia, Exuberant Shepherd
+Громов Михаил :: Indominus Rex, Alpha
+Иванов Никита :: Rograkh, Son of Rohgahh :+: Tymna the Weaver
+Матюнин Антон :: Muxus, Goblin Grandee
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93226
