@@ -36,7 +36,7 @@ class MeleeParser:
             exit(1)
 
         time.sleep(7)
-        self.tr.roundsCount = 8 #self.parse_round_count()
+        self.tr.roundsCount = self.parse_round_count(driver.page_source)
         for i in range(1, self.tr.roundsCount+1):
             print(i)
             xpath = f"//button[@class='btn btn-gray round-selector'][@data-name='Round {i}'][@data-is-started='True']"
@@ -48,18 +48,9 @@ class MeleeParser:
             time.sleep(0.5)
             button.click()
             time.sleep(0.5)
-            # print(driver.page_source)
-            # exit(0)
             self.parse_matches(driver.page_source, i)
 
         return [self.tr.roundsCount, self.tr.rounds]
-        # exit(0)
-
-    # def parse_players(self, text):
-    #     start = '<tr role="row" class="odd"><td class="Rank-column sorting_1">1</td><td class=" Player-column">'
-    #     finish = 'id="tournament-standings-table_next">'
-    #     text_with_standings =
-
 
     @staticmethod
     def is_bye(text: str):
@@ -113,11 +104,11 @@ class MeleeParser:
 
         pattern = re.compile('data-type="player" href="/Profile/Index/.*>(.+?)<svg class=".*')
         players_list = re.findall(pattern, new_text)
-        print("      player list:")
-        for result in players_list:
-            print(result)
+        # print("      player list:")
+        # for result in players_list:
+        #     print(result)
 
-        print('------------------------------------------')
+        # print('------------------------------------------')
         results = re.findall('ResultString-column">(.+?)</td>', text)
         pos_in_players_list = 0
         # print(players_list[pos_in_players_list])
@@ -158,12 +149,14 @@ class MeleeParser:
                 else:
                     # print(result)
                     pos_in_players_list = pos_in_players_list + 2
-        print('------------------------------------------')
+        # print('------------------------------------------')
         self.tr.rounds.append(round_)
-        print(round_)
-        # exit(0)
+        # print(round_)
 
-
-
-    def parse_round_count(self):
-        return 2
+    def parse_round_count(self, text):
+        # <button class="btn btn-gray round-selector"
+        result = re.findall('<button class="btn btn-gray round-selector', text)
+        # print(result)
+        res = len(result)/2
+        # print(f"FDA {res}")
+        return int(res)
