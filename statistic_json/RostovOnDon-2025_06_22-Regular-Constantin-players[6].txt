@@ -1,0 +1,40 @@
+= Elminster                        matches:3    WM: 66.67%  LM:  0.00%  DM: 33.33% (wm:2   lm:0   dm:1)  games:8    WG: 62.50% LG: 37.50% (wg:   5 lg:   3) pick: 1    RostovOnDon(1), 
+       vs Gut, True Soul Zealot            (w:1 l:0 d:0), (2/1)
+        + Folk Hero                       
+       vs Vivi Ornitier                    (w:0 l:0 d:1), (1/1)
+       vs Ezio Auditore da Firenze         (w:1 l:0 d:0), (2/1)
+
+
+= Ezio Auditore da Firenze         matches:3    WM: 33.33%  LM: 33.33%  DM: 33.33% (wm:1   lm:1   dm:1)  games:7    WG: 57.14% LG: 42.86% (wg:   4 lg:   3) pick: 1    RostovOnDon(1), 
+       vs Zabaz, the Glimmerwasp           (w:0 l:0 d:1), (1/1)
+       vs Phelia, Exuberant Shepherd       (w:1 l:0 d:0), (2/0)
+       vs Elminster                        (w:0 l:1 d:0), (1/2)
+
+
+= Gut, True Soul Zealot            matches:3    WM:  0.00%  LM: 66.67%  DM: 33.33% (wm:0   lm:2   dm:1)  games:7    WG: 28.57% LG: 71.43% (wg:   2 lg:   5) pick: 1    RostovOnDon(1), 
+  + Folk Hero                   
+       vs Elminster                        (w:0 l:1 d:0), (1/2)
+       vs Zabaz, the Glimmerwasp           (w:0 l:1 d:0), (0/2)
+       vs Phelia, Exuberant Shepherd       (w:0 l:0 d:1), (1/1)
+
+
+= Phelia, Exuberant Shepherd       matches:3    WM:  0.00%  LM: 66.67%  DM: 33.33% (wm:0   lm:2   dm:1)  games:7    WG: 28.57% LG: 71.43% (wg:   2 lg:   5) pick: 1    RostovOnDon(1), 
+       vs Vivi Ornitier                    (w:0 l:1 d:0), (1/2)
+       vs Ezio Auditore da Firenze         (w:0 l:1 d:0), (0/2)
+       vs Gut, True Soul Zealot            (w:0 l:0 d:1), (1/1)
+        + Folk Hero                       
+
+
+= Vivi Ornitier                    matches:3    WM: 33.33%  LM: 33.33%  DM: 33.33% (wm:1   lm:1   dm:1)  games:8    WG: 50.00% LG: 50.00% (wg:   4 lg:   4) pick: 1    RostovOnDon(1), 
+       vs Phelia, Exuberant Shepherd       (w:1 l:0 d:0), (2/1)
+       vs Elminster                        (w:0 l:0 d:1), (1/1)
+       vs Zabaz, the Glimmerwasp           (w:0 l:1 d:0), (1/2)
+
+
+= Zabaz, the Glimmerwasp           matches:3    WM: 66.67%  LM:  0.00%  DM: 33.33% (wm:2   lm:0   dm:1)  games:7    WG: 71.43% LG: 28.57% (wg:   5 lg:   2) pick: 1    RostovOnDon(1), 
+       vs Ezio Auditore da Firenze         (w:0 l:0 d:1), (1/1)
+       vs Gut, True Soul Zealot            (w:1 l:0 d:0), (2/0)
+        + Folk Hero                       
+       vs Vivi Ornitier                    (w:1 l:0 d:0), (2/1)
+
+

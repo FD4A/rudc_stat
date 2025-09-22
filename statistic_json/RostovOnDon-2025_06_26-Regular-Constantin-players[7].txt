@@ -1,0 +1,42 @@
+= Elminster                        matches:2    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:2   dm:0)  games:4    WG: 25.00% LG: 75.00% (wg:   1 lg:   3) pick: 1    RostovOnDon(1), 
+       vs Vivi Ornitier                    (w:0 l:1 d:0), (0/1)
+       vs Ezio Auditore da Firenze         (w:0 l:1 d:0), (1/2)
+
+
+= Ertai Resurrected                matches:3    WM: 33.33%  LM: 33.33%  DM: 33.33% (wm:1   lm:1   dm:1)  games:7    WG: 42.86% LG: 57.14% (wg:   3 lg:   4) pick: 1    RostovOnDon(1), 
+       vs Ezio Auditore da Firenze         (w:0 l:1 d:0), (0/2)
+       vs Gut, True Soul Zealot            (w:1 l:0 d:0), (2/1)
+        + Agent of the Iron Throne        
+       vs Zabaz, the Glimmerwasp           (w:0 l:0 d:1), (1/1)
+
+
+= Ezio Auditore da Firenze         matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:7    WG: 57.14% LG: 42.86% (wg:   4 lg:   3) pick: 1    RostovOnDon(1), 
+       vs Ertai Resurrected                (w:1 l:0 d:0), (2/0)
+       vs Plagon, Lord of the Beach        (w:0 l:1 d:0), (0/2)
+       vs Elminster                        (w:1 l:0 d:0), (2/1)
+
+
+= Gut, True Soul Zealot            matches:2    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:2   dm:0)  games:6    WG: 33.33% LG: 66.67% (wg:   2 lg:   4) pick: 1    RostovOnDon(1), 
+  + Agent of the Iron Throne    
+       vs Vivi Ornitier                    (w:0 l:1 d:0), (1/2)
+       vs Ertai Resurrected                (w:0 l:1 d:0), (1/2)
+
+
+= Plagon, Lord of the Beach        matches:3    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:3   lm:0   dm:0)  games:7    WG: 85.71% LG: 14.29% (wg:   6 lg:   1) pick: 1    RostovOnDon(1), 
+       vs Zabaz, the Glimmerwasp           (w:1 l:0 d:0), (2/0)
+       vs Ezio Auditore da Firenze         (w:1 l:0 d:0), (2/0)
+       vs Vivi Ornitier                    (w:1 l:0 d:0), (2/1)
+
+
+= Vivi Ornitier                    matches:3    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:2   lm:1   dm:0)  games:7    WG: 57.14% LG: 42.86% (wg:   4 lg:   3) pick: 1    RostovOnDon(1), 
+       vs Gut, True Soul Zealot            (w:1 l:0 d:0), (2/1)
+        + Agent of the Iron Throne        
+       vs Elminster                        (w:1 l:0 d:0), (1/0)
+       vs Plagon, Lord of the Beach        (w:0 l:1 d:0), (1/2)
+
+
+= Zabaz, the Glimmerwasp           matches:2    WM:  0.00%  LM: 50.00%  DM: 50.00% (wm:0   lm:1   dm:1)  games:4    WG: 25.00% LG: 75.00% (wg:   1 lg:   3) pick: 1    RostovOnDon(1), 
+       vs Plagon, Lord of the Beach        (w:0 l:1 d:0), (0/2)
+       vs Ertai Resurrected                (w:0 l:0 d:1), (1/1)
+
+
