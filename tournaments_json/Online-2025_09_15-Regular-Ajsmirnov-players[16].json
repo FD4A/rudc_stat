@@ -1,0 +1,456 @@
+{
+    "date": "2025_09_15",
+    "location": "Online",
+    "level": "Regular",
+    "organizer": "Ajsmirnov",
+    "roundsCount": 5,
+    "players": [
+        [
+            "Поляков Герман",
+            "G'raha Tia, Scion Reborn"
+        ],
+        [
+            "Мещеряков Максим",
+            "Kefka, Court Mage"
+        ],
+        [
+            "Циулин Иван",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Матюнин Антон",
+            "Taii Wakeen, Perfect Shot"
+        ],
+        [
+            "Майоров Влад",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Павликов Владислав",
+            "Hidetsugu and Kairi"
+        ],
+        [
+            "Третьяков Дмитрий",
+            "Flubs, the Fool"
+        ],
+        [
+            "Сайфутдинов Тимур",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Кузьмин Руслан",
+            "Tifa Lockhart"
+        ],
+        [
+            "Ревин Владимир",
+            "Cecil, Dark Knight"
+        ],
+        [
+            "Стрельцов Артем",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Костин Андрей",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Барабаш Валентин",
+            "Mm'menon, the Right Hand"
+        ],
+        [
+            "Лагерев Леонид",
+            "Slimefoot and Squee"
+        ],
+        [
+            "Булочко Михаил",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Дартау Сергей",
+            "Phelia, Exuberant Shepherd"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Павликов Владислав",
+                "Костин Андрей",
+                "Hidetsugu and Kairi",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Стрельцов Артем",
+                "Матюнин Антон",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Ревин Владимир",
+                "Slimefoot and Squee",
+                "Cecil, Dark Knight",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мещеряков Максим",
+                "Булочко Михаил",
+                "Kefka, Court Mage",
+                "Iron Man, Titan of Innovation",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Дартау Сергей",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Третьяков Дмитрий",
+                "Azusa, Lost but Seeking",
+                "Flubs, the Fool",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Кузьмин Руслан",
+                "Mm'menon, the Right Hand",
+                "Tifa Lockhart",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Майоров Влад",
+                "Поляков Герман",
+                "Grist, the Hunger Tide",
+                "G'raha Tia, Scion Reborn",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Ревин Владимир",
+                "G'raha Tia, Scion Reborn",
+                "Cecil, Dark Knight",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Сайфутдинов Тимур",
+                "Матюнин Антон",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Павликов Владислав",
+                "Циулин Иван",
+                "Hidetsugu and Kairi",
+                "Azusa, Lost but Seeking",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кузьмин Руслан",
+                "Мещеряков Максим",
+                "Tifa Lockhart",
+                "Kefka, Court Mage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Третьяков Дмитрий",
+                "Iron Man, Titan of Innovation",
+                "Flubs, the Fool",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Дартау Сергей",
+                "Mm'menon, the Right Hand",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Костин Андрей",
+                "Майоров Влад",
+                "Imskir Iron-Eater",
+                "Grist, the Hunger Tide",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Стрельцов Артем",
+                "Slimefoot and Squee",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Мещеряков Максим",
+                "Циулин Иван",
+                "Kefka, Court Mage",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Поляков Герман",
+                "Taii Wakeen, Perfect Shot",
+                "G'raha Tia, Scion Reborn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кузьмин Руслан",
+                "Павликов Владислав",
+                "Tifa Lockhart",
+                "Hidetsugu and Kairi",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Третьяков Дмитрий",
+                "Ревин Владимир",
+                "Flubs, the Fool",
+                "Cecil, Dark Knight",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Стрельцов Артем",
+                "Сайфутдинов Тимур",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Майоров Влад",
+                "Барабаш Валентин",
+                "Grist, the Hunger Tide",
+                "Mm'menon, the Right Hand",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дартау Сергей",
+                "Костин Андрей",
+                "Phelia, Exuberant Shepherd",
+                "Imskir Iron-Eater",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Мещеряков Максим",
+                "G'raha Tia, Scion Reborn",
+                "Kefka, Court Mage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Матюнин Антон",
+                "Azusa, Lost but Seeking",
+                "Taii Wakeen, Perfect Shot",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Майоров Влад",
+                "Павликов Владислав",
+                "Grist, the Hunger Tide",
+                "Hidetsugu and Kairi",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Третьяков Дмитрий",
+                "Сайфутдинов Тимур",
+                "Flubs, the Fool",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кузьмин Руслан",
+                "Ревин Владимир",
+                "Tifa Lockhart",
+                "Cecil, Dark Knight",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Стрельцов Артем",
+                "Костин Андрей",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Imskir Iron-Eater",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Лагерев Леонид",
+                "Mm'menon, the Right Hand",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Майоров Влад",
+                "Мещеряков Максим",
+                "Grist, the Hunger Tide",
+                "Kefka, Court Mage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Циулин Иван",
+                "G'raha Tia, Scion Reborn",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Костин Андрей",
+                "Сайфутдинов Тимур",
+                "Imskir Iron-Eater",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Третьяков Дмитрий",
+                "Taii Wakeen, Perfect Shot",
+                "Flubs, the Fool",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Ревин Владимир",
+                "Mm'menon, the Right Hand",
+                "Cecil, Dark Knight",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кузьмин Руслан",
+                "Стрельцов Артем",
+                "Tifa Lockhart",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дартау Сергей",
+                "Лагерев Леонид",
+                "Phelia, Exuberant Shepherd",
+                "Slimefoot and Squee",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93219"
+}

@@ -16,7 +16,7 @@ out_folder = './tournaments_json/'
 #     tournament.dump_to_json(out_folder)
 
 # # # online daily
-# filenames = glob('RawData/OnlineLeague/Online_RUDC_Summer_2025_06_25.txt')
+# filenames = glob('RawData/OnlineLeague/2025_09_15_online.txt')
 # for filename in filenames:
 #     parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_aetherhub, legendary_base)
 #     tournament = parser.get_tournament_from_txt(filename)
@@ -146,13 +146,13 @@ out_folder = './tournaments_json/'
 #     print(tournament)
 #     tournament.dump_to_json(out_folder)
 
-# Samara_data data
-filenames = glob('RawData/Samara_data/2025_09_20_Samara_Regular.txt')
-for filename in filenames:
-    parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_aetherhub, legendary_base)
-    tournament = parser.get_tournament_from_txt(filename)
-    print(tournament)
-    tournament.dump_to_json(out_folder)
+# # Samara_data data
+# filenames = glob('RawData/Samara_data/2025_09_20_Samara_Regular.txt')
+# for filename in filenames:
+#     parser = ParseRawTxtCommon(ParseRawTxtCommon.parser_aetherhub, legendary_base)
+#     tournament = parser.get_tournament_from_txt(filename)
+#     print(tournament)
+#     tournament.dump_to_json(out_folder)
 
 # # Ulyanovsk data
 # filenames = glob('RawData/Ulyanovsk/2025_09_14_Ulyanovsk_Regular.txt')
