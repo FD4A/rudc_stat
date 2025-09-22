@@ -681,7 +681,7 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
   + Thrasios, Triton Hero       
        vs Taii Wakeen, Perfect Shot        (w:0 l:2 d:0), (2/4)
        vs Slimefoot and Squee              (w:3 l:2 d:2), (8/9)
-       vs Yoshimaru, Ever Faithful         (w:1 l:1 d:0), (3/3)
+       vs Yoshimaru, Ever Faithful         (w:1 l:3 d:0), (3/7)
         + Kraum, Ludevic's Opus           
        vs Imskir Iron-Eater                (w:2 l:3 d:0), (6/6)
        vs Tifa Lockhart                    (w:1 l:2 d:0), (4/5)
@@ -761,8 +761,6 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
        vs Aminatou, the Fateshifter        (w:2 l:1 d:0), (4/2)
        vs Elminster                        (w:3 l:0 d:2), (7/2)
        vs The Wandering Minstrel           (w:1 l:0 d:0), (2/1)
-       vs Yoshimaru, Ever Faithful         (w:0 l:2 d:0), (0/4)
-        + Ludevic, Necro-Alchemist        
        vs Vivi Ornitier                    (w:1 l:0 d:0), (1/0)
        vs Anowon, the Ruin Sage            (w:1 l:0 d:1), (3/1)
        vs Anafenza, the Foremost           (w:1 l:0 d:0), (2/0)
@@ -953,8 +951,8 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
        vs Arahbo, Roar of the World        (w:3 l:0 d:0), (6/1)
        vs Golos, Tireless Pilgrim          (w:0 l:2 d:1), (2/5)
        vs Feldon, Ronom Excavator          (w:1 l:4 d:0), (2/9)
-       vs Yoshimaru, Ever Faithful         (w:1 l:2 d:0), (4/4)
-        + Ludevic, Necro-Alchemist        
+       vs Yoshimaru, Ever Faithful         (w:3 l:5 d:0), (11/12)
+        + Kraum, Ludevic's Opus           
        vs Elminster                        (w:1 l:0 d:1), (3/1)
        vs Teferi, Temporal Archmage        (w:0 l:2 d:1), (1/5)
        vs Thrasios, Triton Hero            (w:1 l:0 d:0), (2/0)
@@ -981,8 +979,6 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
         + Thrasios, Triton Hero           
        vs The Wandering Rescuer            (w:0 l:1 d:0), (0/2)
        vs Vial Smasher the Fierce          (w:1 l:0 d:0), (2/1)
-       vs Yoshimaru, Ever Faithful         (w:2 l:3 d:0), (7/8)
-        + Kraum, Ludevic's Opus           
        vs Imskir Iron-Eater                (w:0 l:1 d:0), (1/2)
        vs Chishiro, the Shattered Blade    (w:1 l:0 d:0), (2/0)
        vs Animar, Soul of Elements         (w:1 l:0 d:0), (2/1)
@@ -1474,7 +1470,7 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
        vs Rograkh, Son of Rohgahh          (w:1 l:0 d:0), (2/0)
         + Tymna the Weaver                
        vs Imskir Iron-Eater                (w:1 l:0 d:0), (2/0)
-       vs Yoshimaru, Ever Faithful         (w:0 l:0 d:1), (1/1)
+       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:1), (2/3)
         + Kraum, Ludevic's Opus           
        vs Azusa, Lost but Seeking          (w:1 l:2 d:0), (2/4)
        vs G'raha Tia, Scion Reborn         (w:0 l:0 d:1), (1/1)
@@ -1501,8 +1497,6 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
        vs Daretti, Scrap Savant            (w:0 l:1 d:0), (0/2)
        vs Loot, the Pathfinder             (w:1 l:0 d:0), (2/1)
        vs The Wise Mothman                 (w:0 l:1 d:0), (1/2)
-       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
-        + Ludevic, Necro-Alchemist        
        vs Sonic the Hedgehog               (w:1 l:0 d:0), (2/0)
        vs Gonti, Lord of Luxury            (w:1 l:0 d:0), (2/0)
        vs Anafenza, the Foremost           (w:1 l:0 d:0), (2/1)
@@ -1544,7 +1538,7 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
        vs Bruna, Light of Alabaster        (w:1 l:0 d:0), (2/0)
 
 = Feldon, Ronom Excavator          matches:333  WM: 51.35%  LM: 45.35%  DM:  3.30% (wm:171 lm:151 dm:11) games:825  WG: 51.64% LG: 47.64% (wg: 426 lg: 393) pick: 90   Samara(34), Spb(18), Volgograd(12), Tomsk(9), RostovOnDon(6), Online(5), Simferopl(3), Vladivostok(3), 
-       vs Yoshimaru, Ever Faithful         (w:2 l:9 d:0), (9/19)
+       vs Yoshimaru, Ever Faithful         (w:3 l:12 d:0), (13/25)
         + Kraum, Ludevic's Opus           
        vs Grist, the Hunger Tide           (w:12 l:6 d:0), (28/17)
        vs Plagon, Lord of the Beach        (w:0 l:2 d:0), (2/4)
@@ -1662,8 +1656,6 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
        vs Kellan, Daring Traveler          (w:2 l:0 d:0), (4/1)
        vs Thrasios, Triton Hero            (w:0 l:0 d:1), (0/0)
         + Francisco, Fowl Marauder        
-       vs Yoshimaru, Ever Faithful         (w:1 l:3 d:0), (4/6)
-        + Ludevic, Necro-Alchemist        
        vs Tifa Lockhart                    (w:1 l:0 d:0), (2/0)
        vs Acererak the Archlich            (w:1 l:0 d:0), (2/1)
        vs Rograkh, Son of Rohgahh          (w:0 l:1 d:0), (0/2)
@@ -2541,7 +2533,7 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
        vs Glissa Sunslayer                 (w:0 l:1 d:0), (1/2)
        vs Azusa, Lost but Seeking          (w:1 l:1 d:0), (3/3)
        vs Winter, Cursed Rider             (w:1 l:0 d:0), (2/1)
-       vs Yoshimaru, Ever Faithful         (w:1 l:1 d:0), (3/3)
+       vs Yoshimaru, Ever Faithful         (w:1 l:3 d:0), (3/7)
         + Kraum, Ludevic's Opus           
        vs Tymna the Weaver                 (w:0 l:1 d:0), (1/2)
         + Thrasios, Triton Hero           
@@ -2556,8 +2548,6 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
        vs Dihada, Binder of Wills          (w:4 l:1 d:0), (9/3)
        vs Oloro, Ageless Ascetic           (w:1 l:0 d:0), (2/0)
        vs G'raha Tia, Scion Reborn         (w:0 l:4 d:0), (3/8)
-       vs Yoshimaru, Ever Faithful         (w:0 l:2 d:0), (0/4)
-        + Ludevic, Necro-Alchemist        
        vs Thrasta, Tempest's Roar          (w:1 l:0 d:0), (2/1)
        vs Rograkh, Son of Rohgahh          (w:0 l:1 d:0), (0/2)
         + Silas Renn, Seeker Adept        
@@ -2735,7 +2725,7 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
        vs Dihada, Binder of Wills          (w:1 l:1 d:0), (3/3)
        vs Arahbo, Roar of the World        (w:2 l:1 d:0), (5/3)
        vs Yoshimaru, Ever Faithful         (w:1 l:1 d:0), (2/2)
-        + Ludevic, Necro-Alchemist        
+        + Kraum, Ludevic's Opus           
        vs Teferi, Temporal Archmage        (w:0 l:1 d:0), (0/2)
        vs Feldon, Ronom Excavator          (w:1 l:1 d:1), (3/3)
        vs Cloud, Midgar Mercenary          (w:1 l:0 d:0), (2/0)
@@ -3467,7 +3457,7 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
        vs Yarok, the Desecrated            (w:1 l:0 d:0), (2/1)
 
 = Phelia, Exuberant Shepherd       matches:337  WM: 45.70%  LM: 43.03%  DM: 11.28% (wm:154 lm:145 dm:38) games:773  WG: 51.36% LG: 47.87% (wg: 397 lg: 370) pick: 96   Spb(44), RostovOnDon(27), Tomsk(11), Samara(9), Volgograd(3), Online(2), 
-       vs Yoshimaru, Ever Faithful         (w:1 l:3 d:1), (4/7)
+       vs Yoshimaru, Ever Faithful         (w:2 l:3 d:1), (6/7)
         + Kraum, Ludevic's Opus           
        vs Mm'menon, the Right Hand         (w:2 l:1 d:0), (5/2)
        vs Imskir Iron-Eater                (w:0 l:2 d:0), (1/4)
@@ -3581,8 +3571,6 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
        vs Inti, Seneschal of the Sun       (w:0 l:1 d:0), (1/2)
        vs Bristly Bill, Spine Sower        (w:1 l:0 d:0), (2/0)
        vs Ultima, Origin of Oblivion       (w:1 l:0 d:0), (2/0)
-       vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
-        + Ludevic, Necro-Alchemist        
        vs Terra, Herald of Hope            (w:0 l:1 d:0), (0/2)
        vs Terra, Magical Adept             (w:0 l:1 d:0), (1/2)
 
@@ -3683,7 +3671,7 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
        vs Six                              (w:0 l:1 d:0), (1/2)
        vs Seton, Krosan Protector          (w:1 l:0 d:0), (2/0)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
-        + Ludevic, Necro-Alchemist        
+        + Kraum, Ludevic's Opus           
        vs Rofellos, Llanowar Emissary      (w:1 l:0 d:0), (2/1)
 
 = Ral, Monsoon Mage                matches:78   WM: 52.56%  LM: 38.46%  DM:  8.97% (wm:41  lm:30  dm:7)  games:177  WG: 54.80% LG: 45.20% (wg:  97 lg:  80) pick: 20   Tomsk(11), Spb(4), Online(3), Volgograd(1), RostovOnDon(1), 
@@ -4214,12 +4202,10 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
        vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (2/0)
        vs Rograkh, Son of Rohgahh          (w:2 l:0 d:0), (4/1)
         + Tevesh Szat, Doom of Fools      
-       vs Yoshimaru, Ever Faithful         (w:4 l:1 d:1), (8/3)
-        + Ludevic, Necro-Alchemist        
+       vs Yoshimaru, Ever Faithful         (w:5 l:1 d:1), (10/3)
+        + Kraum, Ludevic's Opus           
        vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/0)
        vs Imskir Iron-Eater                (w:0 l:1 d:0), (1/2)
-       vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
-        + Kraum, Ludevic's Opus           
        vs Tifa Lockhart                    (w:1 l:0 d:0), (2/0)
        vs Seton, Krosan Protector          (w:1 l:0 d:0), (2/1)
        vs Queen Marchesa                   (w:1 l:0 d:0), (2/1)
@@ -4687,7 +4673,7 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
        vs Grist, the Hunger Tide           (w:1 l:0 d:0), (2/0)
        vs Elminster                        (w:1 l:0 d:0), (2/0)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
-        + Ludevic, Necro-Alchemist        
+        + Kraum, Ludevic's Opus           
 
 = The Wandering Rescuer            matches:4    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:4   lm:0   dm:0)  games:9    WG: 88.89% LG: 11.11% (wg:   8 lg:   1) pick: 2    Online(1), Spb(1), 
        vs Dihada, Binder of Wills          (w:1 l:0 d:0), (2/0)
@@ -4813,8 +4799,8 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
        vs Dihada, Binder of Wills          (w:0 l:4 d:0), (0/8)
        vs Elminster                        (w:0 l:2 d:0), (0/3)
        vs Deadpool, Trading Card           (w:1 l:1 d:0), (3/3)
-       vs Yoshimaru, Ever Faithful         (w:0 l:2 d:0), (2/4)
-        + Ludevic, Necro-Alchemist        
+       vs Yoshimaru, Ever Faithful         (w:0 l:4 d:0), (3/8)
+        + Kraum, Ludevic's Opus           
        vs Teferi, Temporal Archmage        (w:0 l:2 d:0), (2/4)
        vs Arahbo, Roar of the World        (w:3 l:2 d:0), (6/5)
        vs Niv-Mizzet, Parun                (w:1 l:0 d:0), (2/1)
@@ -4834,8 +4820,6 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
        vs Aragorn, King of Gondor          (w:1 l:0 d:0), (2/1)
        vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (1/2)
        vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (1/2)
-       vs Yoshimaru, Ever Faithful         (w:0 l:2 d:0), (1/4)
-        + Kraum, Ludevic's Opus           
        vs Rograkh, Son of Rohgahh          (w:1 l:0 d:0), (2/0)
         + Tymna the Weaver                
        vs Six                              (w:0 l:1 d:0), (0/2)
@@ -4907,8 +4891,8 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
        vs Heliod, Sun-Crowned              (w:1 l:0 d:0), (1/0)
        vs Rograkh, Son of Rohgahh          (w:2 l:0 d:0), (4/1)
         + Tevesh Szat, Doom of Fools      
-       vs Yoshimaru, Ever Faithful         (w:0 l:3 d:1), (2/6)
-        + Ludevic, Necro-Alchemist        
+       vs Yoshimaru, Ever Faithful         (w:1 l:3 d:1), (4/6)
+        + Kraum, Ludevic's Opus           
        vs Ral, Monsoon Mage                (w:3 l:0 d:0), (6/1)
        vs Thrasios, Triton Hero            (w:1 l:0 d:0), (2/1)
         + Dargo, the Shipwrecker          
@@ -4916,8 +4900,6 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
        vs Glarb, Calamity's Augur          (w:1 l:1 d:0), (3/3)
        vs Iron Man, Titan of Innovation    (w:2 l:3 d:0), (5/8)
        vs Mathas, Fiend Seeker             (w:2 l:0 d:0), (4/0)
-       vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
-        + Kraum, Ludevic's Opus           
        vs Emmara, Soul of the Accord       (w:1 l:0 d:0), (2/0)
        vs Chishiro, the Shattered Blade    (w:1 l:0 d:0), (2/0)
        vs Satoru, the Infiltrator          (w:0 l:1 d:0), (1/2)
@@ -5234,7 +5216,7 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
        vs Bristly Bill, Spine Sower        (w:1 l:0 d:0), (2/0)
        vs Balmor, Battlemage Captain       (w:0 l:1 d:0), (0/2)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
-        + Ludevic, Necro-Alchemist        
+        + Kraum, Ludevic's Opus           
 
 = Wilhelt, the Rotcleaver          matches:11   WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:11  dm:0)  games:24   WG:  8.33% LG: 91.67% (wg:   2 lg:  22) pick: 4    Ussuriysk(2), Volgograd(1), Spb(1), 
        vs Flamewar, Brash Veteran          (w:0 l:2 d:0), (0/4)
@@ -5282,7 +5264,7 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
        vs Rograkh, Son of Rohgahh          (w:1 l:1 d:0), (3/2)
         + Silas Renn, Seeker Adept        
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
-        + Ludevic, Necro-Alchemist        
+        + Kraum, Ludevic's Opus           
 
 = Winter, Cursed Rider             matches:9    WM: 44.44%  LM: 44.44%  DM: 11.11% (wm:4   lm:4   dm:1)  games:20   WG: 50.00% LG: 50.00% (wg:  10 lg:  10) pick: 3    Online(2), Tomsk(1), 
        vs Ertai Resurrected                (w:1 l:0 d:0), (2/0)
@@ -5445,15 +5427,15 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
         + Ikra Shidiqi, the Usurper       
        vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/1)
 
-= Yoshimaru, Ever Faithful         matches:119  WM: 66.39%  LM: 28.57%  DM:  5.04% (wm:79  lm:34  dm:6)  games:302  WG: 61.92% LG: 37.75% (wg: 187 lg: 114) pick: 31   Samara(12), Spb(12), Volgograd(4), Online(3), 
+= Yoshimaru, Ever Faithful         matches:148  WM: 66.89%  LM: 27.70%  DM:  5.41% (wm:99  lm:41  dm:8)  games:366  WG: 61.75% LG: 37.43% (wg: 226 lg: 137) pick: 37   Samara(12), Spb(12), Volgograd(9), Online(3), RostovOnDon(1), 
   + Kraum, Ludevic's Opus       
-       vs Phelia, Exuberant Shepherd       (w:3 l:1 d:1), (7/4)
+       vs Phelia, Exuberant Shepherd       (w:3 l:2 d:1), (7/6)
        vs Taii Wakeen, Perfect Shot        (w:0 l:1 d:0), (0/2)
-       vs Bruse Tarl, Boorish Herder       (w:1 l:1 d:0), (3/3)
+       vs Bruse Tarl, Boorish Herder       (w:3 l:1 d:0), (7/3)
         + Thrasios, Triton Hero           
        vs Flubs, the Fool                  (w:2 l:0 d:0), (4/1)
        vs Imskir Iron-Eater                (w:1 l:0 d:0), (2/1)
-       vs Feldon, Ronom Excavator          (w:9 l:2 d:0), (19/9)
+       vs Feldon, Ronom Excavator          (w:12 l:3 d:0), (25/13)
        vs Plagon, Lord of the Beach        (w:2 l:0 d:0), (4/1)
        vs Gut, True Soul Zealot            (w:0 l:1 d:0), (1/2)
         + Agent of the Iron Throne        
@@ -5463,6 +5445,9 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
         + Tymna the Weaver                
        vs Kellan, Daring Traveler          (w:5 l:1 d:0), (11/3)
        vs Muxus, Goblin Grandee            (w:3 l:1 d:0), (7/3)
+       vs Kefka, Court Mage                (w:1 l:1 d:0), (2/2)
+       vs Tifa Lockhart                    (w:4 l:0 d:0), (8/3)
+       vs Deadpool, Trading Card           (w:5 l:3 d:0), (12/11)
        vs Shorikai, Genesis Engine         (w:3 l:1 d:1), (8/3)
        vs Urabrask                         (w:0 l:1 d:0), (1/2)
        vs Gut, True Soul Zealot            (w:3 l:1 d:0), (6/4)
@@ -5476,20 +5461,18 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
        vs Vial Smasher the Fierce          (w:0 l:1 d:0), (1/2)
        vs Satya, Aetherflux Genius         (w:3 l:2 d:0), (8/6)
        vs Slimefoot and Squee              (w:2 l:1 d:0), (4/3)
+       vs Six                              (w:1 l:5 d:1), (3/10)
+       vs Tivit, Seller of Secrets         (w:3 l:1 d:1), (6/4)
        vs Winter, Cynical Opportunist      (w:1 l:0 d:0), (2/1)
        vs Dihada, Binder of Wills          (w:2 l:1 d:0), (5/3)
        vs Ghired, Mirror of the Wilds      (w:1 l:0 d:0), (2/0)
        vs Satoru, the Infiltrator          (w:0 l:1 d:0), (1/2)
-       vs Tivit, Seller of Secrets         (w:0 l:1 d:0), (0/2)
        vs Elminster                        (w:1 l:1 d:0), (3/2)
-       vs Tifa Lockhart                    (w:2 l:0 d:0), (4/1)
-       vs Deadpool, Trading Card           (w:3 l:2 d:0), (8/7)
-       vs Six                              (w:0 l:1 d:0), (0/2)
-       vs Ezio Auditore da Firenze         (w:0 l:0 d:1), (1/1)
+       vs Ezio Auditore da Firenze         (w:1 l:0 d:1), (3/2)
        vs Ghyrson Starn, Kelermorph        (w:1 l:2 d:0), (2/4)
        vs Juri, Master of the Revue        (w:1 l:0 d:0), (2/0)
        vs Ketramose, the New Dawn          (w:1 l:0 d:0), (2/0)
-       vs Iron Man, Titan of Innovation    (w:1 l:1 d:0), (3/3)
+       vs Iron Man, Titan of Innovation    (w:3 l:1 d:0), (7/3)
        vs Hidetsugu and Kairi              (w:1 l:0 d:0), (2/0)
        vs G'raha Tia, Scion Reborn         (w:2 l:0 d:0), (4/2)
        vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/0)
@@ -5497,34 +5480,16 @@ Volgograd-2025_08_31-Regular-Rombik34rus-players[12]
         + Dargo, the Shipwrecker          
        vs Bello, Bard of the Brambles      (w:1 l:0 d:0), (2/1)
        vs Geist of Saint Traft             (w:1 l:0 d:0), (2/1)
+       vs Queen Marchesa                   (w:1 l:0 d:0), (2/0)
        vs Peter Parker                     (w:1 l:0 d:0), (2/0)
        vs Aragorn, King of Gondor          (w:1 l:0 d:0), (2/0)
        vs Teferi, Temporal Archmage        (w:0 l:2 d:0), (1/4)
-       vs Yoshimaru, Ever Faithful         (w:0 l:2 d:0), (2/4)
-        + Ludevic, Necro-Alchemist        
        vs Oloro, Ageless Ascetic           (w:2 l:0 d:0), (4/2)
        vs Arahbo, Roar of the World        (w:1 l:0 d:0), (2/1)
+       vs The Wandering Minstrel           (w:1 l:0 d:0), (2/0)
        vs Azusa, Lost but Seeking          (w:1 l:0 d:0), (2/1)
        vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/0)
        vs Cloud, Midgar Mercenary          (w:1 l:0 d:0), (2/1)
-
-= Yoshimaru, Ever Faithful         matches:33   WM: 66.67%  LM: 27.27%  DM:  6.06% (wm:22  lm:9   dm:2)  games:76   WG: 59.21% LG: 38.16% (wg:  45 lg:  29) pick: 6    Volgograd(5), RostovOnDon(1), 
-  + Ludevic, Necro-Alchemist    
-       vs Kefka, Court Mage                (w:1 l:1 d:0), (2/2)
-       vs Tifa Lockhart                    (w:2 l:0 d:0), (4/2)
-       vs Deadpool, Trading Card           (w:2 l:1 d:0), (4/4)
-       vs Six                              (w:1 l:4 d:1), (3/8)
-       vs Tivit, Seller of Secrets         (w:3 l:0 d:1), (6/2)
-       vs Iron Man, Titan of Innovation    (w:2 l:0 d:0), (4/0)
-       vs Queen Marchesa                   (w:1 l:0 d:0), (2/0)
-       vs Feldon, Ronom Excavator          (w:3 l:1 d:0), (6/4)
-       vs Yoshimaru, Ever Faithful         (w:2 l:0 d:0), (4/2)
-        + Kraum, Ludevic's Opus           
-       vs Ezio Auditore da Firenze         (w:1 l:0 d:0), (2/1)
-       vs Bruse Tarl, Boorish Herder       (w:2 l:0 d:0), (4/0)
-        + Thrasios, Triton Hero           
-       vs The Wandering Minstrel           (w:1 l:0 d:0), (2/0)
-       vs Phelia, Exuberant Shepherd       (w:0 l:1 d:0), (0/2)
        vs Vivi Ornitier                    (w:1 l:0 d:0), (2/0)
        vs Winota, Joiner of Forces         (w:0 l:1 d:0), (0/2)
 

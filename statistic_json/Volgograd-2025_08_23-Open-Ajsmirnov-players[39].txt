@@ -30,7 +30,7 @@
        vs Arahbo, Roar of the World        (w:1 l:0 d:0), (2/1)
        vs The Wandering Minstrel           (w:1 l:0 d:0), (2/1)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
-        + Ludevic, Necro-Alchemist        
+        + Kraum, Ludevic's Opus           
        vs Elminster                        (w:1 l:0 d:0), (2/0)
        vs Tivit, Seller of Secrets         (w:0 l:1 d:0), (0/2)
        vs Iron Man, Titan of Innovation    (w:0 l:1 d:0), (1/2)
@@ -82,20 +82,18 @@
        vs Rograkh, Son of Rohgahh          (w:1 l:0 d:0), (2/0)
         + Tevesh Szat, Doom of Fools      
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
-        + Ludevic, Necro-Alchemist        
+        + Kraum, Ludevic's Opus           
        vs Tivit, Seller of Secrets         (w:0 l:1 d:1), (2/3)
 
 
 = Feldon, Ronom Excavator          matches:21   WM: 52.38%  LM: 42.86%  DM:  4.76% (wm:11  lm:9   dm:1)  games:51   WG: 52.94% LG: 45.10% (wg:  27 lg:  23) pick: 3    Volgograd(3), 
-       vs Yoshimaru, Ever Faithful         (w:1 l:3 d:0), (4/6)
-        + Ludevic, Necro-Alchemist        
+       vs Yoshimaru, Ever Faithful         (w:3 l:4 d:0), (8/9)
+        + Kraum, Ludevic's Opus           
        vs Dihada, Binder of Wills          (w:1 l:1 d:0), (3/3)
        vs Tifa Lockhart                    (w:1 l:0 d:0), (2/0)
        vs Bruse Tarl, Boorish Herder       (w:0 l:1 d:0), (0/2)
         + Thrasios, Triton Hero           
        vs Grist, the Hunger Tide           (w:1 l:1 d:0), (3/2)
-       vs Yoshimaru, Ever Faithful         (w:2 l:1 d:0), (4/3)
-        + Kraum, Ludevic's Opus           
        vs Acererak the Archlich            (w:1 l:0 d:0), (2/1)
        vs Rograkh, Son of Rohgahh          (w:0 l:1 d:0), (0/2)
         + Tevesh Szat, Doom of Fools      
@@ -151,7 +149,7 @@
        vs Cloud, Midgar Mercenary          (w:1 l:0 d:0), (2/1)
        vs Feldon, Ronom Excavator          (w:1 l:0 d:0), (2/1)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
-        + Ludevic, Necro-Alchemist        
+        + Kraum, Ludevic's Opus           
 
 
 = Kefka, Court Mage                matches:6    WM: 33.33%  LM: 66.67%  DM:  0.00% (wm:2   lm:4   dm:0)  games:15   WG: 40.00% LG: 60.00% (wg:   6 lg:   9) pick: 1    Volgograd(1), 
@@ -205,7 +203,7 @@
        vs Arahbo, Roar of the World        (w:1 l:0 d:0), (2/0)
        vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/0)
        vs Yoshimaru, Ever Faithful         (w:2 l:1 d:1), (4/2)
-        + Ludevic, Necro-Alchemist        
+        + Kraum, Ludevic's Opus           
        vs Rograkh, Son of Rohgahh          (w:1 l:0 d:0), (2/0)
         + Tymna the Weaver                
        vs Feldon, Ronom Excavator          (w:0 l:0 d:1), (0/0)
@@ -229,7 +227,7 @@
        vs Grist, the Hunger Tide           (w:1 l:0 d:0), (2/0)
        vs Elminster                        (w:1 l:0 d:0), (2/0)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
-        + Ludevic, Necro-Alchemist        
+        + Kraum, Ludevic's Opus           
 
 
 = Tifa Lockhart                    matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:14   WG: 50.00% LG: 50.00% (wg:   7 lg:   7) pick: 1    Volgograd(1), 
@@ -246,7 +244,7 @@
        vs Arahbo, Roar of the World        (w:1 l:0 d:0), (2/0)
        vs Golos, Tireless Pilgrim          (w:3 l:0 d:0), (5/1)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:1), (1/2)
-        + Ludevic, Necro-Alchemist        
+        + Kraum, Ludevic's Opus           
        vs Elminster                        (w:1 l:0 d:0), (2/0)
        vs Rograkh, Son of Rohgahh          (w:1 l:1 d:1), (2/3)
         + Tymna the Weaver                
@@ -281,29 +279,20 @@
        vs Grist, the Hunger Tide           (w:1 l:0 d:0), (2/0)
 
 
-= Yoshimaru, Ever Faithful         matches:12   WM: 58.33%  LM: 41.67%  DM:  0.00% (wm:7   lm:5   dm:0)  games:30   WG: 56.67% LG: 43.33% (wg:  17 lg:  13) pick: 2    Volgograd(2), 
+= Yoshimaru, Ever Faithful         matches:24   WM: 66.67%  LM: 25.00%  DM:  8.33% (wm:16  lm:6   dm:2)  games:54   WG: 61.11% LG: 35.19% (wg:  33 lg:  19) pick: 4    Volgograd(4), 
   + Kraum, Ludevic's Opus       
+       vs Feldon, Ronom Excavator          (w:4 l:3 d:0), (9/8)
        vs Grist, the Hunger Tide           (w:1 l:0 d:0), (2/0)
-       vs Yoshimaru, Ever Faithful         (w:0 l:2 d:0), (2/4)
-        + Ludevic, Necro-Alchemist        
-       vs Tifa Lockhart                    (w:1 l:0 d:0), (2/0)
-       vs Feldon, Ronom Excavator          (w:1 l:2 d:0), (3/4)
-       vs Teferi, Temporal Archmage        (w:0 l:1 d:0), (0/2)
-       vs Oloro, Ageless Ascetic           (w:2 l:0 d:0), (4/2)
-       vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/0)
-       vs Arahbo, Roar of the World        (w:1 l:0 d:0), (2/1)
-
-
-= Yoshimaru, Ever Faithful         matches:16   WM: 68.75%  LM: 18.75%  DM: 12.50% (wm:11  lm:3   dm:2)  games:36   WG: 61.11% LG: 33.33% (wg:  22 lg:  12) pick: 2    Volgograd(2), 
-  + Ludevic, Necro-Alchemist    
-       vs Feldon, Ronom Excavator          (w:3 l:1 d:0), (6/4)
-       vs Yoshimaru, Ever Faithful         (w:2 l:0 d:0), (4/2)
-        + Kraum, Ludevic's Opus           
        vs Tivit, Seller of Secrets         (w:1 l:0 d:1), (2/1)
+       vs Tifa Lockhart                    (w:1 l:0 d:0), (2/0)
        vs Six                              (w:1 l:2 d:1), (2/4)
+       vs Teferi, Temporal Archmage        (w:0 l:1 d:0), (0/2)
        vs Ezio Auditore da Firenze         (w:1 l:0 d:0), (2/1)
        vs Bruse Tarl, Boorish Herder       (w:1 l:0 d:0), (2/0)
         + Thrasios, Triton Hero           
+       vs Oloro, Ageless Ascetic           (w:2 l:0 d:0), (4/2)
+       vs Golos, Tireless Pilgrim          (w:1 l:0 d:0), (2/0)
+       vs Arahbo, Roar of the World        (w:1 l:0 d:0), (2/1)
        vs The Wandering Minstrel           (w:1 l:0 d:0), (2/0)
        vs Iron Man, Titan of Innovation    (w:1 l:0 d:0), (2/0)
 

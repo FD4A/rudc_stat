@@ -15,10 +15,10 @@ players::generals
 Бутримов, Виктор :: Grist, the Hunger Tide
 Шубенин, Илья :: God-Eternal Kefnet
 Воронцов, Иван :: Hakbal of the Surging Soul
-Козлов, Максим :: Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist
+Козлов, Максим :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
 Кузьменко, Иван :: Bjorna, Nightfall Alchemist :+: Wernog, Rider's Chaplain :++: Lurrus of the Dream-Den
 Серпутько, Слава :: Malcolm, Alluring Scoundrel
-Орешкин, Дмитрий :: Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist
+Орешкин, Дмитрий :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
 Костин, Андрей :: Akiri, Line-Slinger :+: Silas Renn, Seeker Adept
 Сухов, Никита :: Aminatou, the Fateshifter
 Мещеряков, Максим :: Asmoranomardicadaistinaculdacar

@@ -6,7 +6,7 @@
        vs Slimefoot and Squee              (w:0 l:1 d:0), (1/2)
        vs Aminatou, the Fateshifter        (w:0 l:2 d:0), (0/4)
        vs Yoshimaru, Ever Faithful         (w:2 l:0 d:0), (4/0)
-        + Ludevic, Necro-Alchemist        
+        + Kraum, Ludevic's Opus           
        vs Erayo, Soratami Ascendant        (w:1 l:0 d:0), (2/1)
        vs Kinnan, Bonder Prodigy           (w:0 l:1 d:0), (1/2)
        vs Rona, Herald of Invasion         (w:1 l:1 d:0), (2/2)
@@ -34,14 +34,14 @@
        vs Grist, the Hunger Tide           (w:0 l:1 d:0), (0/2)
        vs Rona, Herald of Invasion         (w:1 l:0 d:0), (2/0)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
-        + Ludevic, Necro-Alchemist        
+        + Kraum, Ludevic's Opus           
 
 
 = Atraxa, Grand Unifier            matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:14   WG: 71.43% LG: 28.57% (wg:  10 lg:   4) pick: 1    Online(1), 
        vs Malcolm, Alluring Scoundrel      (w:0 l:1 d:0), (1/2)
        vs Atraxa, Praetors' Voice          (w:1 l:0 d:0), (2/0)
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
-        + Ludevic, Necro-Alchemist        
+        + Kraum, Ludevic's Opus           
        vs Tergrid, God of Fright           (w:0 l:1 d:0), (1/2)
        vs Leovold, Emissary of Trest       (w:1 l:0 d:0), (2/0)
        vs Aminatou, the Fateshifter        (w:1 l:0 d:0), (2/0)
@@ -61,7 +61,7 @@
   + Wernog, Rider's Chaplain    
   + Lurrus of the Dream-Den     
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
-        + Ludevic, Necro-Alchemist        
+        + Kraum, Ludevic's Opus           
        vs Kellan, the Fae-Blooded          (w:0 l:1 d:0), (0/2)
        vs Yoshimaru, Ever Faithful         (w:3 l:0 d:0), (6/1)
         + Tana, the Bloodsower            
@@ -92,7 +92,7 @@
        vs Akiri, Line-Slinger              (w:0 l:1 d:0), (1/2)
         + Silas Renn, Seeker Adept        
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
-        + Ludevic, Necro-Alchemist        
+        + Kraum, Ludevic's Opus           
        vs The Beamtown Bullies             (w:0 l:1 d:0), (1/2)
 
 
@@ -119,13 +119,13 @@
         + Wernog, Rider's Chaplain        
         + Lurrus of the Dream-Den         
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
-        + Ludevic, Necro-Alchemist        
+        + Kraum, Ludevic's Opus           
        vs Atraxa, Praetors' Voice          (w:0 l:1 d:0), (0/2)
 
 
 = Grist, the Hunger Tide           matches:7    WM: 57.14%  LM: 42.86%  DM:  0.00% (wm:4   lm:3   dm:0)  games:16   WG: 56.25% LG: 43.75% (wg:   9 lg:   7) pick: 1    Online(1), 
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
-        + Ludevic, Necro-Alchemist        
+        + Kraum, Ludevic's Opus           
        vs Malcolm, Alluring Scoundrel      (w:1 l:0 d:0), (2/1)
        vs Yoshimaru, Ever Faithful         (w:0 l:2 d:0), (1/4)
         + Tana, the Bloodsower            
@@ -170,7 +170,7 @@
         + Silas Renn, Seeker Adept        
        vs Dihada, Binder of Wills          (w:0 l:1 d:0), (1/2)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
-        + Ludevic, Necro-Alchemist        
+        + Kraum, Ludevic's Opus           
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
         + Tana, the Bloodsower            
 
@@ -274,13 +274,13 @@
        vs God-Eternal Kefnet               (w:0 l:1 d:0), (0/2)
        vs Atraxa, Praetors' Voice          (w:1 l:0 d:0), (2/0)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
-        + Ludevic, Necro-Alchemist        
+        + Kraum, Ludevic's Opus           
        vs Akiri, Line-Slinger              (w:1 l:1 d:0), (2/2)
         + Silas Renn, Seeker Adept        
 
 
 = Yoshimaru, Ever Faithful         matches:12   WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:6   lm:6   dm:0)  games:28   WG: 46.43% LG: 53.57% (wg:  13 lg:  15) pick: 2    Online(2), 
-  + Ludevic, Necro-Alchemist    
+  + Kraum, Ludevic's Opus       
        vs Grist, the Hunger Tide           (w:0 l:1 d:0), (0/2)
        vs Bjorna, Nightfall Alchemist      (w:1 l:0 d:0), (2/0)
         + Wernog, Rider's Chaplain        
@@ -307,7 +307,7 @@
        vs Erayo, Soratami Ascendant        (w:1 l:0 d:0), (2/0)
        vs Omnath, Locus of Creation        (w:2 l:2 d:0), (6/4)
        vs Yoshimaru, Ever Faithful         (w:2 l:0 d:0), (4/1)
-        + Ludevic, Necro-Alchemist        
+        + Kraum, Ludevic's Opus           
        vs Magda, Brazen Outlaw             (w:2 l:2 d:0), (4/4)
        vs Leovold, Emissary of Trest       (w:1 l:0 d:0), (2/1)
        vs Dihada, Binder of Wills          (w:0 l:1 d:0), (0/2)

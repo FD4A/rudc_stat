@@ -3,14 +3,14 @@ level::Open
 date::2025_08_23
 organizer::Ajsmirnov
 players::generals
-Краснов Илья :: Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist
+Краснов Илья :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
 Антипин Костя :: Feldon, Ronom Excavator
 Серпутько Слава :: Six
 Мещеряков Максим :: Tivit, Seller of Secrets
 Иванов Никита :: Rograkh, Son of Rohgahh :+: Tymna the Weaver
 Арушанян Тигран :: Tivit, Seller of Secrets
 Костин Андрей :: Iron Man, Titan of Innovation
-Фролов Евгений :: Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist
+Фролов Евгений :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
 Сухов Никитка :: Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools
 Орешкин Дмитрий :: Vivi Ornitier
 Вахитов Ривкат :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus

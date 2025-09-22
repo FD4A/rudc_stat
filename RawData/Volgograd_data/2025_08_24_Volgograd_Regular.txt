@@ -13,7 +13,7 @@ players::generals
 Максим Мещеряков :: Kefka, Court Mage
 Виталий Васильев :: Queen Marchesa
 Игорь Курмакаев :: Grist, the Hunger Tide
-Филипп Грабовой :: Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist
+Филипп Грабовой :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
 Максим Тяпайкин :: Deadpool, Trading Card
 Сергей Ижерский :: Golos, Tireless Pilgrim
 Яков Филинков :: Golos, Tireless Pilgrim
