@@ -1,0 +1,23 @@
+location::Online
+level::Regular
+date::2025_09_15
+organizer::Ajsmirnov
+players::generals
+Поляков Герман :: G'Raha, Scion Reborn
+Мещеряков Максим :: Kefka, Court Mage
+Циулин Иван :: Azusa, Lost but Seeking
+Матюнин Антон :: Taii Waiki Perfect Shot
+Майоров Влад :: Grist, the Hunger Tide
+Павликов Владислав :: Hidetsugu and Kairi
+Третьяков Дмитрий :: Flubs, the Fool
+Сайфутдинов Тимур :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Кузьмин Руслан :: Tifa Lockhart
+Ревин Владимир :: Cecil, Dark Knight
+Стрельцов Артем :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Костин Андрей :: Imskir Iron-Eater
+Барабаш Валентин :: Mm'menon, the Right Hand
+Лагерев Леонид :: Slimefoot and Squee
+Булочко Михаил :: Iron Man, Titan of Innovation
+Дартау Сергей :: Phelia, Exuberant Shepherd
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93219

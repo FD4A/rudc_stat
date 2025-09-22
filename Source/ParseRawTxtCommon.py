@@ -6,6 +6,7 @@ from Source.parsers.LeagueParser import LeagueParser
 from Source.parsers.KrasnodarParser import KrasnodarParser
 from Source.parsers.AetherhubParser import AetherhubParser
 from Source.parsers.TopdeckGG import TopdeckGGParser
+from Source.parsers.MeleeParser import MeleeParser
 
 
 class ParseRawTxtCommon:
@@ -25,6 +26,7 @@ class ParseRawTxtCommon:
     parser_aetherhub = 'aetherhub'
     parser_Krasnodar = 'Krasnodar'
     parser_topdeckGG = 'topdeckGG'
+    parser_melee = 'melee'
 
     def __init__(self, parser_type: str, lb: LegendaryBase):
         self.parser_type = parser_type
@@ -64,6 +66,13 @@ class ParseRawTxtCommon:
             self.tr.fix_generals_names(self.lb)
             self.tr.set_generals_by_players(self.tr.players)
             self.tr.roundsCount = len(self.tr.rounds)
+        elif self.parser_type == ParseRawTxtCommon.parser_melee:
+            self.get_common_data(ParseRawTxtCommon.players_tag)
+            self.get_players_generals()
+            self.tr.url = self.data[self.pos+1]
+            parser = MeleeParser(self.data[self.pos+1], self.lb)
+            [self.tr.roundsCount, self.tr.rounds] = parser.parse_tournament()
+            self.tr.set_generals_by_players(self.tr.players)
         else:
             print("ERROR: Unknown parser")
             exit(1)

@@ -1,0 +1,170 @@
+{
+    "date": "2025_09_12",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Kovalev Alexander",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Cherepovskiy Roman",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Merkulov Vladislav",
+            "Zabaz, the Glimmerwasp"
+        ],
+        [
+            "Saifutdinov Timur",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Posidaylo Artem",
+            "Thalia and The Gitrog Monster"
+        ],
+        [
+            "Maliy Sergey",
+            "Juri, Master of the Revue"
+        ],
+        [
+            "Faydysh Diana",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Somkin Constantin",
+            "Ultima, Origin of Oblivion"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Kovalev Alexander",
+                "Posidaylo Artem",
+                "Feldon, Ronom Excavator",
+                "Thalia and The Gitrog Monster",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Merkulov Vladislav",
+                "Faydysh Diana",
+                "Zabaz, the Glimmerwasp",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Cherepovskiy Roman",
+                "Ultima, Origin of Oblivion",
+                "Arahbo, Roar of the World",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Saifutdinov Timur",
+                "Maliy Sergey",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Merkulov Vladislav",
+                "Kovalev Alexander",
+                "Zabaz, the Glimmerwasp",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Saifutdinov Timur",
+                "Arahbo, Roar of the World",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Maliy Sergey",
+                "Faydysh Diana",
+                "Juri, Master of the Revue",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Posidaylo Artem",
+                "Somkin Constantin",
+                "Thalia and The Gitrog Monster",
+                "Ultima, Origin of Oblivion",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Kovalev Alexander",
+                "Cherepovskiy Roman",
+                "Feldon, Ronom Excavator",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Saifutdinov Timur",
+                "Posidaylo Artem",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Thalia and The Gitrog Monster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Merkulov Vladislav",
+                "Maliy Sergey",
+                "Zabaz, the Glimmerwasp",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Faydysh Diana",
+                "Ultima, Origin of Oblivion",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93652"
+}

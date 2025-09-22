@@ -1,0 +1,26 @@
+location::RostovOnDon
+level::Regular
+date::2025_09_14
+organizer::Constantin
+players::generals
+Likv :: Winota, Joiner of Forces
+deadhamster3 :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+PavB1 :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Артём Стрельцов :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Aragorn1 :: Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist
+Constantin Somkin :: Elminster
+EvgRav :: Terra, Herald of Hope
+Ratato :: Feldon, Ronom Excavator
+RomC13 :: rahbo, Roar of the World
+Maliy :: Tivit, Seller of Secrets
+squonchy :: Deadpool, Trading Card
+ZulaXao :: Balmor, Battlemage Captain
+Meyt :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Oleg Lyalin :: etramose, the New Dawn
+Yukanio :: Phelia, Exuberant Shepherd
+Vados :: Indoraptor, the Perfect Hybrid
+Danila Chursin :: Eshki Dragonclaw
+VlaM3 :: Zabaz, the Glimmerwasp
+illator :: Vivi Ornitier
+Round
+https://melee.gg/Tournament/View/364493

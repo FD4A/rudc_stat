@@ -1,0 +1,21 @@
+location::Spb
+level::Regular
+date::2025_09_18
+organizer::Andysays
+players::generals
+Олифер Егор :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
+Муравьев Роман :: Dihada, Binder of Wills
+Поляков Герман :: G'raha Tia, Scion Reborn
+Мартынов Яков :: Tivit, Seller of Secrets
+Барабаш Валентин :: Iron Man, Titan of Innovation
+Звягин Георгий :: Deadpool, Trading Card
+Протасов Михаил :: Azusa, Lost but Seeking
+Красников Александр :: Thrasta, Tempest's Roar
+Булочко Михаил :: Iron Man, Titan of Innovation
+Федоров Дмитрий Юн :: Ghyrson Starn, Kelermorph
+Егоров Павел :: G'raha Tia, Scion Reborn
+Лычковский Алексей :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Шестаков Игорь :: Peter Parker
+Лагерев Леонид :: Yarok, the Desecrated
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93746

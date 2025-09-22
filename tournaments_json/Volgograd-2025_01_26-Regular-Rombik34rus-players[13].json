@@ -134,9 +134,9 @@
             ],
             [
                 "Артём Ангурцов",
-                "Александр Смирнов",
+                "Максим Обора",
                 "Iron Man, Titan of Innovation",
-                "Muxus, Goblin Grandee",
+                "unknown",
                 [
                     2,
                     1
@@ -226,9 +226,9 @@
             ],
             [
                 "Виталий Васильев",
-                "Александр Смирнов",
+                "Максим Обора",
                 "Grist, the Hunger Tide",
-                "Muxus, Goblin Grandee",
+                "unknown",
                 [
                     0,
                     2
@@ -268,9 +268,9 @@
             ],
             [
                 "Артём Стрельцов",
-                "Александр Смирнов",
+                "Максим Обора",
                 "Lonis, Cryptozoologist",
-                "Muxus, Goblin Grandee",
+                "unknown",
                 [
                     1,
                     2
@@ -307,5 +307,6 @@
                 ]
             ]
         ]
-    ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/36586"
 }

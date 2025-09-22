@@ -1,0 +1,16 @@
+location::Samara
+level::Regular
+date::2025_09_13
+organizer::FDA
+players::generals
+Курмакаев Игорь :: Grist, the Hunger Tide
+Сибикин Антон :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Матюнин Антон :: Gut, True Soul Zealot :+: Agent of the Iron Throne
+Иванов Никита :: Rograkh, Son of Rohgahh :+: Tymna the Weaver
+Безруков Николай :: Feldon, Ronom Excavator
+Краснов Илья :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Тимохин Денис :: Plagon, Lord of the Beach
+Чекулаев Дмитрий :: Feldon, Ronom Excavator
+Кормаков Александр :: Errant and Giada
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93698

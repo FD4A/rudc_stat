@@ -1,0 +1,216 @@
+{
+    "date": "2025_09_13",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "FDA",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Сибикин Антон",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Матюнин Антон",
+            "Gut, True Soul Zealot :+: Agent of the Iron Throne"
+        ],
+        [
+            "Иванов Никита",
+            "Rograkh, Son of Rohgahh :+: Tymna the Weaver"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Краснов Илья",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Тимохин Денис",
+            "Plagon, Lord of the Beach"
+        ],
+        [
+            "Чекулаев Дмитрий",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Кормаков Александр",
+            "Errant and Giada"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Безруков Николай",
+                "Краснов Илья",
+                "Feldon, Ronom Excavator",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Тимохин Денис",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Plagon, Lord of the Beach",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Чекулаев Дмитрий",
+                "Grist, the Hunger Tide",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Матюнин Антон",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Матюнин Антон",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кормаков Александр",
+                "Курмакаев Игорь",
+                "Errant and Giada",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Чекулаев Дмитрий",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Тимохин Денис",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Plagon, Lord of the Beach",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Курмакаев Игорь",
+                "Матюнин Антон",
+                "Grist, the Hunger Tide",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Сибикин Антон",
+                "Feldon, Ronom Excavator",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кормаков Александр",
+                "Краснов Илья",
+                "Errant and Giada",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Чекулаев Дмитрий",
+                "Plagon, Lord of the Beach",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Курмакаев Игорь",
+                "Сибикин Антон",
+                "Grist, the Hunger Tide",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Иванов Никита",
+                "Краснов Илья",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Матюнин Антон",
+                "Тимохин Денис",
+                "Gut, True Soul Zealot :+: Agent of the Iron Throne",
+                "Plagon, Lord of the Beach",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Кормаков Александр",
+                "Feldon, Ronom Excavator",
+                "Errant and Giada",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93698"
+}

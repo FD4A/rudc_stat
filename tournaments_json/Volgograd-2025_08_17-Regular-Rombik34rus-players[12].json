@@ -1,0 +1,308 @@
+{
+    "date": "2025_08_17",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Rombik34rus",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Вячеслав Серпутько",
+            "Six"
+        ],
+        [
+            "Дмитрий Орешкин",
+            "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist"
+        ],
+        [
+            "Никита Сухов",
+            "Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools"
+        ],
+        [
+            "Максим Мещеряков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Артём Ангурцов",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Тимур Сайфутдинов",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Михаил Козлов",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Виталий Васильев",
+            "Queen Marchesa"
+        ],
+        [
+            "Александр Токарев",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Андрей Костин",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Максим Обора",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Артём Стрельцов",
+            "Seton, Krosan Protector"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Андрей Костин",
+                "Тимур Сайфутдинов",
+                "Imskir Iron-Eater",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Виталий Васильев",
+                "Grist, the Hunger Tide",
+                "Queen Marchesa",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Михаил Козлов",
+                "Никита Сухов",
+                "Dihada, Binder of Wills",
+                "Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Артём Стрельцов",
+                "Six",
+                "Seton, Krosan Protector",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Дмитрий Орешкин",
+                "Iron Man, Titan of Innovation",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Максим Обора",
+                "Максим Мещеряков",
+                "Tivit, Seller of Secrets",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Тимур Сайфутдинов",
+                "Никита Сухов",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Дмитрий Орешкин",
+                "Tivit, Seller of Secrets",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Виталий Васильев",
+                "Six",
+                "Queen Marchesa",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Артём Стрельцов",
+                "Grist, the Hunger Tide",
+                "Seton, Krosan Protector",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Максим Обора",
+                "Андрей Костин",
+                "Tivit, Seller of Secrets",
+                "Imskir Iron-Eater",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Михаил Козлов",
+                "Артём Ангурцов",
+                "Dihada, Binder of Wills",
+                "Iron Man, Titan of Innovation",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Вячеслав Серпутько",
+                "Дмитрий Орешкин",
+                "Six",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Никита Сухов",
+                "Александр Токарев",
+                "Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Андрей Костин",
+                "Tivit, Seller of Secrets",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Тимур Сайфутдинов",
+                "Iron Man, Titan of Innovation",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Виталий Васильев",
+                "Артём Стрельцов",
+                "Queen Marchesa",
+                "Seton, Krosan Protector",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Максим Обора",
+                "Михаил Козлов",
+                "Tivit, Seller of Secrets",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Вячеслав Серпутько",
+                "Никита Сухов",
+                "Six",
+                "Rograkh, Son of Rohgahh :+: Tevesh Szat, Doom of Fools",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Дмитрий Орешкин",
+                "Виталий Васильев",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                "Queen Marchesa",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Максим Мещеряков",
+                "Артём Ангурцов",
+                "Tivit, Seller of Secrets",
+                "Iron Man, Titan of Innovation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Александр Токарев",
+                "Тимур Сайфутдинов",
+                "Grist, the Hunger Tide",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Михаил Козлов",
+                "Андрей Костин",
+                "Dihada, Binder of Wills",
+                "Imskir Iron-Eater",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Максим Обора",
+                "Seton, Krosan Protector",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/87590"
+}

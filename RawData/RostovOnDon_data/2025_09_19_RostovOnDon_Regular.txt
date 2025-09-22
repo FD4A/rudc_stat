@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2025_09_19
+organizer::Constantin
+players::generals
+Posidaylo Artem :: Rocco, Cabaretti Caterer
+Cherepovskiy Roman :: Inti, Seneschal of the Sun
+Faydysh Diana :: Phelia, Exuberant Shepherd
+Lukaynov Vadim :: Azusa, Lost but Seeking
+Somkin Constantin :: Ultima, Origin of Oblivion
+Merkulov Vladislav :: Norman Osborn
+Round
+https://aetherhub.com/Tourney/RoundTourney/93785

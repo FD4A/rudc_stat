@@ -1,0 +1,584 @@
+{
+    "date": "2025_09_14",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 8,
+    "players": [
+        [
+            "Likv",
+            "Winota, Joiner of Forces"
+        ],
+        [
+            "deadhamster3",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "PavB1",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Артём Стрельцов",
+            "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero"
+        ],
+        [
+            "Aragorn1",
+            "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist"
+        ],
+        [
+            "Constantin Somkin",
+            "Elminster"
+        ],
+        [
+            "EvgRav",
+            "Terra, Herald of Hope"
+        ],
+        [
+            "Ratato",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "RomC13",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Maliy",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "squonchy",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "ZulaXao",
+            "Balmor, Battlemage Captain"
+        ],
+        [
+            "Meyt",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Oleg Lyalin",
+            "Ketramose, the New Dawn"
+        ],
+        [
+            "Yukanio",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Vados",
+            "Indoraptor, the Perfect Hybrid"
+        ],
+        [
+            "Danila Chursin",
+            "Eshki Dragonclaw"
+        ],
+        [
+            "VlaM3",
+            "Zabaz, the Glimmerwasp"
+        ],
+        [
+            "illator",
+            "Vivi Ornitier"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "VlaM3",
+                "Likv",
+                "Zabaz, the Glimmerwasp",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Maliy",
+                "squonchy",
+                "Tivit, Seller of Secrets",
+                "Deadpool, Trading Card",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Vados",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "deadhamster3",
+                "Constantin Somkin",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Elminster",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Meyt",
+                "RomC13",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Danila Chursin",
+                "PavB1",
+                "Eshki Dragonclaw",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "EvgRav",
+                "Ratato",
+                "Terra, Herald of Hope",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "ZulaXao",
+                "illator",
+                "Balmor, Battlemage Captain",
+                "Vivi Ornitier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Yukanio",
+                "Aragorn1",
+                "Phelia, Exuberant Shepherd",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Ratato",
+                "Артём Стрельцов",
+                "Feldon, Ronom Excavator",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "ZulaXao",
+                "Oleg Lyalin",
+                "Balmor, Battlemage Captain",
+                "Ketramose, the New Dawn",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Likv",
+                "RomC13",
+                "Winota, Joiner of Forces",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "squonchy",
+                "PavB1",
+                "Deadpool, Trading Card",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Aragorn1",
+                "deadhamster3",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Constantin Somkin",
+                "Danila Chursin",
+                "Elminster",
+                "Eshki Dragonclaw",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Vados",
+                "VlaM3",
+                "Indoraptor, the Perfect Hybrid",
+                "Zabaz, the Glimmerwasp",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Yukanio",
+                "illator",
+                "Phelia, Exuberant Shepherd",
+                "Vivi Ornitier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Meyt",
+                "Maliy",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "ZulaXao",
+                "Артём Стрельцов",
+                "Balmor, Battlemage Captain",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Likv",
+                "PavB1",
+                "Winota, Joiner of Forces",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "deadhamster3",
+                "RomC13",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Constantin Somkin",
+                "Oleg Lyalin",
+                "Elminster",
+                "Ketramose, the New Dawn",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Aragorn1",
+                "illator",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                "Vivi Ornitier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "squonchy",
+                "Meyt",
+                "Deadpool, Trading Card",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Ratato",
+                "Vados",
+                "Feldon, Ronom Excavator",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "EvgRav",
+                "Yukanio",
+                "Terra, Herald of Hope",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Maliy",
+                "VlaM3",
+                "Tivit, Seller of Secrets",
+                "Zabaz, the Glimmerwasp",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "deadhamster3",
+                "ZulaXao",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Balmor, Battlemage Captain",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Constantin Somkin",
+                "Ratato",
+                "Elminster",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Vados",
+                "Oleg Lyalin",
+                "Indoraptor, the Perfect Hybrid",
+                "Ketramose, the New Dawn",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Maliy",
+                "Danila Chursin",
+                "Tivit, Seller of Secrets",
+                "Eshki Dragonclaw",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Meyt",
+                "illator",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Vivi Ornitier",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "RomC13",
+                "VlaM3",
+                "Arahbo, Roar of the World",
+                "Zabaz, the Glimmerwasp",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Артём Стрельцов",
+                "Constantin Somkin",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Elminster",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Ratato",
+                "Likv",
+                "Feldon, Ronom Excavator",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Aragorn1",
+                "squonchy",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                "Deadpool, Trading Card",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "EvgRav",
+                "Meyt",
+                "Terra, Herald of Hope",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "ZulaXao",
+                "Maliy",
+                "Balmor, Battlemage Captain",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "RomC13",
+                "Oleg Lyalin",
+                "Arahbo, Roar of the World",
+                "Ketramose, the New Dawn",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Yukanio",
+                "Vados",
+                "Phelia, Exuberant Shepherd",
+                "Indoraptor, the Perfect Hybrid",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "illator",
+                "VlaM3",
+                "Vivi Ornitier",
+                "Zabaz, the Glimmerwasp",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "PavB1",
+                "EvgRav",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Terra, Herald of Hope",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Likv",
+                "Aragorn1",
+                "Winota, Joiner of Forces",
+                "Yoshimaru, Ever Faithful :+: Ludevic, Necro-Alchemist",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Артём Стрельцов",
+                "Constantin Somkin",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Elminster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "deadhamster3",
+                "Ratato",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "deadhamster3",
+                "Артём Стрельцов",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "PavB1",
+                "Likv",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "deadhamster3",
+                "Likv",
+                "Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero",
+                "Winota, Joiner of Forces",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://melee.gg/Tournament/View/364493"
+}

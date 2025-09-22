@@ -1,0 +1,356 @@
+{
+    "date": "2025_08_21",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Поляков Герман",
+            "Teferi, Temporal Archmage"
+        ],
+        [
+            "Постояклин Павел",
+            "Cloud, Midgar Mercenary"
+        ],
+        [
+            "Булочко Михаил",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Саушкин Андрей",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Красников Александр",
+            "Gut, True Soul Zealot :+: Folk Hero"
+        ],
+        [
+            "Юсенко Глеб",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Барабаш Валентин",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Шестаков Игорь",
+            "Kefka, Court Mage"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Хорьков Аркадий",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Федоров Дмитрий",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Муравьев Никита",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Егоров Павел",
+            "Tifa Lockhart"
+        ],
+        [
+            "Звягин Георгий",
+            "Juri, Master of the Revue"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Красников Александр",
+                "Шестаков Игорь",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Kefka, Court Mage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Барабаш Валентин",
+                "Tifa Lockhart",
+                "Iron Man, Titan of Innovation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Звягин Георгий",
+                "Iron Man, Titan of Innovation",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Муравьев Никита",
+                "Kroxa, Titan of Death's Hunger",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Юсенко Глеб",
+                "Хорьков Аркадий",
+                "Ezio Auditore da Firenze",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Постояклин Павел",
+                "Саушкин Андрей",
+                "Cloud, Midgar Mercenary",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Поляков Герман",
+                "Dihada, Binder of Wills",
+                "Teferi, Temporal Archmage",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Муравьев Никита",
+                "Поляков Герман",
+                "Phelia, Exuberant Shepherd",
+                "Teferi, Temporal Archmage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Барабаш Валентин",
+                "Kefka, Court Mage",
+                "Iron Man, Titan of Innovation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Юсенко Глеб",
+                "Постояклин Павел",
+                "Ezio Auditore da Firenze",
+                "Cloud, Midgar Mercenary",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Красников Александр",
+                "Iron Man, Titan of Innovation",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Муравьев Роман",
+                "Kroxa, Titan of Death's Hunger",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Саушкин Андрей",
+                "Хорьков Аркадий",
+                "Aragorn, King of Gondor",
+                "Arahbo, Roar of the World",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Звягин Георгий",
+                "Tifa Lockhart",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Постояклин Павел",
+                "Teferi, Temporal Archmage",
+                "Cloud, Midgar Mercenary",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Саушкин Андрей",
+                "Iron Man, Titan of Innovation",
+                "Aragorn, King of Gondor",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Федоров Дмитрий",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Булочко Михаил",
+                "Kefka, Court Mage",
+                "Iron Man, Titan of Innovation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Юсенко Глеб",
+                "Егоров Павел",
+                "Ezio Auditore da Firenze",
+                "Tifa Lockhart",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Хорьков Аркадий",
+                "Phelia, Exuberant Shepherd",
+                "Arahbo, Roar of the World",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Звягин Георгий",
+                "Dihada, Binder of Wills",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Поляков Герман",
+                "Саушкин Андрей",
+                "Teferi, Temporal Archmage",
+                "Aragorn, King of Gondor",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Постояклин Павел",
+                "Барабаш Валентин",
+                "Cloud, Midgar Mercenary",
+                "Iron Man, Titan of Innovation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Юсенко Глеб",
+                "Булочко Михаил",
+                "Ezio Auditore da Firenze",
+                "Iron Man, Titan of Innovation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Муравьев Никита",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Федоров Дмитрий",
+                "Шестаков Игорь",
+                "Kroxa, Titan of Death's Hunger",
+                "Kefka, Court Mage",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Муравьев Роман",
+                "Tifa Lockhart",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Хорьков Аркадий",
+                "Звягин Георгий",
+                "Arahbo, Roar of the World",
+                "Juri, Master of the Revue",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/92983"
+}

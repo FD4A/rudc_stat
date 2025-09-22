@@ -1,0 +1,208 @@
+{
+    "date": "2025_08_25",
+    "location": "Volgograd",
+    "level": "Regular",
+    "organizer": "Ajsmirnov",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Виталий Фридман",
+            "Ezio Auditore da Firenze"
+        ],
+        [
+            "Сергей Фридман",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Андрей Костин",
+            "Imskir Iron-Eater"
+        ],
+        [
+            "Константин Сомкин",
+            "Elminster"
+        ],
+        [
+            "Вячеслав Серпутько",
+            "Six"
+        ],
+        [
+            "Артём Ангурцов",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Евгений Фролов",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Никита Иванов",
+            "Rograkh, Son of Rohgahh :+: Tymna the Weaver"
+        ],
+        [
+            "Рустам Азизов",
+            "Tifa Lockhart"
+        ],
+        [
+            "Аркадий Байков",
+            "Vial Smasher the Fierce"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Андрей Костин",
+                "Вячеслав Серпутько",
+                "Imskir Iron-Eater",
+                "Six",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сергей Фридман",
+                "Константин Сомкин",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Elminster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Аркадий Байков",
+                "Артём Ангурцов",
+                "Vial Smasher the Fierce",
+                "Deadpool, Trading Card",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Рустам Азизов",
+                "Евгений Фролов",
+                "Tifa Lockhart",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Никита Иванов",
+                "Виталий Фридман",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Ezio Auditore da Firenze",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Андрей Костин",
+                "Виталий Фридман",
+                "Imskir Iron-Eater",
+                "Ezio Auditore da Firenze",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Артём Ангурцов",
+                "Сергей Фридман",
+                "Deadpool, Trading Card",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Евгений Фролов",
+                "Вячеслав Серпутько",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Six",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Рустам Азизов",
+                "Никита Иванов",
+                "Tifa Lockhart",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Аркадий Байков",
+                "Константин Сомкин",
+                "Vial Smasher the Fierce",
+                "Elminster",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Сергей Фридман",
+                "Виталий Фридман",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Ezio Auditore da Firenze",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Евгений Фролов",
+                "Константин Сомкин",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Elminster",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Вячеслав Серпутько",
+                "Рустам Азизов",
+                "Six",
+                "Tifa Lockhart",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Андрей Костин",
+                "Артём Ангурцов",
+                "Imskir Iron-Eater",
+                "Deadpool, Trading Card",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Никита Иванов",
+                "Аркадий Байков",
+                "Rograkh, Son of Rohgahh :+: Tymna the Weaver",
+                "Vial Smasher the Fierce",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93129"
+}

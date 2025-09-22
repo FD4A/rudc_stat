@@ -1,0 +1,356 @@
+{
+    "date": "2025_09_18",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Олифер Егор",
+            "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Поляков Герман",
+            "G'raha Tia, Scion Reborn"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Барабаш Валентин",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Звягин Георгий",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Протасов Михаил",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Красников Александр",
+            "Thrasta, Tempest's Roar"
+        ],
+        [
+            "Булочко Михаил",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Федоров Дмитрий Юн",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Егоров Павел",
+            "G'raha Tia, Scion Reborn"
+        ],
+        [
+            "Лычковский Алексей",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Шестаков Игорь",
+            "Peter Parker"
+        ],
+        [
+            "Лагерев Леонид",
+            "Yarok, the Desecrated"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Булочко Михаил",
+                "Егоров Павел",
+                "Iron Man, Titan of Innovation",
+                "G'raha Tia, Scion Reborn",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Олифер Егор",
+                "Dihada, Binder of Wills",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Лычковский Алексей",
+                "Deadpool, Trading Card",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Поляков Герман",
+                "Azusa, Lost but Seeking",
+                "G'raha Tia, Scion Reborn",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Красников Александр",
+                "Iron Man, Titan of Innovation",
+                "Thrasta, Tempest's Roar",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Федоров Дмитрий Юн",
+                "Peter Parker",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Мартынов Яков",
+                "Yarok, the Desecrated",
+                "Tivit, Seller of Secrets",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Барабаш Валентин",
+                "Протасов Михаил",
+                "Iron Man, Titan of Innovation",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Федоров Дмитрий Юн",
+                "Егоров Павел",
+                "Ghyrson Starn, Kelermorph",
+                "G'raha Tia, Scion Reborn",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Олифер Егор",
+                "Deadpool, Trading Card",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Муравьев Роман",
+                "Yarok, the Desecrated",
+                "Dihada, Binder of Wills",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Красников Александр",
+                "Tivit, Seller of Secrets",
+                "Thrasta, Tempest's Roar",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Поляков Герман",
+                "Iron Man, Titan of Innovation",
+                "G'raha Tia, Scion Reborn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лычковский Алексей",
+                "Шестаков Игорь",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Peter Parker",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Барабаш Валентин",
+                "Олифер Егор",
+                "Iron Man, Titan of Innovation",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Мартынов Яков",
+                "G'raha Tia, Scion Reborn",
+                "Tivit, Seller of Secrets",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий Юн",
+                "Поляков Герман",
+                "Ghyrson Starn, Kelermorph",
+                "G'raha Tia, Scion Reborn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Протасов Михаил",
+                "Звягин Георгий",
+                "Azusa, Lost but Seeking",
+                "Deadpool, Trading Card",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Лычковский Алексей",
+                "Муравьев Роман",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Булочко Михаил",
+                "Yarok, the Desecrated",
+                "Iron Man, Titan of Innovation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Шестаков Игорь",
+                "Thrasta, Tempest's Roar",
+                "Peter Parker",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Олифер Егор",
+                "Мартынов Яков",
+                "Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept",
+                "Tivit, Seller of Secrets",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Муравьев Роман",
+                "Звягин Георгий",
+                "Dihada, Binder of Wills",
+                "Deadpool, Trading Card",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Поляков Герман",
+                "Iron Man, Titan of Innovation",
+                "G'raha Tia, Scion Reborn",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Протасов Михаил",
+                "G'raha Tia, Scion Reborn",
+                "Azusa, Lost but Seeking",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий Юн",
+                "Красников Александр",
+                "Ghyrson Starn, Kelermorph",
+                "Thrasta, Tempest's Roar",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лычковский Алексей",
+                "Булочко Михаил",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Iron Man, Titan of Innovation",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Шестаков Игорь",
+                "Yarok, the Desecrated",
+                "Peter Parker",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93746"
+}

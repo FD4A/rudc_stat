@@ -57,7 +57,7 @@ if __name__ == '__main__':
     for tournament_filename in tournament_list:
         tournament = Tournament.load_from_json(tournament_filename)
         # print(tournament_filename)
-        # if tournament.location != 'Volgograd':
+        # if tournament.location != 'Tomsk':
         #     continue
 
         # in json must be already fixed names

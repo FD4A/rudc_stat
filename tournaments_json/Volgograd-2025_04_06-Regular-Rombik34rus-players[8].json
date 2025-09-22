@@ -41,9 +41,9 @@
     "rounds": [
         [
             [
-                "Александр Смирнов",
+                "Максим Обора",
                 "Виталий Васильев",
-                "Lier, Disciple of the Drowned",
+                "unknown",
                 "Grist, the Hunger Tide",
                 [
                     1,
@@ -104,9 +104,9 @@
             ],
             [
                 "Дмитрий Орешкин",
-                "Александр Смирнов",
+                "Максим Обора",
                 "Malcolm, the Eyes",
-                "Lier, Disciple of the Drowned",
+                "unknown",
                 [
                     2,
                     1
@@ -155,9 +155,9 @@
                 ]
             ],
             [
-                "Александр Смирнов",
+                "Максим Обора",
                 "Илья Гермашев",
-                "Lier, Disciple of the Drowned",
+                "unknown",
                 "Loot, the Pathfinder",
                 [
                     2,
@@ -165,5 +165,6 @@
                 ]
             ]
         ]
-    ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/38356"
 }

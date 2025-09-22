@@ -1,0 +1,15 @@
+location::RostovOnDon
+level::Regular
+date::2025_09_12
+organizer::Constantin
+players::generals
+Kovalev Alexander :: Feldon, Ronom Excavator
+Cherepovskiy Roman :: Arahbo, Roar of the World
+Merkulov Vladislav :: Zabaz, the Glimmerwasp
+Saifutdinov Timur :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Posidaylo Artem :: Thalia and The Gitrog Monster
+Maliy Sergey :: Juri, Master of the Revue
+Faydysh Diana :: Phelia, Exuberant Shepherd
+Somkin Constantin :: Ultima, Origin of Oblivion
+Round
+https://aetherhub.com/Tourney/RoundTourney/93652

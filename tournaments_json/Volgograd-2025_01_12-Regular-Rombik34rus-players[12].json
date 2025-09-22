@@ -58,9 +58,9 @@
         [
             [
                 "Вячеслав Серпутько",
-                "Александр Смирнов",
+                "Максим Обора",
                 "Emmara, Soul of the Accord",
-                "Malcolm, Alluring Scoundrel",
+                "unknown",
                 [
                     2,
                     1
@@ -149,9 +149,9 @@
                 ]
             ],
             [
-                "Александр Смирнов",
+                "Максим Обора",
                 "Владимир Воровальницев",
-                "Malcolm, Alluring Scoundrel",
+                "unknown",
                 "Lathril, Blade of the Elves",
                 [
                     2,
@@ -202,9 +202,9 @@
             ],
             [
                 "Дмитрий Орешкин",
-                "Александр Смирнов",
+                "Максим Обора",
                 "Inti, Seneschal of the Sun",
-                "Malcolm, Alluring Scoundrel",
+                "unknown",
                 [
                     2,
                     1
@@ -284,9 +284,9 @@
             ],
             [
                 "Артём Ангурцов",
-                "Александр Смирнов",
+                "Максим Обора",
                 "Iron Man, Titan of Innovation",
-                "Malcolm, Alluring Scoundrel",
+                "unknown",
                 [
                     2,
                     0
@@ -303,5 +303,6 @@
                 ]
             ]
         ]
-    ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/36256"
 }

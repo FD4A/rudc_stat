@@ -1,0 +1,216 @@
+{
+    "date": "2025_09_20",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Латыпов Камиль",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Краснов Илья",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Сибикин Антон",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Циулин Иван",
+            "Kellan, Daring Traveler"
+        ],
+        [
+            "Васильев Кирилл",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Тимохин Денис",
+            "Plagon, Lord of the Beach"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Кормаков Александр",
+            "Errant and Giada"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Сибикин Антон",
+                "Безруков Николай",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Латыпов Камиль",
+                "Kellan, Daring Traveler",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Тимохин Денис",
+                "Grist, the Hunger Tide",
+                "Plagon, Lord of the Beach",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Кормаков Александр",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Errant and Giada",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Сибикин Антон",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Курмакаев Игорь",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Латыпов Камиль",
+                "Тимохин Денис",
+                "Ghyrson Starn, Kelermorph",
+                "Plagon, Lord of the Beach",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Циулин Иван",
+                "Feldon, Ronom Excavator",
+                "Kellan, Daring Traveler",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Васильев Кирилл",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Латыпов Камиль",
+                "Курмакаев Игорь",
+                "Ghyrson Starn, Kelermorph",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Кормаков Александр",
+                "Feldon, Ronom Excavator",
+                "Errant and Giada",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Тимохин Денис",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Plagon, Lord of the Beach",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Латыпов Камиль",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Ghyrson Starn, Kelermorph",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Сибикин Антон",
+                "Васильев Кирилл",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Безруков Николай",
+                "Курмакаев Игорь",
+                "Feldon, Ronom Excavator",
+                "Grist, the Hunger Tide",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Кормаков Александр",
+                "Kellan, Daring Traveler",
+                "Errant and Giada",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93810"
+}

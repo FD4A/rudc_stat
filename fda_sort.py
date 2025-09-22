@@ -1,57 +1,20 @@
 str_list_ = [
-"""Костин Андрей :: Iron Man, Titan of Innovation
-Фролов Евгений :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
-Семенов Павел :: Cloud, Midgar Mercenary
-Долганов Матвей :: Gut, True Soul Zealot :+: Folk Hero
-Семенов Дмитрий :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
-Фридман Сергей :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
-Митрохин Никита :: Iron Man, Titan of Innovation
-Байков Аркадий :: Vial Smasher the Fierce
-Мещеряков Максим :: Tivit, Seller of Secrets
-Антипин Константин :: Feldon, Ronom Excavator
-Барабаш Валентин :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
-Кузнецов Ярослав :: Geist of Saint Traft
-Ульянов Алексей :: Golos, Tireless Pilgrim
-Коростелев Илья :: Satya, Aetherflux Genius
-Олифер Егор :: Rograkh, Son of Rohgahh :+: Silas Renn, Seeker Adept
-Красников Александр :: Gut, True Soul Zealot :+: Folk Hero
-Таловер Артем :: Tifa Lockhart
-Родюков Федор :: Ghyrson Starn, Kelermorph
-Елисеев Степан :: Grist, the Hunger Tide
-Тяпайкин Максим :: Golos, Tireless Pilgrim
-Серпутько Вячеслав :: Selvala, Explorer Returned
-Звягин Георгий :: Winter, Cynical Opportunist
-Булочко Михаил :: Tivit, Seller of Secrets
-Манин Илья :: Vivi Ornitier
-Леванов Алексей :: Hashaton, Scarab's Fist
-Соловьев Валенин :: Aminatou, the Fateshifter
-Филинков Яков :: Golos, Tireless Pilgrim
-Мартынов Яков :: Tivit, Seller of Secrets
-Грабовой Филипп :: Slimefoot and Squee
-Кузнецов Даниил :: Geist of Saint Traft
-Воронцов Иван :: Azusa, Lost but Seeking
-Левшенков Александр :: Phelia, Exuberant Shepherd
-Вахитов Ривкат :: Feldon, Ronom Excavator
-Богатырев Александр :: Indoraptor, the Perfect Hybrid
-Путилов Сергей :: Phelia, Exuberant Shepherd
-Муравьев Роман :: Dihada, Binder of Wills
-Лагерев Леонид :: Yoshimaru, Ever Faithful :+: Thrasios, Triton Hero
-Смирнов Александр :: Satya, Aetherflux Genius
-Фукин Дмитрий :: Edric, Spymaster of Trest
-Сушков Дмитрий :: Feldon, Ronom Excavator
-Порошин Денис :: Daretti, Scrap Savant
-Федоров Дмитрий :: Feldon, Ronom Excavator
-Поляков Герман :: Teferi, Temporal Archmage
-Штофов Арсений :: Aminatou, the Fateshifter
-Егоров Павел :: Tifa Lockhart
-Жовтобрюх Роман :: Deadpool, Trading Card
-Иванов Дмитрий :: Grist, the Hunger Tide
-Цюра Максим :: Niv-Mizzet, Parun
-Мартынов Владислав :: Tivit, Seller of Secrets
-Муравьев Никита :: Phelia, Exuberant Shepherd
-Хорьков Аркадий :: Arahbo, Roar of the World
-Протасов Михаил :: Tivit, Seller of Secrets
-Падве Владимир :: Phelia, Exuberant Shepherd"""
+"""Поляков Герман :: G'Raha, Scion Reborn
+Мещеряков Максим :: Kefka, Court Mage
+Циулин Иван :: Azusa, Lost but Seeking
+Матюнин Антон :: Taii Waiki Perfect Shot
+Майоров Влад :: Grist, the Hunger Tide
+Павликов Владислав :: Hidetsugu and Kairi
+Третьяков Дмитрий :: Flubs, the Fool
+Сайфутдинов Тимур :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Кузьмин Руслан :: Tifa Lockhart
+Ревин Владимир :: Cecil, Dark Knight
+Стрельцов Артем :: Bruse Tarl, Boorish Herder :+: Thrasios, Triton Hero
+Костин Андрей :: Imskir Iron-Eater
+Барабаш Валентин :: Mm'menon, the Right Hand
+Лагерев Леонид :: Slimefoot and Squee
+Булочко Михаил :: Iron Man, Titan of Innovation
+Дартау Сергей :: Phelia, Exuberant Shepherd"""
 ]
 
 # print(str_list_)

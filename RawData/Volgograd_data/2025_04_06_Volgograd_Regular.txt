@@ -9,7 +9,7 @@ players::generals
 Александр Токарев :: Grist, the Hunger Tide
 Дмитрий Орешкин :: Malcolm the Eyes
 Александр Смирнов :: Lier, Disciple of the Drowned
-Никита Сухов :: Aminatou the Fateshifter,
-Илья Гермашев :: Loot the Pathfinder,
+Никита Сухов :: Aminatou the Fateshifter
+Илья Гермашев :: Loot the Pathfinder
 Rounds
 https://aetherhub.com/Tourney/RoundTourney/38356

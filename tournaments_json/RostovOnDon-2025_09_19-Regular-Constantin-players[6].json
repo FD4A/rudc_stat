@@ -1,0 +1,112 @@
+{
+    "date": "2025_09_19",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Posidaylo Artem",
+            "Rocco, Cabaretti Caterer"
+        ],
+        [
+            "Cherepovskiy Roman",
+            "Inti, Seneschal of the Sun"
+        ],
+        [
+            "Faydysh Diana",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Lukaynov Vadim",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Somkin Constantin",
+            "Ultima, Origin of Oblivion"
+        ],
+        [
+            "Merkulov Vladislav",
+            "Aragorn, Hornburg Hero"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Somkin Constantin",
+                "Lukaynov Vadim",
+                "Ultima, Origin of Oblivion",
+                "Azusa, Lost but Seeking",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Merkulov Vladislav",
+                "Cherepovskiy Roman",
+                "Aragorn, Hornburg Hero",
+                "Inti, Seneschal of the Sun",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Posidaylo Artem",
+                "Faydysh Diana",
+                "Rocco, Cabaretti Caterer",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Lukaynov Vadim",
+                "Posidaylo Artem",
+                "Azusa, Lost but Seeking",
+                "Rocco, Cabaretti Caterer",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Cherepovskiy Roman",
+                "Faydysh Diana",
+                "Inti, Seneschal of the Sun",
+                "Phelia, Exuberant Shepherd",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Cherepovskiy Roman",
+                "Lukaynov Vadim",
+                "Inti, Seneschal of the Sun",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Posidaylo Artem",
+                "Somkin Constantin",
+                "Rocco, Cabaretti Caterer",
+                "Ultima, Origin of Oblivion",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93785"
+}
