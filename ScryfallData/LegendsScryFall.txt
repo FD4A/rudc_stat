@@ -46,6 +46,7 @@ Agatha's Soul Cauldron
 Agent Frank Horrigan
 Agent of the Iron Throne
 Agent of the Shadow Thieves
+Agent Venom
 Agrus Kos, Eternal Soldier
 Agrus Kos, Spirit of Justice
 Agrus Kos, Wojek Veteran
@@ -168,6 +169,7 @@ Appa, Steadfast Guardian
 Apple of Eden, Isu Relic
 A-Queza, Augur of Agonies
 Arabella, Abandoned Doll
+Arachne, Psionic Weaver
 Aradesh, the Founder
 A-Radha, Coalition Warlord
 Aragorn and Arwen, Wed
@@ -178,6 +180,7 @@ Aragorn, the Uniter
 Arahbo, Roar of the World
 Arahbo, the First Fang
 A-Raiyuu, Storm's Edge
+Araña, Heart of the Spider
 Arashi, the Sky Asunder
 Arasta of the Endless Web
 Araumi of the Dead Tide
@@ -241,6 +244,7 @@ Ash, Party Crasher
 Asmira, Holy Avenger
 Asmodeus the Archfiend
 Asmoranomardicadaistinaculdacar
+A-Sorin, Imperious Bloodlord
 A-Soul of Windgrace
 Astarion, the Decadent
 Astor, Bearer of Blades
@@ -280,6 +284,7 @@ A-Vega, the Watcher
 Aveline de Grandpré
 Averna, the Chaos Bloom
 A-Winota, Joiner of Forces
+Axavar, Fate Thief
 Axelrod Gunnarson
 Aya of Alexandria
 Ayara, First of Locthwain
@@ -363,6 +368,7 @@ Birgi, God of Storytelling
 Bitterthorn, Nissa's Animus
 Bjorna, Nightfall Alchemist
 Blackblade Reforged
+Black Cat, Cunning Thief
 Black Panther, Wakandan King
 Black Waltz No. 3
 Bladewing, Deathless Tyrant
@@ -449,6 +455,7 @@ Calix, Guided by Fate
 Callaphe, Beloved of the Sea
 Callow Jushi
 Camellia, the Seedmiser
+Candela, Aegis of Adagia
 Candlekeep Sage
 Cao Cao, Lord of Wei
 Cao Ren, Wei Commander
@@ -481,6 +488,7 @@ Celestine, the Living Saint
 Cerise, Slayer of Fear
 Chainer, Dementia Master
 Chainer, Nightmare Adept
+Chameleon, Master of Disguise
 Chandler
 Chandra Ablaze
 Chandra, Acolyte of Flame
@@ -553,6 +561,7 @@ Conformer Shuriken
 Coram, the Undertaker
 Cormela, Glamour Thief
 Cosima, God of the Voyage
+Cosmic Spider-Man
 Craig Boone, Novac Guard
 Criminal Past
 Cromat
@@ -679,6 +688,7 @@ Dyadrine, Synthesis Amalgam
 Dynaheir, Invoker Adept
 Eater of Virtue
 Ebondeath, Dracolich
+Eddie Brock
 ED-E, Lonesome Eyebot
 Edgar, Charmed Groom
 Edgar, King of Figaro
@@ -700,6 +710,7 @@ Elas il-Kor, Sadistic Pilgrim
 Elbrus, the Binding Blade
 Elder Arthur Maxson
 Elder Owyn Lyons
+Electro, Assaulting Battery
 Elena, Turk Recruit
 Elenda and Azor
 Elenda, Saint of Dusk
@@ -799,6 +810,7 @@ Extus, Oriq Overlord
 Eye of Nidhogg
 Eye of Ugin
 Eye of Vecna
+Ezekiel Sims, Spider-Totem
 Ezio Auditore da Firenze
 Ezio, Blade of Vengeance
 Ezio, Brash Novice
@@ -846,6 +858,7 @@ Five Hundred Year Diary
 Flagstones of Trokair
 Flamewar, Brash Veteran
 Flaming Fist
+Flash Thompson, Spider-Fan
 Flopsie, Bumi's Buddy
 Florian, Voldaren Scion
 Flowering of the White Tree
@@ -1168,6 +1181,7 @@ Hired Muscle
 Hisoka, Minamo Sensei
 Hivis of the Scale
 Hixus, Prison Warden
+Hobgoblin, Mantled Marauder
 Hofri Ghostforge
 Hogaak, Arisen Necropolis
 Hokori, Dust Drinker
@@ -1196,6 +1210,7 @@ Hugs, Grisly Guardian
 Hunding Gjornersen
 Hurkyl, Master Wizard
 Hurska Sweet-Tooth
+Hydro-Man, Fluid Felon
 Hylda of the Icy Crown
 Hylda's Crown of Winter
 Hythonia the Cruel
@@ -1299,6 +1314,7 @@ Jace, the Perfected Mind
 Jace, Unraveler of Secrets
 Jace, Vryn's Prodigy
 Jace, Wielder of Mysteries
+Jackal, Genius Geneticist
 Jackdaw
 Jacob Frye
 Jacob Hauken, Inspector
@@ -1360,6 +1376,7 @@ Jinnie Fay, Jetmir's Second
 Jirina, Dauntless General
 Jirina Kudro
 Jiwari, the Earth Aflame
+J. Jonah Jameson
 Jodah, Archmage Eternal
 Jodah, the Unifier
 Jo Grant
@@ -1587,6 +1604,8 @@ Krark's Thumb
 Krark, the Thumbless
 Kraum, Ludevic's Opus
 Kraum, Violent Cacophony
+Kraven, Proud Predator
+Kraven the Hunter
 Krav, the Unredeemed
 Krenko, Baron of Tin Street
 Krenko, Mob Boss
@@ -1624,6 +1643,7 @@ Kyoki, Sanity's Eclipse
 Kytheon, Hero of Akros
 Lady Caleria
 Lady Evangela
+Lady Octopus, Inspired Inventor
 Lady Orca
 Lady Sun
 Lady Zhurong, Warrior Queen
@@ -1700,8 +1720,10 @@ Lita, Mechanical Engineer
 Lithoform Engine
 Liu Bei, Lord of Shu
 Livaan, Cultist of Tiamat
+Living Brain, Mechanical Marvel
 Livio, Oathsworn Sentinel
 Livonya Silone
+Lizard, Connors's Curse
 Llawan, Cephalid Empress
 Lobelia, Defender of Bag End
 Lobelia Sackville-Baggins
@@ -1759,6 +1781,7 @@ Mabel, Heir to Cragflame
 MacCready, Lamplight Mayor
 Ma Chao, Western Warrior
 Madame Vastra
+Madame Web, Clairvoyant
 Maelstrom Wanderer
 Maester Seymour
 Maeve, Insidious Singer
@@ -1802,6 +1825,7 @@ Márton Stromgald
 Marvin, Murderous Mimic
 Marvo, Deep Operative
 Marwyn, the Nurturer
+Mary Jane Watson
 Mary O'Kill
 Mary Read and Anne Bonny
 Masako the Humorless
@@ -1884,6 +1908,7 @@ Mishra, Excavation Prodigy
 Mishra, Lost to Phyrexia
 Mishra, Tamer of Mak Fawa
 Missy
+Mister Negative
 Mistform Ultimus
 Mithril Coat
 Mitotic Ultimus
@@ -1899,6 +1924,7 @@ Moira and Teshar
 Moira Brown, Guide Author
 Moira, Urborg Haunt
 Molimo, Maro-Sorcerer
+Molten Man, Inferno Incarnate
 Momir Vig, Simic Visionary
 Momo, Friendly Flier
 Momo, Rambunctious Rascal
@@ -1906,9 +1932,11 @@ Mondrak, Glory Dominus
 Monoxa, Midway Manager
 Monstrosity of the Lake
 Moraug, Fury of Akoum
+Morbius the Living Vampire
 Mordenkainen
 Morinfen
 Moritte of the Frost
+Morlun, Devourer of Spiders
 Morophon, the Boundless
 Morska, Undersea Sleuth
 Mortarion, Daemon Primarch
@@ -1945,6 +1973,7 @@ Myojin of Towering Might
 Myra the Magnificent
 Myrel, Shield of Argive
 Myrkul, Lord of Bones
+Mysterio, Master of Illusion
 Mythweaver Poq
 Naban, Dean of Iteration
 Nadaar, Selfless Paladin
@@ -2049,6 +2078,7 @@ Nogi, Draco-Zealot
 Norika Yamazaki, the Poet
 Norin, Swift Survivalist
 Norin the Wary
+Norman Osborn
 Noyan Dar, Roil Shaper
 Numa, Joraga Chieftain
 Numot, the Devastator
@@ -2234,6 +2264,8 @@ Progenitus
 Prompto Argentum
 Prosper, Tome-Bound
 Prossh, Skyraider of Kher
+Prototype X-8
+Prowler, Clawed Thief
 Prowler, Misguided Mentor
 Prowl, Stoic Strategist
 Psemilla, Meletian Poet
@@ -2342,6 +2374,7 @@ Rex, Cyber-Hound
 Reya Dawnbringer
 Reyav, Master Smith
 Reyhan, Last of the Abzan
+Rhino, Barreling Brute
 Rhoda, Geist Avenger
 Rhonas's Monument
 Rhonas the Indomitable
@@ -2455,6 +2488,7 @@ Sanctum of Fruitful Harvest
 Sanctum of Shattered Heights
 Sanctum of Stone Fangs
 Sanctum of Tranquil Light
+Sandman, Shifting Scoundrel
 Sanwell, Avenger Ace
 Sapling of Colfenor
 Saradoc, Master of Buckland
@@ -2488,6 +2522,8 @@ Sauron, the Lidless Eye
 Sauron, the Necromancer
 Savra, Queen of the Golgari
 Sazh Katzroy
+Scarlet Spider, Ben Reilly
+Scarlet Spider, Kaine
 Sceptre of Eternal Glory
 Scion of Halaster
 Scion of the Ur-Dragon
@@ -2572,6 +2608,7 @@ Shizo, Death's Storehouse
 Shizuko, Caller of Autumn
 Shocker, Unshakable
 Shorikai, Genesis Engine
+Shriek, Treblemaker
 Shroofus Sproutsire
 Shu Yun, the Silent Tempest
 Siani, Eye of the Storm
@@ -2592,8 +2629,10 @@ Sigarda, Host of Herons
 Sigrid, God-Favored
 Sigurd, Jarl of Ravensthorpe
 Silas Renn, Seeker Adept
+Silk, Web Weaver
 Silumgar, the Drifting Death
 Silvar, Devourer of the Free
+Silver Sable, Mercenary Leader
 Silvos, Rogue Elemental
 Sima Yi, Wei Field Marshal
 Sin, Spira's Punishment
@@ -2629,6 +2668,7 @@ Sliver Hivelord
 Sliver Legion
 Sliver Overlord
 Sliver Queen
+Sliver Weftwinder
 Slobad, Goblin Tinkerer
 Slobad, Iron Goblin
 Slogurk, the Overslime
@@ -2670,18 +2710,25 @@ SP//dr, Piloted by Peni
 Spear of Heliod
 Spectacular Spider-Man
 Spider-Byte, Web Warden
+Spider-Girl, Legacy Hero
 Spider-Gwen, Free Spirit
 Spider-Ham, Peter Porker
 Spider-Man 2099
 Spider-Man 2099, Miguel O'Hara
 Spider-Man, Brooklyn Visionary
+Spider-Man India
 Spider-Man, Miles Morales
 Spider-Man Noir
 Spider-Man, Peter Parker
 Spider-Man, Web-Slinger
 Spider-Punk
 Spider-Rex, Daring Dino
+Spider-Slayer, Hatred Honed
+Spiders-Man, Heroic Horde
+Spider-UK
+Spider-Woman, Stunning Savior
 Spike, Tournament Grinder
+Spinneret and Spiderling
 Spinnerette, Arachnobat
 Spirit of the Night
 Squall, SeeD Mercenary
@@ -2722,6 +2769,8 @@ Sunastian Falconer
 Sun Ce, Young Conquerer
 Sundial, Dawn Tyrant
 Sun Quan, Lord of Wu
+Sun-Spider, Nimble Webber
+Superior Spider-Man
 Super State
 Surgeon General Commander
 Surrak and Goreclaw
@@ -2733,6 +2782,7 @@ Susan Foreman
 Sutina, Speaker of the Tajuru
 Svella, Ice Shaper
 Svyelun of Sea and Sky
+Swarm, Being of Bees
 Sword Coast Sailor
 Sword of Kaldra
 Sword of the Animist
@@ -2968,6 +3018,7 @@ The Most Dangerous Gamer
 The Motherlode, Excavator
 The Mouth of Sauron
 The Mycotyrant
+Thendar, the Overminer
 The Necrobloom
 The Ninth Doctor
 The Odd Acorn Gang
@@ -3002,6 +3053,7 @@ The Soul Stone
 The Space Family Goblinson
 The Spear of Leonidas
 The Speed Demon
+The Spot, Living Portal
 The Stasis Coffin
 The Stone Brain
 The Swarmlord
@@ -3157,6 +3209,7 @@ Ulasht, the Hate Seed
 Ulder Ravengard, Marshal
 Ulrich of the Krallenhorde
 Ultima, Origin of Oblivion
+Ultimate Green Goblin
 Ultima Weapon
 Ultimecia, Temporal Threat
 Ultimecia, Time Sorceress
@@ -3207,6 +3260,7 @@ Valentin, Dean of the Vein
 Valgavoth, Harrower of Souls
 Valgavoth, Terror Eater
 Valki, God of Lies
+Val, Marooned Surveyor
 Valor's Flagship
 Vance's Blasting Cannons
 Vanille, Cheerful l'Cie
@@ -3299,6 +3353,8 @@ Vren, the Relentless
 Vrestin, Menoptra Leader
 Vrondiss, Rage of Ancients
 Vronos, Masked Inquisitor
+Vulture, Scheming Scavenger
+Vv'viza, Orbital Overseer
 Wakka, Devoted Guardian
 Wand of Orcus
 Wasitora, Nekoru Queen
@@ -3329,6 +3385,7 @@ Witch-king, Sky Scourge
 Wolverine, Best There Is
 Wort, Boggart Auntie
 Wort, the Raidmother
+Wraith, Vicious Vigilante
 Wrecking Ball Arm
 Wrenn and Realmbreaker
 Wrenn and Seven
