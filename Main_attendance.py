@@ -28,7 +28,7 @@ if __name__ == '__main__':
     tournament_filenames = []
     for tournament_filename in tournament_list:
         tournament = Tournament.load_from_json(tournament_filename)
-        if tournament.location != 'Volgograd':  # RostovOnDon Spb
+        if tournament.location != 'Spb':  # RostovOnDon Spb
             continue
         if not (tournament.before_date(finish_date) and tournament.after_date(start_date)):
             continue

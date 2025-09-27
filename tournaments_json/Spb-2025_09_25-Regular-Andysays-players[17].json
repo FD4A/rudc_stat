@@ -1,0 +1,408 @@
+{
+    "date": "2025_09_25",
+    "location": "Spb",
+    "level": "Regular",
+    "organizer": "Andysays",
+    "roundsCount": 4,
+    "players": [
+        [
+            "Муравьев Никита",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Богданов Сергей",
+            "Kroxa, Titan of Death's Hunger"
+        ],
+        [
+            "Звягин Георгий",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Федоров Дмитрий Юн",
+            "Ghyrson Starn, Kelermorph"
+        ],
+        [
+            "Барабаш Валентин",
+            "Spider-Man 2099"
+        ],
+        [
+            "Ларионов Александр",
+            "Arahbo, Roar of the World"
+        ],
+        [
+            "Мартынов Яков",
+            "Tivit, Seller of Secrets"
+        ],
+        [
+            "Шестаков Игорь",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Кувяткин Илья",
+            "Superior Spider-Man"
+        ],
+        [
+            "Булочко Михаил",
+            "Iron Man, Titan of Innovation"
+        ],
+        [
+            "Лагерев Леонид",
+            "Aragorn, King of Gondor"
+        ],
+        [
+            "Муравьев Роман",
+            "Dihada, Binder of Wills"
+        ],
+        [
+            "Красников Александр",
+            "Gut, True Soul Zealot :+: Folk Hero"
+        ],
+        [
+            "Поляков Герман",
+            "G'raha Tia, Scion Reborn"
+        ],
+        [
+            "Кеворков Артур",
+            "Spider-Man 2099"
+        ],
+        [
+            "Постояклин Павел",
+            "Cloud, Midgar Mercenary"
+        ],
+        [
+            "Егоров Павел",
+            "Tifa Lockhart"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Мартынов Яков",
+                "Шестаков Игорь",
+                "Tivit, Seller of Secrets",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий Юн",
+                "Булочко Михаил",
+                "Ghyrson Starn, Kelermorph",
+                "Iron Man, Titan of Innovation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Лагерев Леонид",
+                "Ларионов Александр",
+                "Aragorn, King of Gondor",
+                "Arahbo, Roar of the World",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Постояклин Павел",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Cloud, Midgar Mercenary",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кеворков Артур",
+                "Егоров Павел",
+                "Spider-Man 2099",
+                "Tifa Lockhart",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Муравьев Роман",
+                "Spider-Man 2099",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Кувяткин Илья",
+                "Phelia, Exuberant Shepherd",
+                "Superior Spider-Man",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Поляков Герман",
+                "Deadpool, Trading Card",
+                "G'raha Tia, Scion Reborn",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Богданов Сергей",
+                "Муравьев Никита",
+                "Kroxa, Titan of Death's Hunger",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий Юн",
+                "Шестаков Игорь",
+                "Ghyrson Starn, Kelermorph",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Красников Александр",
+                "Барабаш Валентин",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                "Spider-Man 2099",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Кеворков Артур",
+                "Arahbo, Roar of the World",
+                "Spider-Man 2099",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Звягин Георгий",
+                "Лагерев Леонид",
+                "Deadpool, Trading Card",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Поляков Герман",
+                "Tifa Lockhart",
+                "G'raha Tia, Scion Reborn",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кувяткин Илья",
+                "Постояклин Павел",
+                "Superior Spider-Man",
+                "Cloud, Midgar Mercenary",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Булочко Михаил",
+                "Муравьев Роман",
+                "Iron Man, Titan of Innovation",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Федоров Дмитрий Юн",
+                "Барабаш Валентин",
+                "Ghyrson Starn, Kelermorph",
+                "Spider-Man 2099",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Звягин Георгий",
+                "Arahbo, Roar of the World",
+                "Deadpool, Trading Card",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Муравьев Никита",
+                "Шестаков Игорь",
+                "Phelia, Exuberant Shepherd",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Поляков Герман",
+                "Булочко Михаил",
+                "G'raha Tia, Scion Reborn",
+                "Iron Man, Titan of Innovation",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Богданов Сергей",
+                "Красников Александр",
+                "Kroxa, Titan of Death's Hunger",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кувяткин Илья",
+                "Кеворков Артур",
+                "Superior Spider-Man",
+                "Spider-Man 2099",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Муравьев Роман",
+                "Tivit, Seller of Secrets",
+                "Dihada, Binder of Wills",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Постояклин Павел",
+                "Лагерев Леонид",
+                "Cloud, Midgar Mercenary",
+                "Aragorn, King of Gondor",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Муравьев Никита",
+                "Звягин Георгий",
+                "Phelia, Exuberant Shepherd",
+                "Deadpool, Trading Card",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Барабаш Валентин",
+                "Богданов Сергей",
+                "Spider-Man 2099",
+                "Kroxa, Titan of Death's Hunger",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Федоров Дмитрий Юн",
+                "Кувяткин Илья",
+                "Ghyrson Starn, Kelermorph",
+                "Superior Spider-Man",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Ларионов Александр",
+                "Булочко Михаил",
+                "Arahbo, Roar of the World",
+                "Iron Man, Titan of Innovation",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Мартынов Яков",
+                "Лагерев Леонид",
+                "Tivit, Seller of Secrets",
+                "Aragorn, King of Gondor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Шестаков Игорь",
+                "Красников Александр",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Gut, True Soul Zealot :+: Folk Hero",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Кеворков Артур",
+                "Муравьев Роман",
+                "Spider-Man 2099",
+                "Dihada, Binder of Wills",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Егоров Павел",
+                "Постояклин Павел",
+                "Tifa Lockhart",
+                "Cloud, Midgar Mercenary",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93928"
+}

@@ -1,0 +1,24 @@
+location::Spb
+level::Regular
+date::2025_09_25
+organizer::Andysays
+players::generals
+Муравьев Никита :: Phelia, Exuberant Shepherd
+Богданов Сергей :: Kroxa, Titan of Death's Hunger
+Звягин Георгий :: Deadpool, Trading Card
+Федоров Дмитрий Юн :: Ghyrson Starn, Kelermorph
+Барабаш Валентин :: Spider-Man 2099
+Ларионов Александр :: Arahbo, Roar of the World
+Мартынов Яков :: Tivit, Seller of Secrets
+Шестаков Игорь :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Кувяткин Илья :: Superior Spider-Man
+Булочко Михаил :: Iron Man, Titan of Innovation
+Лагерев Леонид :: Aragorn, King of Gondor
+Муравьев Роман :: Dihada, Binder of Wills
+Красников Александр :: Gut, True Soul Zealot :+: Folk Hero
+Поляков Герман :: G'raha Tia, Scion Reborn
+Кеворков Артур :: Spider-Man 2099
+Постояклин Павел :: Cloud, Midgar Mercenary
+Егоров Павел :: Tifa Lockhart
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93928
