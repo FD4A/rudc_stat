@@ -1,0 +1,13 @@
+location::RostovOnDon
+level::Regular
+date::2025_09_28
+organizer::Constantin
+players::generals
+Lukaynov Vadim :: Scarlet Spider, Ben Reilly
+Elinskiy Denis :: Spider-Man 2099
+Faydysh Diana :: Phelia, Exuberant Shepherd
+Novikov Vladislav :: Azusa, Lost but Seeking
+Somkin Constantin :: Ultima, Origin of Oblivion
+Posidaylo Artem :: Rocco, Cabaretti Caterer
+Round
+https://aetherhub.com/Tourney/RoundTourney/94024

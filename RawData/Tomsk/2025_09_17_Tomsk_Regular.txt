@@ -1,0 +1,15 @@
+location::Tomsk
+level::Regular
+date::2025_09_17
+organizer::d6tomsk
+players::generals
+Владимиров Егор :: Deadpool, Trading Card
+Дмитриев Сергей :: Feldon, Ronom Excavator
+Иванов Алексей :: Phelia, Exuberant Shepherd
+Кузнецов Северин :: Kykar, Wind's Fury
+Астапов Александр :: Light-Paws, Emperor's Voice
+Чураков Павел :: Mm'menon, the Right Hand
+Демидов Виталий :: The Gitrog Monster
+Поспелов Александр :: Ral, Monsoon Mage
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93724

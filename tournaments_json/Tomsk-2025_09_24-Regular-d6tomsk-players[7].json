@@ -1,0 +1,136 @@
+{
+    "date": "2025_09_24",
+    "location": "Tomsk",
+    "level": "Regular",
+    "organizer": "d6tomsk",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Поспелов Александр",
+            "Ral, Monsoon Mage"
+        ],
+        [
+            "Иванов Алексей",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Черепов Антон",
+            "Tourach, Dread Cantor"
+        ],
+        [
+            "Кузнецов Северин",
+            "Sonic the Hedgehog"
+        ],
+        [
+            "Демидов Виталий",
+            "The Gitrog Monster"
+        ],
+        [
+            "Астапов Александр",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Дмитриев Сергей",
+            "Feldon, Ronom Excavator"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Кузнецов Северин",
+                "Черепов Антон",
+                "Sonic the Hedgehog",
+                "Tourach, Dread Cantor",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Астапов Александр",
+                "Поспелов Александр",
+                "Light-Paws, Emperor's Voice",
+                "Ral, Monsoon Mage",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Дмитриев Сергей",
+                "Иванов Алексей",
+                "Feldon, Ronom Excavator",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Демидов Виталий",
+                "Иванов Алексей",
+                "The Gitrog Monster",
+                "Phelia, Exuberant Shepherd",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Поспелов Александр",
+                "Sonic the Hedgehog",
+                "Ral, Monsoon Mage",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Черепов Антон",
+                "Дмитриев Сергей",
+                "Tourach, Dread Cantor",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Иванов Алексей",
+                "Кузнецов Северин",
+                "Phelia, Exuberant Shepherd",
+                "Sonic the Hedgehog",
+                [
+                    1,
+                    1
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Демидов Виталий",
+                "Ral, Monsoon Mage",
+                "The Gitrog Monster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Астапов Александр",
+                "Черепов Антон",
+                "Light-Paws, Emperor's Voice",
+                "Tourach, Dread Cantor",
+                [
+                    1,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93894"
+}

@@ -1,0 +1,15 @@
+location::Samara
+level::Regular
+date::2025_09_27
+organizer::Myakabuka
+players::generals
+Краснов Илья :: Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus
+Безруков Николай :: Feldon, Ronom Excavator
+Циулин Иван :: Jackal, Genius Geneticist
+Ревин Владимир :: Cecil, Dark Knight
+Курмакаев Игорь :: Grist, the Hunger Tide
+Кормаков Александр :: Scarlet Spider, Ben Reilly
+Васильев Кирилл :: Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder
+Тимохин Денис :: Jackal, Genius Geneticist
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93979

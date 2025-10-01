@@ -1,0 +1,170 @@
+{
+    "date": "2025_09_27",
+    "location": "Samara",
+    "level": "Regular",
+    "organizer": "Myakabuka",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Краснов Илья",
+            "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus"
+        ],
+        [
+            "Безруков Николай",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Циулин Иван",
+            "Jackal, Genius Geneticist"
+        ],
+        [
+            "Ревин Владимир",
+            "Cecil, Dark Knight"
+        ],
+        [
+            "Курмакаев Игорь",
+            "Grist, the Hunger Tide"
+        ],
+        [
+            "Кормаков Александр",
+            "Scarlet Spider, Ben Reilly"
+        ],
+        [
+            "Васильев Кирилл",
+            "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder"
+        ],
+        [
+            "Тимохин Денис",
+            "Jackal, Genius Geneticist"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Васильев Кирилл",
+                "Курмакаев Игорь",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Grist, the Hunger Tide",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Безруков Николай",
+                "Jackal, Genius Geneticist",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Кормаков Александр",
+                "Cecil, Dark Knight",
+                "Scarlet Spider, Ben Reilly",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Краснов Илья",
+                "Циулин Иван",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Jackal, Genius Geneticist",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Курмакаев Игорь",
+                "Краснов Илья",
+                "Grist, the Hunger Tide",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Ревин Владимир",
+                "Безруков Николай",
+                "Cecil, Dark Knight",
+                "Feldon, Ronom Excavator",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Кормаков Александр",
+                "Циулин Иван",
+                "Scarlet Spider, Ben Reilly",
+                "Jackal, Genius Geneticist",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Васильев Кирилл",
+                "Тимохин Денис",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                "Jackal, Genius Geneticist",
+                [
+                    2,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Краснов Илья",
+                "Безруков Николай",
+                "Yoshimaru, Ever Faithful :+: Kraum, Ludevic's Opus",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Курмакаев Игорь",
+                "Ревин Владимир",
+                "Grist, the Hunger Tide",
+                "Cecil, Dark Knight",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Циулин Иван",
+                "Васильев Кирилл",
+                "Jackal, Genius Geneticist",
+                "Yoshimaru, Ever Faithful :+: Bruse Tarl, Boorish Herder",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Тимохин Денис",
+                "Кормаков Александр",
+                "Jackal, Genius Geneticist",
+                "Scarlet Spider, Ben Reilly",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93979"
+}

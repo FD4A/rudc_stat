@@ -93,7 +93,7 @@ class GeneralStat:
     def __str__(self):
         return self.to_str()
 
-    def to_str(self, full=True, match_limit_for_matchup_print=1):
+    def to_str2(self, full=True, match_limit_for_matchup_print=1):
         magic_len = 32  # replace by max length general
         cz_plain = self.general.replace(' :++: ', '+')
         cz_plain = cz_plain.replace(' :+: ', '+')
@@ -129,7 +129,7 @@ class GeneralStat:
             return str_ + '\n'
 
     # for_tables
-    def to_str2(self, full=True, match_limit_for_matchup_print=1):
+    def to_str(self, full=True, match_limit_for_matchup_print=1):
         magic_len = 32  # replace by max length general
         cz_plain = self.general.replace(' :++: ', '+')
         cz_plain = cz_plain.replace(' :+: ', '+')

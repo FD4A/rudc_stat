@@ -69,7 +69,7 @@
 
 = Gargos, Vicious Watcher          matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:11   WG: 36.36% LG: 63.64% (wg:   4 lg:   7) pick: 1    Spb(1), 
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
-        + Dargo, the Shipwrecker          
+        + Bruse Tarl, Boorish Herder      
        vs Slimefoot and Squee              (w:0 l:1 d:0), (1/2)
        vs Indoraptor, the Perfect Hybrid   (w:1 l:0 d:0), (2/1)
        vs Dihada, Binder of Wills          (w:0 l:1 d:0), (1/2)
@@ -78,7 +78,7 @@
 = Geist of Saint Traft             matches:4    WM: 25.00%  LM: 75.00%  DM:  0.00% (wm:1   lm:3   dm:0)  games:8    WG: 25.00% LG: 75.00% (wg:   2 lg:   6) pick: 1    Spb(1), 
        vs Slimefoot and Squee              (w:1 l:0 d:0), (2/1)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
-        + Dargo, the Shipwrecker          
+        + Bruse Tarl, Boorish Herder      
        vs Vial Smasher the Fierce          (w:0 l:1 d:0), (0/1)
        vs Kroxa, Titan of Death's Hunger   (w:0 l:1 d:0), (0/2)
 
@@ -133,15 +133,13 @@
 
 
 = Phelia, Exuberant Shepherd       matches:8    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:4   lm:4   dm:0)  games:22   WG: 45.45% LG: 54.55% (wg:  10 lg:  12) pick: 2    Spb(2), 
-       vs Yoshimaru, Ever Faithful         (w:2 l:1 d:0), (5/4)
+       vs Yoshimaru, Ever Faithful         (w:2 l:2 d:0), (5/6)
         + Bruse Tarl, Boorish Herder      
        vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (0/2)
        vs Ezio Auditore da Firenze         (w:0 l:1 d:0), (1/2)
        vs Bruse Tarl, Boorish Herder       (w:1 l:0 d:0), (2/1)
         + Thrasios, Triton Hero           
        vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/1)
-       vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
-        + Dargo, the Shipwrecker          
 
 
 = Rograkh, Son of Rohgahh          matches:4    WM:100.00%  LM:  0.00%  DM:  0.00% (wm:4   lm:0   dm:0)  games:9    WG: 88.89% LG: 11.11% (wg:   8 lg:   1) pick: 1    Spb(1), 
@@ -149,7 +147,7 @@
        vs Ketramose, the New Dawn          (w:1 l:0 d:0), (2/0)
        vs Feldon, Ronom Excavator          (w:1 l:0 d:0), (2/0)
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
-        + Dargo, the Shipwrecker          
+        + Bruse Tarl, Boorish Herder      
        vs Winter, Cynical Opportunist      (w:1 l:0 d:0), (2/0)
 
 
@@ -203,23 +201,18 @@
         + Silas Renn, Seeker Adept        
 
 
-= Yoshimaru, Ever Faithful         matches:8    WM: 62.50%  LM: 37.50%  DM:  0.00% (wm:5   lm:3   dm:0)  games:21   WG: 57.14% LG: 42.86% (wg:  12 lg:   9) pick: 2    Spb(2), 
+= Yoshimaru, Ever Faithful         matches:12   WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:8   lm:4   dm:0)  games:30   WG: 63.33% LG: 36.67% (wg:  19 lg:  11) pick: 3    Spb(3), 
   + Bruse Tarl, Boorish Herder  
-       vs Phelia, Exuberant Shepherd       (w:1 l:2 d:0), (4/5)
+       vs Phelia, Exuberant Shepherd       (w:2 l:2 d:0), (6/5)
+       vs Gargos, Vicious Watcher          (w:1 l:0 d:0), (2/0)
+       vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
        vs Satya, Aetherflux Genius         (w:1 l:0 d:0), (2/0)
        vs Ketramose, the New Dawn          (w:1 l:0 d:0), (2/0)
+       vs Rograkh, Son of Rohgahh          (w:0 l:1 d:0), (1/2)
+        + Silas Renn, Seeker Adept        
        vs Feldon, Ronom Excavator          (w:1 l:0 d:0), (2/1)
        vs Deadpool, Trading Card           (w:1 l:0 d:0), (2/1)
        vs Ghyrson Starn, Kelermorph        (w:0 l:1 d:0), (0/2)
-
-
-= Yoshimaru, Ever Faithful         matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:9    WG: 77.78% LG: 22.22% (wg:   7 lg:   2) pick: 1    Spb(1), 
-  + Dargo, the Shipwrecker      
-       vs Gargos, Vicious Watcher          (w:1 l:0 d:0), (2/0)
-       vs Geist of Saint Traft             (w:1 l:0 d:0), (2/0)
-       vs Rograkh, Son of Rohgahh          (w:0 l:1 d:0), (1/2)
-        + Silas Renn, Seeker Adept        
-       vs Phelia, Exuberant Shepherd       (w:1 l:0 d:0), (2/0)
 
 
 = Yoshimaru, Ever Faithful         matches:4    WM: 75.00%  LM: 25.00%  DM:  0.00% (wm:3   lm:1   dm:0)  games:11   WG: 63.64% LG: 36.36% (wg:   7 lg:   4) pick: 1    Spb(1), 

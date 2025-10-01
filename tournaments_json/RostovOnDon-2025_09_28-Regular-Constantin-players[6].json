@@ -1,0 +1,132 @@
+{
+    "date": "2025_09_28",
+    "location": "RostovOnDon",
+    "level": "Regular",
+    "organizer": "Constantin",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Lukaynov Vadim",
+            "Scarlet Spider, Ben Reilly"
+        ],
+        [
+            "Elinskiy Denis",
+            "Spider-Man 2099"
+        ],
+        [
+            "Faydysh Diana",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Novikov Vladislav",
+            "Azusa, Lost but Seeking"
+        ],
+        [
+            "Somkin Constantin",
+            "Ultima, Origin of Oblivion"
+        ],
+        [
+            "Posidaylo Artem",
+            "Rocco, Cabaretti Caterer"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Elinskiy Denis",
+                "Lukaynov Vadim",
+                "Spider-Man 2099",
+                "Scarlet Spider, Ben Reilly",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Faydysh Diana",
+                "Posidaylo Artem",
+                "Phelia, Exuberant Shepherd",
+                "Rocco, Cabaretti Caterer",
+                [
+                    1,
+                    0
+                ]
+            ],
+            [
+                "Novikov Vladislav",
+                "Somkin Constantin",
+                "Azusa, Lost but Seeking",
+                "Ultima, Origin of Oblivion",
+                [
+                    1,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Lukaynov Vadim",
+                "Novikov Vladislav",
+                "Scarlet Spider, Ben Reilly",
+                "Azusa, Lost but Seeking",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Faydysh Diana",
+                "Elinskiy Denis",
+                "Phelia, Exuberant Shepherd",
+                "Spider-Man 2099",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Somkin Constantin",
+                "Posidaylo Artem",
+                "Ultima, Origin of Oblivion",
+                "Rocco, Cabaretti Caterer",
+                [
+                    1,
+                    0
+                ]
+            ]
+        ],
+        [
+            [
+                "Novikov Vladislav",
+                "Posidaylo Artem",
+                "Azusa, Lost but Seeking",
+                "Rocco, Cabaretti Caterer",
+                [
+                    0,
+                    0
+                ]
+            ],
+            [
+                "Faydysh Diana",
+                "Lukaynov Vadim",
+                "Phelia, Exuberant Shepherd",
+                "Scarlet Spider, Ben Reilly",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Elinskiy Denis",
+                "Somkin Constantin",
+                "Spider-Man 2099",
+                "Ultima, Origin of Oblivion",
+                [
+                    2,
+                    0
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/94024"
+}

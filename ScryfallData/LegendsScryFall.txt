@@ -5,6 +5,7 @@ Aang, Air Nomad
 Aang, the Last Airbender
 Aatchik, Emerald Radian
 Abaddon the Despoiler
+Abby, Merciless Soldier
 Abdel Adrian, Gorion's Ward
 Abomination of Llanowar
 Aboshan, Cephalid Emperor
@@ -102,6 +103,7 @@ Alisaie Leveilleur
 Alistair, the Brigadier
 Alora, Merry Thief
 Alora, Rogue Companion
+Aloy, Savior of Meridian
 Alpharael, Dreaming Acolyte
 Alpharael, Stonechosen
 Alphinaud Leveilleur
@@ -236,6 +238,7 @@ Ashiok, Nightmare Weaver
 Ashiok, Sculptor of Fears
 Ashiok, Wicked Manipulator
 Ashling, Flame Dancer
+Ashling, Rekindled
 Ashling, the Extinguisher
 Ashling the Pilgrim
 Ashnod, Flesh Mechanist
@@ -263,6 +266,7 @@ Atla Palani, Nest Tender
 Atogatog
 Atraxa, Grand Unifier
 Atraxa, Praetors' Voice
+Atreus, Impulsive Son
 Atris, Oracle of Half-Truths
 Atsushi, the Blazing Sky
 A-Tyvar Kell
@@ -701,6 +705,7 @@ Egon, God of Death
 Eiganjo Castle
 Eiganjo, Seat of the Empire
 Eight-and-a-Half-Tails
+Eirdu, Carrier of Dawn
 Eivor, Battle-Ready
 Eivor, Wolf-Kissed
 Eladamri, Korvecdal
@@ -720,6 +725,8 @@ Elesh Norn, Mother of Machines
 Elesh Norn
 Eligeth, Crossroads Augur
 Ellie and Alan, Paleontologists
+Ellie, Brick Master
+Ellie, Vengeful Hunter
 Ellivere of the Wild Court
 Ellyn Harbreeze, Busybody
 Ellywick Tumblestrum
@@ -1336,6 +1343,7 @@ Jarsyl, Dark Age Scion
 Jasmine Boreal
 Jasmine Boreal of the Seven
 Jason Bright, Glowing Prophet
+Jaws, Relentless Predator
 Jaxis, the Troublemaker
 Jaya Ballard
 Jaya Ballard, Task Mage
@@ -1373,12 +1381,14 @@ Jin-Gitaxias, Core Augur
 Jin-Gitaxias, Progress Tyrant
 Jin-Gitaxias
 Jinnie Fay, Jetmir's Second
+Jin Sakai, Ghost of Tsushima
 Jirina, Dauntless General
 Jirina Kudro
 Jiwari, the Earth Aflame
 J. Jonah Jameson
 Jodah, Archmage Eternal
 Jodah, the Unifier
+Joel, Resolute Survivor
 Jo Grant
 Johan
 Johann, Apprentice Sorcerer
@@ -1602,6 +1612,8 @@ Kozilek, the Great Distortion
 Krark's Other Thumb
 Krark's Thumb
 Krark, the Thumbless
+Kratos, God of War
+Kratos, Stoic Father
 Kraum, Ludevic's Opus
 Kraum, Violent Cacophony
 Kraven, Proud Predator
@@ -2005,6 +2017,7 @@ Nashi, Illusion Gadgeteer
 Nashi, Moon Sage's Scion
 Nashi, Moon's Legacy
 Nashi, Searcher in the Dark
+Nathan Drake, Treasure Hunter
 Nath of the Gilt-Leaf
 Nazahn, Revered Bladesmith
 Nazar, the Velvet Fang
@@ -2790,6 +2803,7 @@ Sword of the Chosen
 Sydri, Galvanic Genius
 Sygg, River Cutthroat
 Sygg, River Guide
+Sygg, Wanderwine Wisdom
 Sylvia Brightspear
 Symbiote Spider-Man
 Syr Alin, the Lion's Claw

@@ -1,0 +1,170 @@
+{
+    "date": "2025_09_17",
+    "location": "Tomsk",
+    "level": "Regular",
+    "organizer": "d6tomsk",
+    "roundsCount": 3,
+    "players": [
+        [
+            "Владимиров Егор",
+            "Deadpool, Trading Card"
+        ],
+        [
+            "Дмитриев Сергей",
+            "Feldon, Ronom Excavator"
+        ],
+        [
+            "Иванов Алексей",
+            "Phelia, Exuberant Shepherd"
+        ],
+        [
+            "Кузнецов Северин",
+            "Kykar, Wind's Fury"
+        ],
+        [
+            "Астапов Александр",
+            "Light-Paws, Emperor's Voice"
+        ],
+        [
+            "Чураков Павел",
+            "Mm'menon, the Right Hand"
+        ],
+        [
+            "Демидов Виталий",
+            "The Gitrog Monster"
+        ],
+        [
+            "Поспелов Александр",
+            "Ral, Monsoon Mage"
+        ]
+    ],
+    "rounds": [
+        [
+            [
+                "Кузнецов Северин",
+                "Чураков Павел",
+                "Kykar, Wind's Fury",
+                "Mm'menon, the Right Hand",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Дмитриев Сергей",
+                "The Gitrog Monster",
+                "Feldon, Ronom Excavator",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Астапов Александр",
+                "Владимиров Егор",
+                "Light-Paws, Emperor's Voice",
+                "Deadpool, Trading Card",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Иванов Алексей",
+                "Ral, Monsoon Mage",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ],
+        [
+            [
+                "Дмитриев Сергей",
+                "Кузнецов Северин",
+                "Feldon, Ronom Excavator",
+                "Kykar, Wind's Fury",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Иванов Алексей",
+                "Владимиров Егор",
+                "Phelia, Exuberant Shepherd",
+                "Deadpool, Trading Card",
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                "Чураков Павел",
+                "Астапов Александр",
+                "Mm'menon, the Right Hand",
+                "Light-Paws, Emperor's Voice",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Демидов Виталий",
+                "Поспелов Александр",
+                "The Gitrog Monster",
+                "Ral, Monsoon Mage",
+                [
+                    1,
+                    1
+                ]
+            ]
+        ],
+        [
+            [
+                "Владимиров Егор",
+                "Дмитриев Сергей",
+                "Deadpool, Trading Card",
+                "Feldon, Ronom Excavator",
+                [
+                    2,
+                    1
+                ]
+            ],
+            [
+                "Астапов Александр",
+                "Иванов Алексей",
+                "Light-Paws, Emperor's Voice",
+                "Phelia, Exuberant Shepherd",
+                [
+                    0,
+                    2
+                ]
+            ],
+            [
+                "Кузнецов Северин",
+                "Демидов Виталий",
+                "Kykar, Wind's Fury",
+                "The Gitrog Monster",
+                [
+                    2,
+                    0
+                ]
+            ],
+            [
+                "Поспелов Александр",
+                "Чураков Павел",
+                "Ral, Monsoon Mage",
+                "Mm'menon, the Right Hand",
+                [
+                    0,
+                    2
+                ]
+            ]
+        ]
+    ],
+    "url": "https://aetherhub.com/Tourney/RoundTourney/93724"
+}

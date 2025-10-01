@@ -73,7 +73,7 @@
 = Phelia, Exuberant Shepherd       matches:7    WM: 57.14%  LM: 42.86%  DM:  0.00% (wm:4   lm:3   dm:0)  games:19   WG: 52.63% LG: 47.37% (wg:  10 lg:   9) pick: 2    Spb(2), 
        vs Kroxa, Titan of Death's Hunger   (w:1 l:0 d:0), (2/1)
        vs Yoshimaru, Ever Faithful         (w:1 l:1 d:0), (3/3)
-        + Dargo, the Shipwrecker          
+        + Bruse Tarl, Boorish Herder      
        vs Juri, Master of the Revue        (w:1 l:0 d:0), (2/1)
        vs Vivi Ornitier                    (w:0 l:1 d:0), (1/2)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
@@ -87,7 +87,7 @@
        vs Slimefoot and Squee              (w:0 l:1 d:0), (1/2)
        vs Satya, Aetherflux Genius         (w:1 l:0 d:0), (2/0)
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
-        + Dargo, the Shipwrecker          
+        + Bruse Tarl, Boorish Herder      
 
 
 = Satya, Aetherflux Genius         matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:9    WG: 44.44% LG: 55.56% (wg:   4 lg:   5) pick: 1    Spb(1), 
@@ -136,7 +136,7 @@
        vs The Ur-Dragon                    (w:1 l:0 d:0), (2/0)
        vs Dihada, Binder of Wills          (w:0 l:0 d:1), (1/1)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
-        + Dargo, the Shipwrecker          
+        + Bruse Tarl, Boorish Herder      
        vs Bruse Tarl, Boorish Herder       (w:0 l:1 d:0), (0/2)
         + Thrasios, Triton Hero           
        vs Yoshimaru, Ever Faithful         (w:0 l:2 d:0), (1/4)
@@ -175,7 +175,7 @@
 
 
 = Yoshimaru, Ever Faithful         matches:4    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:2   lm:2   dm:0)  games:11   WG: 54.55% LG: 45.45% (wg:   6 lg:   5) pick: 1    Spb(1), 
-  + Dargo, the Shipwrecker      
+  + Bruse Tarl, Boorish Herder  
        vs Tivit, Seller of Secrets         (w:1 l:0 d:0), (2/0)
        vs Phelia, Exuberant Shepherd       (w:1 l:1 d:0), (3/3)
        vs Rograkh, Son of Rohgahh          (w:0 l:1 d:0), (1/2)

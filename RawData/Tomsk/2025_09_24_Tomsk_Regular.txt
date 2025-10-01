@@ -1,0 +1,14 @@
+location::Tomsk
+level::Regular
+date::2025_09_24
+organizer::d6tomsk
+players::generals
+Поспелов Александр :: Ral, Monsoon Mage
+Иванов Алексей :: Phelia, Exuberant Shepherd
+Черепов Антон :: Tourach, Dread Cantor
+Кузнецов Северин :: Sonic the Hedgehog
+Демидов Виталий :: The Gitrog Monster
+Астапов Александр :: Light-Paws, Emperor's Voice
+Дмитриев Сергей :: Feldon, Ronom Excavator
+Rounds
+https://aetherhub.com/Tourney/RoundTourney/93894

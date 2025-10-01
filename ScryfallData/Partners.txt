@@ -1,3 +1,4 @@
+Abby, Merciless Soldier :: GR
 Akiri, Line-Slinger :: RW
 Akroma, Vision of Ixidor :: W
 Alena, Kessig Trapper :: R
@@ -8,6 +9,7 @@ Amy Pond :: R
 Anara, Wolvid Familiar :: G
 Ardenn, Intrepid Archaeologist :: W
 Armix, Filigree Thrasher :: B
+Atreus, Impulsive Son :: RU
 Blue, Loyal Raptor :: GU
 Brallin, Skyshark Rider :: R
 Breeches, Brazen Plunderer :: R
@@ -16,6 +18,8 @@ Bruse Tarl, Boorish Herder :: RW
 Cazur, Ruthless Stalker :: G
 Dargo, the Shipwrecker :: R
 Eligeth, Crossroads Augur :: U
+Ellie, Brick Master :: R
+Ellie, Vengeful Hunter :: BR
 Esior, Wardwing Familiar :: U
 Evie Frye :: U
 Falthis, Shadowcat Familiar :: B
@@ -36,6 +40,7 @@ Ishai, Ojutai Dragonspeaker :: UW
 Jacob Frye :: B
 Jenny Flint :: RU
 Jeska, Thrice Reborn :: R
+Joel, Resolute Survivor :: BG
 Kamahl, Heart of Krosa :: G
 Kamber, the Plunderer :: B
 Katerina of Myra's Marvels :: W
@@ -45,6 +50,7 @@ Keskit, the Flesh Sculptor :: B
 Khorvath Brightflame :: R
 Kodama of the East Tree :: G
 Krark, the Thumbless :: R
+Kratos, Stoic Father :: RW
 Kraum, Ludevic's Opus :: RU
 Krav, the Unredeemed :: B
 Kydele, Chosen of Kruphix :: GU

@@ -26,7 +26,7 @@
        vs Glarb, Calamity's Augur          (w:0 l:1 d:0), (1/2)
        vs Deadpool, Trading Card           (w:0 l:1 d:0), (0/2)
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/0)
-        + Dargo, the Shipwrecker          
+        + Bruse Tarl, Boorish Herder      
 
 
 = Cecil, Dark Knight               matches:12   WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:6   lm:6   dm:0)  games:29   WG: 51.72% LG: 48.28% (wg:  15 lg:  14) pick: 2    Online(2), 
@@ -48,7 +48,7 @@
 = Clement, the Worrywort           matches:5    WM:  0.00%  LM:100.00%  DM:  0.00% (wm:0   lm:5   dm:0)  games:10   WG:  0.00% LG:100.00% (wg:   0 lg:  10) pick: 1    Online(1), 
        vs G'raha Tia, Scion Reborn         (w:0 l:1 d:0), (0/2)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
-        + Dargo, the Shipwrecker          
+        + Bruse Tarl, Boorish Herder      
        vs Cecil, Dark Knight               (w:0 l:1 d:0), (0/2)
        vs Animar, Soul of Elements         (w:0 l:1 d:0), (0/2)
        vs Flubs, the Fool                  (w:0 l:1 d:0), (0/2)
@@ -78,7 +78,7 @@
        vs Animar, Soul of Elements         (w:1 l:0 d:0), (2/1)
        vs Deadpool, Trading Card           (w:1 l:0 d:0), (2/1)
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
-        + Dargo, the Shipwrecker          
+        + Bruse Tarl, Boorish Herder      
        vs G'raha Tia, Scion Reborn         (w:0 l:1 d:0), (0/2)
 
 
@@ -144,7 +144,7 @@
 
 = Hidetsugu and Kairi              matches:6    WM: 66.67%  LM: 33.33%  DM:  0.00% (wm:4   lm:2   dm:0)  games:14   WG: 57.14% LG: 42.86% (wg:   8 lg:   6) pick: 1    Online(1), 
        vs Yoshimaru, Ever Faithful         (w:1 l:0 d:0), (2/1)
-        + Dargo, the Shipwrecker          
+        + Bruse Tarl, Boorish Herder      
        vs The Wandering Minstrel           (w:1 l:0 d:0), (2/0)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (0/2)
         + Kraum, Ludevic's Opus           
@@ -161,7 +161,7 @@
         + Thrasios, Triton Hero           
        vs Deadpool, Trading Card           (w:1 l:0 d:0), (2/0)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
-        + Dargo, the Shipwrecker          
+        + Bruse Tarl, Boorish Herder      
        vs Flubs, the Fool                  (w:0 l:1 d:0), (1/2)
 
 
@@ -244,7 +244,7 @@
        vs Sai, Master Thopterist           (w:1 l:0 d:0), (2/0)
        vs Hidetsugu and Kairi              (w:0 l:1 d:0), (0/2)
        vs Yoshimaru, Ever Faithful         (w:0 l:1 d:0), (1/2)
-        + Dargo, the Shipwrecker          
+        + Bruse Tarl, Boorish Herder      
        vs Vivi Ornitier                    (w:0 l:1 d:0), (0/2)
        vs Tymna the Weaver                 (w:0 l:1 d:0), (0/2)
         + Thrasios, Triton Hero           
@@ -287,7 +287,7 @@
 
 
 = Yoshimaru, Ever Faithful         matches:6    WM: 50.00%  LM: 50.00%  DM:  0.00% (wm:3   lm:3   dm:0)  games:16   WG: 50.00% LG: 50.00% (wg:   8 lg:   8) pick: 1    Online(1), 
-  + Dargo, the Shipwrecker      
+  + Bruse Tarl, Boorish Herder  
        vs Hidetsugu and Kairi              (w:0 l:1 d:0), (1/2)
        vs Clement, the Worrywort           (w:1 l:0 d:0), (2/0)
        vs The Wandering Minstrel           (w:1 l:0 d:0), (2/1)
